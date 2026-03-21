@@ -78,6 +78,11 @@ def _fetch_metadata(result: TranscriptResult):
             'quiet': True,
             'skip_download': True,
             'no_warnings': True,
+            'extractor_args': {
+                'youtube': {
+                    'player_client': ['android', 'ios']
+                }
+            }
         }
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(
@@ -152,6 +157,11 @@ def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
             'subtitleslangs': languages,
             'subtitlesformat': 'json3',
             'no_warnings': True,
+            'extractor_args': {
+                'youtube': {
+                    'player_client': ['android', 'ios']
+                }
+            }
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
