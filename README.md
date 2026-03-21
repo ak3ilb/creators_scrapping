@@ -38,7 +38,15 @@ graph TD
 
 To prevent hitting YouTube's rate limits (429 errors), this pipeline runs automatically on **GitHub Actions**. By using GitHub's ephemeral runners, the IP address naturally rotates, reducing blocks.
 
-### The Automated Workflow (`.github/workflows/pipeline.yml`)
+### Bypassing Bot Detection ("Sign in to confirm you're not a bot")
+
+If you see bot-detection errors in your GitHub Action logs, follow these steps:
+
+1.  **Stealth Fallback:** The system already includes a **Headless Chrome Fallback** that extracts both transcripts and metadata (Title/Description) when APIs are blocked.
+2.  **Cookie Authentication:** For 100% reliability, you can provide your browser cookies:
+    - **Export:** Use a browser extension (like "Get cookies.txt LOCALLY") to export your YouTube cookies as a Netscape-format `cookies.txt`.
+    - **GitHub Secret:** Go to your Repo **Settings > Secrets and variables > Actions** and create a secret named `YOUTUBE_COOKIES` containing the full text of your `cookies.txt`.
+    - **Result:** The Action will automatically pick this up and use it for all requests, making you invisible to bot detectors.
 
 1. **Scheduled Runs:** The workflow runs twice daily. It gracefully fetches only the newest 5 videos (`--limit 5`) using an incremental check to prevent data corruption.
 2. **Analysis:** It safely calculates patterns for new downloads (`--incremental`).
