@@ -31,6 +31,9 @@ def scan_channel(creator: dict) -> list[dict]:
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(creator['url'], download=False)
 
+    if not info:
+        return []
+
     entries = info.get('entries', [])
     videos = []
     for e in entries:
