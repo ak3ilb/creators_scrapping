@@ -1,0 +1,70 @@
+name: Daily Ingestion and Analysis Pipeline
+
+on:
+  schedule:
+    # Run twice a day (e.g., 00:00 and 12:00 UTC) to fetch new transcripts continuously without triggering rate limits
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Number of videos to fetch per creator'
+        required: false
+        default: '5'
+      force:
+        description: 'Force fetch all without incremental check (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install System Dependencies (Chrome for Fallback)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          
+      - name: 1. Ingest YouTube Transcripts
+        run: |
+          # Fetch transcripts - use limit to prevent hitting IP blocks (429 Too Many Requests)
+          LIMIT=${{ github.event.inputs.limit || '5' }}
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE_FLAG="--force"; fi
+          python ingest.py --limit $LIMIT $FORCE_FLAG
+          
+      - name: 2. Deep Pattern Analysis
+        run: |
+          # Run Layer 1 & 2 analysis using incremental mode so existing data is skipped and not corrupted
+          python build_patterns.py --incremental
+          
+      - name: 3. Style Analysis
+        run: |
+          # Run Layer 3 style analysis for all creators
+          python analyze.py
+          
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Auto-update data, patterns, and analysis [skip ci]"
+          file_pattern: "data/ patterns/"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
