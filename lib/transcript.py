@@ -19,6 +19,14 @@ import os
 
 COOKIES_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'cookies.txt')
 
+class YDLLogger:
+    """Silences yt-dlp output while allowing us to catch errors if we want."""
+    def debug(self, msg): pass
+    def warning(self, msg): pass
+    def error(self, msg): pass
+
+YDL_LOGS = YDLLogger()
+
 
 class TranscriptResult:
     """Container for a transcript extraction result."""
@@ -76,11 +84,11 @@ def fetch_transcript(video_id: str, languages: list[str] = None) -> TranscriptRe
 def _fetch_metadata(result: TranscriptResult):
     """Fetch video metadata via yt-dlp (no download)."""
     try:
-        ydl_opts = {
             'quiet': True,
             'skip_download': True,
             'no_warnings': True,
-            'socket_timeout': 10,  # Fail fast if blocked
+            'logger': YDL_LOGS,  # Suppress direct stderr/stdout
+            'socket_timeout': 10,
             'extractor_args': {
                 'youtube': {
                     'player_client': ['android', 'ios']
@@ -161,13 +169,13 @@ def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
         return False
 
     try:
-        ydl_opts = {
             'quiet': True,
             'skip_download': True,
             'writeautomaticsub': True,
             'subtitleslangs': languages,
             'subtitlesformat': 'json3',
             'no_warnings': True,
+            'logger': YDL_LOGS,  # Suppress direct stderr/stdout
             'extractor_args': {
                 'youtube': {
                     'player_client': ['android', 'ios']
