@@ -84,6 +84,7 @@ def fetch_transcript(video_id: str, languages: list[str] = None) -> TranscriptRe
 def _fetch_metadata(result: TranscriptResult):
     """Fetch video metadata via yt-dlp (no download)."""
     try:
+        ydl_opts = {
             'quiet': True,
             'skip_download': True,
             'no_warnings': True,
@@ -169,6 +170,7 @@ def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
         return False
 
     try:
+        ydl_opts = {
             'quiet': True,
             'skip_download': True,
             'writeautomaticsub': True,
