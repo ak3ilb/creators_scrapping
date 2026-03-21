@@ -32,10 +32,10 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Install System Dependencies (Chrome for Fallback)
+      - name: Install System Dependencies (Chrome & FFmpeg)
         run: |
           sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+          sudo apt-get install -y google-chrome-stable ffmpeg
           
       - name: Install Dependencies
         run: |
