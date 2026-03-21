@@ -38,11 +38,8 @@ def fetch_transcript_via_chrome(
         timeout: max seconds to wait for elements
 
     Returns:
-        (segments, language) where segments is a list of {start, duration, text}
-        and language is the detected language code.
-
-    Raises:
-        Exception if transcript cannot be extracted.
+        (segments, language, metadata) where segments is a list of {start, duration, text},
+        language is the detected language code, and metadata is a dict with {title, description}.
     """
     driver = _create_driver()
 
@@ -57,16 +54,19 @@ def fetch_transcript_via_chrome(
         # Wait for page to load
         time.sleep(3)
 
-        # Dismiss consent dialog if present
+        # 1. Extract Metadata (Title/Description)
+        metadata = _extract_metadata(driver)
+
+        # 2. Dismiss consent dialog if present
         _dismiss_consent(driver)
 
-        # Try to open transcript panel
+        # 3. Try to open transcript panel
         _open_transcript_panel(driver, timeout)
 
         # Wait for transcript segments to load
         time.sleep(2)
 
-        # Scrape transcript segments
+        # 4. Scrape transcript segments
         segments, language = _scrape_transcript(driver)
 
         if not segments:
@@ -75,7 +75,7 @@ def fetch_transcript_via_chrome(
         logger.info(
             f"[{video_id}] Chrome: extracted {len(segments)} segments"
         )
-        return segments, language
+        return segments, language, metadata
 
     finally:
         driver.quit()
@@ -141,6 +141,24 @@ def _create_driver():
     driver.implicitly_wait(5)
     driver.set_page_load_timeout(30)
     return driver
+
+
+def _extract_metadata(driver):
+    """Extract video title and description using Selenium."""
+    meta = {"title": "Unknown", "description": ""}
+    try:
+        # Extract Title
+        title_el = driver.find_elements(By.CSS_SELECTOR, 'h1.ytd-video-primary-info-renderer, #title h1, h1')
+        if title_el:
+            meta["title"] = title_el[0].text.strip()
+        
+        # Extract Description
+        desc_el = driver.find_elements(By.CSS_SELECTOR, '#description-inline-expander, #description')
+        if desc_el:
+            meta["description"] = desc_el[0].text.strip()
+    except Exception as e:
+        logger.debug(f"Metadata extraction via Chrome failed: {e}")
+    return meta
 
 
 def _dismiss_consent(driver):

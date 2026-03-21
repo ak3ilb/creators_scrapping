@@ -42,6 +42,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           
+      - name: Create Cookies File
+        run: |
+          # Create cookies.txt if YOUTUBE_COOKIES secret is provided
+          if [ ! -z "${{ secrets.YOUTUBE_COOKIES }}" ]; then
+            echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
+            echo "✅ cookies.txt created from secret"
+          else
+            echo "⚠️  YOUTUBE_COOKIES secret not found, proceeding without it"
+          fi
+          
       - name: 1. Ingest YouTube Transcripts
         run: |
           # Fetch transcripts - use limit to prevent hitting IP blocks (429 Too Many Requests)
