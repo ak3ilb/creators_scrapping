@@ -119,7 +119,9 @@ def _fetch_metadata(result: TranscriptResult):
                 result.error = 'No captions available on YouTube'
                 logger.info(f"[{result.video_id}] No captions at all — NO_SPEECH")
     except Exception as e:
-        logger.warning(f"[{result.video_id}] Metadata fetch failed: {e}")
+        # On GitHub, this is expected if we don't have cookies.
+        # We log as INFO to avoid alarm, since we have Level 3 fallback.
+        logger.info(f"[{result.video_id}] Metadata fetch via yt-dlp skipped/blocked: {str(e)[:100]}...")
 
 
 def _try_level1(result: TranscriptResult, languages: list[str]) -> bool:

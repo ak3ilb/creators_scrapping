@@ -105,7 +105,8 @@ def _create_driver():
     
     # Use undetected-chromedriver to bypass detection
     try:
-        driver = uc.Chrome(options=options, version_main=131)
+        # Let uc.Chrome auto-detect the version for better compatibility
+        driver = uc.Chrome(options=options, headless=True, use_subprocess=True)
         logger.info("Undetectable Chrome driver created successfully.")
     except Exception as e:
         logger.warning(f"Undetectable driver failed: {e}. Falling back to standard...")
