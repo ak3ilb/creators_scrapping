@@ -3,91 +3,136 @@
     {
       "name": "Shivanshu.Agrawal",
       "url": "https://www.youtube.com/@Shivanshu.Agrawal/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "AshutoshPratihastAP",
       "url": "https://www.youtube.com/@AshutoshPratihastAP/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "hellooipsita",
       "url": "https://www.youtube.com/@hellooipsita/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "designbyarpit",
       "url": "https://www.youtube.com/@designbyarpit/shorts",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "ThinkSchool_Hindi",
       "url": "https://www.youtube.com/@ThinkSchool_Hindi/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "openletteryt",
       "url": "https://www.youtube.com/@openletteryt/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "Finsaheliofficial",
-      "url": "https://www.youtube.com/@Finsaheliofficial/shorts",
-      "languages": ["hi", "en"],
+      "url": "https://www.youtube.com/@Finsaheliofficial/videos",
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "FullDisclosure",
-      "url": "https://www.youtube.com/@FullDisclosure./shorts",
-      "languages": ["hi", "en"],
+      "url": "https://www.youtube.com/@FullDisclosure./videos",
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "GenZway",
       "url": "https://www.youtube.com/@GenZway/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "NitishRajput",
       "url": "https://www.youtube.com/@NitishRajput/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "CleoAbram",
       "url": "https://www.youtube.com/@CleoAbram/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "Live-Hindi",
       "url": "https://www.youtube.com/@Live-Hindi/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "SeeKen",
       "url": "https://www.youtube.com/@SeeKen/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "SciCoLens",
       "url": "https://www.youtube.com/@SciCoLens/videos",
-      "languages": ["hi", "en"],
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     },
     {
       "name": "gauravzthakur",
-      "url": "https://www.youtube.com/@gauravzthakur/shorts",
-      "languages": ["hi", "en"],
+      "url": "https://www.youtube.com/@gauravzthakur/videos",
+      "languages": [
+        "hi",
+        "en"
+      ],
       "active": true
     }
   ]
