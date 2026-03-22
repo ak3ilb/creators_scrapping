@@ -55,14 +55,13 @@ def ingest_single_video(creator: dict, video: dict, all_videos: list[dict]) -> s
         # Write output
         write_video_data(DATA_DIR, name, result)
 
-        # NOTE: We no longer delete the directory if no transcript is found. 
-        # Keeping it marks the video as 'processed' so it is skipped in future runs.
-        # if not result.segments:
-        #     video_dir = os.path.join(DATA_DIR, name, result.video_id)
-        #     if os.path.exists(video_dir):
-        #         import shutil
-        #         shutil.rmtree(video_dir)
-        #         print(f"       🗑️  No transcript found — deleted video directory")
+        # Delete directory if no transcript is found (so we can retry later)
+        if not result.segments:
+            video_dir = os.path.join(DATA_DIR, name, result.video_id)
+            if os.path.exists(video_dir):
+                import shutil
+                shutil.rmtree(video_dir)
+                print(f"       🗑️  No transcript — cleaned up directory")
 
         status = (result.status or 'error').lower()
         
