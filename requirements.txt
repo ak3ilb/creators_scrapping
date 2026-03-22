@@ -1,4 +1,5 @@
 yt-dlp
 youtube-transcript-api
 selenium
+undetected-chromedriver
 requests

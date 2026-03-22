@@ -8,13 +8,11 @@ and scrapes timed captions when API methods fail.
 import time
 import re
 import logging
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+import undetected_chromedriver as uc
 
 logger = logging.getLogger(__name__)
 
@@ -82,14 +80,17 @@ def fetch_transcript_via_chrome(
 
 
 def _create_driver():
-    """Create a headless Chrome WebDriver."""
-    options = Options()
+    """Create an undetectable headless Chrome WebDriver."""
+    options = uc.ChromeOptions()
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
     options.add_argument('--window-size=1920,1080')
+    
+    # Hide automation flags
     options.add_argument('--disable-blink-features=AutomationControlled')
+    
     import sys
     if sys.platform == 'darwin':
         options.add_argument(
@@ -101,43 +102,23 @@ def _create_driver():
             '--user-agent=Mozilla/5.0 (X11; Linux x86_64) '
             'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
         )
-    options.page_load_strategy = 'none'
-
-    # In Selenium 4.10+, Selenium Manager is built-in and handles driver downloads.
-    # However, if an old 'chromedriver' exists in the system PATH (e.g., version 133), 
-    # Selenium might try to use it and fail against Chrome 146.
     
-    # We attempt to clear the path of common 'bad' locations temporarily 
-    # to force Selenium Manager to do its job properly.
-    import os
-    old_path = os.environ.get('PATH', '')
-    if sys.platform == 'darwin':
-        # Remove common homebrew/local paths on macOS where an old chromedriver might hide
-        bad_dirs = ['/opt/homebrew/bin', '/usr/local/bin']
-        new_path = ":".join([p for p in old_path.split(':') if p not in bad_dirs])
-    else:
-        # In Linux/GitHub Actions, these paths often contain the exact binaries we need
-        new_path = old_path
-    
+    # Use undetected-chromedriver to bypass detection
     try:
-        # First attempt: Try with the modified PATH to let Selenium Manager download the correct driver
-        os.environ['PATH'] = new_path
-        service = Service()
-        driver = webdriver.Chrome(options=options, service=service)
-        logger.info("Chrome driver created successfully via Selenium Manager.")
+        driver = uc.Chrome(options=options, version_main=131)
+        logger.info("Undetectable Chrome driver created successfully.")
     except Exception as e:
-        logger.warning(f"Initial driver creation failed: {e}. Retrying with original PATH...")
-        os.environ['PATH'] = old_path
-        try:
-            service = Service()
-            driver = webdriver.Chrome(options=options, service=service)
-        except Exception as e2:
-            logger.error(f"Final driver creation failure: {e2}")
-            raise e2
-    finally:
-        # Restore PATH so other tools (like yt-dlp) still work
-        os.environ['PATH'] = old_path
-            
+        logger.warning(f"Undetectable driver failed: {e}. Falling back to standard...")
+        # Emergency fallback (standard selenium)
+        from selenium import webdriver
+        from selenium.webdriver.chrome.service import Service
+        from selenium.webdriver.chrome.options import Options
+        std_options = Options()
+        std_options.add_argument('--headless')
+        std_options.add_argument('--no-sandbox')
+        service = Service()
+        driver = webdriver.Chrome(options=std_options, service=service)
+
     driver.implicitly_wait(5)
     driver.set_page_load_timeout(30)
     return driver

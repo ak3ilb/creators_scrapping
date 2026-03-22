@@ -27,6 +27,8 @@ class YDLLogger:
 
 YDL_LOGS = YDLLogger()
 
+logger = logging.getLogger(__name__)
+
 
 class TranscriptResult:
     """Container for a transcript extraction result."""
