@@ -28,15 +28,6 @@
       "active": true
     },
     {
-      "name": "designbyarpit",
-      "url": "https://www.youtube.com/@designbyarpit/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
       "name": "ThinkSchool_Hindi",
       "url": "https://www.youtube.com/@ThinkSchool_Hindi/videos",
       "languages": [
@@ -56,7 +47,7 @@
     },
     {
       "name": "Finsaheliofficial",
-      "url": "https://www.youtube.com/@Finsaheliofficial/videos",
+      "url": "https://www.youtube.com/@Finsaheliofficial/shorts",
       "languages": [
         "hi",
         "en"
@@ -65,7 +56,7 @@
     },
     {
       "name": "FullDisclosure",
-      "url": "https://www.youtube.com/@FullDisclosure./videos",
+      "url": "https://www.youtube.com/@FullDisclosure./shorts",
       "languages": [
         "hi",
         "en"
@@ -128,7 +119,7 @@
     },
     {
       "name": "gauravzthakur",
-      "url": "https://www.youtube.com/@gauravzthakur/videos",
+      "url": "https://www.youtube.com/@gauravzthakur/shorts",
       "languages": [
         "hi",
         "en"
