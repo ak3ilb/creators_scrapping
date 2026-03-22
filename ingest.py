@@ -168,6 +168,9 @@ def main():
         # Always update meta to show current state (creates directory + _channel_meta.json)
         update_channel_meta(DATA_DIR, creator, videos)
         
+        # Small delay between scans to avoid 429
+        time.sleep(2)
+        
         if new_videos:
             creator_queues.append({
                 'creator': creator,
