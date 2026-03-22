@@ -81,6 +81,7 @@ def fetch_transcript_via_chrome(
 
 def _create_driver():
     """Create an undetectable headless Chrome WebDriver."""
+    import sys
     options = uc.ChromeOptions()
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
@@ -91,7 +92,6 @@ def _create_driver():
     # Hide automation flags
     options.add_argument('--disable-blink-features=AutomationControlled')
     
-    import sys
     if sys.platform == 'darwin':
         options.add_argument(
             '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
@@ -100,14 +100,17 @@ def _create_driver():
     else:
         options.add_argument(
             '--user-agent=Mozilla/5.0 (X11; Linux x86_64) '
-            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
         )
+    
+    # Detect Chrome version to avoid mismatch errors
+    major_version = _get_chrome_version()
     
     # Use undetected-chromedriver to bypass detection
     try:
-        # Let uc.Chrome auto-detect the version for better compatibility
-        driver = uc.Chrome(options=options, headless=True, use_subprocess=True)
-        logger.info("Undetectable Chrome driver created successfully.")
+        # Pass the detected major version specifically
+        driver = uc.Chrome(options=options, headless=True, use_subprocess=True, version_main=major_version)
+        logger.info(f"Undetectable Chrome driver (v{major_version}) created successfully.")
     except Exception as e:
         logger.warning(f"Undetectable driver failed: {e}. Falling back to standard...")
         # Emergency fallback (standard selenium)
@@ -117,12 +120,43 @@ def _create_driver():
         std_options = Options()
         std_options.add_argument('--headless')
         std_options.add_argument('--no-sandbox')
+        std_options.add_argument('--disable-dev-shm-usage')
+        std_options.add_argument('--disable-blink-features=AutomationControlled')
+        
         service = Service()
         driver = webdriver.Chrome(options=std_options, service=service)
 
     driver.implicitly_wait(5)
     driver.set_page_load_timeout(30)
     return driver
+
+
+def _get_chrome_version():
+    """Detect the major version of the installed Chrome browser."""
+    import subprocess
+    import re
+    import sys
+    
+    try:
+        cmds = [['google-chrome', '--version'], ['chrome', '--version'], ['google-chrome-stable', '--version']]
+        if sys.platform == 'darwin':
+            cmds.insert(0, ['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--version'])
+            
+        for cmd in cmds:
+            try:
+                process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                stdout, _ = process.communicate()
+                version_str = stdout.decode('utf-8').strip()
+                match = re.search(r' (\d+)\.', version_str)
+                if match:
+                    v = int(match.group(1))
+                    logger.info(f"Detected Chrome major version: {v}")
+                    return v
+            except FileNotFoundError:
+                continue
+    except Exception as e:
+        logger.debug(f"Failed to detect Chrome version: {e}")
+    return None
 
 
 def _extract_metadata(driver):
