@@ -2,4 +2,5 @@ yt-dlp
 youtube-transcript-api
 selenium
 undetected-chromedriver
+setuptools
 requests
