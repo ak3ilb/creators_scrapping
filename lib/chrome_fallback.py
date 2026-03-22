@@ -104,10 +104,12 @@ def _create_driver():
         )
     
     # Detect Chrome version to avoid mismatch errors
+    logger.info("Detecting Chrome version...")
     major_version = _get_chrome_version()
     
     # Use undetected-chromedriver to bypass detection
     try:
+        logger.info(f"Attempting to create uc.Chrome(v{major_version})...")
         # Pass the detected major version specifically
         driver = uc.Chrome(options=options, headless=True, use_subprocess=True, version_main=major_version)
         logger.info(f"Undetectable Chrome driver (v{major_version}) created successfully.")

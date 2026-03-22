@@ -35,7 +35,7 @@ jobs:
       - name: Install System Dependencies (Chrome & FFmpeg)
         run: |
           sudo apt-get update
-          sudo apt-get install -y google-chrome-stable ffmpeg
+          sudo apt-get install -y google-chrome-stable ffmpeg xvfb
           
       - name: Install Dependencies
         run: |
@@ -60,7 +60,7 @@ jobs:
           LIMIT=${{ github.event.inputs.limit || '5' }}
           FORCE_FLAG=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE_FLAG="--force"; fi
-          python ingest.py --limit $LIMIT $FORCE_FLAG
+          xvfb-run python ingest.py --limit $LIMIT $FORCE_FLAG
           
       - name: 2. Deep Pattern Analysis
         run: |
