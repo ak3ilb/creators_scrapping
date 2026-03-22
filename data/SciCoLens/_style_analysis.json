@@ -1,0 +1,18 @@
+{
+  "creator": "SciCoLens",
+  "total_videos_analyzed": 1,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 1,
+      "avg_wps": 2.800921658986175,
+      "avg_duration": 2170.0,
+      "common_hook_patterns": [
+        "इसरो के"
+      ],
+      "sample_hooks": [
+        "क्यों इंडियन साइंटिस्ट भगवान में बिलीव करते हैं? यह हैं इसरो के चेयरमैन एस सोमनाथ जी जो चंद्रयान 3 क"
+      ]
+    }
+  },
+  "overall_avg_wps": 2.800921658986175
+}

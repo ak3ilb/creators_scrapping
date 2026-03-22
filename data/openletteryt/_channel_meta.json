@@ -1,0 +1,2215 @@
+{
+  "name": "openletteryt",
+  "url": "https://www.youtube.com/@openletteryt/videos",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "last_updated": "2026-03-22T02:06:13.404438+00:00",
+  "total_discovered": 439,
+  "ingestion_stats": {
+    "total": 0,
+    "ok": 0,
+    "low_quality": 0,
+    "no_transcript": 0,
+    "no_speech": 0
+  },
+  "completion_percentage": "0.0%",
+  "videos": [
+    {
+      "video_id": "xnnc0MutFk4",
+      "title": "Iran's Supreme Leader - Hero or Villain | Ayatollah Khamenei",
+      "status": "pending"
+    },
+    {
+      "video_id": "5ujWnUEgoOE",
+      "title": "Food Crisis is Coming...",
+      "status": "pending"
+    },
+    {
+      "video_id": "6uI8X8ovFXo",
+      "title": "India's WEIRD Russian Obsession...",
+      "status": "pending"
+    },
+    {
+      "video_id": "lcUmFFqQ3ks",
+      "title": "Abki baar ₹4,000 paar | India’s LPG Crisis",
+      "status": "pending"
+    },
+    {
+      "video_id": "BbPa6bLQvRc",
+      "title": "India's WEAKEST Foreign Minister...",
+      "status": "pending"
+    },
+    {
+      "video_id": "CiVelfKFtcQ",
+      "title": "USA Just Walked Into a Trap",
+      "status": "pending"
+    },
+    {
+      "video_id": "tI3vPwS0GjA",
+      "title": "Why Rich Indians Love to Steal?",
+      "status": "pending"
+    },
+    {
+      "video_id": "IlriJ0kJFto",
+      "title": "How foreign vloggers DEFAME India…",
+      "status": "pending"
+    },
+    {
+      "video_id": "MzdGtNCQyRE",
+      "title": "They have Gone Mad....",
+      "status": "pending"
+    },
+    {
+      "video_id": "RZioOzXoCLg",
+      "title": "Soft Parenting is DUMB...",
+      "status": "pending"
+    },
+    {
+      "video_id": "cMKMhUqc1Ms",
+      "title": "Why Indian Youth is leavning Bank jobs...",
+      "status": "pending"
+    },
+    {
+      "video_id": "5zWXFrcQrvs",
+      "title": "Indians are FAKE deshbhakt...",
+      "status": "pending"
+    },
+    {
+      "video_id": "SeV96vEa6QI",
+      "title": "India’s Biggest Lie: We Care About the Poor",
+      "status": "pending"
+    },
+    {
+      "video_id": "5cJNbOx4fEo",
+      "title": "Trump is on a mission...who's next?",
+      "status": "pending"
+    },
+    {
+      "video_id": "bPzClIyHUQY",
+      "title": "India is Secretly Winning...",
+      "status": "pending"
+    },
+    {
+      "video_id": "ydAcr1aELjw",
+      "title": "Indian men are so disgusting....",
+      "status": "pending"
+    },
+    {
+      "video_id": "yZFzVIBuCdM",
+      "title": "Harsh truth of MLM Scam...",
+      "status": "pending"
+    },
+    {
+      "video_id": "XT-v_jg2kV8",
+      "title": "India needs a new party....",
+      "status": "pending"
+    },
+    {
+      "video_id": "5__3bGp7yoU",
+      "title": "Save Punjab...",
+      "status": "pending"
+    },
+    {
+      "video_id": "FVKO7L_7bhw",
+      "title": "Dowry vs Alimony...",
+      "status": "pending"
+    },
+    {
+      "video_id": "TIJHIyPKebM",
+      "title": "Stop Adventure Sports in India...",
+      "status": "pending"
+    },
+    {
+      "video_id": "SEcPl2MQcnU",
+      "title": "Why New India Hates Kids...",
+      "status": "pending"
+    },
+    {
+      "video_id": "P5SMGneWKGk",
+      "title": "Save Bengal Now...",
+      "status": "pending"
+    },
+    {
+      "video_id": "UtS3J9hiyEU",
+      "title": "Shocking Truth About Indian Food",
+      "status": "pending"
+    },
+    {
+      "video_id": "SenrPCe6sjA",
+      "title": "Indian companies are toxic...",
+      "status": "pending"
+    },
+    {
+      "video_id": "d6KaZ0caQho",
+      "title": "Stop these Indian podcasts...",
+      "status": "pending"
+    },
+    {
+      "video_id": "s1Q2ya-QBfA",
+      "title": "Why Bihar is a FAILED State?",
+      "status": "pending"
+    },
+    {
+      "video_id": "0jqexEuAY40",
+      "title": "500 Days of Modi 3.0 ...",
+      "status": "pending"
+    },
+    {
+      "video_id": "liVaFpOlEjk",
+      "title": "Surprising downfall of Goa...",
+      "status": "pending"
+    },
+    {
+      "video_id": "ocgosk6yOrc",
+      "title": "Leave India Now...",
+      "status": "pending"
+    },
+    {
+      "video_id": "9DrPqTfEEYw",
+      "title": "Indian roads are INSANE...",
+      "status": "pending"
+    },
+    {
+      "video_id": "AHEJ8zt_AW4",
+      "title": "Make India Aesthetic Again",
+      "status": "pending"
+    },
+    {
+      "video_id": "aGsy1wZYWlE",
+      "title": "Sri Lanka, Bangladesh, Nepal … Is India Next?",
+      "status": "pending"
+    },
+    {
+      "video_id": "Gv4tkDTeV3o",
+      "title": "Why E20 Petrol is Stupid Idea",
+      "status": "pending"
+    },
+    {
+      "video_id": "uUVHZ-CWDJU",
+      "title": "Dirty truth of Bhojpuri Industry",
+      "status": "pending"
+    },
+    {
+      "video_id": "LbEffLejAJ8",
+      "title": "Why Amit Shah is Worst Home Minister?",
+      "status": "pending"
+    },
+    {
+      "video_id": "O7k0vjRzlQE",
+      "title": "SSC exam scam | save students",
+      "status": "pending"
+    },
+    {
+      "video_id": "fHpnbgEcDh8",
+      "title": "Stop this fake bhakti",
+      "status": "pending"
+    },
+    {
+      "video_id": "RKe8qdzpe2w",
+      "title": "Power of meme culture",
+      "status": "pending"
+    },
+    {
+      "video_id": "ynyO0os4CwM",
+      "title": "Reality of Vote Chori | BJP Stealing Votes?",
+      "status": "pending"
+    },
+    {
+      "video_id": "mAHDh1ZlOcA",
+      "title": "Reality of Honeytrap",
+      "status": "pending"
+    },
+    {
+      "video_id": "tznC9H-l17c",
+      "title": "Why Ashwini Vaishnaw is Worst Rail Minister?",
+      "status": "pending"
+    },
+    {
+      "video_id": "qYLhA-OxqzY",
+      "title": "Army Training Centres Are Exploiting Youth",
+      "status": "pending"
+    },
+    {
+      "video_id": "Op-Cl5NVP8E",
+      "title": "Why Indian men don't want to marry?",
+      "status": "pending"
+    },
+    {
+      "video_id": "jfchC5Xu0aw",
+      "title": "Welcome to Digital Red-Light Areas",
+      "status": "pending"
+    },
+    {
+      "video_id": "9d-AzA3MsPU",
+      "title": "Brain Rot is Destroying Indian Youth",
+      "status": "pending"
+    },
+    {
+      "video_id": "aNc8LjNzf7E",
+      "title": "Why streaming was a big mistake...",
+      "status": "pending"
+    },
+    {
+      "video_id": "FAvqaH5P57M",
+      "title": "How Private Schools Loot Indian parents?",
+      "status": "pending"
+    },
+    {
+      "video_id": "8M5CeEt_Gx0",
+      "title": "Problem with Indian Airlines",
+      "status": "pending"
+    },
+    {
+      "video_id": "Yzb-usSt3II",
+      "title": "Delhi People are drinking sewage water 🤮",
+      "status": "pending"
+    },
+    {
+      "video_id": "2dhuYi7qetA",
+      "title": "How BJP is Destroying Delhi",
+      "status": "pending"
+    },
+    {
+      "video_id": "m3gYaCqcmrM",
+      "title": "Is Qutb Minar a Hindu Temple?",
+      "status": "pending"
+    },
+    {
+      "video_id": "hmo9rpED3oM",
+      "title": "Rise of Moral Policing in India",
+      "status": "pending"
+    },
+    {
+      "video_id": "qbv0dpx_hIM",
+      "title": "You have been lied about Kerala",
+      "status": "pending"
+    },
+    {
+      "video_id": "HOh_JilT3VQ",
+      "title": "Why Extra-Marital Affairs are rising in India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "6RxvbZILZYk",
+      "title": "Why GenZ is going broke to look rich",
+      "status": "pending"
+    },
+    {
+      "video_id": "vMBbkxWCacg",
+      "title": "Does India Need Dictatorship?",
+      "status": "pending"
+    },
+    {
+      "video_id": "XeLZB_k0mxA",
+      "title": "Dirty Truth of Indian Colleges...",
+      "status": "pending"
+    },
+    {
+      "video_id": "lLokncK_NF0",
+      "title": "Operation Sindoor: All Lies Exposed.",
+      "status": "pending"
+    },
+    {
+      "video_id": "JrJOKjqudv8",
+      "title": "Why Noida is Better Than Gurugram",
+      "status": "pending"
+    },
+    {
+      "video_id": "MeKRcqLFbto",
+      "title": "why indian govt hates comedians?",
+      "status": "pending"
+    },
+    {
+      "video_id": "NwWVkXwlEkE",
+      "title": "Why Indian fans are so toxic?",
+      "status": "pending"
+    },
+    {
+      "video_id": "1D4CFbxkbjs",
+      "title": "The Rise of Good Godmen",
+      "status": "pending"
+    },
+    {
+      "video_id": "FFT81hNH2Lg",
+      "title": "Is a PhD in India the BEST Choice?",
+      "status": "pending"
+    },
+    {
+      "video_id": "q812Woj8TIA",
+      "title": "The Dark Future of GenZ",
+      "status": "pending"
+    },
+    {
+      "video_id": "IUaCpIb3GGw",
+      "title": "Why Nitin Gadkari is the Worst Minister | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ne6cFmgzyY8",
+      "title": "Why Bollywood is so Racist?",
+      "status": "pending"
+    },
+    {
+      "video_id": "ONMZQA6tPsQ",
+      "title": "Best Vs Worst States in India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "IkhFna0z8f4",
+      "title": "Why Indian Middle Class is so Poor?",
+      "status": "pending"
+    },
+    {
+      "video_id": "OFueA0UwqXU",
+      "title": "Why are Indians OBSESSED with AYURVEDA?",
+      "status": "pending"
+    },
+    {
+      "video_id": "ktiAT-Xig5Q",
+      "title": "Why Marriages are Failing in India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "GZhci_h6Kck",
+      "title": "Dehat Mindset is Destroying India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Gvbbvz-pX-Q",
+      "title": "Problem with Toxic Patriarchy in India",
+      "status": "pending"
+    },
+    {
+      "video_id": "GlByCIKldJg",
+      "title": "Problem with Toxic Feminism in India",
+      "status": "pending"
+    },
+    {
+      "video_id": "rYyr2LhCZHc",
+      "title": "GST is destroying Indian Businesses | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "eOLM6t-oD48",
+      "title": "Reality of India's Beggars Nexus",
+      "status": "pending"
+    },
+    {
+      "video_id": "3q3E0b0HJ30",
+      "title": "Why Everyone Left AAP - Is Kejriwal a Dictator?",
+      "status": "pending"
+    },
+    {
+      "video_id": "y1iU14GZJ-Y",
+      "title": "Lies of Aam Aadmi Party | Arvind Kejriwal | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "-a-2XNpQ2So",
+      "title": "Why Indian Parents are so Toxic? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "y5eQt0Nd82I",
+      "title": "Freebies are destroying India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "KZkWKjR3Lmw",
+      "title": "Welcome to Downfall of Kejriwal | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "_-gbpYRl_90",
+      "title": "Welcome to Digital Heeramandi | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "d2CIIaXiJ_o",
+      "title": "Why most Indian laws are against men? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "cUM0kJfJB6U",
+      "title": "Abki baar U-Turn Sarkaar | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "s3shAibdY0w",
+      "title": "Inflation breaking india's back | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "qI9zIKTh-Cw",
+      "title": "Why Indians lack self-respect?",
+      "status": "pending"
+    },
+    {
+      "video_id": "pqPw18pf5yk",
+      "title": "Waqf Board Exposed",
+      "status": "pending"
+    },
+    {
+      "video_id": "vxs612zMKM0",
+      "title": "Why the World Hates India? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "RuTMPTOryqA",
+      "title": "Welcome to Fake Life of Bollywood Celebs | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "rmp9GeBFPBU",
+      "title": "Maharastra is a Web Series | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "D3D2PVBVfME",
+      "title": "India's Most Hated Prime Minister",
+      "status": "pending"
+    },
+    {
+      "video_id": "JpcUuPJQFCM",
+      "title": "6 Years Later, Is Statue of Unity a Waste of Money?",
+      "status": "pending"
+    },
+    {
+      "video_id": "QACAT-wcQjQ",
+      "title": "I Uncovered the Shocking Truth About Netaji's Legacy",
+      "status": "pending"
+    },
+    {
+      "video_id": "IDkPGpzMYl4",
+      "title": "Lal Bahadur Shastri: Most Underrated PM of India",
+      "status": "pending"
+    },
+    {
+      "video_id": "whnMo6CTj0k",
+      "title": "Why Congress Lost Haryana? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "qMpAoUSWJEw",
+      "title": "How India Lost Kashmir | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4exO7StIA40",
+      "title": "Why Haryana is Better than Punjab? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "-TnTtu8OoIA",
+      "title": "Every Maharastrian Must Watch This Video | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "hycC4TWJGLE",
+      "title": "Why Gujarat is Better than Delhi? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "nZ7R1GCWhSw",
+      "title": "Reality of IC814 Controversy | Kandahar Flight Story | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4pOLT3iUfPY",
+      "title": "Problem with Bihar | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Ede41TPq8No",
+      "title": "Reality of Godi Media | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "uEuLEU-QNTY",
+      "title": "Why India should NEVER Host Olympics? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "hJOBeGHuyac",
+      "title": "Reality of Reservation | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "WY09iDtbQSs",
+      "title": "You are being FOOLED on Bengal | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "OqL6vOFfUxs",
+      "title": "Kolkata Doctor Case | Save Bengal | RG Kar College | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "x9BMtd88wF0",
+      "title": "How Foreigners are DESTROYING Indian Culture? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "hXaK3tAcYWk",
+      "title": "Why Indians are not sleeping enough? | How to Sleep instantly? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "E_4QzdvOkuY",
+      "title": "How Indian baba brainwash women? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "IhpzHTLodQg",
+      "title": "How USA Destroyed Bangladesh? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FYXkC1-LG3s",
+      "title": "Reality of Bangladesh Crisis | Sheikh Hasina | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "7V8gv2Xv4U8",
+      "title": "Save UPSC Aspirants | IAS Coaching Scam | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0MXCgF_vNbA",
+      "title": "Why Indian Students are going Abroad? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "G_1m3zXsHuU",
+      "title": "Problem with Indian GenZ Dating Scene | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "N6qq821Wmz0",
+      "title": "What's WRONG with Indian Railways? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "NDZCh7r_NtM",
+      "title": "Budget 2024 - Worst Budget of Modi Govt? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "mtIoiekZp_U",
+      "title": "Why Modi Govt HATES Middle Class? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "35sdby3kjdU",
+      "title": "India is in CLIMATE EMERGENCY | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Nsvjmt4wKCg",
+      "title": "Indian weddings are a waste of money? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "57diSi4X9tE",
+      "title": "These reports are Anti India... | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "QclrVW0_WDU",
+      "title": "The Monopoly of Reliance | Mukesh Ambani | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "DB3I-Wu4TO0",
+      "title": "How Government Exams Ruined my Life | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "a2MPqz6VqQ4",
+      "title": "Why Indian Youth is Jobless? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "h2nRnVoP18I",
+      "title": "What destroyed Bengaluru? | Save Bengaluru | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "oVdVSjKr2Bc",
+      "title": "Reality of Indian SARKARI Offices | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "YdLhYHrOk7s",
+      "title": "Truth of NEET Scam | NEET 2024 | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0h35mtVAdlY",
+      "title": "Modi 3.0: How NDA won but BJP Lost? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4d9Ds4ZIdG4",
+      "title": "The Untold Story of BJP | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "nwadmH7PwuE",
+      "title": "Full Story of Tata Group | Ratan Tata | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "-lSWWWAUplk",
+      "title": "The Untold Story of Congress | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "HJkEQ7o_umQ",
+      "title": "How BJP is becoming new Congress? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "voE93-tcDtA",
+      "title": "BJP vs Congress: who has better vision for India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "LlRlzCOq--4",
+      "title": "Most Unbiased Report Card of Modi Govt (2014-2024) | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "oZDPiANploc",
+      "title": "My Honest Opinion on Rahul Gandhi | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "nWlAkG2lmcQ",
+      "title": "My honest opinion on PM Modi | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "yeJIUtEBqxs",
+      "title": "Why GenZ is the BEST generation | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "zWQT86rqFGQ",
+      "title": "Why every celebrity is joining BJP?",
+      "status": "pending"
+    },
+    {
+      "video_id": "1UDFDBXCsxo",
+      "title": "Problem with Indian Colleges | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "vcE0R6WyyCE",
+      "title": "Electoral Bonds exposed  | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "LxBYMCW-MO0",
+      "title": "Real Truth of Savarkar | Veer or Coward?",
+      "status": "pending"
+    },
+    {
+      "video_id": "XhGljP79WAU",
+      "title": "Is Astrology a SCAM? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "7FOWizAo0kI",
+      "title": "Why Indian youth is becoming religious?",
+      "status": "pending"
+    },
+    {
+      "video_id": "87wswPC5j7k",
+      "title": "Why India is becoming obese?",
+      "status": "pending"
+    },
+    {
+      "video_id": "sDoQlOcGPo4",
+      "title": "Why Doctors without Degree are rising in India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "BPgWPY5dxsA",
+      "title": "Problem with HIGHER EDUCATION in INDIA",
+      "status": "pending"
+    },
+    {
+      "video_id": "6fJvbFB2qKE",
+      "title": "Why Indian Roads are so bad?",
+      "status": "pending"
+    },
+    {
+      "video_id": "C8kejaOc_wM",
+      "title": "Deadly Business of Chocolate | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "B6b5o-kEv2k",
+      "title": "Why Indian Men are so lonely?",
+      "status": "pending"
+    },
+    {
+      "video_id": "WnijCQNN_-E",
+      "title": "How Odisha Became India’s Most Influential State?",
+      "status": "pending"
+    },
+    {
+      "video_id": "8E-VBBwJbUw",
+      "title": "Why men are weak now?",
+      "status": "pending"
+    },
+    {
+      "video_id": "qMEC7OvDF1Q",
+      "title": "North India vs South India",
+      "status": "pending"
+    },
+    {
+      "video_id": "QklFH_kERm0",
+      "title": "Bihar's illegal wedding industry",
+      "status": "pending"
+    },
+    {
+      "video_id": "MmzztFwgV6o",
+      "title": "Is Ram Mandir useless?",
+      "status": "pending"
+    },
+    {
+      "video_id": "HPcLTzbLUnA",
+      "title": "Why India is so Mediocre?",
+      "status": "pending"
+    },
+    {
+      "video_id": "OS4KrrzE6ms",
+      "title": "Reality of Skincare routine",
+      "status": "pending"
+    },
+    {
+      "video_id": "HHVxdlJ9BkA",
+      "title": "How vaping is detroying youth?",
+      "status": "pending"
+    },
+    {
+      "video_id": "8lG26X-ePro",
+      "title": "How british used tea against Indians?",
+      "status": "pending"
+    },
+    {
+      "video_id": "EUkNFix6Eh8",
+      "title": "How India is becoming a superpower?",
+      "status": "pending"
+    },
+    {
+      "video_id": "ryXWJybydOY",
+      "title": "How goa got its freedom?",
+      "status": "pending"
+    },
+    {
+      "video_id": "m2m4Tv_2PEU",
+      "title": "World's deadliest route - donkey process",
+      "status": "pending"
+    },
+    {
+      "video_id": "4ruWqSOmWfg",
+      "title": "Problem With India’s Last Rites",
+      "status": "pending"
+    },
+    {
+      "video_id": "n62SE8FVQY0",
+      "title": "Reality of old pension scheme",
+      "status": "pending"
+    },
+    {
+      "video_id": "I1TMkDIC7tw",
+      "title": "How Doctors Fool You | Private Hospitals | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FVHZagRlCAE",
+      "title": "Why is BJP winning all elections?",
+      "status": "pending"
+    },
+    {
+      "video_id": "tGYtxmIQaT0",
+      "title": "Why is Rajasthan still poor?",
+      "status": "pending"
+    },
+    {
+      "video_id": "AZnHyzCls30",
+      "title": "How India became safer now?",
+      "status": "pending"
+    },
+    {
+      "video_id": "KeOAcLxVZRQ",
+      "title": "Truth of one nation one election",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZqpJ-wiNf-w",
+      "title": "Problem with Gen Z in India",
+      "status": "pending"
+    },
+    {
+      "video_id": "OJbjVGHdPdw",
+      "title": "What is keeping MP poor?",
+      "status": "pending"
+    },
+    {
+      "video_id": "DKj5jXWlhdM",
+      "title": "Problem with Indian women",
+      "status": "pending"
+    },
+    {
+      "video_id": "6GnC5lgaPEo",
+      "title": "Reality of caste census",
+      "status": "pending"
+    },
+    {
+      "video_id": "co2MITaqNXQ",
+      "title": "Why diabetes is rising in India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "rtfXqgNIM50",
+      "title": "Israel vs Palestine | End of Hamas | Gaza",
+      "status": "pending"
+    },
+    {
+      "video_id": "1FvjUEg-ioc",
+      "title": "The BEST decade of India 🇮🇳",
+      "status": "pending"
+    },
+    {
+      "video_id": "9UpIkKM7J9Q",
+      "title": "Why many court cases are pending in India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "hvmyvmAiBnU",
+      "title": "Branded vs generic medicines",
+      "status": "pending"
+    },
+    {
+      "video_id": "lDVp3PCOh8I",
+      "title": "Why Online Education is Failing in India? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "l50_5ouw_lg",
+      "title": "Full History of Crazy Race to Reach the Moon | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "uL30X0SHmt0",
+      "title": "This one invention can CHANGE the world? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FZqRgaWn16Q",
+      "title": "How BIG is Indian Chit Fund Scam Industry? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4dxca0zLcSk",
+      "title": "How Tourists are DESTROYING Himachal Pradesh | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "3jHHY_qFmgU",
+      "title": "Why are Indians so divided on social media? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "8kGiknek7dU",
+      "title": "How these Scammers are DEFAMING India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "GUkEsLiFwLw",
+      "title": "REAL Reason why Manipur is Burning | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "MgjJreuD79M",
+      "title": "RUDEST Video about INDIA that you must watch | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "wvuinEHN6KU",
+      "title": "The Dark truth of Chiropractic videos | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "DQUFSjbCMYc",
+      "title": "Most Mysterious Hindu Temple of India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Tc5kUAn3afk",
+      "title": "Online Creators are DEFEATING Bollywood | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "_jPi5qIPvXc",
+      "title": "Hidden Secret of Indian MILK Brands | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Qe7Uc7qg1go",
+      "title": "ADIPURUSH REVIEW — Truth about Adipurush Movie | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FXvbkTvi4ug",
+      "title": "India’s Top Influencers are Scamming You | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "2aPTFZhc5AY",
+      "title": "The Downfall of Bengal | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "hcMn6ikel-0",
+      "title": "The Truth of Coromandel Express Accident |  Train Accident in Odisha's Balasore | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "9Te6mQYCGAo",
+      "title": "7 FACTS that explain India's CRAZY GROWTH 🇮🇳 | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "hrySl9ZaYz0",
+      "title": "Why are C-section deliveries rising in India? 🇮🇳 | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "fIWoeRIX7bE",
+      "title": "Reality of Pro Kannada Protest | Karnataka | HIndi | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "oDijyFVcW48",
+      "title": "Saudi Arabia's DANGEROUS Future Plan? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "WeIV4oZ1oaU",
+      "title": "How did Bihar become India’s poorest state? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4qXYJJj2Juk",
+      "title": "The Reality of Biggest IPL SCAM in India | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "24wmfyCY6PA",
+      "title": "Why are Indian Trains So Slow? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Vl-Cbcd6a2I",
+      "title": "Why IAS Officers are so active on Social Media? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "7m6rZKBxb2g",
+      "title": "Indian Football ke Downfall ka ASLI SACH | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "6ElSFDwKjp0",
+      "title": "The END of PAKISTAN | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "EcoijU-Px38",
+      "title": "The Dark Side of ChatGPT | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ut4CDkgOiaI",
+      "title": "How is BJP winning in North East India? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "NcT_pKDqGE8",
+      "title": "Delhi’s Biggest Liquor Scam, Exposed | Manish Sisodia Arrest | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "-C8743snCnw",
+      "title": "Why are Heart Attacks Rising? | How to prevent Heart Attacks? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0YXu3fP44QQ",
+      "title": "Why George Soros HATES Modi? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "G17w9IDdwEI",
+      "title": "The Truth About Turkey Earthquakes | Can We Predict Earthquakes? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "VJIZoB1Ip1M",
+      "title": "Dark Side of Dating Apps",
+      "status": "pending"
+    },
+    {
+      "video_id": "zhslxOHN9uQ",
+      "title": "Population Collapse is BIGGEST THREAT to Humanity!",
+      "status": "pending"
+    },
+    {
+      "video_id": "f4hVlzaEAHI",
+      "title": "Hindenburg-Adani Report ka ASLI SACH | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "T4DdXUfJuAE",
+      "title": "7 WEIRD Indian Laws that should NOT EXIST",
+      "status": "pending"
+    },
+    {
+      "video_id": "P7_MWTW_4nI",
+      "title": "Indian Hockey ke Downfall ka ASLI SACH!",
+      "status": "pending"
+    },
+    {
+      "video_id": "Lgz8nIayoj0",
+      "title": "Is SARASWATI River just a MYTH? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4Kl1jGBgG6k",
+      "title": "Why is INDIAN FOOD the BEST in the world? *with proof*",
+      "status": "pending"
+    },
+    {
+      "video_id": "3zCI2IUyanU",
+      "title": "Exposing the BIGGEST SCAM of the Eyewear Industry!",
+      "status": "pending"
+    },
+    {
+      "video_id": "sdYuvxtRpcc",
+      "title": "Is Rishi Sunak DANGEROUS for India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "0TvBuJsIlg0",
+      "title": "How India is BEATING China in SOLAR race!",
+      "status": "pending"
+    },
+    {
+      "video_id": "MWEjI7AS4os",
+      "title": "Bengaluru FLOODS ka ASLI SACH kya hai?",
+      "status": "pending"
+    },
+    {
+      "video_id": "5EX0PpJ9shk",
+      "title": "These PROBLEMS are DESTROYING China",
+      "status": "pending"
+    },
+    {
+      "video_id": "gdUgl5L9Tc4",
+      "title": "How ONDC is DESTROYING Swiggy and Zomato? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "TxSiqf4YbdM",
+      "title": "Buy Now, Pay NEVER?",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZU8GYI2ettg",
+      "title": "This CHINESE Scam is DESTROYING Indians!",
+      "status": "pending"
+    },
+    {
+      "video_id": "ot_aBZje9Zs",
+      "title": "This TECHNOLOGY will DESTROY TESLA",
+      "status": "pending"
+    },
+    {
+      "video_id": "3OjxvmNYWUo",
+      "title": "Indian CRACKDOWN on CHINESE Tech companies, explained",
+      "status": "pending"
+    },
+    {
+      "video_id": "Fd0KP_LiLzs",
+      "title": "How India's UPI & RuPay are DESTROYING US dominance?",
+      "status": "pending"
+    },
+    {
+      "video_id": "PPccIUlgLww",
+      "title": "Why HARYANA brings so many MEDALS?",
+      "status": "pending"
+    },
+    {
+      "video_id": "rSSpVVO-HTs",
+      "title": "How RECESSION will BENEFIT India?",
+      "status": "pending"
+    },
+    {
+      "video_id": "T3uG8cXDNKw",
+      "title": "Why BIHAR has so many IAS OFFICERS?",
+      "status": "pending"
+    },
+    {
+      "video_id": "cbXvatwAxZM",
+      "title": "Why EVERYONE eats Pan Masala in KANPUR?",
+      "status": "pending"
+    },
+    {
+      "video_id": "g_yxjQDd0_Y",
+      "title": "How India is DOMINATING Chess again? | Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0pcylasFLp4",
+      "title": "Is HOMEOPATHY a SCAM?",
+      "status": "pending"
+    },
+    {
+      "video_id": "nFjVIoCyKIE",
+      "title": "India's capital city may not SURVIVE this",
+      "status": "pending"
+    },
+    {
+      "video_id": "0qi2VSea6Zc",
+      "title": "We are running out of food, here's why",
+      "status": "pending"
+    },
+    {
+      "video_id": "beCnMmNLRgM",
+      "title": "Next BIG PROBLEM of Punjab | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "i-jvV6ZzQ04",
+      "title": "How MONEY is actually making you POOR?",
+      "status": "pending"
+    },
+    {
+      "video_id": "9WSDMH4DK24",
+      "title": "What is the REAL cost of FREE Electricity? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "zageuP8bttE",
+      "title": "Elon Musk's SECRET PLAN for Twitter 🤫 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "_yWjQ7gRgVo",
+      "title": "7 CRAZY LESSONS from Russia vs Ukraine! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "HkD0zNOmYb4",
+      "title": "Why ELECTRIC VEHICLE are FAILING in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "yYoGD7dBFJc",
+      "title": "The DARK SIDE of FAST FASHION | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "qKQu6fjTDck",
+      "title": "The REALITY of EYE WEAR MAFIA! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "wfF0FAOsKAQ",
+      "title": "The DARK side of MUSIC INDUSTRY | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "jktcyEVmhRc",
+      "title": "BULLSH*T JOBS  are RISING, What are They? | Hindi Video | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "T_N8bGxfC7s",
+      "title": "This is how SOCIAL MEDIA FOOLS YOU | Hindi Video | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "1QKvqgODCZc",
+      "title": "MILK is actually BAD for you! | SHOCKING MILK FACTS | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "gJdkLLLBoxQ",
+      "title": "The SHOCKING story of 'PANDEMIC PETS'! | An Open Letter | Hindi Video",
+      "status": "pending"
+    },
+    {
+      "video_id": "3yMjx_FYb6A",
+      "title": "Why are youngsters quitting their job in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "cDljFq7D6Zo",
+      "title": "This is how Online Education is Fooling You! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "cPNF7bOHEFY",
+      "title": "Is She the MOST UNDERRATED Hindu Queen? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "qfr1zoU619c",
+      "title": "This Indian City Earns ₹1.5 CRORE PER MONTH from Garbage? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ux1PiDcU2TQ",
+      "title": "China's Sinister Plan for Africa! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "pR-KDVa183U",
+      "title": "Indian Families are Sick, Here is Why! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "TbGjoXJ4gu8",
+      "title": "Why is Punjabi music so addictive? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "unM-BLT6pdk",
+      "title": "The Problems with Uttarakhand | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "l3jlf66pfCA",
+      "title": "Crypto Bill 2021 | Is India Banning Cryptocurrency? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "e4874iSy9NQ",
+      "title": "Why Ambedkar DISAGREED With Gandhi? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "VcJXKHBCENM",
+      "title": "Why did Govt Repeal Farm Laws? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "C6esE_Y_zso",
+      "title": "The Problem with Punjab! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "tSElHbAqbOY",
+      "title": "This is why Firecracker Ban is Useless | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "zD29yQ8nPZQ",
+      "title": "Ye Diwali bhi China Wali? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "s-ES6ht3QdM",
+      "title": "Why are edible oil prices still rising in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "mDmN4jtHSVI",
+      "title": "Reality of  100 Crore Vaccines in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Uif0SHhjnlM",
+      "title": "Privatisation Debate - Is the Govt Selling Everything? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Vqcj2w9pJ1Q",
+      "title": "The Rise and Fall of Air India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "dJMkBRh6DAk",
+      "title": "A tribute APJ Abdul Kalam | Most selfless Indian | An Open letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "1H9h82JZd1M",
+      "title": "Is Mumbai Drug Capital of India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "dMcYJx5On3M",
+      "title": "What if Bitcoin could be used as rupees? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZjtA8hmbkHo",
+      "title": "Is this India's Biggest Defense Reform? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "pUMhQuVBLEs",
+      "title": "Princess from Ayodhya Started this Korean Dynasty | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "x7UbFlCYtHc",
+      "title": "How India lost its best Prime Minister? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Lib7TCeDdv0",
+      "title": "ISRO vs SPACEX - Who will win?| An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FR7m8e_7Smk",
+      "title": "How China Controls World Bank? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ul_Hu-psfng",
+      "title": "Will Evergrande Crisis Bring the Next Recession? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "_HFcWjiT1W0",
+      "title": "Why Israel Education System is Unique? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "gzVWNgbGsNw",
+      "title": "Why foreign cars FAIL in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZqdmyhzoQ5A",
+      "title": "How this BJP's enemy became their last hope? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "rZQlVpBULfk",
+      "title": "The REAL TRUTH of ENGINEERING in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "teUa9s38y7A",
+      "title": "How did India win so many medals in Paralympics? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "kagPeGj1GPY",
+      "title": "Can Mamata Banerjee become PM of India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "VF9KCnFR6aE",
+      "title": "This Country has World's Best Education System? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "2C-eqUgHg5w",
+      "title": "Syed Ali Gheelani - Pakistan's Most Favourite Indian! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Mx25EYvllYo",
+      "title": "Dark Side of Teachers in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "4WcRswcQ7TQ",
+      "title": "This Technology will allow you to sell Electricity in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "epekv_j6-6o",
+      "title": "Can Arvind Kejriwal become PM of India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "pJOAuZHKwvM",
+      "title": "Are Black Cats Really Evil? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "JKAzGFuNU9U",
+      "title": "Is this India's WORST Ranking?  | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "J40D4APSARU",
+      "title": "Why is Afghanistan Impossible to Conquer? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "78QdWa1t5B0",
+      "title": "Why Indian Education System is SO BAD? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZOouq6usxR0",
+      "title": "Did USA Betray Afghanistan? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "UYtlZmguhpY",
+      "title": "Why Partition Remembrance Day is Important? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "c2iFLIvYO-Y",
+      "title": "Subhas Chandra Bose - The Man & the Mystery! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "KEbUBVY_7U4",
+      "title": "Biggest problems with Indian Youth | World Youth Day 2021 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "PywfQQ7OcM4",
+      "title": "India's Best Olympics Ever (& How to Improve it?) | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "92nzu09JKRU",
+      "title": "The Dark Truth of Oppenheimmer | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "OiKBG85OQ2c",
+      "title": "Is AMAZON Really an EVIL Company? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "lLZFbsCjM3I",
+      "title": "This MISTAKE of China is Helping India WIN | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "5AJhsOP998o",
+      "title": "This is going to DESTROY Olympics? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "aoISqVwG4lI",
+      "title": "Is the Indian Government Spying on Us? - Pegasus Spyware | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "h-BZmuyEhLs",
+      "title": "The Story of Kargil | When Pakistan Tried & Failed to Betray India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FxaadRXbXss",
+      "title": "How This Technology Can Change the World Forever | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "raJtE_qKq2Y",
+      "title": "Why is Unemployment Rising in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "DC9KY83h-6E",
+      "title": "Why is Inflation Rising Suddenly? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "BrjVv5An38I",
+      "title": "Reality of Sikkim Hidden from you | Sikkim is the Gem of India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "xcET_nHsqmU",
+      "title": "Why does India need Uniform Civil Code? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "sIDd4IWyepM",
+      "title": "India has a HUGE Stray Dog Problem, Here is Why | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "H8Nrj02rTNE",
+      "title": "Why is Navjot Singh Sidhu Still Relevant in Punjab Politics? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "CXVSmvN1PwA",
+      "title": "What Pew Research Survey Tells us about Hindu-Muslims in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "7ehH-klgKak",
+      "title": "Kanishka Attack - How India Forgot its Biggest Aviation Tragedy | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "5X20vP0xX_k",
+      "title": "Sexist ads must be stopped | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "SIJHDzLtc8k",
+      "title": "Why is India seeing new Covid-19 variants? | Delta Plus Variant | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "762vIbzL4Jw",
+      "title": "Why China hates its richest businessman?| The end of Jack Ma | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "6F42ObRiraA",
+      "title": "Nepotism Roast: Nepotism is Destroying Regional Parties in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "5X2TlAUPHMo",
+      "title": "BJP used to love Twitter, but now hates it. why? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "77WkgYENjbU",
+      "title": "Best and Worst States in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "26jfnG_lM8w",
+      "title": "Should India Print Money to Save Economy? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "wG1goFqKVYM",
+      "title": "What is COVID lab leak theory? | Wuhan lab leak in hindi | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "RAaWWNjcQSc",
+      "title": "Biggest LIES on Central Vista Controversy | Should we stop Central Vista? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "bHhyQSX02dc",
+      "title": "Why are doctors being attacked in India? | How to save our doctors? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FXZdvc3mT8U",
+      "title": "Dark Truth of 5G in hindi | Is 5G Radiation harmful? | Juhi Chawla 5G case | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "tdzaTRS71pg",
+      "title": "Why do officers still beat people in India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "XtddxoImOVg",
+      "title": "Reality of Save Lakshadweep Campaign | Lakshadweep Controversy in Hindi | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "iYRyMHdXv9k",
+      "title": "Why is India facing more number of cyclones? |  Taukte Cyclone | Yaas Cyclone | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "AxZkMIEkUVE",
+      "title": "Why is MiG-21 called \"The Flying Coffin\"? | History of MiG-21 | MiG-21 Crash |An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0XAXD6eZOVc",
+      "title": "Why are Edible Oil Prices Rising? | Palm Oil Prices | Soyabean Oil | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "MKa32P08ZhA",
+      "title": "Black Fungus Explained in Hindi | Black Fungus Symptoms | Mucormycosis | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "7CVaczxZUUA",
+      "title": "When will COVID End? | COVID Third Wave | 2DG Drug | Sputnik Lite | 1918 Flu | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "BwTHfspPTHE",
+      "title": "Israel vs Palestine Conflict Explained by Open Letter | Hamas | Gaza",
+      "status": "pending"
+    },
+    {
+      "video_id": "X3wRWbnRsfs",
+      "title": "Four implications of Bengal Election 2021 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "877YE7pHoBo",
+      "title": "Truth of India's Oxygen Crisis | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0YzjB0thvxY",
+      "title": "The Dark Truth of Beef Industry | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "gpmAUu1zf6k",
+      "title": "Covid Second Wave: where did we go wrong? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "PYmr6SvfWW4",
+      "title": "Naxalism in India, explained | Naxalism kya hai | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "I5wAFZ_qOCI",
+      "title": "Vaccine Shortage in India , explained | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "w-JxR-7FpGU",
+      "title": "WTF are NFTs? | Non-Fungible Token, Explained | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0vD5CzpIKbM",
+      "title": "Is being a Space Scientist a CRIME? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "6o1HP_BRZ24",
+      "title": "Will BJP win in Bengal? | Bengal election 2021 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "RJBraWlRUfI",
+      "title": "Will mamata banerjee win bengal? | Bengal election 2021 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "2eIqulJs87k",
+      "title": "Problems of food delivery boys in India | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "rJurfJmdJTU",
+      "title": "India vs China — The Toy Story | Are all toys made in China? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "RTH0_AhVl2M",
+      "title": "Fuel prices, explained | how much govt earns from petrol and diesel | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "-2nE9D9XZ0s",
+      "title": "DO NOT BE A \"SOCIAL SLAVE\" | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "pWCfUy7R-B8",
+      "title": "Myanmar's army coup and lessons for India",
+      "status": "pending"
+    },
+    {
+      "video_id": "Dp5NAWCtqV0",
+      "title": "leaked document exposed | Rihanna | Greta Thunberg",
+      "status": "pending"
+    },
+    {
+      "video_id": "WBUfTkiIuh4",
+      "title": "budget 2021, explained | is budget good or bad?",
+      "status": "pending"
+    },
+    {
+      "video_id": "IaJPju5BZFc",
+      "title": "Wallstreetbets - GameStop story, explained | Reddit v/s wallstreet",
+      "status": "pending"
+    },
+    {
+      "video_id": "4wKxzDnuhgA",
+      "title": "what next for the farmer protest? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "FvmV5xcEOts",
+      "title": "a black day at red fort | kisan tractor rally",
+      "status": "pending"
+    },
+    {
+      "video_id": "qtgVxdKJC8A",
+      "title": "'farmer' protest is shaheen bagh 2.0 - six indicators!",
+      "status": "pending"
+    },
+    {
+      "video_id": "NCcJZ0RrbmY",
+      "title": "2020 - craziest year that taught us three things!!",
+      "status": "pending"
+    },
+    {
+      "video_id": "yxxE6H1lSrI",
+      "title": "cryptocurrency is here to stay but should you invest in it?",
+      "status": "pending"
+    },
+    {
+      "video_id": "zCeU5pUEJnI",
+      "title": "The Arnab Goswami Saga! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "IhGMy1KH-DU",
+      "title": "How France is fighting bigotry | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "R-KsS-9y5Gw",
+      "title": "Bihar Election 2020 -  Bihar me kiski sarkaar? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "dv9tlT0enOc",
+      "title": "festive activism is so DUMB! | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "xRF2WCouOB0",
+      "title": "global hunger index, explained | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "D-dQEOpNnHk",
+      "title": "Is Bangladesh GDP actually better than India? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "0uogD19yO6Y",
+      "title": "Tanishq ad controversy, explained | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "tB4Y9CrmXXM",
+      "title": "Aarey: biggest mistake by Maharashtra govt? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "IixPw1TNB9o",
+      "title": "Bollywood v/s Media & other crazy stuff | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "lQkLAqFseWw",
+      "title": "Delhi's Rising Pollution & Stubble Burning | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "aNpmfu6y6Ww",
+      "title": "FCRA Amendment Explained | Govt Hypocrisy Exposed | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "8oij0svkirg",
+      "title": "The Reality of Hathras Case | Hathras Case Update | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "KUBGuazLKOY",
+      "title": "Analysis - was bhagat singh a communist? 💡 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "wanO0kDLk5I",
+      "title": "#Time100 | PM Modi, Trump & Bilkis - The Unsaid Bias!",
+      "status": "pending"
+    },
+    {
+      "video_id": "IzyhN23Tpx0",
+      "title": "Open Letter to Jaya Bachchan Ji",
+      "status": "pending"
+    },
+    {
+      "video_id": "v8e8TcSJB5Q",
+      "title": "\"INDIA SUCKS\" mentality and how to fix that!",
+      "status": "pending"
+    },
+    {
+      "video_id": "7PWzSQM5kaA",
+      "title": "5 Things India should be free from - Make India Great Again!",
+      "status": "pending"
+    },
+    {
+      "video_id": "qhES0vbkGgs",
+      "title": "Pakistan doesn't want you to watch this video | #FreeBalochistan",
+      "status": "pending"
+    },
+    {
+      "video_id": "BBZrcmrFOvM",
+      "title": "Real journalism in India is under THREAT! 🚨",
+      "status": "pending"
+    },
+    {
+      "video_id": "7euI85YTJ50",
+      "title": "Is India no longer a secular nation?",
+      "status": "pending"
+    },
+    {
+      "video_id": "FtW85be0fhc",
+      "title": "Reality of India Today's  \"Mood of the Nation\" survey?",
+      "status": "pending"
+    },
+    {
+      "video_id": "kt8bR35jpd8",
+      "title": "How PM Modi has shifted Overton Window in India",
+      "status": "pending"
+    },
+    {
+      "video_id": "a1MCS6da-Fw",
+      "title": "DEAR UGC; CANCEL EXAMS, SAVE STUDENTS!!!! 🤯🔥🙏",
+      "status": "pending"
+    },
+    {
+      "video_id": "CdHRWLmiWDo",
+      "title": "Rahul Gandhi v/s PM Modi - how they changed in 10 years!",
+      "status": "pending"
+    },
+    {
+      "video_id": "Lz79SJIsjGk",
+      "title": "Vikas Dubey Encounter - The Uncomfortable Truth!",
+      "status": "pending"
+    },
+    {
+      "video_id": "Hjm24u5fTUs",
+      "title": "Jayaraj & Bennix - why india desperately needs police reforms!",
+      "status": "pending"
+    },
+    {
+      "video_id": "RELtpGljKHE",
+      "title": "sudhir chaudhary exposed china? 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "Ov6pWUXVSWA",
+      "title": "India v/s China - what went wrong? 🔥🔥 | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "dc3LgyBhIvA",
+      "title": "SUSHANT SINGH RAJPUT EXPOSED INDIAN MEDIA 🤦‍♂️🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "p_teMY-UbIY",
+      "title": "100,000 🔥 | Silver Play Button - How you can do it too!",
+      "status": "pending"
+    },
+    {
+      "video_id": "OiWZIeSreFg",
+      "title": "WHY WESTERN MEDIA DOESN'T LIKE INDIA? 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "g7WI4k_U-Fw",
+      "title": "#BlackLivesMatter & Bollywood 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "rPwQHFUbjrM",
+      "title": "REAL REASON OF INDIA CHINA LADAKH BORDER STANDOFF 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "GLHbdOG9n6Q",
+      "title": "REAL REASON BEHIND INDIA'S LOCUST ATTACK! 🔥😲",
+      "status": "pending"
+    },
+    {
+      "video_id": "1Ky6IGU9T5Y",
+      "title": "WAS RAJIV GANDHI THE BEST PM OF INDIA? 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "rdCTQMau4ug",
+      "title": "CARRYMINATI & INTERNET CENSORSHIP - YOUTUBE V/S TIKTOK 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "3atMKQ4ojog",
+      "title": "REAL TRUTH ABOUT BOIS LOCKER ROOM CHATS 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "hlgWZBJaYqs",
+      "title": "POOR v/s HUNGER - HOW WE FAILED OUR MIGRANTS! 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "uJcAXwef3OQ",
+      "title": "NOT YOUR USUAL YOUTUBE V/S TIK TOK ROAST 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "4R1gXa5Z3nQ",
+      "title": "Aurangabad Accident & Migrant Crisis in India.",
+      "status": "pending"
+    },
+    {
+      "video_id": "qlpz3cOcUpQ",
+      "title": "AN INDIAN RESPONDS TO MISLEADING USCIRF REPORT 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "dCzSq8HrIlc",
+      "title": "WHY SAFFRON FLAG IS NOT COMMUNAL",
+      "status": "pending"
+    },
+    {
+      "video_id": "5OwhFulqhX4",
+      "title": "MODI DESTROYED MEDIA? | PRESS FREEDOM INDEX 2020 🔥🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "0RvsQti8mtg",
+      "title": "ATTACK ON ARNAB GOSWAMI & HIS JOURNALISM!",
+      "status": "pending"
+    },
+    {
+      "video_id": "iJmY43zix_0",
+      "title": "QUESTIONS AND THOUGHTS ON PALGHAR INCIDENT!",
+      "status": "pending"
+    },
+    {
+      "video_id": "dsU7TVqxzoE",
+      "title": "HINDUISM - A DEMOCRATIC WAY OF LIFE!",
+      "status": "pending"
+    },
+    {
+      "video_id": "HXfuTrDJXx8",
+      "title": "PM MODI - WORLD'S WORST PRIME MINISTER?",
+      "status": "pending"
+    },
+    {
+      "video_id": "3LUFpQrdiM8",
+      "title": "LOCKDOWN 2.0 &  MIGRANT CRISIS!",
+      "status": "pending"
+    },
+    {
+      "video_id": "NOjLEllFcCY",
+      "title": "AN INDIAN RESPONDS TO VICE NEWS' 'INDIA BURNING' REPORT! 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "rr6nkSY9bqc",
+      "title": "IS PM CARES FUND A SCAM?",
+      "status": "pending"
+    },
+    {
+      "video_id": "tJVjB94Ffcg",
+      "title": "Global rise of right-wing, explained.",
+      "status": "pending"
+    },
+    {
+      "video_id": "wXHXUsOHvCE",
+      "title": "BEST USE OF LOCKDOWN & A SPECIAL GIFT 🎁!",
+      "status": "pending"
+    },
+    {
+      "video_id": "za0WM_7EzuY",
+      "title": "Thoughts on Kunal Kamra & Tejasvi Surya Podcast!",
+      "status": "pending"
+    },
+    {
+      "video_id": "W1JPuXwot4c",
+      "title": "USA Politics 2020, Explained.",
+      "status": "pending"
+    },
+    {
+      "video_id": "VkB32pz3IyU",
+      "title": "STOP DEFENDING TABLEEGI JAMAAT! 🙏",
+      "status": "pending"
+    },
+    {
+      "video_id": "oG9EZOiZW2s",
+      "title": "RAMAYANA ON TV - A HINDUTVA PROJECT?",
+      "status": "pending"
+    },
+    {
+      "video_id": "1EZ9QdzCgmI",
+      "title": "Scindhia's exit - reasons and meltdown | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Wu6jZZby7aM",
+      "title": "YES BANK: What exactly went wrong? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "spDI6AM-m2Y",
+      "title": "Sooryavnshi - Is this Hyper-Nationalism? | Trailer Review 🤔",
+      "status": "pending"
+    },
+    {
+      "video_id": "JEWY6NHqJao",
+      "title": "An Indian Responds to John Oliver's Video on PM Modi!",
+      "status": "pending"
+    },
+    {
+      "video_id": "A-dbXXgG2fE",
+      "title": "Story of head constable Neeraj Dhaiya who stopped Shahrukh 😲| An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "OrCKnSB2M0k",
+      "title": "Five reasons why AAP won Delhi | Analysis of Delhi Assembly Elections",
+      "status": "pending"
+    },
+    {
+      "video_id": "xqxhlD2DCKs",
+      "title": "Cow, Temple, Nationalism - Is Congress the New BJP?",
+      "status": "pending"
+    },
+    {
+      "video_id": "chshd3c0b0o",
+      "title": "Few additions to Kanhaiyya Kumar's explaination of CAA NRC & NPR!",
+      "status": "pending"
+    },
+    {
+      "video_id": "L5lUQwYIJQk",
+      "title": "Delhi Assembly Elections - BJP vs Congress vs AAP!",
+      "status": "pending"
+    },
+    {
+      "video_id": "MOxhVV3WYVI",
+      "title": "Is Tanhaji Islamophobic - Response to The Quint & Lallantop!",
+      "status": "pending"
+    },
+    {
+      "video_id": "RFxmWXImYy4",
+      "title": "ABVP or Left - who were the masked goons of JNU!",
+      "status": "pending"
+    },
+    {
+      "video_id": "9h3wDA7Q-tI",
+      "title": "An Honest Review - Tanhaji & Chhapaak!",
+      "status": "pending"
+    },
+    {
+      "video_id": "ttCpmCtAsQk",
+      "title": "PR, PROMOTION & PROPAGANDA - Understanding Deepika Padukone's JNU visit!",
+      "status": "pending"
+    },
+    {
+      "video_id": "5GhlXcnj6ms",
+      "title": "JNU vs ABVP - what we know so far.",
+      "status": "pending"
+    },
+    {
+      "video_id": "zUCnpoNshMk",
+      "title": "CAA - NPR - NRC | Understanding the chronology!",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZinlkrSg9Qk",
+      "title": "CAA + NRC - a recipe for disaster?",
+      "status": "pending"
+    },
+    {
+      "video_id": "xfsQ3YkzH9E",
+      "title": "#CAB Protests | Students vs Police & 7 Fake News!",
+      "status": "pending"
+    },
+    {
+      "video_id": "oUHev3Noanc",
+      "title": "#AareyForest: Inconvenient facts and emotional manipulation | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "oLzpA1U7sAA",
+      "title": "#GretaThunberg - Emotion vs Solution | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "WuvTOrp__Lo",
+      "title": "दो से दोबारा - The Rise and Rise of BJP | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "78yg3TFkqw4",
+      "title": "Who is winning 10 Biggest Seats of 2019 Elections | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "vSQ0RkgdN9M",
+      "title": "PM Modi - 6 Biggest Lies | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "AtP3ViSguu4",
+      "title": "Dhruv & BBC in Varanasi - A sloppy Hitjob? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "wbkT9l3J9dQ",
+      "title": "Is Rahul Gandhi Afraid? - The Wayanad story | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Cie4EjVfV-s",
+      "title": "Why Mukesh Ambani 'Saved' RCom? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "WiKvO1MKj3Q",
+      "title": "Honest Review - URI & The Accidental Prime Minister | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "otquXVcZUHc",
+      "title": "Rebuttal to Dhruv Rathee on 10% Reservation Bill | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "yLZ_msjHqJI",
+      "title": "10% Reservation for General Category - A JUMLA? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "Mz62MmjZph0",
+      "title": "Is Sabrimala Anti-Women? | An Open Letter",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZEs2eQFOk-k",
+      "title": "The Accidental Prime Minister - A BJP funded fiction! | Trailer Review",
+      "status": "pending"
+    },
+    {
+      "video_id": "kzGeWunBfBk",
+      "title": "How UPI is Making India Proud | Explained by AnOpenLetter",
+      "status": "pending"
+    }
+  ]
+}
