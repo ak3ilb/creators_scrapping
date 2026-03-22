@@ -94,7 +94,7 @@ def _fetch_metadata(result: TranscriptResult):
             'socket_timeout': 10,
             'extractor_args': {
                 'youtube': {
-                    'player_client': ['android', 'ios']
+                    'player_client': ['tvhtml5', 'web_creator', 'android', 'ios']
                 }
             }
         }
@@ -182,7 +182,7 @@ def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
             'logger': YDL_LOGS,  # Suppress direct stderr/stdout
             'extractor_args': {
                 'youtube': {
-                    'player_client': ['android', 'ios']
+                    'player_client': ['tvhtml5', 'web_creator', 'android', 'ios']
                 }
             }
         }
