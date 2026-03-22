@@ -26,6 +26,12 @@ def scan_channel(creator: dict) -> list[dict]:
         'quiet': True,
         'extract_flat': True,
         'ignoreerrors': True,
+        'socket_timeout': 10,
+        'extractor_args': {
+            'youtube': {
+                'player_client': ['tvhtml5', 'web_creator', 'android', 'ios']
+            }
+        }
     }
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
