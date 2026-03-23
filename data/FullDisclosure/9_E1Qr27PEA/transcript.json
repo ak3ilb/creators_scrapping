@@ -1,0 +1,42 @@
+{
+  "video_id": "9_E1Qr27PEA",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 7,
+      "text": "Claude just saved a dying tomato plant in 13 minutes without any human help. A project called Saul Biodome gave Claude"
+    },
+    {
+      "start": 7,
+      "duration": 5,
+      "text": "complete control of a closed agricultural environment. Temperature, light, humidity, [music]"
+    },
+    {
+      "start": 12,
+      "duration": 9,
+      "text": "CO2, soil moisture, all automated. The condition was simple. If [music] Claude makes a mistake, the plant dies. On day 34, multiple systems crashed"
+    },
+    {
+      "start": 21,
+      "duration": 7,
+      "text": "simultaneously. The plant started wilting. A human would need hours to diagnose cascading system failures in a controlled environment. Claude detected"
+    },
+    {
+      "start": 28,
+      "duration": 9,
+      "text": "the failure in a 15-minute diagnostic cycle and fixed everything in 13 minutes. This is what a zero latency operation looks like. But here's where"
+    },
+    {
+      "start": 37,
+      "duration": 9,
+      "text": "it gets interesting. This isn't just about tomatoes. Scale this to green houses, space agriculture, sensitive conservation labs, where humans physically can't intervene fast enough."
+    },
+    {
+      "start": 46,
+      "duration": 3.0,
+      "text": "Then what will humans do if AI becomes the perfect operator? Let me know in the comments."
+    }
+  ]
+}

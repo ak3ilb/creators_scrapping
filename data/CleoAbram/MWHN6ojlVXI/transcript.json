@@ -1,0 +1,762 @@
+{
+  "video_id": "MWHN6ojlVXI",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 4,
+      "text": "Time to talk about AI. Right now, we're  in this weird moment where lots of smart"
+    },
+    {
+      "start": 4,
+      "duration": 4,
+      "text": "people agree that we're on the cusp of  this truly world-changing technology"
+    },
+    {
+      "start": 8,
+      "duration": 4,
+      "text": "but some of them seem to be saying it's  going to kill us all, while others are"
+    },
+    {
+      "start": 12,
+      "duration": 2,
+      "text": "saying it's more profound than fire..."
+    },
+    {
+      "start": 14,
+      "duration": 4,
+      "text": "\"You know, I've always thought of AI as the most profound technology,"
+    },
+    {
+      "start": 18,
+      "duration": 2,
+      "text": "more profound than fire or electricity...\""
+    },
+    {
+      "start": 20,
+      "duration": 6,
+      "text": "It's clear at this point that something big is happening. But my problem is, it's all just so"
+    },
+    {
+      "start": 26,
+      "duration": 6,
+      "text": "vague. I want to know: How specifically  would AI kill me? Or how would it dramatically"
+    },
+    {
+      "start": 32,
+      "duration": 4,
+      "text": "transform my life for the better? In this video, that's what I'm going to try to figure out, what"
+    },
+    {
+      "start": 36,
+      "duration": 6,
+      "text": "the most extreme bad and good possible features  with AI actually look like, so that you and I can"
+    },
+    {
+      "start": 42,
+      "duration": 5,
+      "text": "get ready. And more importantly, so that we can  be a part of making sure that our real future"
+    },
+    {
+      "start": 47,
+      "duration": 1,
+      "text": "goes right."
+    },
+    {
+      "start": 48,
+      "duration": 1,
+      "text": "\"Artificial intelligence -\" \"artificial  intelligence -\""
+    },
+    {
+      "start": 49,
+      "duration": 1,
+      "text": "\"artificial intelligence\""
+    },
+    {
+      "start": 50,
+      "duration": 2,
+      "text": "\"the benefits vastly outweigh the risks\""
+    },
+    {
+      "start": 52,
+      "duration": 3,
+      "text": "\"eventually they will completely out-think their makers -\""
+    },
+    {
+      "start": 55,
+      "duration": 2,
+      "text": "\"AI to begin to kill humans -\""
+    },
+    {
+      "start": 57,
+      "duration": 3,
+      "text": "\"AI has the potential to change society\""
+    },
+    {
+      "start": 60,
+      "duration": 3,
+      "text": "\"and a lot of people can be replaced by this technology\""
+    },
+    {
+      "start": 63,
+      "duration": 2,
+      "text": "\"Is this depressing? I don't see why it should be...\""
+    },
+    {
+      "start": 65,
+      "duration": 8,
+      "text": "\"This will be the greatest technology humanity has yet developed.\""
+    },
+    {
+      "start": 73,
+      "duration": 4,
+      "text": "To understand why you're seeing so many mind-blowing AI tools"
+    },
+    {
+      "start": 77,
+      "duration": 4,
+      "text": "all of a sudden, you need to understand how they  actually work. And to do that we need to play some"
+    },
+    {
+      "start": 81,
+      "duration": 6,
+      "text": "chess. This isn't one of those \"oh my god, AI beats  a person\" kind of games. In this game, neither of the"
+    },
+    {
+      "start": 87,
+      "duration": 5,
+      "text": "players are human. One is a famous chess engine, a  system programmed by humans with insanely complex"
+    },
+    {
+      "start": 92,
+      "duration": 5,
+      "text": "rules for how to play the game. The other is using  a very different strategy. And that second player"
+    },
+    {
+      "start": 97,
+      "duration": 3,
+      "text": "absolutely crushed the first..."
+    },
+    {
+      "start": 100,
+      "duration": 5,
+      "text": "\"It had learned the game without any of those rules, it just"
+    },
+    {
+      "start": 105,
+      "duration": 4,
+      "text": "watched enough games to see what winning looked like.\""
+    },
+    {
+      "start": 109,
+      "duration": 3,
+      "text": "That is Eric Schmidt, former CEO of Google"
+    },
+    {
+      "start": 112,
+      "duration": 2,
+      "text": "and chairman of its parent company, Alphabet."
+    },
+    {
+      "start": 114,
+      "duration": 1,
+      "text": "Yeah."
+    },
+    {
+      "start": 115,
+      "duration": 4,
+      "text": "He was chairman of the company when they created that second player, AlphaZero."
+    },
+    {
+      "start": 119,
+      "duration": 5,
+      "text": "\"Before that moment all of the game playing was done algorithmically,"
+    },
+    {
+      "start": 124,
+      "duration": 3,
+      "text": "move here, evaluate this, do the math that...\""
+    },
+    {
+      "start": 127,
+      "duration": 2,
+      "text": "But that's not how AlphaZero worked..."
+    },
+    {
+      "start": 129,
+      "duration": 6,
+      "text": "\"It didn't understand the principles of what a rook and a  pawn and so forth and so on, it just knew how to"
+    },
+    {
+      "start": 135,
+      "duration": 3,
+      "text": "play because it had observed enough games and it learned how to win.\""
+    },
+    {
+      "start": 138,
+      "duration": 4,
+      "text": "In other words, our best systems had gone from using"
+    },
+    {
+      "start": 142,
+      "duration": 2,
+      "text": "human-given rules to win, to using observation to win."
+    },
+    {
+      "start": 144,
+      "duration": 5,
+      "text": "\"So you can think of that as moving from algorithms to learning. That to me was a major major deal.\""
+    },
+    {
+      "start": 149,
+      "duration": 7,
+      "text": "That ability to learn changed everything. It's what makes incredible tools like ChatGPT possible today."
+    },
+    {
+      "start": 156,
+      "duration": 1,
+      "text": "You now know this technique as"
+    },
+    {
+      "start": 157,
+      "duration": 1,
+      "text": "\"machine learning\""
+    },
+    {
+      "start": 158,
+      "duration": 1,
+      "text": "\"Machine Learning!\""
+    },
+    {
+      "start": 159,
+      "duration": 1,
+      "text": "\"machine learning...\""
+    },
+    {
+      "start": 160,
+      "duration": 3,
+      "text": "The reason that it suddenly feels like \"AI\" is everywhere is because"
+    },
+    {
+      "start": 163,
+      "duration": 3,
+      "text": "of the incredible success of machine learning specifically. At a basic level,"
+    },
+    {
+      "start": 166,
+      "duration": 3,
+      "text": "the idea is that instead of giving a computer a rigid set of rules"
+    },
+    {
+      "start": 169,
+      "duration": 5,
+      "text": "that says \"if this happens, then these are the  possible outcomes,\" instead you give a computer a"
+    },
+    {
+      "start": 174,
+      "duration": 5,
+      "text": "set of inputs and outputs and allow it to create  the rules that turn one into the other. Meaning"
+    },
+    {
+      "start": 179,
+      "duration": 5,
+      "text": "that it might come up with rules that we didn't  think of or maybe don't even understand... but making"
+    },
+    {
+      "start": 184,
+      "duration": 5,
+      "text": "the AI models that can do all the incredible  things that you see now just recently became"
+    },
+    {
+      "start": 189,
+      "duration": 4,
+      "text": "possible. And it's because the computers training  them have gotten way more powerful. Look at this"
+    },
+    {
+      "start": 193,
+      "duration": 6,
+      "text": "graph: So you see it going up and then around 2009  the computing power behind AI models just begins"
+    },
+    {
+      "start": 199,
+      "duration": 5,
+      "text": "to explode. That change is largely thanks to a  switch in the physical technology used to do that"
+    },
+    {
+      "start": 204,
+      "duration": 6,
+      "text": "training, going from CPUs to GPUs. My favorite  way to show the difference between CPUs and"
+    },
+    {
+      "start": 210,
+      "duration": 5,
+      "text": "gpus is this Mythbusters demo back in 2009. That robot  right there represents a CPU and it shoots paint"
+    },
+    {
+      "start": 215,
+      "duration": 6,
+      "text": "in these little sequential bursts. It can get the  job done but it's slow. And this robot represents"
+    },
+    {
+      "start": 221,
+      "duration": 7,
+      "text": "a GPU so instead of shooting paint one little bit  at a time it can shoot in parallel. Basically, the"
+    },
+    {
+      "start": 228,
+      "duration": 6,
+      "text": "physical tools behind AI are extremely powerful  now and they're getting even more powerful, fast."
+    },
+    {
+      "start": 234,
+      "duration": 5,
+      "text": "According to OpenAI, the amount of computing power  used in the largest AI models has been doubling"
+    },
+    {
+      "start": 239,
+      "duration": 6,
+      "text": "every three months. This is why you're seeing  now AIs able to pass the bar exam, make more"
+    },
+    {
+      "start": 245,
+      "duration": 10,
+      "text": "realistic images, answer more complex questions.  It's why this particular type of AI technology is"
+    },
+    {
+      "start": 255,
+      "duration": 3,
+      "text": "\"the risk that could lead to the extinction of humans\""
+    },
+    {
+      "start": 258,
+      "duration": 4,
+      "text": "\"AI is a fundamental existential risk  for human civilization.\""
+    },
+    {
+      "start": 262,
+      "duration": 2,
+      "text": "\"How do we know we can keep control?\""
+    },
+    {
+      "start": 264,
+      "duration": 5,
+      "text": "So we have this technology that can learn. And it's learning fast. And so of course, in large"
+    },
+    {
+      "start": 269,
+      "duration": 4,
+      "text": "part thanks to Hollywood, we imagine that it'll learn to kill us."
+    },
+    {
+      "start": 273,
+      "duration": 3,
+      "text": "\"My CPU is a neural net processor, a learning computer\""
+    },
+    {
+      "start": 276,
+      "duration": 4,
+      "text": "but as much as these systems appear to be human, they're not. Why would they"
+    },
+    {
+      "start": 280,
+      "duration": 7,
+      "text": "want to kill us? They don't want anything. And yet, Bill Gates, Sam Altman, and hundreds of other tech"
+    },
+    {
+      "start": 287,
+      "duration": 5,
+      "text": "leaders recently signed a 22-word statement that  shocked me. I'll just read it to you: \"Mitigating"
+    },
+    {
+      "start": 292,
+      "duration": 8,
+      "text": "the risk of Extinction from AI should be a global  priority alongside other societal scale risks such"
+    },
+    {
+      "start": 300,
+      "duration": 6,
+      "text": "as pandemics and nuclear war.\" That is an incredible  statement, that the development of AI is in the"
+    },
+    {
+      "start": 306,
+      "duration": 6,
+      "text": "same realm of risk and importance as destruction  by nuclear war. To better understand why they feel"
+    },
+    {
+      "start": 312,
+      "duration": 4,
+      "text": "this way I turn to this survey. This is the  same one that's been widely reported as \"half"
+    },
+    {
+      "start": 316,
+      "duration": 6,
+      "text": "of AI researchers give AI a 10% chance of causing  human extinction.\" The specific question that they"
+    },
+    {
+      "start": 322,
+      "duration": 6,
+      "text": "were asked is, \"what probability do you put on  human inability to control future advanced AI"
+    },
+    {
+      "start": 328,
+      "duration": 6,
+      "text": "systems causing human extinction...\" So what's going  on here? Well the surveyors summarized an argument"
+    },
+    {
+      "start": 334,
+      "duration": 5,
+      "text": "for why AI might be so dangerous by saying \"it's  essentially the old story of the genie in the lamp,"
+    },
+    {
+      "start": 339,
+      "duration": 6,
+      "text": "or the sorcerer's apprentice, or King Midas: You get  exactly what you ask for not what you want.\""
+    },
+    {
+      "start": 345,
+      "duration": 6,
+      "text": "Imagine this: In the future someone creates a powerful  machine learning system and gives it the desired"
+    },
+    {
+      "start": 351,
+      "duration": 6,
+      "text": "output of a very accurate climate prediction. Then  the AI, using its self-created rules, figures out"
+    },
+    {
+      "start": 357,
+      "duration": 5,
+      "text": "that the more computing hardware it can use the  more accurate its prediction will be. Then it"
+    },
+    {
+      "start": 362,
+      "duration": 6,
+      "text": "figures out that by releasing a biological weapon  there would be fewer humans taking up the valuable"
+    },
+    {
+      "start": 368,
+      "duration": 6,
+      "text": "computing hardware that it needs. So that's what it  does and then it gives its climate prediction to"
+    },
+    {
+      "start": 374,
+      "duration": 6,
+      "text": "no one left. This is the category of thing that the  researchers mean when they say \"a system optimizing"
+    },
+    {
+      "start": 380,
+      "duration": 5,
+      "text": "a function of n variables will often set the  remaining unconstrained variables to extreme"
+    },
+    {
+      "start": 385,
+      "duration": 5,
+      "text": "values.\" In other words, it might optimize for what  we tell it to do at the expense of other things"
+    },
+    {
+      "start": 390,
+      "duration": 6,
+      "text": "that we care about. \"You get exactly what you ask  for, not what you want.\" The term that researchers"
+    },
+    {
+      "start": 396,
+      "duration": 5,
+      "text": "use for this is \"specification gaming\" and 82%  of the researchers surveyed agreed"
+    },
+    {
+      "start": 401,
+      "duration": 5,
+      "text": "that it was an important or the most important  problem in AI today. Specification gaming leading"
+    },
+    {
+      "start": 406,
+      "duration": 5,
+      "text": "to disaster becomes less likely if we work to  contain AI systems and we don't let them get"
+    },
+    {
+      "start": 411,
+      "duration": 6,
+      "text": "connected to tools that might physically harm  humans. Like don't give them the nuclear codes"
+    },
+    {
+      "start": 417,
+      "duration": 7,
+      "text": "but how likely is anything like this to actually  happen? I honestly don't know and I think neither"
+    },
+    {
+      "start": 424,
+      "duration": 5,
+      "text": "does anyone which is a big reason why all of  those tech CEOs signed that letter and why you"
+    },
+    {
+      "start": 429,
+      "duration": 5,
+      "text": "might have heard people advocating for a pause  on AI development. However, there are real risks"
+    },
+    {
+      "start": 434,
+      "duration": 6,
+      "text": "to not moving forward too. There's a fairly large  and impressive group of people now advocating"
+    },
+    {
+      "start": 440,
+      "duration": 3,
+      "text": "for a pause on AI development. What do you think about that?"
+    },
+    {
+      "start": 443,
+      "duration": 3,
+      "text": "I think it's a terrible idea and the reason for that is"
+    },
+    {
+      "start": 446,
+      "duration": 5,
+      "text": "that a pause would give time for our  competitors which starts with China to catch up."
+    },
+    {
+      "start": 451,
+      "duration": 6,
+      "text": "At the moment the US is in a very strong position.  We have all of the top models, we have the majority"
+    },
+    {
+      "start": 457,
+      "duration": 4,
+      "text": "of the researchers, we have the majority of the  hardware, we have the majority of the data that's"
+    },
+    {
+      "start": 461,
+      "duration": 5,
+      "text": "being used. That's not going to be true forever,  but this is a critical time for us to build this"
+    },
+    {
+      "start": 466,
+      "duration": 5,
+      "text": "technology in American values, liberal values, not authoritarian values.\""
+    },
+    {
+      "start": 471,
+      "duration": 4,
+      "text": "So we've created these tools that have started to become so powerful"
+    },
+    {
+      "start": 475,
+      "duration": 3,
+      "text": "that we're concerned about how well they might do what we ask"
+    },
+    {
+      "start": 478,
+      "duration": 6,
+      "text": "and at the same time every country, every company  is incentivized to build them first with their"
+    },
+    {
+      "start": 484,
+      "duration": 7,
+      "text": "own interests in mind. But why should we want AI  in the first place? Like what's the goal here??"
+    },
+    {
+      "start": 491,
+      "duration": 6,
+      "text": "In my view, the most positive extreme case for AI  that I've heard isn't how much better or faster"
+    },
+    {
+      "start": 497,
+      "duration": 5,
+      "text": "it can do the mundane things that we already do  it's how it could leap frog us to do things that"
+    },
+    {
+      "start": 502,
+      "duration": 5,
+      "text": "we can't. You might be wondering, how? Because of  how incredibly good machine learning systems are"
+    },
+    {
+      "start": 507,
+      "duration": 5,
+      "text": "at pattern matching, they can sometimes give us  results that we can verify are correct but we"
+    },
+    {
+      "start": 512,
+      "duration": 6,
+      "text": "don't totally understand how it got there. It's  funny, it's the same skill that scares us is the"
+    },
+    {
+      "start": 518,
+      "duration": 5,
+      "text": "one that gives this tool such incredible potential. And if you're feeling a little bit skeptical here"
+    },
+    {
+      "start": 523,
+      "duration": 7,
+      "text": "that's totally fine and understandable, I was too,  until I heard this example: In 2021, researchers"
+    },
+    {
+      "start": 530,
+      "duration": 4,
+      "text": "used machine learning on a problem that had up  until very recently been called \"one of"
+    },
+    {
+      "start": 534,
+      "duration": 7,
+      "text": "the most important yet unresolved issues of modern  science.\" It figured out the structure of a protein"
+    },
+    {
+      "start": 541,
+      "duration": 6,
+      "text": "from just amino acid building blocks. For decades,  our best effort to do this has been to spend"
+    },
+    {
+      "start": 547,
+      "duration": 5,
+      "text": "hundreds of thousands of dollars per protein to  shoot X-rays at them all in the hopes of learning"
+    },
+    {
+      "start": 552,
+      "duration": 4,
+      "text": "just a little bit more about our own bodies and  make better medicines. This is how we got new"
+    },
+    {
+      "start": 556,
+      "duration": 6,
+      "text": "treatments for diabetes and sickle cell disease,  breast cancer and the flu, but then researchers"
+    },
+    {
+      "start": 562,
+      "duration": 5,
+      "text": "fed pairs of sequences and 3D structures that we  already knew into a machine learning system and"
+    },
+    {
+      "start": 567,
+      "duration": 6,
+      "text": "allowed it to learn the patterns between them.  And the result was just incredible. We now have"
+    },
+    {
+      "start": 573,
+      "duration": 6,
+      "text": "predicted 3D structures for nearly all proteins  known to science, more than 200 million of them."
+    },
+    {
+      "start": 579,
+      "duration": 2,
+      "text": "\"Deepmind's AlphaFold\""
+    },
+    {
+      "start": 581,
+      "duration": 0,
+      "text": "\"AlphaFold\""
+    },
+    {
+      "start": 581,
+      "duration": 4,
+      "text": "\"AlphFold was able to do in a matter of days what might take years!\""
+    },
+    {
+      "start": 585,
+      "duration": 4,
+      "text": "\"solving an impossible problem in biology...\""
+    },
+    {
+      "start": 589,
+      "duration": 3,
+      "text": "I get a little emotional just thinking about this"
+    },
+    {
+      "start": 592,
+      "duration": 7,
+      "text": "about how many people's lives might actually get  better because of this knowledge explosion. And"
+    },
+    {
+      "start": 599,
+      "duration": 5,
+      "text": "this is just one example of what we've already  been able to do. As machine learning systems"
+    },
+    {
+      "start": 604,
+      "duration": 4,
+      "text": "get better and better, people have extremely high  hopes about what we might be able to use them for..."
+    },
+    {
+      "start": 608,
+      "duration": 5,
+      "text": "\"We have lots of problems in the world. Think about  climate change, for example. Climate change will be"
+    },
+    {
+      "start": 613,
+      "duration": 5,
+      "text": "solved to the degree it's solved by using techniques  that are very complicated and very powerful that"
+    },
+    {
+      "start": 618,
+      "duration": 4,
+      "text": "will have as their basis generative AI. And I think that we want that future.\""
+    },
+    {
+      "start": 622,
+      "duration": 3,
+      "text": "After learning more about AI and this moment that we're in"
+    },
+    {
+      "start": 625,
+      "duration": 4,
+      "text": "I think I've figured out why it feels so confusing and so hard:"
+    },
+    {
+      "start": 629,
+      "duration": 3,
+      "text": "We're living inside a trolley problem."
+    },
+    {
+      "start": 632,
+      "duration": 4,
+      "text": "Down one path is the status quo, life without AI. But"
+    },
+    {
+      "start": 636,
+      "duration": 5,
+      "text": "with this incredible new tool we can pull  ourselves onto another path, one that could"
+    },
+    {
+      "start": 641,
+      "duration": 6,
+      "text": "fundamentally change society. But we just don't  know, at what cost? Will AI give us what we ask"
+    },
+    {
+      "start": 647,
+      "duration": 5,
+      "text": "for or what we actually want? In this video, we've  only talked about the most extreme futures with"
+    },
+    {
+      "start": 652,
+      "duration": 6,
+      "text": "AI. In other episodes, we're going to go deep into  specific applications. We'll go full on Huge If True"
+    },
+    {
+      "start": 658,
+      "duration": 6,
+      "text": "into AI in music and news and robotics and  climate and food and sports and more to explore"
+    },
+    {
+      "start": 664,
+      "duration": 4,
+      "text": "how these tools might transform our world. It's  easy to dismiss it as crazy when you hear someone"
+    },
+    {
+      "start": 668,
+      "duration": 7,
+      "text": "say that AI might be \"more profound than fire or  electricity\" and while the cynical side of my brain"
+    },
+    {
+      "start": 675,
+      "duration": 6,
+      "text": "wants to say that it's probably true that most of  the most ambitious AI efforts will likely fail, the"
+    },
+    {
+      "start": 681,
+      "duration": 4,
+      "text": "more optimistic Huge If True side of my brain just keeps wondering:"
+    },
+    {
+      "start": 685,
+      "duration": 3.0,
+      "text": "What if they actually work?"
+    }
+  ]
+}

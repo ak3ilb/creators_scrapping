@@ -1,0 +1,126 @@
+[00:00] And he confirmed that he was given the green signal to move forward on that track.
+[00:04] Not only this, the next day audio between two railway officers got leaked in which this error was being talked about and this becomes the cause of this accident.
+[00:11] And the connection of this entire accident is stuck on this signal the warning was given way before. The train drivers have to drive the train for continuous 9 hours without using the toilet.
+[00:20] And many drivers have even started using adult diapers. Until the break worked, accident had taken place.
+[00:30] This is India's map in which - here its Odisha and the BALASORE district and there's a railway station in BALASORE district Bahanaga Bazar Railway Station
+[00:39] now what happens is - on 2nd June, 2023 at 3:20 PM train no. 12841 - Coromandel Express leaves from the Shalimar railway station, Kolkata
+[00:49] and this train had to reach Chennai the next day i.e. on 3rd June, 2023 at 4:50 PM on the other hand
+[00:56] train no. 12864, named Howrah Express had already left from Bengaluru a day before i.e. on 1st June, 2023 at 10:35 AM and it had to reach Howrah junction on 2nd June, 2023 of West Bengal in the evening.
+[01:11] Now, the timing of both the trains was such that they wouldn't meet at Bahanaga Bazar railway station.
+[01:17] But since Howrah express was 2 and half hours late - their timing to reach Bahanaga station turns out to be same.
+[01:31] That's why both the trains were in high speed. So, around 6:50 PM - Coromandel Express arrives near this station at a speed of around 128 km/hr
+[01:39] there were total 4 rail tracks on this railways station among which - two were main lines and two loop lines & Coromandel express was travelling in the UP line.
+[01:47] Now what are these UP line & DOWN line? And what is a LOOP line? See, each train has a headquarter that are even written on trains as well.
+[01:53] Suppose a headquarter for any train is Howrah and that train is travelling from Howrah to New Delhi then that is Down Train & when it will be coming to Howrah from New Delhi then it'll be an UP train.
+[02:03] When a train is going far from its headquarters, then at that time it becomes a down train and when its coming back then it becomes an up train.
+[02:10] Generally, the train having odd numbers are Down trains and the trains having even numbers are Up trains.
+[02:16] Now, sometimes it happens that two trains come at a same time on the same track. Then for that case, railway has made loop lines as well.
+[02:23] Suppose, Train A is coming from one side.
+[02:25] And Train B from the other side, then to avoid accidents in between them - Train A will shift to the loop line and when train B would leave then after some time Train A will come back to the main track.
+[02:37] Loop line's length is around 650 meters. This loop line contains a fouling mark at which the train stops.
+[02:44] So, even at Bahanaga station, these were total 4 tracks among which - there was UP line track, Down line track and beside them was
+[02:52] Down loop line & Up loop line had goods train waiting on them Coromandel express arrives from Up line and goes towards loop line
+[02:59] where a goods train was already waiting since earlier and crashes with it.
+[03:02] After crashing 21 coaches get de-tracked and 3 of the coaches get de-tracked and fall upon the two coaches of Howrah express running on the other line.
+[03:10] These 5 coaches suffered the most. According to New York times,
+[03:14] Coromandel express had 1257 passengers in it and Howrah express had 1039 passengers & due to this accident until now, 288 people have lost their lives.
+[03:24] And 803 are injured the survivors of this accident say that, the train was filled with numerous Migrant labours,
+[03:31] students and daily wages workers.
+[03:34] Shashwat Gupta, who was travelling in Coromandel express according to him, the coach had flipped to a 90 degree angle in the air.
+[03:43] After some time, Medical trains reach there as well. The locals helped their best. They reached the area immediately and helped the people.
+[03:49] 900 people were taken to different districts of Balasore. And lot of people donated blood as well. 500 unit of blood was collected in a single night.
+[03:58] Now, all the matter comes to the point that - how did such a huge accident happen? And how did Coromandel express come to the loop line?
+[04:04] If the coromandel express hadn't gone to the loop line from the main track then this accident wouldn't have happened.
+[04:13] They talked to the train's driver - who is safe now and he also confirmed that he received a green signal to move forward on the track and why am I talking about green signal? I'll tell you now.
+[04:22] And he confirmed that he received green signal to move forward on the track. And this was confirmed from the electronic system of the station as well.
+[04:29] After 2 days of the day this accident took place, railway officials indicated as well that this could be signalling error
+[04:39] and not only this, but the next day audio between two railway officers got leaked that this accident was caused due to electronic signalling now, what is this signalling error?
+[04:53] How does a train function? To understand all of it, we need to understand Electronic interlocking system. And even before that, we need to understand how is the entire rail track managed?
+[05:02] When a train arrives near the railway station or arrives at a crossing then there are multiple tracks over there, as different trains travel from different places in the railway station
+[05:13] some trains are arriving, some trains need to stop at the station that's why station consists of multiple tracks and the number of rail tracks in a station depends on how big the station is and how many trains are arriving there.
+[05:24] And which train will leave directly on a railway station, which train will go through its loop line or will wait at the loop line or which train will wait at its crossing
+[05:32] to manage all these things, there's an interlocking system the one which you're looking at - the place from where the train changes the track is called POINT.
+[05:39] The track moving in between is adjusted with the point machine and is used to change the track of the train.
+[05:52] this level system was shifted to cabin. Through these levers, the person who changes tracks is called a point man.
+[05:58] Analyzing all the routes from the railway station, the point man is instructed & he sees if the route is clear or not or of a train is standing on the track
+[06:07] and only then, he changes the track from the lever & shows red or green flag whichever necessary & train changes its direction.
+[06:14] Even in some stations of India, its still being used. There're around 100 small stations in India where this old method is used.
+[06:20] But, in other places it has been replaced with an electronic interlocking system.
+[06:26] Electronic Interlocking system has the same work This system manages the direction in which the train will go.
+[06:32] Electronic Interlocking system has 3 things that takes decision on the train route.
+[06:37] Firstly, Track circuit - Secondly, Point Switch & third - Signal Earlier, as point man used to manually see if the track is clear or not instead of that now we've Track circuit.
+[06:46] It is positioned at the middle of the railway track at regular intervals & its function is to tell if the track is vacant or not.
+[06:52] Basically, it counts the XLs of train wheels and tells how many wheels have passed through that track now with this we come to know if there's train on the track or it has left.
+[07:03] and tells the locomotive pilot - train's driver if he has to change the track when the loop line arrives or if he has to go straight.
+[07:10] You might've seen signals around the train or railway track but when the railway begins to start, then the signal near it
+[07:18] is different from other signals it is called Home signal.
+[07:21] This home signal is controlled by the station master, whereas the rest of the signals that you see around the tracks are controlled automatically
+[07:29] if the station master is turning the home signal red, it means that train has to stop there itself and if he is turning the signal green then the train will cross the railways station without stopping and if he's turning it yellow, then the train will slow down the speed & enter into a loop line.
+[07:41] And the white lights that you see here, tells the direction.
+[07:44] The electronic interlocking system decides the route of the train using - Track circuit, point switch & signal which is automatic.
+[07:52] And this is fail proof, means that if there's a fault in it red light is switched on and trains stop there itself.
+[07:57] As I told that in this entire process, the train's driver doesn't have any role this electronic interlocking signalling system is controlled remotely which is managed from the section office of railway station by signal men,
+[08:08] section control officer & section control heads.
+[08:14] there's an electronic board by which they set the route of the train and everything is set automatically, including the train routes.
+[08:22] Now, coming on to the day of the accident.
+[08:24] On 2nd June, 2023 at around 6:55 PM Coromandel Express arrives near the Bahanaga Railway station, as I told earlier
+[08:33] that when the train arrives the point of track change which is called POINT, at that particular time, home signal was green.
+[08:41] when the green light is on, it means that the train will move straight directly without stopping & cross the railway station through main line but it happens totally opposite.
+[08:49] As soon as Coromandel express reaches the POINT- the place which has two routes for train,
+[08:54] then instead of going through the main line, it reaches the loop line in the same speed and the accident happens. And this is the cause of this entire accident.
+[09:03] According to the computer logic of the electronic Interlocking system that was setup there if this system decides after checking everything that it has to go through main line
+[09:10] only then it'll show the green light now the green light is shown but the train turns to the loop line. Now, it can only happen when the electronic interlocking system has fault.
+[09:19] If there's a fault then, there should've been red light. So, how did the green light turn on?
+[09:22] That's why its being said that, without any external interferences its not possible because this system is all over the world & its 99.9% full proof.
+[09:31] You can also ask that what is the guarantee that the green light had turned on?
+[09:35] Even the railway officers indicated that hey found the history of green light in Computer log and the driver of coromandel express also said that the green light had tuned on
+[09:43] and if you listen to the audio of railway officers that got leaked, then even in that they're telling that - point was setted for loop line but signal was through for main line.
+[09:50] And the other person says that how could it be possible there's another thing in this audio that if someone manipulates it only then this can happen.
+[09:58] And the cause of this entire accident is stuck at this point that someone has done it knowingly or did it happen automatically? As there's black box in airplanes
+[10:05] in the same way, train has a data logger which keeps all the activities, signalling records everything. Those details are going to be released as well.
+[10:12] Only then we might know who the defaulter is.
+[10:15] This case was handed over to the CBI on 6th June, 2023 and the current status is that the enquiry of this entire case will be done by CBI but it stirred controversy as well that how was this case handed over to CBI?
+[10:24] Generally, when these cases take place, the railway's CRS enquires it itself.
+[10:28] CBI interferes only when it has some criminal conspiracy, so the people who're against the CBI enquiry say that the FIR filed in this case has multiple sections but the criminal conspiracy hasn't been talked about anywhere.
+[10:39] According to the FIR, investigation will move in two directions firstly, if its a human error and secondly - if this is a technical failure or not. Its said that when you need to check these two things only,
+[10:49] then why is this case forced upon CBI? I've given the link of the copy of the FIR filed by CBI in the description. Do check it once.
+[10:56] But the accident that took place in Odisha, officials had received a warning long time back on 1st February, 2023 at Hosadurga Station of Mysore division
+[11:04] exact same accident was going to happen in which train no. 12649 Sampark Kranti Express was going to collide with a down goods train by similar conditions
+[11:12] but the train driver's alertness stopped this accident and on the next day of this accident, on 9th February principal Chief operating manager of South Western Zone
+[11:22] wrote a letter regarding it & warned that this is a very serious issue and if they didn't monitor signal maintenance system and corrected it immediately
+[11:30] then it can re-occur in future and few hours before the Odisha incident a meeting was going on named - Chintan Shivir in which our Railway minister was present as well.
+[11:38] The officials who attended that meeting told ThePrint that in that meeting they tried to talk regarding the safety issues but it wasn't allowed
+[11:46] instead the presentations regarding Vande Bharat were started And the train accident that took place in Odisha - CAG had also given an indirect warning about it
+[11:54] CAG basically audits the natters of state and central government it detects the loop holes in government projects, makes a report which is sent to Parliament and then to the president.
+[12:05] I have read this report and according to it, in the Bahanaga bazaar railway station area whatever be the cause of the accident but the safety measures in this area were improper since 2016
+[12:15] has never been used in the Odisha area just look at the last line of Page 24 of the CAG report its written that - ECoR, the shortfall was up to 100%.
+[12:25] Shortfall up to 100% means that the ultrasonic floor detection has never been used in the region of Odisha.
+[12:31] ECoR means East Coast Railway - Bahanaga bazar railway station where the accident took place comes under this zone. So, furthermore whenever you see ECoR written in the report you can understand that its being talked about that place.
+[12:41] Its also said in the report that track recording cars whose work is to look out the safety of tracks - if there's any problem or not have never been used between 2017-2021.
+[12:52] Just look at this table. The last ECoR column in it, the number of inspections is 0 - not even once. Means the track recording cars didn't run in those area.
+[13:01] The accidental enquiry done after each train accident has been delayed 63% and each year the fund given for railway safety hasn't been used as well.
+[13:10] If we talk about the time period of 2017-2021 then 78.88 % hasn't been used that was allotted for the safety of railway, it was kept as it is.
+[13:19] Along with it, there's a shortage of employees in railway In march 2023, Times of India files an RTI through which we came to know that among 39 railway zones most of the railway zone and production unit doesn't have required employees.
+[13:32] Among 14,75,623 Group C posts in railway, more than 3.11 lakh posts are vacant due to which there's difficulty in operation
+[13:45] and most of the drivers have started using adult diapers. Let's discuss about Kavach as well since its being talked about.
+[13:51] 'Kavach' is such a system for which every Indian is very proud because its our own manufactured automatic train production system we'll further export it to other countries as well in future.
+[14:01] It was launched in 2022 and now until January 2023, the track of length 1455 km has been protected by it but still lot of work is to be done.
+[14:10] Actually, Kavach stops two trains from colliding with each other.
+[14:13] And if there's an issue with driver, technical or weather related issue then it prevents the accident it stops the train there itself by putting up break, if by mistake two trains are on the same track opposite of each other
+[14:23] and if we put Kavach in both the trains, then automatically break would be applied some time before but the Bahanaga station
+[14:31] the way Odisha accident happened, even if Kavach was installed- even then it couldn't have stopped the accident because Kavach system needs a distance to work.
+[14:38] And when the rain went into the loop line in the Odisha accident, it was in high speed.
+[14:42] The distance was very small in between the goods train and the passenger train it takes time for the train to stop and until the break was applied the accident would have taken place.
+[14:54] what had happened in that case.
+[14:56] Not only in India, but the entire world has this tradition that whichever transport minister is there be it his fault or not, he is made responsible for the entire incident.
+[15:04] Now, in this year in March when the train accident took place in Greece 36 people died in the incident then the transport minister of Greece Kostas Karamanlis had resigned as well.
+[15:12] If we talk about India then in 1956, Lal Bahadur Shastri ji was the railway minister there were 2 accidents, once 112 people died and secondly, 144 people died.
+[15:23] Taking the responsibility, he gave the resignation. Once Nehru didn't accept it but on the second time he did.
+[15:28] In 1999m when Gaisal train accident occurred in which 290 people died Nitesh Kumar resigned but Atal Bihari Vajpayee didn't accept it but after that he said, its my fault - that's why I'm resigning it.
+[15:40] Another accident took place in 2000 as well, in which 43 people died then Mamta Banerjee was the railway minister that time.
+[15:45] She resigned as well but Atal Bihari Vajpyee didn't accept it In 2016, during the de-railing of Patna-Indore Express almost 150 people died in it.
+[15:55] Then Suresh Prabhu had resigned but Narendra Modi didn't accept it.
+[15:58] So, in the current case it seems the same way, that maybe the resignation will be there but as it wasn't accepted earlier, similarly it won't be accepted this time as well.
+[16:05] And some people even believe that the biggest rail accident has happened this time railway needs its railway minister the most.
+[16:11] Resignation will be discussed later on but the other part says that Ashwini Vaishnav has been over burdened. He has multiple ministries like railways,
+[16:20] telecom and infotech. He isn't bale to focus that's why he should leave one department.

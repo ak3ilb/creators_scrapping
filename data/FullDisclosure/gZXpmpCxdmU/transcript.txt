@@ -1,0 +1,26 @@
+[00:00] India just launched three sovereign AI
+[00:02] models and one of them is beating Deep
+[00:04] Seek and Google Gemini on key
+[00:06] benchmarks. Follow full disclosure and
+[00:08] I'll break this down for you. At the
+[00:09] India AI impact summit, three Indian AI
+[00:12] companies unveiled models designed to be
+[00:14] trained, deployed, and governed entirely
+[00:17] within India. First, Serum AI launched
+[00:19] two large language models, a 30 billion
+[00:22] parameter model and a 105 billion
+[00:25] parameter model. The 105B model is
+[00:27] reportedly matching or outperforming
+[00:29] DeepSeek V3 and Google Gemini Flash on
+[00:32] several benchmarks. Second, Gani AI
+[00:34] unveiled Vajna TTS, a textto-spech model
+[00:38] that can clone human voices across 12
+[00:40] Indian languages using under 10 seconds
+[00:42] of reference audio. Third, Bhat Jen, an
+[00:46] IIT Bombayled consortium, launched a 17
+[00:49] billion parameter multilingual model
+[00:51] optimized for Indic languages. It's open
+[00:54] source and designed for governance,
+[00:55] healthcare, agriculture, and enterprise
+[00:58] use cases. What are your thoughts on
+[00:59] sovereign AI?

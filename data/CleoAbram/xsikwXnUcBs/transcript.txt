@@ -1,0 +1,217 @@
+[00:00] Okay, ready?
+[00:02] Today we're going to take the stuff that's in those boxes and we're going to
+[00:09] How do you introduce yourself?
+[00:10] I don't know! "Person who makes things and has a lot of tools
+[00:14] and a place we can mess up?"
+[00:15] And this is David. Davis is the reason we can actually do this because Simone and I
+[00:18] don't know what we're doing here...
+[00:21] Talk about yourself!
+[00:23] David runs a real kind of nuclear fusion
+[00:25] they're building massive devices that could in the future create electricity that people could actually use
+[00:30] Well, today we're going to be building a fusor
+[00:32] which is not commercial scale, it's much smaller, but if we're successful, we'll be
+[00:36] able to build this system today, get it running and do fusion...
+[00:39] In my backyard!
+[00:49] we're taking two particles and at a very high energies we're forcing them
+[00:53] together where they fuse and form a heavier particle but that takes high
+[00:56] energies to do. So we'll be using high voltage today, so it's important we talk
+[01:00] about how we safely approach high voltage to make sure that we can do this safely.
+[01:04] Is it okay that I have metal plates in my head?
+[01:06] First rule is don't touch it with two hands, second rule is don't put your head in it.
+[01:10] I just won't touch it with my head, I think I can avoid that yeah...
+[01:13] The fun thing about this, the wrinkle in all of this is David - he's not allowed to touch anything so
+[01:19] David No Hands is going to instruct us on how to build a fusion device.
+[01:23] I feel like this mostly has to do with our ego and no practical...
+[01:26] Yeah! We're gonna build it we just need David to tell us how...
+[01:31] He's the brain, we're the hands.
+[01:32] Yes I like that...
+[01:42] So now what is that we're gonna take that chamber and we're gonna
+[01:46] rotate the turbo pump...
+[01:49] Okay how does that look?
+[01:50] I think it looks great but I also don't know what I'm doing.
+[01:54] At this point we should put on gloves.
+[01:58] What is this device called?
+[02:01] George.
+[02:03] We're building a Farnsworth fusor, it's a
+[02:06] very compact small device to do some amount of fusion. You're building a
+[02:10] vacuum chamber, all fusion devices have these - a stellarator-type fusion has a
+[02:14] really twisty turny one. Helion's devices are cylindrical. A tokamak has a more of
+[02:19] a donut, it's got a d-shaped cross section...
+[02:23] So I know that in order to do fusion, we're confining plasma and I know
+[02:27] that the sun does this with gravity
+[02:29] "gravitational confinement" and then two sort of broad categories of how humans do
+[02:34] this are "magnetic confinement" and "inertial confinement." Magnetic confinement uses
+[02:39] magnets to confine plasma and one kind of inertial
+[02:42] confinement is using lasers to push the plasma close together and then things
+[02:45] fuse. So my question is: What method is this device using?
+[02:49] This one uses something called "electrostatic inertial confinement." In this case, we're going to
+[02:54] take two deuteriums, which is a neutron and a proton, and they fuse together to
+[02:58] form helium-4 which has two protons and two neutrons, this bigger molecule that
+[03:02] then is really hot and that's how we take the energy out of that particle. We
+[03:06] do it in a spherical way where the ions stream in from all angles to a center
+[03:12] core and as they collide, they fuse and each of those fusion reactions will
+[03:17] produce tremendously more energy than it took to actually fuse them together. The
+[03:22] channel challenge with that is that in a particle accelerator you only take one
+[03:26] or packet of a couple hundred and so yes you can make fusion, but you can't make
+[03:30] enough to counteract all the energy you spent on the electronics to make that thing happen.
+[03:34] So just to repeat this back to you, the challenge that we're having
+[03:38] with fusion right now we can get an enormous amount of energy out of the
+[03:42] actual react- the atomic reaction but we are having trouble getting more total
+[03:49] electricity out of the system that we create to do it in the first place.
+[03:53] That's right.
+[03:53] Awesome, okay I understand the problem.
+[03:58] This is deuterium!
+[04:04] We are just pros at this, we just... well I shouldn't say that...
+[04:08] Let's be humble for a little bit longer, I'll let you know when we can stop being humble.
+[04:13] Like what are we gonna do next time we hang out to top this?
+[04:17] Are you gonna be disappointed if next time I come over we just have coffee?
+[04:22] How do we know when fusion is happening in the middle? Like what are we looking for at that moment?
+[04:26] Yeah so what we're looking for is a couple of things:
+[04:30] Mostly what we do is, we know how hot it is, we know how much energy all those
+[04:34] particles have and they come together they collide and so we know that they
+[04:37] must be doing fusion.
+[04:38] Why is it pink?
+[04:39] The color that you see is actually not pink at all, it's totally not pink
+[04:42] It looks pink, it's blue and red at the same time.
+[04:46] There's a blue photon and a bright red photon and when your eye sees those two
+[04:51] photons together it looks like that pink color, you get that fuchsia color that is
+[04:55] that the deuterium plasma being made.
+[04:57] Dope!
+[05:01] Are these are all good sounds?
+[05:02] These are all good sounds! All good.
+[05:05] Now what?
+[05:06] So now we're going to plug in that roughing pump...
+[05:11] [WHIRRRRRRRR]
+[05:13] Ah!
+[05:13] Good?
+[05:14] Yep that's good.
+[05:16] So the next step is you can open that and it'll suck the air out of the two pumps
+[05:20] [GROWWWWWWLLLLLL]
+[05:23] Now you can open that, it looks like it's a little open already
+[05:29] [HISSSSS GRRRRRRRR]
+[05:31] Ah! So there you go, it actually tightens those you can see that it's starting to
+[05:35] come down a lot faster... so that was probably leaking a little bit.
+[05:39] Alright, so now we have pumped all of the air out right?
+[05:45] Yeah we're ready we can hook up the fusion fuel and the fusion power supplies
+[05:49] and start to do fusion.
+[05:50] Yeah? Awesome. Let's do it. What's the first step?
+[05:53] Fusion fuel!
+[05:56] Got my fusion fuel here, I'll show you -
+[05:58] OH!
+[06:01] Why did the sound change?
+[06:03] [WHEEEEEEEEEEEE]
+[06:07] We lost a breaker! Here let me turn the breaker back on
+[06:10] [POP!! HISSSSSS]
+[06:14] That was a bad sound! We popped the fuse on that...
+[06:17] and then that shut all the power down and then it started leaking air in. We're gonna let it come back down...
+[06:23] Unplug everything and plug it in straight there...
+[06:26] We popped a fuse so the air that we sucked out of the chamber where we want
+[06:30] to do the fusion all rush back in and you can't do fusion with a bunch of air
+[06:34] molecules in there so we've shut everything down, we rerouted the pumps
+[06:37] and we vacuumed the air back out again.
+[06:41] I'm so scared of it or I feel like I'm like all skittish and I'm like ready to bounce
+[06:45] Now what we're going to do is we're going to start introducing the
+[06:49] fuel into the chamber. We're just going to turn it slowly so we get to use to
+[06:53] what it's going to sound like...
+[06:54] I did those!
+[06:56] Rock Paper Scissors Shoot...
+[06:59] That's it okay, open slowly
+[07:06] And you can close it and then it should... now it's pumping the
+[07:10] gas back out... so a lot of a lot of fusion is listening to the machine.
+[07:15] Next we need to get out the power supply...
+[07:18] Now begins the Do Not Die section.
+[07:21] But as soon as the plasma starts, it'll
+[07:23] start to flow current. So there's enough voltage to start the plasma but then
+[07:27] once it starts going we keep the current low so it doesn't have too much.
+[07:31] Okay we're gonna test this right now. High voltage is on! Ready? We're at 1000 volts...
+[07:36] There's 2000 volts...
+[07:38] 3000 volts...
+[07:40] 4000 volts...
+[07:42] 6000 volts... okay open really slowly really slowly
+[07:50] One hand...
+[07:52] I heard something!
+[07:52] Slower than that! Still but really slow...
+[07:55] My heart is beading so fast...
+[07:59] AHHHHHH!!!!!!
+[08:01] IS SOMETHING HAPPENING???
+[08:02] IT'S HAPPENING!!!!
+[08:04] It's all sci-fi stuff!!
+[08:06] Okay now close it...
+[08:07] Close it? To the right okay to the right...
+[08:10] [GASP] Am I in the way??
+[08:13] [GAAAASP]
+[08:15] Oh now it died. What happened? Why did it die?
+[08:17] So we went all the way up in pressure to where there was enough
+[08:20] particles to make a plasma and then just to show it we then came all the way back down...
+[08:25] Why didn't we stay????
+[08:26] So you're gonna have to get more fine on your gas control...
+[08:29] Okay!
+[08:31] Like really fine! High voltage on. Gas, just a little bit of gas, really slow...
+[08:38] It's coming up... it's lit, now turn to the right
+[08:40] slow it down, real slow..
+[08:43] AAAHHHHWWWWAAAHHHH
+[08:45] Oh my god Cleo, you gotta look at this thing
+[08:48] it looks unlike anything I've ever seen!!
+[08:49] Turn to the right, slow, oh you're dialing really...
+[08:52] Switch the gauge around and then I would adjust the gas pressure.
+[08:57] So the problem that we were having before was that I was too clammy hands on
+[09:01] the gauge there so I was causing it to sort of jump around and not have
+[09:07] the right amount of all of the things it needed for the right amount of time.
+[09:10] We've swapped some things around to make it easier to control now and we're gonna
+[09:15] try it again. Cecause the key is we have to get it up to the right temperature
+[09:18] for long enough to know that we actually did fusion.
+[09:24] This valve's harder than, yeah [VALIDATION]
+[09:27] GASP-AHHHH!!!
+[09:29] Wait it was there, it was there!
+[09:31] It's gone now...
+[09:32] SQUEEEEEEAAAAL!!!!
+[09:35] Nice core on the jet, a single jet with a single pinch, and so what you're really
+[09:40] seeing here is the ions those charged particles that are flowing around that
+[09:44] haze are getting focused in and blasting in, it's not actually coming out it's
+[09:48] going in. Those ions are coming in to the core and as they come through and they
+[09:53] hit things, they ionize and form more plasma.
+[09:56] There's two kind of like pinch points on the beam... like there's another thinner point
+[10:02] Oh wow wow this is pretty awesome.
+[10:04] It is pretty awesome.
+[10:06] So at this point we're now at the right densities and pressures and voltage so we should be
+[10:11] creating fusion right now.
+[10:12] Is it? Is it happening?
+[10:13] It's happening right now.
+[10:15] Oh my god...
+[10:16] And probably in those pinch points and a little bit in the core too.
+[10:19] What's happening as it evolves?
+[10:20] So now it's starting to run out of gas, there's not enough ions around
+[10:24] to actually drag in and collide with the gas...
+[10:27] This is amazing. Oh my God.
+[10:31] And eventually the gas will decay enough
+[10:33] that there won't be enough to even sustain a plasma at all... so right now we
+[10:36] have a core and this like tiny little jet...
+[10:38] I wonder if like two generations down this is going to be the equivalent of like watching your
+[10:44] like washing machine go, where you're like "oh my god that's so cool"
+[10:49] Hot tip: If your friend's ever like, "hey can we do fusion in your garage?" Say yes!
+[10:54] Be the crazy friend that says yes.
+[10:57] Be the even crazier friend that asks.
+[11:00] Wait so now can we say we did fusion?
+[11:02] Yes you can say that.
+[11:03] YESS!!!!!!
+[11:04] WE DID FUSION!!!!!
+[11:06] At that accelerating voltage, pure deuterium, at this pressure, there was fusion.
+[11:10] In my workshop!!
+[11:12] We did fusion in Simone's workshop...
+[11:14] Holy [Bleepedy bleep bleep]
+[11:17] What the fusion.
+[11:24] So we've done all of this, we've built this device, we've done fusion in
+[11:28] Simone's workshop, like how should people understand what we did here in
+[11:31] comparison to what companies like yours and government projects are trying to do
+[11:34] with nuclear fusion and like how this might get them electricity sometime in the future?
+[11:38] It's a great question. So we built a fusor today but this is not a
+[11:43] commercial electricity system. Commercial electricity systems are going
+[11:47] to be larger, they're going to be more complex but what we are seeing is that
+[11:50] the rate of progress of the technology as such that now private companies
+[11:54] governments are now building systems that do commercial levels of fusion
+[11:59] already and so now it's a matter of us building systems and getting them on the
+[12:03] grid as fast as possible. What I believe and Helion believes is that we are close
+[12:07] enough to start thinking about having electricity on the grid from fusion in
+[12:10] our lifetimes and I want it much sooner than that.
+[12:13] Huge if true!
+[12:16] Thanks Simone for lending us your workshop, thank you for coming, thank you to the team at Helion -

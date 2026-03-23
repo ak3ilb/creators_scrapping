@@ -1,0 +1,382 @@
+{
+  "video_id": "DecYIeB44aE",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 12,
+      "text": "\"Spot, can you come over here and say hi?\" \"Oh my god\""
+    },
+    {
+      "start": 12,
+      "duration": 9,
+      "text": "\"Hello! Wow, the instinct to pet it is... strong.\" You might think that you already know Spot, Boston Dynamics famous robot dog..."
+    },
+    {
+      "start": 21,
+      "duration": 10,
+      "text": "Maybe you saw this video of it opening a door, or this one of it dragging a truck, or any of the many videos of it dancing. But now this robot has hit a huge milestone..."
+    },
+    {
+      "start": 31,
+      "duration": 5,
+      "text": "Spot got a job! These robot dogs are  now out in the real world doing real work for"
+    },
+    {
+      "start": 36,
+      "duration": 6,
+      "text": "fire departments and factories, defunct nuclear  power plants, deep mines, and more controversially"
+    },
+    {
+      "start": 42,
+      "duration": 10,
+      "text": "police departments. You might already be starting  to see robot dogs just walking around and even if you're not they're starting to affect your  life. That's why we're here at Boston Dynamics."
+    },
+    {
+      "start": 52,
+      "duration": 8,
+      "text": "We're going to put Spot to the test to show you what it's really capable of and how our future could be better with robot dogs... \"Spot!\" \"Spot\""
+    },
+    {
+      "start": 60,
+      "duration": 8,
+      "text": "\"Spot...\" \"Omnidirectional robot\" \"Can be used in a variety of situations...\" \"Several police departments are trying them out...\" \"A ton of people are amazed by it...\""
+    },
+    {
+      "start": 68,
+      "duration": 5,
+      "text": "\"That was very cool.\" \"Robot dog was sent to Chernobyl...\" \"And there's a lot of people who think this is terrifying\""
+    },
+    {
+      "start": 73,
+      "duration": 8,
+      "text": "\"This four-legged robot dog....\" \"Spot has attracted the attention of the military and the police.\" \"They haven't seen machines move like this before\""
+    },
+    {
+      "start": 81,
+      "duration": 10,
+      "text": "\"Woah! That's a whole different situation!\""
+    },
+    {
+      "start": 91,
+      "duration": 9,
+      "text": "[Whistles for robot dog]"
+    },
+    {
+      "start": 100,
+      "duration": 13,
+      "text": "Spot is Boston Dynamics flagship consumer  robot. It's cute, it's durable, and it's the cousin to Atlas, the humanoid  robot that we bullied in our last video..."
+    },
+    {
+      "start": 113,
+      "duration": 1,
+      "text": "I'm still sorry!"
+    },
+    {
+      "start": 114,
+      "duration": 11,
+      "text": "But this robot is just for research. This one is for work. Companies are are shelling out anywhere from $75 to $300,000  per robot to have Spot on their team. But to do"
+    },
+    {
+      "start": 125,
+      "duration": 13,
+      "text": "what exactly? Well, if you list out some of the  jobs that Spot is doing for these companies you'll start to see a pattern: At the Purina dog  food factory, Spot is inspecting packaging for air leaks. On an oil rig in the Gulf of Mexico,  Spot is inspecting equipment for corrosion."
+    },
+    {
+      "start": 138,
+      "duration": 9,
+      "text": "In the ancient ruins of Pompeii, Spot is inspecting  grave robber tunnels for the Italian police. And in the remains of the Fukushima nuclear power  plant, Spot is inspecting areas for radiation"
+    },
+    {
+      "start": 147,
+      "duration": 8,
+      "text": "levels and for safety. I've started thinking  about this robot as \"Inspector Spot.\" This is the Inspector Gadget song... [duh nah nah nah nah Inspector Gadget....]"
+    },
+    {
+      "start": 155,
+      "duration": 5,
+      "text": "Duh nah nah nah nah Inspector Spot! [Cough] Where were we?"
+    },
+    {
+      "start": 160,
+      "duration": 7,
+      "text": "Some of Inspector Spot's jobs are dangerous for humans. Some are better with more constant or reliable inspection. Some are just"
+    },
+    {
+      "start": 167,
+      "duration": 10,
+      "text": "incredibly boring. So it makes sense that a  robot might be helpful. But why a robot dog as opposed to a robot on wheels? Well its jobs  are in places mostly designed for humans. Okay"
+    },
+    {
+      "start": 177,
+      "duration": 11,
+      "text": "then why not a humanoid robot? Well, right now  four legs are more stable than two and easier to coordinate than six. Basically, dogs are  perfect... but we knew that already!"
+    },
+    {
+      "start": 188,
+      "duration": 9,
+      "text": "But you can't just hire Inspector  Spot, put it in your factory, and say \"go find air leaks.\" Currently, Spot needs a step-by-step  demonstration before it can then do its job."
+    },
+    {
+      "start": 197,
+      "duration": 5,
+      "text": "You have to drive it manually through a specific  \"mission,\" and then it can repeat it autonomously."
+    },
+    {
+      "start": 202,
+      "duration": 13,
+      "text": "This includes the ability to improvise to achieve  its goals, allowing it to adjust in real time to avoid things like new obstacles. And there's  no better way to show that than by taking Spot on an obstacle course..."
+    },
+    {
+      "start": 215,
+      "duration": 9,
+      "text": "Takin' my dog to the park! It's gonna get to play with other dogs..."
+    },
+    {
+      "start": 224,
+      "duration": 6,
+      "text": "Okay, what I'm going to do right now is I'm  going to ask Spot to go there and we'll see how it"
+    },
+    {
+      "start": 230,
+      "duration": 5,
+      "text": "deals with that. So I'm seeing what Spot is seeing...  I'm just going to ask it to go to the end of these"
+    },
+    {
+      "start": 235,
+      "duration": 10,
+      "text": "rocks. And this really shows the difference  between what it's doing autonomously and"
+    },
+    {
+      "start": 245,
+      "duration": 9,
+      "text": "what it's doing because I've asked it  to. I've given it a mission, \"get to the end of these rocks,\" but it's figuring  out how to actually do that..."
+    },
+    {
+      "start": 254,
+      "duration": 8,
+      "text": "You got it, bud! By the way, while I'm teaching this Spot  a new mission, that Spot is just casually on a"
+    },
+    {
+      "start": 262,
+      "duration": 9,
+      "text": "mission that someone taught it days ago. It's  funny, the experience of driving Spot felt a lot like playing my Nintendo Switch. And while  the robot is fairly intuitive to pilot,"
+    },
+    {
+      "start": 271,
+      "duration": 8,
+      "text": "things don't always go as planned... May I try to do things that might cause it to fall down? \"Um!\""
+    },
+    {
+      "start": 279,
+      "duration": 18,
+      "text": "\"Yeah you can like go over the rocks and stuff, and a little bit of this rubble...\" \"Okay!\" \"You got it!\""
+    },
+    {
+      "start": 297,
+      "duration": 8,
+      "text": "I can see it looking around at the camera... It thinks it's stuck. Should I help it out?"
+    },
+    {
+      "start": 305,
+      "duration": 10,
+      "text": "Hey! I'm not trying to make it fall anymore... Sorry!!"
+    },
+    {
+      "start": 315,
+      "duration": 11,
+      "text": "If there is ever a robot uprising in the future, I am so on their list. Okay, I'm gonna self-right it..."
+    },
+    {
+      "start": 326,
+      "duration": 7,
+      "text": "Wow! Okay! I feel proud of it..."
+    },
+    {
+      "start": 333,
+      "duration": 8,
+      "text": "The missions that we gave our Spot are  fairly simple walking loops, but Inspector Spot can do much more on the job. For example, some companies are developing software to give"
+    },
+    {
+      "start": 341,
+      "duration": 9,
+      "text": "Spot the ability to identify a person lying down. Imagine the robot is regularly checking a factory and happens on someone who's gotten electrocuted. Identifying that that's a person, Spot could get"
+    },
+    {
+      "start": 350,
+      "duration": 8,
+      "text": "help. Spot is incredibly robust and it's built  to protect itself from injuries like falling down stairs..."
+    },
+    {
+      "start": 358,
+      "duration": 11,
+      "text": "What Spot can do depends on what equipment it's carrying on its back, and and there are a bunch of options. To start, all Spots come with a set of cameras to see the world.  \"So Spot has these five stereo cameras. It's got"
+    },
+    {
+      "start": 369,
+      "duration": 7,
+      "text": "two in the front, here. It's got one on each side,  and then it's got one in the booty.\" Yep! Spot's got eyes in it's butt."
+    },
+    {
+      "start": 376,
+      "duration": 4,
+      "text": "Then, depending on the job that you want Spot to do, you can add additional senses:"
+    },
+    {
+      "start": 380,
+      "duration": 8,
+      "text": "So, thermal camera, acoustic sensor, get around  unexpected things. \"Yeah, enhanced autonomy payload."
+    },
+    {
+      "start": 388,
+      "duration": 9,
+      "text": "some Lidar, all that good stuff.\" Awesome. You can add a bunch of different payloads to Spot, but the one that I really wanted to see was  the arm. This was one of the coolest things that"
+    },
+    {
+      "start": 397,
+      "duration": 13,
+      "text": "they demo-ed: Spot can open doors! You might  have seen these viral clips online but to see it in person was like something out of a sci-fi  movie. So I just click \"open door,\" right? Open door..."
+    },
+    {
+      "start": 410,
+      "duration": 19,
+      "text": "Can it go through the door it just opened? ... Whaaaaat!"
+    },
+    {
+      "start": 429,
+      "duration": 1,
+      "text": "That was very cool."
+    },
+    {
+      "start": 430,
+      "duration": 9,
+      "text": "See, this is why Spot is so fascinating. It can do things that other robots can't. It's figuratively opening doors to  a future where robots can navigate our world"
+    },
+    {
+      "start": 439,
+      "duration": 15,
+      "text": "just as well as we can. \"This type of a robot is  used at Fukushima. So it's actually going into areas that haven't been, there's been no humans  in since 2011.\" To navigate the Fukushima nuclear power plant, Spot used an arm to open doors and  collect samples, a monitor to measure radiation,"
+    },
+    {
+      "start": 454,
+      "duration": 8,
+      "text": "plus cameras and lights to show people what it was  seeing. In complex new situations like that it's often being manually driven with automated help  like we showed in the dog park. Spot was remote"
+    },
+    {
+      "start": 462,
+      "duration": 12,
+      "text": "controlled in a similar way in 2021 for example  by the New York Police Department to find a man hiding in a building after shooting someone over  a parking space. From the photos, it looks like it was being piloted by these police officers and  using what appears to be a thermal camera."
+    },
+    {
+      "start": 474,
+      "duration": 9,
+      "text": "\"Spot's a platform and you can put all different kinds of  payloads on, whether they're an arm or they're one of these sensing or computation payloads. There's  a lot of flexibility and a lot of our customers"
+    },
+    {
+      "start": 483,
+      "duration": 12,
+      "text": "are actually developing on Spot and building  new payloads.\" Stop right there. That's the key to this whole story. That idea, that robot dogs as  a technology are a \"platform\" for people to build"
+    },
+    {
+      "start": 495,
+      "duration": 11,
+      "text": "new capabilities on top of, which means people  are going to be able to come up with their own uses of this technology, for better... and for worse.  That is not a Spot made by Boston Dynamics. There"
+    },
+    {
+      "start": 506,
+      "duration": 9,
+      "text": "are lots of videos online of people buying robot  dogs from other companies and putting whatever they want on top. Spot's ancestors, early quadruped  robots from Boston Dynamics, were funded by the"
+    },
+    {
+      "start": 515,
+      "duration": 5,
+      "text": "US military. They were hoping for a robotic pack  mule that could carry supplies in rough terrain"
+    },
+    {
+      "start": 520,
+      "duration": 11,
+      "text": "but it was way too loud. As four-legged robot tech got  better though, the US military got more interested and other companies like Ghost Robotics are now  building this tech for military use. For example,"
+    },
+    {
+      "start": 531,
+      "duration": 5,
+      "text": "in 2020 the Air Force partnered with ghosts to  use robot dogs as inspectors on Tyndall Air Force Base,"
+    },
+    {
+      "start": 536,
+      "duration": 9,
+      "text": "notably though not carrying weapons. Still, the \"robot dogs with weapons\" future is not hard to imagine especially if you've seen Black Mirror.  Boston Dynamics recently signed a pledge saying"
+    },
+    {
+      "start": 545,
+      "duration": 8,
+      "text": "no general purpose robots like Spot should be  weaponized and they believe other companies should commit to that too. I asked them about that. \"We believe strongly in anti- weaponization stances"
+    },
+    {
+      "start": 553,
+      "duration": 11,
+      "text": "with robots and we believe that all robotics  companies should be putting themselves behind these pledges to keep robots improving our quality  of life.\" But it's clear that not all companies"
+    },
+    {
+      "start": 564,
+      "duration": 10,
+      "text": "agree on what the purpose of robot dogs is. And  beyond weaponization, people strongly disagree about what other jobs Spot should have. For  example, should an unarmed robot dog walk ahead of"
+    },
+    {
+      "start": 574,
+      "duration": 15,
+      "text": "firefighters or police into dangerous areas? Would  you feel differently if it was a wheeled robot? If Spots can identify a person having a health crisis, would you want Spots patrolling a city? Does it matter if they're collecting video? Does it matter  if there's already video cameras in that same area?"
+    },
+    {
+      "start": 589,
+      "duration": 4,
+      "text": "I am genuinely not sure how we should use robot  dogs. It's up to all of us to decide together."
+    },
+    {
+      "start": 593,
+      "duration": 10,
+      "text": "But after spending a day with these robots, it's  clear to me that there's potential here to make our lives better. They already are: double-checking  for safety, going where it's dangerous, seeing what"
+    },
+    {
+      "start": 603,
+      "duration": 11,
+      "text": "we can't. More long-term, we're likely to combine  technologies to unlock new jobs for Spot. Just watch what happens when Boston Dynamics adds ChatGPT: \"Greetings good sirs! The charging stations"
+    },
+    {
+      "start": 614,
+      "duration": 5,
+      "text": "where Spot robots rest and recharge is our first point  of interest. Follow me gentlemen...\" In the future, I"
+    },
+    {
+      "start": 619,
+      "duration": 7,
+      "text": "think that robots with legs will feel to us like  airplanes felt to our grandparents. Totally magical"
+    },
+    {
+      "start": 626,
+      "duration": 6,
+      "text": "and kind of terrifying but completely normal  to our kids. All of that said, that better future"
+    },
+    {
+      "start": 632,
+      "duration": 10,
+      "text": "with robot dogs isn't guaranteed. If this  technology really is a platform, then it's up to all of us to decide how it fits into our  changing world. And at the end of our tour, I met"
+    },
+    {
+      "start": 642,
+      "duration": 16,
+      "text": "a new friend who reminded me: some things never  change. \"Yes, this is a lie down mission...\""
+    },
+    {
+      "start": 658,
+      "duration": 8,
+      "text": "Inspector Spot! This episode is part of Huge If True, which is our journalistically rigorous, genuinely optimistic"
+    },
+    {
+      "start": 666,
+      "duration": 3.0,
+      "text": "show about technology and the future. If you like this kind of video and you want to support us, the  best thing that you can do is to subscribe, and if you want to see our episode with  Boston Dynamics Atlas robot, the humanoid"
+    }
+  ]
+}

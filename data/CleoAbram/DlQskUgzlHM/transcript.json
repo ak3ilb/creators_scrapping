@@ -1,0 +1,832 @@
+{
+  "video_id": "DlQskUgzlHM",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 4,
+      "text": "So if for whatever reason... we're not going to have to jump out of the plane but"
+    },
+    {
+      "start": 4,
+      "duration": 1,
+      "text": "if for whatever reason we DO have to jump -"
+    },
+    {
+      "start": 5,
+      "duration": 1,
+      "text": "You're getting this, right?"
+    },
+    {
+      "start": 6,
+      "duration": 3,
+      "text": "That's me, learning to jump out of a plane."
+    },
+    {
+      "start": 9,
+      "duration": 2,
+      "text": "Specifically, THAT plane."
+    },
+    {
+      "start": 11,
+      "duration": 4,
+      "text": "But before we get to that let me back up..."
+    },
+    {
+      "start": 15,
+      "duration": 4,
+      "text": "So I recently went to Vermont to visit this  company called Beta and they've gotten a lot"
+    },
+    {
+      "start": 19,
+      "duration": 2,
+      "text": "of attention recently because they're building  a new kind of airplane"
+    },
+    {
+      "start": 21,
+      "duration": 2,
+      "text": "not this one... but THIS one"
+    },
+    {
+      "start": 23,
+      "duration": 3,
+      "text": "and the thing that's so cool about the plane  that they're building is"
+    },
+    {
+      "start": 26,
+      "duration": 1,
+      "text": "it's electric."
+    },
+    {
+      "start": 27,
+      "duration": 1,
+      "text": "\"The electric aircraft -\""
+    },
+    {
+      "start": 28,
+      "duration": 3,
+      "text": "\"Flying electric vehicle take off  and landing aircraft -\""
+    },
+    {
+      "start": 31,
+      "duration": 2,
+      "text": "\"Combination of a helicopter and a plane -\""
+    },
+    {
+      "start": 33,
+      "duration": 5,
+      "text": "Now when I think of electric airplanes I think of  those like tiny two-seater toy looking things"
+    },
+    {
+      "start": 38,
+      "duration": 5,
+      "text": "Very cool but very small. I thought that the  problem was the weight of batteries meant that"
+    },
+    {
+      "start": 43,
+      "duration": 4,
+      "text": "electric airplanes just weren't going to  be that useful for a really long time but the"
+    },
+    {
+      "start": 47,
+      "duration": 5,
+      "text": "thing I forgot is that we've gotten a lot better  at making batteries. All of those gains mean that"
+    },
+    {
+      "start": 52,
+      "duration": 4,
+      "text": "electric airplanes are now starting to do more  and more. And that's a really big deal."
+    },
+    {
+      "start": 56,
+      "duration": 2,
+      "text": "You already know that air travel is bad for the environment but just look at this:"
+    },
+    {
+      "start": 58,
+      "duration": 4,
+      "text": "This shows how just within our grandparents' lifetime air travel has dumped"
+    },
+    {
+      "start": 62,
+      "duration": 3,
+      "text": "more and more CO2 into our atmosphere. But also"
+    },
+    {
+      "start": 65,
+      "duration": 4,
+      "text": "just within that same lifetime think about how air  travel has transformed us."
+    },
+    {
+      "start": 69,
+      "duration": 3,
+      "text": "It's not just trade and transportation, it's like how we understand"
+    },
+    {
+      "start": 72,
+      "duration": 2,
+      "text": "each other and the world."
+    },
+    {
+      "start": 74,
+      "duration": 4,
+      "text": "So we're in this moment where are one of the most important innovations in human history is"
+    },
+    {
+      "start": 78,
+      "duration": 3,
+      "text": "on a direct collision course with our future."
+    },
+    {
+      "start": 81,
+      "duration": 2,
+      "text": "We've got to make better planes."
+    },
+    {
+      "start": 83,
+      "duration": 2,
+      "text": "And now, we might have the tools to do it."
+    },
+    {
+      "start": 85,
+      "duration": 3,
+      "text": "So in this video we're going to talk about the effort to build the future of airplanes:"
+    },
+    {
+      "start": 88,
+      "duration": 1,
+      "text": "Where we are now..."
+    },
+    {
+      "start": 89,
+      "duration": 1,
+      "text": "where we're headed..."
+    },
+    {
+      "start": 90,
+      "duration": 2,
+      "text": "and where we've been."
+    },
+    {
+      "start": 92,
+      "duration": 4,
+      "text": "That last part is the reason why I needed a parachute and also a helmet because"
+    },
+    {
+      "start": 96,
+      "duration": 3,
+      "text": "while I couldn't actually fly in  one of those electric planes"
+    },
+    {
+      "start": 99,
+      "duration": 4,
+      "text": "I can give you some aviation history in the most YouTube way possible..."
+    },
+    {
+      "start": 103,
+      "duration": 1,
+      "text": "Up FRONT???"
+    },
+    {
+      "start": 104,
+      "duration": 1,
+      "text": "Oh yeah yeah! You gotta be up front."
+    },
+    {
+      "start": 105,
+      "duration": 1,
+      "text": "Excellent."
+    },
+    {
+      "start": 106,
+      "duration": 3,
+      "text": "But here's the really key part, the part that gets me most excited:"
+    },
+    {
+      "start": 109,
+      "duration": 6,
+      "text": "Building better planes isn't just an opportunity to reduce carbon emissions."
+    },
+    {
+      "start": 115,
+      "duration": 6,
+      "text": "It's also a chance to rethink  planes themselves."
+    },
+    {
+      "start": 121,
+      "duration": 2,
+      "text": "\"In the future, electric vertical takeoff and landing aircraft -\""
+    },
+    {
+      "start": 123,
+      "duration": 2,
+      "text": "\"electric vertical aircraft -\""
+    },
+    {
+      "start": 125,
+      "duration": 11,
+      "text": "\"Electric aircraft, the future of aviation.\""
+    },
+    {
+      "start": 136,
+      "duration": 3,
+      "text": "I'm here to visit a very cool electric plane company..."
+    },
+    {
+      "start": 139,
+      "duration": 4,
+      "text": "The idea of electric aviation doesn't start with climate change. Before airplanes there"
+    },
+    {
+      "start": 143,
+      "duration": 5,
+      "text": "were airships - just like look at these crazy sky whales - and some of those were electric."
+    },
+    {
+      "start": 148,
+      "duration": 5,
+      "text": "Here's one in 1883. This thing used a nearly thousand pound battery made from zinc and chlorine."
+    },
+    {
+      "start": 153,
+      "duration": 2,
+      "text": "But the more we flew, the more clear it became that batteries"
+    },
+    {
+      "start": 155,
+      "duration": 8,
+      "text": "were too big and heavy to compete with burning liquid fuel"
+    },
+    {
+      "start": 163,
+      "duration": 7,
+      "text": "So what you can see  at the very simplest level is the lithium ion cell"
+    },
+    {
+      "start": 170,
+      "duration": 8,
+      "text": "and 18 of those cells are arranged in parallel to  give us our basic building block of our battery"
+    },
+    {
+      "start": 178,
+      "duration": 7,
+      "text": "pack we take 14 of those battery modules and we  arrange those in series and now we end up with one"
+    },
+    {
+      "start": 185,
+      "duration": 7,
+      "text": "battery pack. These batteries are the same lithium  ion cells that are used in the Tesla so one of our"
+    },
+    {
+      "start": 192,
+      "duration": 5,
+      "text": "battery packs right here has the same amount of  energy that is in your standard Tesla car right now."
+    },
+    {
+      "start": 197,
+      "duration": 5,
+      "text": "Okay let's say you were trying to build an  airplane. You've got two big ways to figure out"
+    },
+    {
+      "start": 202,
+      "duration": 5,
+      "text": "how much energy you can store in a battery: Either  volumetric which is how much energy you can store"
+    },
+    {
+      "start": 207,
+      "duration": 5,
+      "text": "in comparison to its size or gravimetric which is  how much energy you can store in comparison to its"
+    },
+    {
+      "start": 212,
+      "duration": 4,
+      "text": "weight. This is also called the specific energy. If you were building your plane in 2010 you would"
+    },
+    {
+      "start": 216,
+      "duration": 6,
+      "text": "have needed this much space to output the same  amount of energy as the average aviation fuel."
+    },
+    {
+      "start": 222,
+      "duration": 6,
+      "text": "And it would have had to weigh a whopping 50  times more. Plus, you'd have to consider the other"
+    },
+    {
+      "start": 228,
+      "duration": 4,
+      "text": "factor here which is when you fly in a fuel plane  you are burning the fuel as you fly which means it"
+    },
+    {
+      "start": 232,
+      "duration": 6,
+      "text": "gets lighter and batteries don't. But in the last  decade batteries have gotten a lot smaller and"
+    },
+    {
+      "start": 238,
+      "duration": 4,
+      "text": "crucially for planes they've gotten lighter. You  saw this happen - you saw it in your laptops,"
+    },
+    {
+      "start": 242,
+      "duration": 5,
+      "text": "in your phones, in your electric cars... we're all  a part of this story without even realizing it."
+    },
+    {
+      "start": 247,
+      "duration": 4,
+      "text": "And now all of that innovation, that's being  applied to electric planes and it's important to"
+    },
+    {
+      "start": 251,
+      "duration": 4,
+      "text": "understand this isn't just innovation in making  the individual batteries themselves better it's"
+    },
+    {
+      "start": 255,
+      "duration": 5,
+      "text": "also innovation in how densely we can pack  them together. But no matter how you measure it"
+    },
+    {
+      "start": 260,
+      "duration": 5,
+      "text": "batteries are still far from fuel. But it's also  not as though anyone's waiting for this moment"
+    },
+    {
+      "start": 265,
+      "duration": 5,
+      "text": "to start building things. They're using what they  already have and what they already have is really cool."
+    },
+    {
+      "start": 270,
+      "duration": 7,
+      "text": "We're using commercial off-the-shelf lithium  ion cells and what I think is awesome about that"
+    },
+    {
+      "start": 277,
+      "duration": 6,
+      "text": "is it shows what we're doing is real it's here  today and it's achievable.\""
+    },
+    {
+      "start": 283,
+      "duration": 3,
+      "text": "And maybe the most important factor in making it real and achievable?"
+    },
+    {
+      "start": 286,
+      "duration": 2,
+      "text": "Just look how much cheaper batteries have gotten."
+    },
+    {
+      "start": 288,
+      "duration": 4,
+      "text": "Okay so all of this together means there's been  this huge new wave of investment in electric plans."
+    },
+    {
+      "start": 292,
+      "duration": 5,
+      "text": "And along the way we're redesigning what a plane looks and feels like."
+    },
+    {
+      "start": 297,
+      "duration": 2,
+      "text": "Beta's new electric plane is already flying around but"
+    },
+    {
+      "start": 299,
+      "duration": 3,
+      "text": "I am extremely not allowed inside it -"
+    },
+    {
+      "start": 302,
+      "duration": 2,
+      "text": "I tried I tried."
+    },
+    {
+      "start": 304,
+      "duration": 2,
+      "text": "But instead, I'm going to show you what it's like in a different way..."
+    },
+    {
+      "start": 306,
+      "duration": 2,
+      "text": "This is a real cockpit of a Beta plane that"
+    },
+    {
+      "start": 308,
+      "duration": 4,
+      "text": "they built inside of a simulation to train new pilots or... me!"
+    },
+    {
+      "start": 312,
+      "duration": 2,
+      "text": "You have two different types of flight controls."
+    },
+    {
+      "start": 314,
+      "duration": 4,
+      "text": "Attitude is in your right hand  and power is in your left hand..."
+    },
+    {
+      "start": 318,
+      "duration": 1,
+      "text": "This is going to be a fun video game..."
+    },
+    {
+      "start": 319,
+      "duration": 3,
+      "text": "I'm not very good at video games, just to clarify..."
+    },
+    {
+      "start": 322,
+      "duration": 2,
+      "text": "But are you good with attitude?"
+    },
+    {
+      "start": 324,
+      "duration": 3,
+      "text": "I have it!"
+    },
+    {
+      "start": 327,
+      "duration": 6,
+      "text": "I want you to just focus on raising  the lift lever until the aircraft starts to hover..."
+    },
+    {
+      "start": 333,
+      "duration": 5,
+      "text": "You did it! Let go of everything and I  want you to notice how stable the aircraft is..."
+    },
+    {
+      "start": 338,
+      "duration": 2,
+      "text": "Is this similar to real life?"
+    },
+    {
+      "start": 340,
+      "duration": 3,
+      "text": "It is. This is real physics..."
+    },
+    {
+      "start": 343,
+      "duration": 3,
+      "text": "At this point you've probably noticed that this plane is not taking off like a normal plane"
+    },
+    {
+      "start": 346,
+      "duration": 4,
+      "text": "It's a vertical takeoff and landing. This isn't because it's electric but"
+    },
+    {
+      "start": 350,
+      "duration": 3,
+      "text": "the innovations work together: Electric batteries are heavier but"
+    },
+    {
+      "start": 353,
+      "duration": 4,
+      "text": "electric motors are actually lighter and smaller  so you have more options for where you put them"
+    },
+    {
+      "start": 357,
+      "duration": 6,
+      "text": "on the plane. Here's roughly where the engines are  on a big fuel passenger plane that you might take"
+    },
+    {
+      "start": 363,
+      "duration": 2,
+      "text": "versus a smaller fuel plane"
+    },
+    {
+      "start": 365,
+      "duration": 1,
+      "text": "versus an electric one."
+    },
+    {
+      "start": 366,
+      "duration": 4,
+      "text": "A very cool thing about trying so hard to build new kinds of planes is:"
+    },
+    {
+      "start": 370,
+      "duration": 3,
+      "text": "You get to rethink planes."
+    },
+    {
+      "start": 373,
+      "duration": 5,
+      "text": "There's a lot of places that we can't get with conventional aircraft. Vertical takeoff and"
+    },
+    {
+      "start": 378,
+      "duration": 4,
+      "text": "land is going to open up aviation to places that just simply don't have an airport."
+    },
+    {
+      "start": 382,
+      "duration": 3,
+      "text": "So you push that and there you go and you see these propellers stow."
+    },
+    {
+      "start": 385,
+      "duration": 4,
+      "text": "You are now a single engine aircraft. So we're  going to have you land this aircraft..."
+    },
+    {
+      "start": 389,
+      "duration": 6,
+      "text": "This is perfect Cleo. You're about to land and nobody touched a single control but you."
+    },
+    {
+      "start": 395,
+      "duration": 1,
+      "text": "There she is!"
+    },
+    {
+      "start": 396,
+      "duration": 3,
+      "text": "It's not very often I'm able to teach one of these and not have to help."
+    },
+    {
+      "start": 399,
+      "duration": 1,
+      "text": "Really??"
+    },
+    {
+      "start": 400,
+      "duration": 1,
+      "text": "So you did a wonderful job."
+    },
+    {
+      "start": 401,
+      "duration": 1,
+      "text": "Thank you!"
+    },
+    {
+      "start": 402,
+      "duration": 5,
+      "text": "Okay, so these planes are awesome but they're just not gonna replace the big fuel"
+    },
+    {
+      "start": 407,
+      "duration": 4,
+      "text": "passenger planes that you might be used to anytime  soon but the thing is - the really important piece"
+    },
+    {
+      "start": 411,
+      "duration": 4,
+      "text": "to understand here is: In order to make a huge  difference, they don't have to."
+    },
+    {
+      "start": 415,
+      "duration": 3,
+      "text": "If the goal is reverse this skyrocketing emissions problem and"
+    },
+    {
+      "start": 418,
+      "duration": 3,
+      "text": "electric planes can only go fairly short distances"
+    },
+    {
+      "start": 421,
+      "duration": 4,
+      "text": "what we really need to know is what percentage  of the emissions from aviation are from long"
+    },
+    {
+      "start": 425,
+      "duration": 4,
+      "text": "versus short flights. No problem. Turns out you  need to first break up flights into passenger"
+    },
+    {
+      "start": 429,
+      "duration": 5,
+      "text": "versus freight so us versus our stuff, and then  within passenger flights a third of emissions"
+    },
+    {
+      "start": 434,
+      "duration": 5,
+      "text": "come from short haul flights which are defined  as less than 1500 kilometers or 932 miles."
+    },
+    {
+      "start": 439,
+      "duration": 6,
+      "text": "That's a lot! But there's some debate on how far exactly  electric planes can go and there's a whole problem"
+    },
+    {
+      "start": 445,
+      "duration": 4,
+      "text": "with charging and how long people would wait to  charge or freight would wait to be charged but"
+    },
+    {
+      "start": 449,
+      "duration": 4,
+      "text": "here's where it gets even better: If you break  down emissions into even smaller chunks the"
+    },
+    {
+      "start": 453,
+      "duration": 5,
+      "text": "percent emissions actually look like this. Really  short flights account for more emissions because"
+    },
+    {
+      "start": 458,
+      "duration": 3,
+      "text": "the extra fuel used on take off is a greater  percentage of the flight compared to cruising"
+    },
+    {
+      "start": 461,
+      "duration": 5,
+      "text": "and because we often use less efficient planes on  short flights. So if you electrify these you can"
+    },
+    {
+      "start": 466,
+      "duration": 4,
+      "text": "make a real dent even before you get to all of  this. And then there's all of the freight"
+    },
+    {
+      "start": 470,
+      "duration": 4,
+      "text": "all of our stuff. This is what Beta is actually focusing  on. Freight is super interesting because there's"
+    },
+    {
+      "start": 474,
+      "duration": 4,
+      "text": "a chance especially with vertical takeoff and  landing that you can actually also reduce carbon"
+    },
+    {
+      "start": 478,
+      "duration": 3,
+      "text": "emissions from a totally different source outside of aviation:"
+    },
+    {
+      "start": 481,
+      "duration": 1,
+      "text": "[TRUCK HONK HONK]"
+    },
+    {
+      "start": 482,
+      "duration": 3,
+      "text": "It's probably one of the reasons why UPS just signed a big deal with Beta"
+    },
+    {
+      "start": 485,
+      "duration": 2,
+      "text": "I don't know for sure, but I imagine that one the big questions"
+    },
+    {
+      "start": 487,
+      "duration": 5,
+      "text": "they're thinking about is: If you didn't have to  rely on roads how would delivery change?"
+    },
+    {
+      "start": 492,
+      "duration": 5,
+      "text": "The point is, electric planes can help move us into the future without waiting to start in the future."
+    },
+    {
+      "start": 497,
+      "duration": 5,
+      "text": "So at the end of my visit to Beta, we'd talked about the future of airplanes, we'd seen all this cool stuff and"
+    },
+    {
+      "start": 502,
+      "duration": 4,
+      "text": "they were like, \"do you want to see how far we've  come?\" I was like yeah of course."
+    },
+    {
+      "start": 506,
+      "duration": 3,
+      "text": "\"Do you want to do it in a 1940s airplane?\" ...."
+    },
+    {
+      "start": 509,
+      "duration": 1,
+      "text": "You want to go upside down, don't you?"
+    },
+    {
+      "start": 510,
+      "duration": 3,
+      "text": "I'm going to go UPSIDE DOWN in an open cockpit plane?"
+    },
+    {
+      "start": 513,
+      "duration": 0,
+      "text": "Oh yeah!"
+    },
+    {
+      "start": 513,
+      "duration": 2,
+      "text": "I didn't know you were  allowed to do that..."
+    },
+    {
+      "start": 515,
+      "duration": 1,
+      "text": "Oh yeah we are."
+    },
+    {
+      "start": 516,
+      "duration": 2,
+      "text": "I said yes I didn't tell my"
+    },
+    {
+      "start": 518,
+      "duration": 3,
+      "text": "parents until afterward though, sorry Mom and Dad."
+    },
+    {
+      "start": 521,
+      "duration": 3,
+      "text": "Listen if I don't come back you want to upload these video files to the Dropbox..."
+    },
+    {
+      "start": 524,
+      "duration": 10,
+      "text": "So that is a 1942 Stearman, it is a primary World War II trainer."
+    },
+    {
+      "start": 534,
+      "duration": 4,
+      "text": "How do I prevent the camera from going flying when I go upside down?"
+    },
+    {
+      "start": 538,
+      "duration": 1,
+      "text": "UUUUUMMMMMMMMM..."
+    },
+    {
+      "start": 539,
+      "duration": 4,
+      "text": "You know what's really cool? So from here in my seat"
+    },
+    {
+      "start": 543,
+      "duration": 3,
+      "text": "in this 1940s airplane I can see the electric planes"
+    },
+    {
+      "start": 546,
+      "duration": 2,
+      "text": "that they're building that are going to come next."
+    },
+    {
+      "start": 548,
+      "duration": 2,
+      "text": "Here's the thing that really blows my mind:"
+    },
+    {
+      "start": 550,
+      "duration": 3,
+      "text": "when my grandfather was my age, this plane was"
+    },
+    {
+      "start": 553,
+      "duration": 3,
+      "text": "state of the art. Like right around here somewhere, before all of this."
+    },
+    {
+      "start": 556,
+      "duration": 4,
+      "text": "just think about everything that we've accomplished in aeronautics since then!"
+    },
+    {
+      "start": 560,
+      "duration": 2,
+      "text": "If we can do all of that,"
+    },
+    {
+      "start": 562,
+      "duration": 3,
+      "text": "can we do something like this?"
+    },
+    {
+      "start": 565,
+      "duration": 3,
+      "text": "We're facing these big challenges right, environmental, financial, technological..."
+    },
+    {
+      "start": 568,
+      "duration": 2,
+      "text": "but I just keep thinking:"
+    },
+    {
+      "start": 570,
+      "duration": 2,
+      "text": "Could my grandfather have imagined"
+    },
+    {
+      "start": 572,
+      "duration": 4,
+      "text": "the planes that he would see in his 90s?"
+    },
+    {
+      "start": 576,
+      "duration": 2,
+      "text": "And the ways that we would use them?"
+    },
+    {
+      "start": 578,
+      "duration": 3.0,
+      "text": "I bet you we can't either."
+    }
+  ]
+}

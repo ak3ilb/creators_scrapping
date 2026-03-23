@@ -1,0 +1,124 @@
+[00:00] It looks like there's a Formula 1 car in front of  me! Wait, I'm going to turn it on... MARQUES: Definitely do that. ME: YES!
+[00:10] I'm so excited for this one. Well here it is. This is the new Apple Vision Pro. "Apple Vision Pro! Virtual reality! Metaverse. Meta what? The future of the internet..."
+[00:20] Gotta be honest, I've been tuning out the news about the metaverse for a while now. I just didn't really get the vision...
+[00:28] "This is a heavy headset! It's so cool and so memeable at the  same time. Who's going to be using this? Failed to make virtual reality completely mainstream.  Who is this for? Who is this for?"
+[00:38] But now, I see something totally different, a much more optimistic future of what this kind of tech can do
+[00:43] for people like you and me. So I want to show you what this  tech can do right now, V1, and give you a glimpse at what it might be able to do in the future, V... 10!  Because if we get this right this could be Huge If True.
+[01:00] "Apple Vision Pro. Augmented reality,  virtual reality. How sick is that? But I don't quite know what to make of it! It's  a profound technology, blending digital
+[01:08] content with the real world. For spatial  computing... impossible with today's tech but that's the future. We're going to be metaverse  first. Experiences like nothing we've ever seen..."
+[01:26] This thing is huge. People have been imagining  "the metaverse" for decades in science fiction and in real life. For basically as long as we've  had computers we've been trying to jump into
+[01:35] them or bring digital stuff out into the real  world and now this is supposed to be the next
+[01:42] big step. You've probably seen a bunch of great  reviews about this device. To be clear, this isn't a product review. I'm going to show you some  of what this V1 can do and it is incredible
+[01:51] but my big question is: What do we want V10 to  do? What is this device's potential? What's the
+[01:57] big picture here, what is it FOR? If the Apple  Macintosh helped unlock personal computing and the iPhone helped unlock computers in your  pockets, what is this device supposed to unlock?
+[02:09] My most optimistic take here that I want to  make the case for in this video is that this kind of technology isn't really for an infinite  computer monitor or even playing solo surround
+[02:19] video games, though those are very cool. This kind  of tech feels to me like the most direct path to a totally sci-fi ability I never thought  I'd be talking about in real life, something
+[02:29] that is physically impossible in the real world  but maybe not in the digital one. The ability to
+[02:35] jump to any place anytime instantaneously and  be able to bring other people to you. And the word that normal people use for that isn't VR  or ar or spatial computing it is...
+[02:48] teleportation. I really think that digital teleportation  is a possible future here and that is the optimistic future I want to shoot for. So before  you think I'm crazy we need to go see an expert...
+[03:02] Here we go! Here we go. That's Marques Brownlee, king  of tech reviews on YouTube and friend of Huge If True.
+[03:07] I kind of forget that I look ridiculous after  a little bit because I'm immersed, obviously. I'm thinking about what's in front of me. I remember  how ridiculous I look when I look at you. Yeah.
+[03:17] The first thing you notice when you put on the Vision Pro is you're not holding anything in your hands, which is trippy compared to other  headsets that I've used where usually the cursor
+[03:25] inside the headset is from a handheld controller. But in this headset, the cursor is my eyes! I just
+[03:32] look where I want to go and I go like... that!  That's a major change that makes this feel
+[03:38] much more intuitive and sort of real. There's a lot  of instances where it's like magic. You look at the thing you tap your fingers together and it's  like psychic and it knows what you're looking for.
+[03:48] And that's a theme for this whole story, how real  stuff feels. The immersive thing that you described
+[03:52] I think is a big part of my thesis here which is  that we already have ways to hear each other's
+[03:59] voice voices and see each other's faces and play  really dope video games and watch movies in high def, except that over the last several decades how  real those things have felt to us makes a big big
+[04:09] difference in how we use them. Like FaceTime is  fundamentally different than a phone call which is fundamentally different than a telegram but  like how real and present and immersive and like...
+[04:21] [Can't take ourselves seriously] But like realism matters  to us in our primate brains and some of this feels
+[04:31] very real some of it feels totally silly but... some  of it some of it feels very very real. So let us
+[04:37] show you some of the most awesome ways this device  tricks your brain. So go ahead and hit the home button okay then over to the left you see this  little pop up that says "apps, people, environments"?
+[04:47] Yeah. Hit environments and then they're actually  identical for us so you can pick any of the ones you want and I'll go to the same place, we'll  see the same thing. There's a little button on
+[04:57] the top of the device and you just just spin  it and now I'm more fully immersed so now it's 360..
+[05:09] What else is it doing that makes it so real? Technologically speaking the one thing that
+[05:14] you've already noticed is how rock solid objects  appear to stay in their XYZ space. I would
+[05:22] credit that to the sensor array on the outside and  the R1 chip in the Vision Pro that is processing
+[05:28] all of that in real time constantly. Plus they add  like little shadows on the ground so if you have a window in space and you move it back you see  the shadow move back all that stuff, like it's
+[05:38] very cleverly thought out but I think that's  another big one for Vision Pro specifically.
+[05:43] Yeah these are just really good highres micro  OLED displays. Tricking your brain with images and video isn't anything new. The story goes that  in the 1890s when audiences would see this early
+[05:52] short film of a train approaching they'd  instinctively back away. Today we've gotten more used to flat screens but a dinosaur coming  out of my walls does look really real! How? Well
+[06:02] once you're in a headset it can take advantage  of how you see in real life each of your eyes takes in a slightly different view of the world.  This is called stereopsis and it's one way our
+[06:10] brains register depth. These headsets create the  same effect by showing each of your eyes slightly different images. We've been using this trick on  ourselves for hundreds of years but this device
+[06:18] and devices like it have gotten really good. We're  getting closer to being able to feel like we're teleporting anywhere instantaneously. But what  really hit me in the feels was that now the
+[06:27] photos and the videos that I can take feel much  more like memories. It feels like I can teleport into them. The new iPhones have this setting that  you can turn on called spatial video and it lets
+[06:37] you take videos and watch them back in 3D. It seems  funny to say something so personal while wearing a Vision Pro um I have a old voicemail that my  grandfather left like several years before he
+[06:48] died that I listen to all the time because it it  like feels like visiting him a little bit like it feels like I'm on the phone with him all of a  sudden. If I could sort of step back into like my
+[06:58] childhood home like this where I could like  sit with like my niece when she's a baby or my grandfather or something like that does feel  like maybe it's not quite there yet but I would
+[07:08] put on a headset for that. Just take a second and  think about that what moments or people would you go back to if you knew it would feel real in my  opinion this is why this device feels so new and
+[07:18] fascinating. So much of what I try and do is help  people feel like they're there with the tech so
+[07:24] if I could have the like Boston Dynamics Atlas  robot in person with someone and they're seeing
+[07:30] like me shove it and maybe it like reacts to them  in some way like there's so many things that I can
+[07:37] think of that I would want to do that would be  fundamentally different about storytelling. It feels like a natural technological step forward  to give you like the freely rotating head to
+[07:49] look around the environment and like sit where I'm  sitting and see the things that I'm seeing. So this device lets you trick your brain to teleport into  other places and back into your own memories but
+[07:59] what about teleporting to see other people right  now like in real life and feel like that's real?
+[08:04] that's the future that I most want with this tech  and it's getting there! Okay speaking of cool tech
+[08:10] I want to show you genuinely my favorite piece of  technology in my house. I'm not joking. This is my
+[08:16] Eight Sleep. This mattress cover automatically cools  or warms itself to help you get better sleep and not only that but you can set it differently for  each side which is crucial. I've had an Eight Sleep
+[08:25] for over 2 years and I can prove it: This is long  before they ever became a sponsor of this show... See it says member since 2021 right there. So you know  I mean it when I say I genuinely love this thing.
+[08:36] My husband and I used to debate what temperature  the room should be kept at when we went to sleep.
+[08:40] Now we can just choose our own he likes to go to  sleep with it feeling very cool and I like to feel cozy when I get into bed I want to feel when I  get into bed like a 17th century princess that
+[08:48] someone has taken one of those like hot coal pans  and just warmed up my bed a little. It feels all nice and cozy! But science shows that I'm going to  get the best sleep if it cools a little bit down
+[08:56] into sleep and then warms to wake me up so it  automatically adjust to that while I'm sleeping with its autopilot. I was very excited that a  sleep wanted to sponsor Huge If True because I
+[09:04] already used their tech and I already recommend  it to my friends and now I get to recommend it to you! So if you want to check it out you can  click the link in my description. Now back to the story...
+[09:16] Okay just take a second and think about  how much reliable video calls have changed our world. Now think about the way video was just 10  years ago. My team collaborates from all around
+[09:25] the world! We live in totally different places  and brainstorm together and feel like we know each other. I live across the country  from my parents and I still feel like I see
+[09:33] them all the time. I'd like to see them more but  I can FaceTime them. I know there's nothing that truly replicates being in person but ultimately  what we've been chasing this whole time with
+[09:41] our telecommunications tools from the telegram to  the telephone to video calls is how close can we
+[09:48] get to feeling like it's real? The Vision Pro has  taken a big step toward this future: You can now bring objects, digital objects, into the room with  you and they do feel shockingly real. I'm going to
+[09:58] place my Formula 1 car just right in the middle. The reflections are actually genuinely incredible.
+[10:04] And it doesn't jiggle like those old versions. It  looks like there's a Formula 1 car in front of me.
+[10:09] It looks like you're gesturing at an actual car  which I'm sure on camera looks pretty silly but
+[10:15] I see it. This wing... pretty incredible. And here's  the front wheel! But my favorite part was
+[10:22] finding out the entire engine is basically from  here to here yeah and the exhaust coming out the
+[10:29] back right there. So this is the engine and then I  can actually take the cover off of the engine. So if you just pinch your fingers and take the cover  off you see the V6. Now wait I'm going to turn it
+[10:38] on... Definitely do that. YES. Now the aerodynamics  are moving over the top of the car how sick is
+[10:44] that! My big thing, the thing I most want from the  future of this tech is: If this looks so good, if
+[10:50] there is, if it feels to us like there's an object  in front of us, can in the pretty near future there be a person sitting in front of us and they don't  jiggle and the light looks right and their digital
+[11:00] avatar looks real and there is a friend of ours  sitting on the couch in this experience with us
+[11:06] also and they can see the digital object and  they can see us and then we all go to the moon
+[11:11] together! Yeah! That does make a little too much  sense to not be in the cards for something in our
+[11:19] future. Even better than FaceTiming my mom could  I feel like she's sitting there in front of me. I would really love that. The problem is that right  now in The Vision Pro, objects look pretty amazing
+[11:29] but people look like this: Your persona doesn't  look that bad! It looks like you, like if I got a call I'd be like oh it's Cleo. Right now Apple has  you create a Persona which is a fancy word for you
+[11:39] scan your face and you create an avatar. Here's  what that process looks like, and here's my final
+[11:44] result. It looks like me! ... ish. Even though your hair  is stuck to your head like glued to your head, it's
+[11:51] exactly how it would have been when you scanned  but I can see your eye movement, I can see your facial expressions like micro expressions with  like eyebrows and like... They just make up your
+[11:59] teeth and your tongue. Yeah cuz you never stuck  your tongue out during the scan. But I would have
+[12:05] preferred... wait stick your tongue out again? It just  makes it up a tongue. It just makes up a tongue but
+[12:11] you got to admit it's a big leap forward from  the avatars that we had just a few years ago and Meta's avatars are way better now as well.  Right now FaceTiming friends in their personas
+[12:21] does feel weird, but like can you tell who this is? I can! What's up guys it's me Ryan. I promise it's
+[12:28] 100% not AI generated voice representing myself  in a Persona. That's Ryan Trahan. You might have seen
+[12:34] him on YouTube. If that's the progress that we can  make in just a couple years, what's a couple more years out from here and from there and from there?  Like I'm optimistic here, this is a future that
+[12:44] we totally could have. For another Huge If True episode, Marques and I both had our bodies scanned to make digital doubles. Maybe in the future you  get scanned once and then you look real in the
+[12:53] digital world. If this is V1 I'm pretty hopeful  for V10. Just think about how you would would
+[12:59] use that, is it grandparents with their grandkids,  or soldiers with their families, or long-distance
+[13:06] relationships... there are just so many more ways  that we could feel connected to each other. I want a device that connects me more to the people  that I love not isolates me. This chart haunts my
+[13:17] dreams. It shows who Americans spend time with over  our lifetimes and what you see is that most of the time that we get with our parents passes before we  turn 18. The same is true of our friends co-workers
+[13:27] and children kind if rise and fall but most of all  over our lives we spend more and more time alone.
+[13:34] My greatest hope for this device is that it helps  us make those charts look very very different in
+[13:40] 50 years. That like spending time with other people  is not as difficult in the world that that we've
+[13:46] set up. You would be able to count it as spending time. Like  in the past sending a letter to someone you might not count that as spending time. Sending a text  message, you might not count that as spending time.
+[13:55] A phone call? Okay now we're talking, maybe we're  spending concurrent time. A video call FaceTime?
+[14:02] That's closer to spending time with someone. A  hologram next to you that appears realistic and can have a conversation and body language and eye  contact feels like spending time with someone. Yes.
+[14:12] Technology has connected us and yet studies show  that people feel more isolated than ever. Can new technology help make that better? My dream for  this device isn't an infinite computer monitor
+[14:22] it's more connection with the people that I love.  I know nothing can replicate being in person with
+[14:28] someone in real life or maybe it can in the future  but nothing yet can I think the entire last 100 years of telecommunications have been how close  can we get how close can we get how close can we
+[14:38] get? Like can we hear each other's voices, can we  see each other's faces now, can we like see each other's whole bodies and feel like we're sitting  together in a room, like all of this is how much
+[14:46] can we trick our primate brains into feeling like  we're there with each other in person. After using
+[14:52] this and other VR headsets it is clear that we  are a long way from feeling like we're really in person together. But if teleportation is the  future that this kind of tech is trying to get
+[15:03] us toward, heck yes sign me up. This is surprisingly  close and it again this is still you said V1 this
+[15:10] is technically in beta. This could be V- oh dot whatever,  and I think what Apple knows is this is the thing that they want to rapidly improve as quickly as  possible because yeah they're getting made fun of
+[15:20] now because it's like your PS3 Avatar or whatever  but yeah I fast forward a little bit and I feel
+[15:26] like this is realistically spending time with  someone which is crazy. This comes back to the
+[15:32] again this is a first gen product what happened  to the first gen iPhone? It was a tech company
+[15:37] taking a bet on a new technology, these capacitive  displays, that ended up being a great bet in tech
+[15:45] that literally changed humanity. And a lot of  people are making the same comparison with this this is a first gen product jumping into a new  technology, seeing what they can do with it and
+[15:54] theoretically could also have a gigantic effect  down the road on humans, just the way we use tech
+[16:02] in general the way we expect to share computing  experiences. The Apple Vision Pro and devices like
+[16:06] it are cool, there's no denying that. Is it $3,500  worth of cool? I have no idea and honestly that's not what the show is for. But I do think that  this kind of technology is undeniably "huge if true."
+[16:19] The "huge" part is the opportunity to create a  future where we can digitally teleport ourselves
+[16:24] to other places and into our own memories and to  see other people and the "if true" part is, can it feel
+[16:30] real enough to be worth it? But again this is the  worst this tech will ever be and we've created
+[16:35] a world where more and more people move away from  people that they love and work from home and over
+[16:42] a lifetime end up alone. And my greatest hope  for V10 of this kind of technology is that it
+[16:50] helps to solve that. I really do think that that's  possible. And that is a future worth rooting for.

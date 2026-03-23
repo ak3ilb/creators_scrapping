@@ -1,0 +1,122 @@
+[00:00] Ready? This is the world's most realistic  lightsaber and I'm holding it because today
+[00:10] I got the chance to go behind the scenes with  Walt Disney Imagineering, the place where Disney
+[00:16] brings their craziest ideas to life from stunt  robots to a real life version of The Force to
+[00:22] these adorable little droids. On this show, we  explore how technology can improve people's
+[00:28] lives by living longer, going farther... but the  reason that I've loved Disney since I was a
+[00:34] kid is that they use tech to improve lives  a different way... by making people happy. And
+[00:40] that means that they're pushing forward what  tech can do in some really crazy unexpected   ways. So let me take you inside the magic to  show you the cutting edge tech that Disney is
+[00:50] building, how it really works, and what happens  when we put it to the test. Let's do this....
+[00:57] This is what we call our Imagineering department where we dream up our new projects... Ohhhh that's cool!
+[01:12] When Walt Disney started building  Disneyland, he needed people to help him   build rides and robots and castles every aspect  of this new kind of park. He needed people who
+[01:20] would think outside the box. Their job was to  imagine ways to bring the magic of Disney to
+[01:26] life so Walt called them "Imagineers." Today  the Imagineers have built these legendary   parks all around the world and they constantly  come up with new ideas for them here in their
+[01:36] research and development lab. "Let's take a walk  through R&D!" Awesome. "This way. Let's take a walk
+[01:42] through R&D! Come on with us right this way, we  have some friends we want you to meet. These are
+[01:49] the latest and greatest BDX units." Hello! How  are you? Can I give you a little boop? "Go for
+[01:55] it!" For this show I've gotten to meet some  very cool robots that can walk over uneven   ground or get pushed or even open doors.  But what makes these droids different is
+[02:06] their personality. They're just so cute! And  that cuteness comes down to a bunch of very
+[02:14] specific design and engineering decisions, from  how this robot walks to how it does this little
+[02:19] shimmy! These droids aren't autonomous. They're  told exactly where to go by a person holding
+[02:28] this console so of course I wanted to try it.  Okay so I'm going to do a little dance. I'm
+[02:34] going to move his head around. Can I try tantrum?  "You can absolutely. It's going to get angry for a
+[02:41] second." Yeah! How do I ask him to walk? "Tap and  then move the stick forward or any direction..."
+[02:49] There. Hi! It's important to understand that  I'm telling the droid what to do, walk here,
+[02:56] throw a tantrum, but I'm not telling it how to  do that. The actual way that it responds to me
+[03:02] comes down to its training. Using ducklings as  inspiration, Disney Imagineers created a series   of animations like in a Disney movie for how  the robot should walk or jump or shimmy. Then
+[03:12] they put a digital version of the robot into  a simulation. Most of the time when robots are   trained this way they're given a goal and then  they're rewarded based on how well they meet that
+[03:20] goal under different circumstances. So for example  walk from A to B over different terrain. This is   reinforcement learning. "So we actually have some  live training going on on our computers right now.
+[03:29] So that's what you're seeing here is the thousands  and thousands of robots trying different things,   stumbling a little bit and trying something  different." In this case though, the droids are
+[03:37] rewarded not just for walking from A to B but  also for how closely they follow the animations   while they do that. In these digital worlds  they can get way more reps than they would in
+[03:46] the physical world and they don't get damaged.  Then the Imagineers upload that training to   the physical robots and they test them with  these cute little harnesses until eventually
+[03:54] the droids are ready to go out into the world all  on their own... well, with help. These are not the robots   that are most likely to be doing your laundry  or working in a factory in the future but their
+[04:04] design means that they're on the cutting edge of  robotics in a different way. In a world that uses   more and more robotics, how we feel about something,  whether or not we feel something is cute, whether
+[04:14] we feel something is well-intentioned as opposed  to scary, matters a lot for how much humans want to
+[04:21] interact with robots and that also must make  the development I mean probably more fun but   also by definition more difficult because the  reinforcement learning has two objectives. It
+[04:32] has don't fall but it also has be cute about it!  "And that's what's really challenging about a lot   of Imagineering projects is we don't want our  guests to see technology. We want them to fall
+[04:42] in love with a character and feel things." I did  feel things! It's hard not to love these little
+[04:48] droids. If you want to know more about how they're  made to look so real, my friend Michelle Khare is   making a video all about what it takes to become  an Imagineer for her show Challenge Accepted and
+[04:57] if you're really lucky you might spot these droids  walking around in a Disney park. Eventually though
+[05:02] I had to leave my new friends. I have to go now! Bye  guys! Because I have something else to try... "We have
+[05:10] made the most realistic expandable extendable  lightsaber ever." That's Lanny Smoot. He's one of
+[05:16] the world's most famous Imagineers. He holds over  a 100 patents including for this lightsaber. "I'm
+[05:21] going to allow you to extend and retract it.  Now this is a very expensive... no no now this
+[05:29] is a prop so we're going to be very careful  with it once it's extended. And this is the   button that you push to extend it. I'm going to  stand back just so that..." So I just...
+[05:42] Ohohhhh that's cool.
+[05:48] This felt as cool as I thought it would.  And it looked as real up close as it does on   camera. In the Star Wars universe, of course these  Jedi weapons work by channeling energy through a
+[05:58] crystal to create a blade that can cut through  basically anything. In our universe filming the
+[06:05] Star Wars movies, actors used these fighting  prop sticks and then visual effects artists   painstakingly added the glow in post-production.  But for Disney Parks they somehow needed to make
+[06:15] lightsabers real and that was Lanny's job. How  does it work? "So the challenge when you're making
+[06:22] a prop for a performer is that it has to  look like what we see in the movies and you
+[06:28] remember in the movie of you know flashing light  extends that can cut through all sorts of things
+[06:34] well we don't cut through all sorts of things  but we did want smooth extension of the blade."
+[06:41] It's that smooth extension that isn't possible  with lightsaber toys that I've seen before. "Our
+[06:46] lightsaber unrolls from internal motors that  are pushing it out and that was important for
+[06:53] our performers to really look like Jedi Knights." The  lightsaber has a clear cap with two long translucent
+[06:59] tapes attached to it that unroll from  inside the lightsaber allowing it to extend   upward as they extend out of the hillt. The  tapes bend into a concave shape to create
+[07:08] a rigid blade and on those tapes are a series  of bright LEDs. They had to program those LEDs   to make that realistic lightsaber glow. "It knows  what angle you're moving through and it's going
+[07:19] to blink its lights a little bit to give it  the feeling that it has moved from place to   place and we're also strobing it a little bit  in general to give the life of flickering bring
+[07:30] power." If two people have them can the blades touch  each other? "This one is not used for battle. We
+[07:38] have a stand in for it when we have to have our  Stars moving it around quickly. This is more for   the extension and retraction." So I should not touch it. Much like a real lightsaber.
+[07:50] "Yes you don't want to get burned." Of course. Right.  Of course. Even though I now understood how they
+[07:54] were doing this it still felt like magic. Like  you can see the kid in me is just mesmerized
+[08:02] and just when I thought I couldn't feel any  more powerful they showed me how to use
+[08:07] The Force. "And of course you can  go left and right if you
+[08:16] like." This is so cool! "You're strong with the force!"  I can't keep a straight face I'm sorry. "All right
+[08:27] there you are that's a serious Jedi." Yes I take my  responsibilities... seriously. But hang on how
+[08:37] am I doing this first that camera right there  is recording my hand movements from above and   there's another bit of magic on the floor... Hang  on a sec so I just got back from the UK where
+[08:48] I was training to drive a real Formula E car no  joke and while I was there I was also using the
+[08:54] sponsor of this episode, Surfshark. Surfshark is  a virtual private network or VPN which means that   that when I'm traveling I can make my computer  think that I'm somewhere else. I really like that
+[09:03] because I want being online to feel like I'm still  at home even when I'm traveling so much for this   show I want my streaming shows to still show up, I  want things to automatically be in dollars, I want
+[09:12] shipping to be the United States, those kinds of  things. But then when I get home I sometimes want   my computer to think that I'm somewhere else.  This is really useful when I'm sitting here at
+[09:20] this desk doing a lot of research for Huge If True episodes, sometimes I want to see government sites   from another country or things like that. I just go  to Surfshark like this and then I set my location
+[09:30] to one of a hundred different places. So I can be  anywhere in the world still at home. If you don't   use a VPN you might find it useful. I know I do. If  you want to try it they offer a 30-day money back
+[09:37] guarantee and for the Huge Crew, for you guys,  they're offering four extra months for free if   you use my link which is Surfshark dot com slash cleo. It's also in my description go check it out now
+[09:46] back to Disney. This is Disney's famous Holotile, also  invented by Lanny. It's basically a treadmill but in
+[09:55] any direction. I've been wanting to try this since  I saw my friend Marques walk on an earlier version.   All right I'm ready! So I just walk in a circle. It's like I'm drifting back toward the center a
+[10:05] little bit ooh. Up close you can see that the floor  I'm walking on is made of these rotating circular
+[10:12] tiles like this. One gear on the bottom controls  overall spin and another on the top controls the angle of the head. What that means is that your  shoe is only ever hitting the top of that angled
+[10:23] disc. So I'm standing on the surface that's created  by the edge and that edge might also be moving and
+[10:30] that creates motion back toward the center that I  feel is just the ground sort of moving me back. So
+[10:37] as you're walking in one direction the spin of  the top of the angled discs pushes you together
+[10:42] in the opposite direction. So I can walk backward. I  can walk forward woooh and what's interesting is it
+[10:50] feels like, I don't know how to describe this  exactly, it doesn't quite feel exactly like a
+[10:55] treadmill in every direction. It takes a little bit  of learning but it very clearly wants me if I walk
+[11:01] in a circle. It's sort of pushing. You can see my  foot every step is drifting back toward the center.
+[11:07] But wait, how does it know which way I'm going? Well  this entire surface is surrounded by lidar cameras
+[11:12] that are constantly scanning your feet. one camera  at floor level identifies where your foot is on   the tiles, so it's tracking each step in real time  and then there's a second camera that's looking
+[11:22] at the direction of your foot. It does that by  identifying not only where your foot is but   also where your shin bone is. So if your shin is at  the back of your foot then you're facing this way
+[11:33] and vice versa. This demo had six different lidar  angles so at least one of them always had a good   view of my feet. "Each of these has a different  view. That one may be a little confused there
+[11:42] right this one has a very clear view that  your ankle is in the back of your foot here."
+[11:48] Interesting. Or you don't need to walk at all. You  can move the floor with a video game controller.
+[11:59] Yeah this was really fun. And above all that is  the point of the Holotile. It's fun! They're not
+[12:05] really sure how they're going to use it in  the future. Right now Imagineers are testing   designs on it and playing games. While we  were there they implied that they might
+[12:13] end up using it in a park or maybe in a movie  like in the Volume where they film Star Wars   but right now fun is enough. And speaking  of fun, I have one more thing to show you...
+[12:32] These are stuntronics, meaning they're robot stunt  doubles! This is how Spider-Man launches over
+[12:38] Disneyland. "We wanted a larger than life Spider-Man  performance but some of these flips that you see   done in the movie, that's just CGI. We have to do  it in real life. And those would not be safe for a
+[12:49] stunt performer to be doing once much less several  times a day." Wouldn't be safe or wouldn't be   possible? "Both! At certain points when Spider-Man  first launches in the parks he's pulling like 10 G's
+[12:59] so this is something that we absolutely think  a robot is very well suited for. To build a robot
+[13:05] that can do that they basically flung a metal  stick with some motors and actuators over and
+[13:11] over and over and then gradually over time learned  and made it more human. "This is Mini Man..." Can I
+[13:18] hold Mini Man? Okay my dude. So you take this after  learning from those and you fling them through the
+[13:27] air... "Fling them through the air a couple hundred  times, track the results and get better and better
+[13:31] at controlling that motion through thin air" until  eventually.... Could you see stuntronics being
+[13:39] used in movies? "That's a really good question!  We're open to using them for all sorts of uses.   They haven't asked yet but we're just down the  street and we'd be happy to use them in a movie!"
+[13:48] So if you have all of this incredible technology  to tell stories... what stories do you tell? Maybe the   craziest part of my day was meeting two of the  most important people at Disney who make those
+[13:58] decisions. That is Josh D'Amaro who runs all of  Disney parks and cruises and products and... yeah.
+[14:05] How do you think about the purpose of all of this  incredible tech? "The purpose at the end of the day   is to create a connection with our guests. To make them feel something. And ultimately what we want..." [footsteps]
+[14:17] One second I'm going to stop you while they walk past.  "Kevin Feige was walking by..." "We should have invited
+[14:24] him in! Call him in!" Oh my god. "Hey nice shirt!"  Pleasure to meet you. Nice to meet you!
+[14:31] And that is Kevin Feige, president of Marvel  Studios who I did not know that I was going to
+[14:38] be meeting. "I'm literally heading back to an X-Men  meeting right now." Unbelievable well I'm so glad   that we caught you. The question that I was asking  is what is the purpose of all of this technology,
+[14:47] what is the mission here? "I think it's continuing  the storytelling. It's immersing the audience and   the guests in the world which nobody does better  than Imagineering. When when Disney bought Marvel I
+[14:57] was like sheepish about it, "so does that mean  we can go to Imagineering now?" and the answer
+[15:03] was yes come on by! And now with Josh leading it,  it's feeling very exciting." "And the great thing is
+[15:08] is as these stories are coming out of his head and  his team's head we're automatically thinking how   are we going to bring this to life in real form."  "For years we'd spend time on our sets and go you
+[15:19] know what's so sad is after we film them we tear  them down, they go away forever. We said if only   Imagineering gets their hands on it and actually  [SECRET] we brought a bunch of Josh's team down there
+[15:29] to see it and and to see how they can then extend  that into the into the parks." Great so nice meeting you! So great to meet you. Thank  you so much for your time, I really appreciate
+[15:38] it. There you go unbelievable oh my god cool. "But  ultimately what's important for us is to tell a
+[15:48] story. But you have to feel something and I think  it's very different from what's going on generally
+[15:53] speaking in the robotic space and that's why we're  so different." It felt different. The point of all of
+[15:59] the tech that I saw today is not to be useful. It's  not to make your life more convenient or to help
+[16:05] you stay alive longer. It's to help make sure that  while you are alive you get the chance sometimes
+[16:12] to just be a kid. It's a reminder of how important  it is to find ways to just feel... joy.

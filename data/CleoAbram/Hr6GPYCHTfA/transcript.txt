@@ -1,0 +1,101 @@
+[00:00] Alright, and... [CLAP]
+[00:02] So, a couple of weeks ago I clicked on this video that just blew my mind. "About to do my first driverless ride, typing in an address, requesting a car...."
+[00:11] Okay. This guy's name is Kyle and he's calling for a ride... Totally normal. I do this all the time. Car arrives, Kyle looks inside....
+[00:22] "Guys, there is nobody in this car." There's no one in the car.
+[00:31] Kyle is the CEO of the company that makes these cars. But this isn't just some private company demo!
+[00:35] Dozens of people across San Francisco are calling for rides and finding   nobody else inside. "Oh, my God. This is so cool."
+[00:44] [Amazed chuckling]
+[00:45] "This feels weird!!" [Silicon Valley clip] "Um. What's happening?"
+[00:51] I'll admit, you know I'm an optimist but I was getting a little bit cynical about self-driving cars!
+[00:57] Like, it does feel like every few years they say that self-driving cars will be here... in another few years.
+[01:04] But after watching this video, I wondered: Are they finally here? So I took a deep dove into that  question over the past few months,
+[01:12] not just into driverless taxis, but also all of the other driverless stuff that I'd heard about, trying to piece  together the big picture here.
+[01:21] I actually ended up in San Francisco interviewing Kyle himself. "You know, it's very clear that  this is something different. It's a robotaxi."
+[01:26] The answer that I found to whether self-driving cars are actually here is: YES.
+[01:33] They just don't look like what I thought. It's not that single go-anywhere sci-fi version.
+[01:44] It's actually two very different approaches two competing ideas of what the near future of self-driving might look like,
+[01:52] fighting it out on the road.
+[01:53] And our lives are about to look very different depending on who wins.
+[02:13] I live in New York, but all  of those self-driving cars, they're in San Francisco, so that's where I've got to go.
+[02:19] On the way, some context:  This conversation isn't about some binary switch from us driving cars to cars just driving themselves.
+[02:28] It's more like thiiiis... a long road from one to the other with a lot of messy middle.
+[02:35] And we've been driving down this road for decades. Back in the mid 1900s, we got basic cruise control where you could set a speed.
+[02:43] And in the early 2000s, we got help from our cars in key moments, like emergency braking.
+[02:48] And then we got more continuous  support, like lane centering or adaptive cruise control, it would match the car in front of you, right?
+[02:56] And as we got farther down this road, we started to see where we were headed more clearly, and we began to categorize the journey into levels of self-driving-ness.
+[03:07] Gotta watch for bikes! These are the levels you might hear about today. Level 0: Momentary help.
+[03:15] Level 1: More continuous support. Level 2 is newer, like highway piloting systems.
+[03:21] [Giggling maniacally]
+[03:24] This is where we are now with the limit of most cars we can easily buy. With all of the levels that we've gotten to so far,
+[03:35] humans are still very much in charge.  but as we get higher, maybe not so much.
+[03:41] The idea is that we'd first just be monitoring the car... and then it would be fully in charge, but only in certain situations or areas.
+[03:50] And then the last level would be car is in charge anywhere, any time...  you're asleep.  I knew that we were here...
+[04:00] and that lots of companies  were working hard on these... But those self-driving taxis? The ones that are already picking people up?
+[04:08] They're HERE. And it's not just them! Now that you know the levels  and where we are now,
+[04:16] here's the really key thing to understand about where we're headed: A lot of the headlines that I see are about the effort to get to that last sci fi level...
+[04:28] This way. And we're not that close.
+[04:30] Like, I don't know how long level 5 is going to take, but a lot of the predictions kind of seem like bullshit.
+[04:36] Instead, the interesting fight right now is actually just within the level we're already on: full self-driving but within constraints.
+[04:44] For example, training vehicles to drive anywhere that doesn't have too much complexity, like just on highways.
+[04:51] Or in more complex areas, but  they have to be trained there, you can't just drop 'em into a new city.
+[04:56] In other words, the fight for the future of self-driving isn't just happening this way... It's happening THIS way, too.
+[05:11] Here I am in sunny San Francisco.
+[05:13] I'm about to go interview the CEO of Cruise, and I'm going to take a not self-driving car to get there because it's really hard to get into one of those self-driving cars!
+[05:20] I think this is my car... Hi, how are you? Hello!
+[05:27] The company I'm going to visit, Cruise, is an example of one of the two big  visions for how to use self-driving cars within our current level.
+[05:36] To understand these visions, you have to understand the two big divides within the big picture of self-driving cars:
+[05:42] The first is where we to use them: Less complex situations, but anywhere? Or more complex, but geographically constrained?
+[05:50] Different companies are working on each. Okay. I think this is it. Yeah...
+[05:59] Hi! I'm looking for the Cruise office? Yes, this is it! Great! Uh, I am here to interview the CEO.
+[06:06] Ah! Ok, perfect. I can help you... Thank you very much. I know I introduced him as just like this guy, but Kyle is a really big deal.
+[06:15] I'm a little nervous.
+[06:16] All right, here we go.  "I've seen the video of you getting into the driverless car on the public street for the first time.
+[06:23] What did that feel like?" "Well, it was high pressure. This wasn't like a staged thing. That was the first time.
+[06:31] And so I was pretty nervous." "What have you learned from the results of that test so far?"
+[06:35] "The things we're learning are all the weird nuances between humans and machines that we take for granted." "Do you want to tell me, what's most interesting one?"
+[06:43] "So sometimes people use this service to come home from restaurants or even bars.
+[06:47] Maybe have a few drinks, and that makes you sleepy. And so we've had multiple people fall asleep - [Friends clip] "You fell ASLEEP?" "- in the back. What do we do?
+[06:55] The car's just kind of waiting  for them to wake up..." "What do you do?" "Well, we detect if people don't exit the vehicle quickly.
+[07:02] And so someone from our customer support popped on the audio and said,
+[07:06] "Hi, are you still in the car?""   I never thought of that problem, But yeah, like when technology meets the real world,
+[07:14] sometimes it's a little bit bumpy. You might have seen this other example. This is kind of my favorite: "The future is here!"
+[07:21] "Bizarre encounter between police and a driverless car has gone viral on social media."
+[07:25] "The officer then looked inside that car only to discover nobody in it!" "And then the car speeds away from the officers!"
+[07:34] "Are you serious??" "Everyone, including police, were laughing."
+[07:37] "I'm glad that, you know, the first thing that went wildly viral was a rather humorous and somewhat clumsy interaction between humans and machines.
+[07:46] There's an enormously complex   system of audio detection, visual detection for the sirens and flashing lights
+[07:54] In this video, you saw all of that working perfectly, this marvel of engineering The part that was a little awkward is the police officer goes up and doesn't see anyone inside, and
+[08:02] you see the police officer interacting with a customer support person and not realizing that the when they walk away from the vehicle and turn off the sirens, the  vehicle thinks it's safe to go.
+[08:13] And in fact, it detected that it was still   supposed to be pulled over and did what it was programed to do, which is go across the intersection and find a safe place to pull over.
+[08:21] It was certainly a first and something kind of interesting."
+[08:24] This is what it's like to take on all of the complexity of a city.  Okay, now for the second big divide within self driving:
+[08:31] whether to carry people. You've probably seen what goes here. Cities, no people: Delivery robots.
+[08:38] And finally, this square is really important. Highways, no people: Long distance autonomous trucking.
+[08:46] The two biggest, most different visions for self-driving at our current level are these two.
+[08:54] Imagine being able to move goods long distances with no humans involved In this future, you probably don't experience self-driving as often, but
+[09:04] it might impact your life in even bigger ways if it reshapes the way that we move goods around the world. "The autonomous truck revolution is here!"
+[09:12] "This truck is driving itself..." "They don't sleep, they don't drink, they don't get distracted." "You're not actually using  them for deliveries yet..." "We are, actually."
+[09:20] "It not only drives, it does so as politely as possible." "The future is now."
+[09:27] You're probably going to see these on the road soon.
+[09:29] And I found this analogy for how they'll change our lives that I just can't get out of my head:
+[09:34] They'll be different from human-driven trucks "in the same way a hundred guys with shovels are not an excavator."
+[09:43] Okay, now imagine a different future that looks like this. Much more in your life. You call a car, a driverless one shows up.
+[09:51] I'm walking with Kyle to go see the cars that they have now, but just listen to him describe the NEXT Cruise car. Not the one called the "Bolt," but the "Origin."
+[10:01] "It gets rid of the stuff that people don't need, like a steering wheel and brake pedals. And a lot of the other stuff that was meant for the driver,
+[10:08] that is just kind of silly to keep  around if there is no driver. "The feeling of taking a steering wheel out of a car makes me nervous.
+[10:16] How do you think about the reality that a driver couldn't take over one of those cars?"
+[10:23] "Even now, the vehicles that we have, you can't take control of them. You're in the backseat and there's plexiglass holding you back.
+[10:30] And it's because at this point, if you were to reach up and try to interfere with the vehicle, you'd probably make it worse. As weird as it sounds, you know,
+[10:38] We're there. We're ready. These are the two near futures for self-driving cars, the ones that might actually change your real life in the next few years.
+[10:47] In the longer term future, we might  look back and think it was crazy to drive at all. That we put teenagers behind the wheel of huge death machines.
+[10:57] that people had to drive for days to deliver stuff to other people.
+[11:01] The status quo of humans driving cars involves a lot of risk.
+[11:07] "People 20 years from now will see the humans of today as kind of barbaric.  We let kids who just got their driver's license drive you know, a two ton vehicle on the  highway at 80 miles an hour."
+[11:19] And it involves a lot of time.
+[11:21] "There's not many things that you can do today to give people back like an hour or more of their time. I think that's going to be profound."
+[11:29] In the meantime, now that you know these levels and approaches, maybe you'll see the headlines a little bit differently. And when you encounter these cars on the road,
+[11:37] you'll know how they fit into the big picture. "Oh, cool!" "There she is. This is Poppy." "Hey, Poppy!"
+[11:45] "Are we allowed to get in it?" "Think so..."
+[11:49] The most important thing that I learned through all of this, though, is bigger than self-driving cars. It's this:
+[11:55] Don't wait for the sci-fi version before paying attention. The future is made in the messy, messy middle.
+[12:04] And that's what we're in right now.

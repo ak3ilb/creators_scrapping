@@ -1,0 +1,52 @@
+{
+  "video_id": "x8srAijVcRo",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 8,
+      "text": "How you interact with AI tools is about to change. Anthropic just launched co-work in Claude. [music] And this is what Agentic AI actually looks like."
+    },
+    {
+      "start": 8,
+      "duration": 2,
+      "text": "Instead of chatting with Claude, [music]"
+    },
+    {
+      "start": 10,
+      "duration": 5,
+      "text": "you give it access to a real folder on your computer. Files, screenshots,"
+    },
+    {
+      "start": 15,
+      "duration": 7,
+      "text": "notes, receipts. [music] It can organize messy folders, rename files, extract data from screenshots, turn receipts"
+    },
+    {
+      "start": 22,
+      "duration": 4,
+      "text": "into expense [music] spreadsheets, and even draft reports from scattered notes."
+    },
+    {
+      "start": 26,
+      "duration": 6,
+      "text": "basically organizing the mundane work efficiently. [music] Further, it can plan tasks on its own,"
+    },
+    {
+      "start": 32,
+      "duration": 8,
+      "text": "executes them step by step, [music] and keep updating you like a digital coworker, not a tool. This is built on clawed code, [music] but redesigned for"
+    },
+    {
+      "start": 40,
+      "duration": 6,
+      "text": "non-technical users. And this is where the shift really is. AI isn't just something you talk to anymore. [music]"
+    },
+    {
+      "start": 46,
+      "duration": 3.0,
+      "text": "It's something you delegate to. Share this with your friends and follow full disclosure."
+    }
+  ]
+}

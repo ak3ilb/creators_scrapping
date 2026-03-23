@@ -1,0 +1,612 @@
+{
+  "video_id": "nAgTgwak7ME",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 2,
+      "text": "\"Go even harder!\" \"Seriously?\" \"Yeah!\""
+    },
+    {
+      "start": 2,
+      "duration": 9,
+      "text": "That's Atlas, the super famous robot that does parkour and throws stuff in these incredible videos from Boston Dynamics. And I'm about to shove it as"
+    },
+    {
+      "start": 11,
+      "duration": 9,
+      "text": "hard as I possibly can. And then, to be fair, I'm  going to get shoved the same way. I'm here with Atlas for a little friendly competition to see  what this robot can really do and to answer a"
+    },
+    {
+      "start": 20,
+      "duration": 5,
+      "text": "question that I've had since I was a kid: When  are all the robots coming? You know, like C3PO"
+    },
+    {
+      "start": 25,
+      "duration": 6,
+      "text": "and Sonny from \"I, Robot\" and The Iron Giant. The human- looking machines that can help us do more than we"
+    },
+    {
+      "start": 31,
+      "duration": 5,
+      "text": "can by ourselves... as long as they don't try and  take over. For most of my life, humanoid robots"
+    },
+    {
+      "start": 36,
+      "duration": 7,
+      "text": "have seemed pretty far away. But recently? Not  so much! Tesla, Boston Dynamics, Honda, NASA, and"
+    },
+    {
+      "start": 43,
+      "duration": 11,
+      "text": "a bunch of startups are all making huge leaps  in this field. So in this video we're going to   take you to the cutting edge of humanoid robots  to show you what they can actually do right now"
+    },
+    {
+      "start": 54,
+      "duration": 8,
+      "text": "and what you can expect in the robot future that's coming...  \"Humanoid robots...\" \"imitation of life...\""
+    },
+    {
+      "start": 62,
+      "duration": 3,
+      "text": "\"machines that resemble people as closely as possible\""
+    },
+    {
+      "start": 65,
+      "duration": 11,
+      "text": "\"robots playing a larger role in our lives\" \"how do we prevent robots and humans from being in conflict?\""
+    },
+    {
+      "start": 76,
+      "duration": 2,
+      "text": "\"How do I look? Great let's do this.\""
+    },
+    {
+      "start": 78,
+      "duration": 9,
+      "text": "I've wanted to meet Atlas for years. I'm one of the hundreds of millions of people who have watched this robot on YouTube. But getting into Boston Dynamics is hard."
+    },
+    {
+      "start": 87,
+      "duration": 8,
+      "text": "I've been trying for months and finally as the last ditch effort I just tweeted asking anyone who watches this  show for help. Through this community, we were"
+    },
+    {
+      "start": 95,
+      "duration": 7,
+      "text": "able to connect to the right people and finally  Boston Dynamics said yes. So you're the reason I get to be here. Thank you for making this dream of mine come true."
+    },
+    {
+      "start": 102,
+      "duration": 7,
+      "text": "\"I'm so excited to be here. Thank you for taking the time.\" \"We're excited to have you. This is the Atlas lab. You recognize it from our YouTube videos?\""
+    },
+    {
+      "start": 109,
+      "duration": 13,
+      "text": "\"I do! Very much. Can I meet Atlas for the first time?\""
+    },
+    {
+      "start": 122,
+      "duration": 5,
+      "text": "\"Do you still feel this way when you stand next to Atlas?\" \"Every day, I love this robot.\""
+    },
+    {
+      "start": 127,
+      "duration": 5,
+      "text": "The reason that I wanted to meet Atlas so badly is that this robot represents the much larger effort across"
+    },
+    {
+      "start": 132,
+      "duration": 7,
+      "text": "many companies to build machines that resemble  us. That walk on two legs, and use arms and hands"
+    },
+    {
+      "start": 139,
+      "duration": 9,
+      "text": "and can do some of the same things that we can and  maybe even things that we can't. If you understand   Atlas, you can understand what's really happening  with humanoid robots as a whole. Let's start with"
+    },
+    {
+      "start": 148,
+      "duration": 11,
+      "text": "some anatomy. \"Head, Shoulders, Knees, and Toes,\" but  for robots. Atlas's eyes are where you'd expect and   this is what the world looks like to it. Atlas's  brain though is not in its head. It's in its chest."
+    },
+    {
+      "start": 159,
+      "duration": 9,
+      "text": "\"Atlas has three computers inside of its torso. Each of which is the equivalent of a beefy laptop basically.\" Also, Atlas was kind of... short."
+    },
+    {
+      "start": 168,
+      "duration": 3,
+      "text": "\"I didn't realize that I would be taller than Atlas! But Atlas is BUILT.\""
+    },
+    {
+      "start": 171,
+      "duration": 9,
+      "text": "This version of Atlas is 4' 11 inches or 1.5 M tall. That's about the height of the average American 12-year-old. Early  Boston Dynamics robots were much larger. The larger"
+    },
+    {
+      "start": 180,
+      "duration": 10,
+      "text": "versions though were just scarier. It's easier  to find a robot endearing when it's the height of   a middle schooler. No one's ever seen the most  famous humanoid robots from different companies"
+    },
+    {
+      "start": 190,
+      "duration": 12,
+      "text": "standing next to each other but based on their  specs this is what that would look like: Here's   Atlas. Here's me at 5'9. Tesla's Optimus robot  is 5'8. NASA's Valkyrie robot is bigger 6'2. And"
+    },
+    {
+      "start": 202,
+      "duration": 7,
+      "text": "the cute old Honda Asimo is little just 4'3. And  there are plenty more. My biggest question"
+    },
+    {
+      "start": 209,
+      "duration": 5,
+      "text": "to these companies though was: Why? Why build a  human-shaped robot? We already have robots in all"
+    },
+    {
+      "start": 214,
+      "duration": 9,
+      "text": "kinds of other shapes. Why are we working so hard  to make them vaguely like us? The answer boils down   to this: We built our world for humans."
+    },
+    {
+      "start": 223,
+      "duration": 7,
+      "text": "\"So if you're interested in building a system that can start to address the current limitations in automation, a  humanoid form factor is quite good.\""
+    },
+    {
+      "start": 230,
+      "duration": 10,
+      "text": "Companies are building these robots to first do things that are unsafe or repetitive or boring for humans like some kinds of manufacturing or some tasks in hard to get places."
+    },
+    {
+      "start": 240,
+      "duration": 11,
+      "text": "That's why legs specifically are so important... \"So many of the robots that people encounter day to day from a Roomba to   a more automated delivery system, they're on wheels. Why have legs?\""
+    },
+    {
+      "start": 251,
+      "duration": 7,
+      "text": "\"For me, legs are about access. The opportunity to go more places is just better. So  if I want a robot that can not only walk around"
+    },
+    {
+      "start": 258,
+      "duration": 7,
+      "text": "a floor like this but that can go upstairs, climb  ladders, maybe I can take it into the woods, or I   can take it into a crumbling building...\""
+    },
+    {
+      "start": 265,
+      "duration": 10,
+      "text": "Or in the case of NASA's Valkyrie robot, they want to take it into space! Talk about uncertain terrain... \"Why not add something humans don't have... like a tail?\""
+    },
+    {
+      "start": 275,
+      "duration": 10,
+      "text": "\"You have to think about what the function of a tail  might be. The tail would have to be able to exert   forces on the robot that would be significant...\"  \"I'm just thinking about all the things that I wanted as a kid....\""
+    },
+    {
+      "start": 285,
+      "duration": 6,
+      "text": "\"I wanted wings also. Is Atlas going to go airborne anytime?\" \"That would be pretty sweet, um...\""
+    },
+    {
+      "start": 291,
+      "duration": 2,
+      "text": "[CRICKETS]"
+    },
+    {
+      "start": 293,
+      "duration": 0,
+      "text": "\"Yeah maybe.\""
+    },
+    {
+      "start": 293,
+      "duration": 14,
+      "text": "Yeah, that's a no. I gotta ask the questions! It's my job. Ok so it's valuable for robots to have have legs and  a human- shaped body, even if it doesn't come"
+    },
+    {
+      "start": 307,
+      "duration": 16,
+      "text": "Ready? Let's go. First up: running. I crushed Atlas at running. Jumping? We can both do that..."
+    },
+    {
+      "start": 323,
+      "duration": 10,
+      "text": "And also this... Or rolling... gotta say, Atlas is more graceful than I am. And then... The grand finale..."
+    },
+    {
+      "start": 333,
+      "duration": 9,
+      "text": "Show-off. \"Do a backflip!\" [ATTEMPT] \"Nope! There's no way.\" \"Jesus Christ. That's Jason Borne.\""
+    },
+    {
+      "start": 342,
+      "duration": 10,
+      "text": "Yeah! No! I can't do a standing backflip. There's just no way."
+    },
+    {
+      "start": 352,
+      "duration": 8,
+      "text": "But... hang on... if Atlas can do a standing backflip... why can't it beat me at something as simple  as running? I was going really slow."
+    },
+    {
+      "start": 360,
+      "duration": 2,
+      "text": "\"Have you ever heard of Moravec's Paradox?\" \"No.\""
+    },
+    {
+      "start": 362,
+      "duration": 8,
+      "text": "\"It's a principle that's often quoted in robotics. It's that the easy things are hard. So basically  all the things that we take for granted in how"
+    },
+    {
+      "start": 370,
+      "duration": 8,
+      "text": "we move through the world world and interact with  objects, we spend no time thinking about, these are   exactly the things that are extremely hard to get to work in robots.\""
+    },
+    {
+      "start": 378,
+      "duration": 5,
+      "text": "When you see a person do something impressive, you subconsciously  make assumptions about what else they can do."
+    },
+    {
+      "start": 383,
+      "duration": 8,
+      "text": "If they can do a backflip, they must be able  to jog slowly. The lesson here though is:   Don't do that for robots! Those assumptions don't apply."
+    },
+    {
+      "start": 391,
+      "duration": 7,
+      "text": "\"So if I see a person for example take an amazing soccer shot that goes in the top left corner  of the goal and it looks beautiful, I could"
+    },
+    {
+      "start": 398,
+      "duration": 9,
+      "text": "probably assume that that person is really good  at dribbling soccer balls. But if you see a robot   do that those other things might not be true at all!\" Atlas can do a backflip but doesn't sit in a char."
+    },
+    {
+      "start": 407,
+      "duration": 9,
+      "text": "\"Humanoids don't sit in chairs. And  there's actually technical reasons for it. It's   very hard to write a a general control system  that can just sit in a chair. If we spent a lot"
+    },
+    {
+      "start": 416,
+      "duration": 9,
+      "text": "of time and worked on them, I'm sure we could do it, but I think there's just a lot of   really simple, low performance, interactive behaviors that we do all day long that would be a real struggle for Atlas right now.\""
+    },
+    {
+      "start": 425,
+      "duration": 10,
+      "text": "So far though, Atlas and I have competed in predictable environments. But   what about when something unexpected happens? Like hypothetically some mean YouTuber coming to shove you over?"
+    },
+    {
+      "start": 435,
+      "duration": 9,
+      "text": "\"I feel guilty already. Where do I shove it?\" \"You can shove it right in the camera, that's fine.\" \"Stop, really?\" \"Yeah, go ahead, it's fine\""
+    },
+    {
+      "start": 444,
+      "duration": 9,
+      "text": "\"Wow!\" \"I'm shoving it hard too...\" \"Go even harder!\""
+    },
+    {
+      "start": 453,
+      "duration": 9,
+      "text": "\"Seriously?\" \"Yeah!\" \"I can't!\""
+    },
+    {
+      "start": 462,
+      "duration": 9,
+      "text": "\"Wow. I'm actually trying. Hard. Ok I'm going to to try one more time and then I'll  stop bullying your robot.\" \"Go ahead!\""
+    },
+    {
+      "start": 471,
+      "duration": 2,
+      "text": "\"Wow... I'm so sorry.\""
+    },
+    {
+      "start": 473,
+      "duration": 12,
+      "text": "If the robots do ever take over, we're just gonna agree that this never happened. Okay? Okay. And besides, in my defense,  I asked one of the engineers to shove me in   the same way that I shoved Atlas..."
+    },
+    {
+      "start": 485,
+      "duration": 9,
+      "text": "\"Would you push me in the chest?\" \"I'm serious. I want to be in the same exact position that Atlas was... Listen, fair's fair. But not in the head, that felt like a little much."
+    },
+    {
+      "start": 494,
+      "duration": 10,
+      "text": "You can see that I recover too in almost  exactly the same way that Atlas does but I get   pushed back way farther so I'd say Atlas wins this  round. These are the moments that really pique my"
+    },
+    {
+      "start": 504,
+      "duration": 5,
+      "text": "interest. How does a robot handle adversity? Like  in Tesla's recent Optimus demo, one of its blocks"
+    },
+    {
+      "start": 509,
+      "duration": 15,
+      "text": "fell unexpectedly on its side and it seamlessly  corrected it. And then this guy comes in and moves   the poor robots blocks around, and it just keeps  going, it's just adapting to the changes. Also I   felt so bad for it. Like don't move the poor robots  blocks, around he's organizing them!"
+    },
+    {
+      "start": 524,
+      "duration": 8,
+      "text": "And I felt so guilty for pushing Atlas too... \"Like I actually feel guilt. I'm not trying to be cute on camera, I feel something when I push a humanoid robot.\""
+    },
+    {
+      "start": 532,
+      "duration": 7,
+      "text": "\"I think there's just going to be a big learning experience for us as a society as these systems start to make their way into our daily lives.\""
+    },
+    {
+      "start": 539,
+      "duration": 6,
+      "text": "Obviously I know that Atlas is not a person. But we're people, so it's just inevitable that we"
+    },
+    {
+      "start": 545,
+      "duration": 10,
+      "text": "respond differently to robots that look like us as  opposed to say an automated forklift. This is   one of the things that I think is most interesting  about this topic. Most of us subconsciously think"
+    },
+    {
+      "start": 555,
+      "duration": 8,
+      "text": "if they look more like us they must be and think  more like us but how intelligent is Atlas really?"
+    },
+    {
+      "start": 563,
+      "duration": 5,
+      "text": "when I see Atlas throw a bag on YouTube has a  human engineer pre-planned every tiny little"
+    },
+    {
+      "start": 568,
+      "duration": 8,
+      "text": "movement of each limb? Or have they said, \"get this  bag from here to here, but you figure out how\"? Or"
+    },
+    {
+      "start": 576,
+      "duration": 9,
+      "text": "could they just say, \"We're building a house. Help  us do that.\" And then Atlas would identify what to   do? That might be the future, but the answer right  now is closest to that middle option:"
+    },
+    {
+      "start": 585,
+      "duration": 2,
+      "text": "\"Get this from here to here.\""
+    },
+    {
+      "start": 587,
+      "duration": 11,
+      "text": "\"The way that we command the robot  to throw the bag is we tell the robot okay we   want this bag to end up over there. You get to hold  it for some period of time, and we want you to do"
+    },
+    {
+      "start": 598,
+      "duration": 7,
+      "text": "a 180. So it has to figure out, okay how do I grab  the bag and then accelerate it while I'm jumping"
+    },
+    {
+      "start": 605,
+      "duration": 8,
+      "text": "so that when I let it go it follows Newton's laws  and ends up where it's supposed to go. And all that   coordination is really complicated right?\""
+    },
+    {
+      "start": 613,
+      "duration": 6,
+      "text": "For you as a person, this doesn't require much thinking at all. \"And then you're going to jump and turn 180 and throw it behind you.\""
+    },
+    {
+      "start": 619,
+      "duration": 16,
+      "text": "\"Okay... everybody... beware. That way.\" \"Wow, that's heavier when I... let me try again.\""
+    },
+    {
+      "start": 635,
+      "duration": 2,
+      "text": "\"Turns out I can't do that as high as I thought.\""
+    },
+    {
+      "start": 637,
+      "duration": 7,
+      "text": "As you noticed, when you did a 180 without the bag you did it perfectly, right? As soon as you  did that your balance is all off and the reason"
+    },
+    {
+      "start": 644,
+      "duration": 11,
+      "text": "is the inertia of this bag coupled with your body  changes how much angular momentum you need to do   in order to get all the way around right and the  robot has to figure out all of those details on the fly.\""
+    },
+    {
+      "start": 655,
+      "duration": 9,
+      "text": "\"This is making me more impressed with the  level of computation that Atlas is doing and that   my brain is doing. And I'm appreciating my  own body more like a robot right now.\""
+    },
+    {
+      "start": 664,
+      "duration": 9,
+      "text": "Recreating human-like movement in a robot is just very hard and Atlas doesn't always get this right. Plus   you're learning from every new experience and failure. Atlas is not."
+    },
+    {
+      "start": 673,
+      "duration": 9,
+      "text": "\"When I'm shoving Atlas as hard as possible, is Atlas learning to accommodate that better? Or would someone need to change Atlas's programming in order to accommodate that better?\""
+    },
+    {
+      "start": 682,
+      "duration": 11,
+      "text": "\"Yeah right now we're not automatically using data from the robot to improve the control system so any improvement that comes from hardware experiments goes through a human engineer at this point.\""
+    },
+    {
+      "start": 693,
+      "duration": 8,
+      "text": "Okay so Atlas isn't learning from every new experience. But it is learning in another way... \"How much is Atlas currently using what a layperson would call AI?\""
+    },
+    {
+      "start": 701,
+      "duration": 7,
+      "text": "\"So when people say \"AI,\" they're usually referring to models that were created through a process of machine learning...\""
+    },
+    {
+      "start": 708,
+      "duration": 7,
+      "text": "Machine learning boils down to giving a machine a set of examples of inputs and outputs and allowing it to figure out its own rules to get from one to the other."
+    },
+    {
+      "start": 715,
+      "duration": 10,
+      "text": "\"And so Atlas's perception system for example  is almost entirely driven by machine learning at   this point. So it frequently uses cameras in order  to identify objects in its environment in order"
+    },
+    {
+      "start": 725,
+      "duration": 8,
+      "text": "to localize itself to its surroundings. There's  other types of machine learning as well that are   more responsible for generating behavior. Instead of a human engineer painstakingly"
+    },
+    {
+      "start": 733,
+      "duration": 12,
+      "text": "thinking carefully about you know the physics of  a problem and writing down a controller to solve   that problem, you actually use simulation  and maybe robot data in some cases and trial   and error experience in order for the system to  learn how to do a task better.\""
+    },
+    {
+      "start": 745,
+      "duration": 5,
+      "text": "Based on its demo videos, Tesla appears to be heavily investing in exactly that. When they say Optimus can sort"
+    },
+    {
+      "start": 750,
+      "duration": 10,
+      "text": "these blocks \"fully autonomously,\" what they seem to mean  is that after being given the goal of \"blue blocks   here and green blocks here\" the robot can then use  a neural network, a kind of machine learning"
+    },
+    {
+      "start": 760,
+      "duration": 6,
+      "text": "system, that runs inside the robot to process  visual information from its cameras and \"decide\""
+    },
+    {
+      "start": 766,
+      "duration": 5,
+      "text": "how to accomplish this task. Tesla also seems to be  using simulation data to train Optimus to perform"
+    },
+    {
+      "start": 771,
+      "duration": 11,
+      "text": "tasks better. Frankly it's hard from these videos  to figure out exactly how Optimus is working but   I'd love to visit Tesla and find out! The robot  future that I wanted as a kid, having robots in"
+    },
+    {
+      "start": 782,
+      "duration": 10,
+      "text": "our lives helping us do daily tasks, will depend on  these robots being able to understand increasingly   high level concepts and commands. If you want a  robot to put away your groceries there is a"
+    },
+    {
+      "start": 792,
+      "duration": 11,
+      "text": "massive difference between \"rotate your left  hand, pick up the bag like this, put the bag   on the counter, then take your left hand and open...\"  the versus \"put my groceries away.\" A robot needs to"
+    },
+    {
+      "start": 803,
+      "duration": 6,
+      "text": "understand not just \"where are my hands?\" but \"what  are groceries?\" and \"away\" means \"in the cabinet, not"
+    },
+    {
+      "start": 809,
+      "duration": 5,
+      "text": "out the window\" and also other things remain more  important at the same time, like don't put away my"
+    },
+    {
+      "start": 814,
+      "duration": 6,
+      "text": "groceries at all cost! Don't step on my dog!  The more you learn about humanoid robots the more"
+    },
+    {
+      "start": 820,
+      "duration": 6,
+      "text": "you realize how difficult making one actually is,  and how amazing the robots that already exist are,"
+    },
+    {
+      "start": 826,
+      "duration": 10,
+      "text": "and also how amazing human bodies are. But as  these robots inevitably get more capable one question will become more urgent: What will we use them for?"
+    },
+    {
+      "start": 836,
+      "duration": 6,
+      "text": "\"Killer robots\" \"Will robots take over the world?\" \"The global robot takeover is coming!\""
+    },
+    {
+      "start": 842,
+      "duration": 6,
+      "text": "Boston Dynamics has issued a statement saying \"no general purpose robots should be weaponized.\" I asked them about that."
+    },
+    {
+      "start": 848,
+      "duration": 12,
+      "text": "\"One of the things that I'm proud of at this company is that we've taking a very strong stance for example  against weaponization of robots, collaborating with  Massachusetts legislators in order to put forward   legislation that would explicitly ban the creation  of such technology in the state.\""
+    },
+    {
+      "start": 860,
+      "duration": 7,
+      "text": "It seems like Elon Musk has a similar stance on this. He said that we don't want a \"terminator scenario\" but if"
+    },
+    {
+      "start": 867,
+      "duration": 10,
+      "text": "history and Hollywood are any indication not all  robot makers might feel this way. This is likely to   be an ongoing conversation within these companies and between all of us."
+    },
+    {
+      "start": 877,
+      "duration": 15,
+      "text": "\"I think many of us on this team are are looking for ways to make these have a positive impact in the world. Basically allowing people to decide long-term what kind of work they want to do. And then for the things that we don't want to do we can have machines that'll help us keep things going.\""
+    },
+    {
+      "start": 892,
+      "duration": 10,
+      "text": "There are robots around us already, all the time. Most of them static or on wheels, but humanoid robots are inherently different. Something about making them"
+    },
+    {
+      "start": 902,
+      "duration": 10,
+      "text": "look like us fundamentally changes how we feel about them. They are more scary and more lovable because they're  more like us. Making machines that look like us"
+    },
+    {
+      "start": 912,
+      "duration": 7,
+      "text": "is one of the most ambitious and endearingly  human technological moonshots I can think of."
+    },
+    {
+      "start": 919,
+      "duration": 7,
+      "text": "It's a creation in our own image. There is a \"huge if true\" future where humanoid robots are walking"
+    },
+    {
+      "start": 926,
+      "duration": 5,
+      "text": "among us, helping us by doing things that we do  like taking out groceries or building things"
+    },
+    {
+      "start": 931,
+      "duration": 7,
+      "text": "and doing things that we can't, like running into  the worst burning building or walking unprotected"
+    },
+    {
+      "start": 938,
+      "duration": 5,
+      "text": "on the moon. Hundreds of people are are working  right now to make that future possible and if"
+    },
+    {
+      "start": 943,
+      "duration": 6,
+      "text": "they succeed, we're going to need to think about  another question which is: What do we as humans"
+    },
+    {
+      "start": 949,
+      "duration": 14,
+      "text": "want to do - and what do we want to give up? We have  some time before we need to answer that question   but the robot future is coming and it's up to us  to decide what it looks like."
+    },
+    {
+      "start": 963,
+      "duration": 3.0,
+      "text": "Hold on... I have one more thing... For this whole video we were  talking about robots that look like humans but   what about robots that look... like dogs? Oh thank  you! I got to hang out with Boston Dynamics robot   dogs and you definitely want to see that video  so subscribe to support our show and to see it first."
+    }
+  ]
+}

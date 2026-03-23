@@ -1,0 +1,9 @@
+[00:00] How you interact with AI tools is about to change. Anthropic just launched co-work in Claude. [music] And this is what Agentic AI actually looks like.
+[00:08] Instead of chatting with Claude, [music]
+[00:10] you give it access to a real folder on your computer. Files, screenshots,
+[00:15] notes, receipts. [music] It can organize messy folders, rename files, extract data from screenshots, turn receipts
+[00:22] into expense [music] spreadsheets, and even draft reports from scattered notes.
+[00:26] basically organizing the mundane work efficiently. [music] Further, it can plan tasks on its own,
+[00:32] executes them step by step, [music] and keep updating you like a digital coworker, not a tool. This is built on clawed code, [music] but redesigned for
+[00:40] non-technical users. And this is where the shift really is. AI isn't just something you talk to anymore. [music]
+[00:46] It's something you delegate to. Share this with your friends and follow full disclosure.

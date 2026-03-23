@@ -1,0 +1,130 @@
+[00:00] Ready? Right here, out in the middle  of the desert, miles from any city,
+[00:04] are huge concrete tubes, that are part of  a giant machine running the most precise experiment humans have ever built. This  experiment is happening inside two tubes,
+[00:17] each 4 km long. And inside each tube, there's  a big metal pipe. And at the end of each pipe,
+[00:23] scientists place some of the smoothest  mirrors ever made. And then they fire a powerful laser that gets split down each tube,  bouncing back and forth and back and forth,
+[00:33] building up power until they bring those beams  back together to detect something that just a
+[00:40] hundred years ago scientists said was impossible  to find. Finding it took hundreds of scientists and over a billion dollars. But what exactly did  we find? And what's the cutting edge we're finding now...
+[00:53] that makes those same scientists want to  build an even bigger one?! Let's go!
+[01:10] Right now, I'm here in the control room of this  giant machine. "Hey everyone." Hi everyone, how  are ya?
+[01:17] "I've seen you on the internet..." Yeah, I'm  Cleo, great to meet you! This machine is known as the Laser Interferometer Gravitational Wave Observatory  or just LIGO. And that is Mike, the head of
+[01:28] LIGO. The reason this machine is such a big deal  is that up until now, for all of human history,
+[01:34] everything that we know about the cosmos has been  from waves of light and particles that just happen to come our way. But it turns out there are other  ways to sense our Universe. Think about it this way...
+[01:46] ...imagine that you're in a jungle and you can  only see. Think about what you know about what's
+[01:52] around you. Now...with this machine, it's like all  of a sudden we can suddenly "hear". Think about what
+[02:01] you know now about what's around you. That's  why LIGO was built, to create a way to "hear" our
+[02:08] Universe. And with this machine, our "hearing" is  getting better, fast. It's as though a few years
+[02:13] ago, we could only "hear" the Universe "yelling"... and  now we can "hear" it "murmuring". But, when scientists
+[02:20] started building this machine back in the '90s, it  was thought of as high risk, high reward because
+[02:26] it was all based on a prediction made by Albert  Einstein 75 years before. Imagine for a second
+[02:33] that two enormous stars 100 light years away from  us ... collide! What happens here on Earth? Well, at
+[02:42] first...nothing. We don't see it. We don't feel it.  But Einstein predicted that massive things, warp
+[02:48] space and time around them and THAT'S what we call  gravity. So when these two massive stars collide,
+[02:57] Einstein said that not only do they produce  an explosion of light, but they make ripples that stretch and squeeze space and time. And those  ripples move outward ... like a wave ... a gravity wave,
+[03:12] a gravitational wave. And Einstein predicted that  these gravitational waves travel at the same speed
+[03:19] as light. So after 100 years, that light from that  collision hits us and so do these waves. But think
+[03:26] about what that means! It implies that everything  we know, you, me, the space between us, all of
+[03:34] reality as we know it, is getting stretched and  squeezed and we never feel it. But 100 years ago,
+[03:41] this was all just a theory. Gravitational waves?! Most physicists believe that even if Einstein were right, it would be too hard to actually prove.  That's because based on Einstein's predictions,
+[03:53] this stretch or squeeze would be 10,000 times  smaller than the size of a proton. To put that
+[04:01] into perspective, trying to measure that is  like trying to measure the distance from here
+[04:06] to the nearest star four light years away and  watching that distance change by the width of a
+[04:13] human hair. Yeah ... that's why we had to build  this insane machine. It's a giant measuring stick. But if everything is getting stretched  and squeezed, including your measuring stick,
+[04:26] how would you get an accurate result? No,  seriously, how would you do it? Turns out the measuring stick and this are the key ... because what if you used something that we
+[04:36] know has a constant speed, right? Like light,  and you shoot it down your measuring stick,
+[04:41] and you could calculate how long it takes the  light to go down and bounce back. So if the distance changes, the time the light would take  would change too. That would work in principle,
+[04:51] but actually doing this is insanely hard. So  this is what they built. I'm walking around
+[05:01] next to LIGO's measuring sticks right now. That's  what these concrete arms are. The way this works is laser light is sent out here and then splits  into two, speeding down these identical arms,
+[05:13] then hits mirrors at the end and gets reflected  back. Now, normally the arms are perfectly aligned so that the waves of light cancel each other  out resulting in no light hitting the detectors.
+[05:25] But if that mysterious, stretchy, squeezy, wave comes  through ... it would change the length of the arms ...
+[05:33] ... shift the laser beams ever so slightly ... and  on the detector, you should see ... a flicker.
+[05:43] The longer the measuring stick, the easier to  measure the change, except ... the harder to build it
+[05:48] in the first place. LIGO's measuring sticks  are 4 km long. So long they need to correct for
+[05:56] the curve of the Earth. "The curvature of the Earth  is such that, you know, if we launch the light from
+[06:02] the corner station at the ends the fall off of the  curvature of the Earth is about 4 feet." Now ... time to
+[06:09] go inside. The suspense is building ... oh cool! This  was a big deal... very few people get to go inside here.
+[06:17] I was so excited...except there were a lot  of spiders. "Yeah, widows. That's the main thing I'm worried about..." less excited about that.  Now, we are inside the concrete tube. This is
+[06:27] the beam pipe. And inside the beam pipe is 10,000  cubic meters of ... nothing. And when I say nothing,
+[06:34] I mean there are fewer particles in there than  the International Space Station flies through because they sucked them all out. And the reason  they did that is to make sure the only thing in there
+[06:43] is the laser. "We're going off to this clean  room space so we have several different layers to
+[06:50] protect ourselves." I think I look great! "Busted  down." Wow, you look cool! "That's uh the good
+[06:57] thing about $700 glasses, right?" Why do we have  to wear these glasses? "Because the laser that we
+[07:03] use is invisible...and if it hits you in the eye,  you're not... you won't blink. It will blind you and
+[07:09] you can start hearing popping first, which is your  blood vessels popping before your field of vision
+[07:15] goes cloudy." Okay... I'm going to wear the glasses  just in case. Inside this is the laser where the whole experiment starts. But if I were to open  up this pipe, you wouldn't see it because it's an
+[07:25] infrared laser. Its wavelength lies just outside  the spectrum that you can see. We sense this as heat. Right now at the beginning here, only 60  watts of power goes into the experiment. That's
+[07:35] actually a lot. My little laser pointer here is  probably 0.005 watts. So this is already 12,000 times more powerful. And it's not even close to its  max power. Once the laser travels down the arms,
+[07:48] it hits the mirrors at the ends, and on its way  back, it hits more mirrors, bouncing back and forth within the arms 300 times on average before  hitting the detector, building up the laser power
+[07:59] to 400 kW. That's 80 million times more powerful  than my little laser pointer! But this extreme
+[08:06] power has a purpose. More light equals more  sensitivity. And more bouncing means a longer
+[08:11] distance the light travels ... a longer measuring  stick! Increasing the total travel distance to
+[08:17] 1,200 km. Which makes any little change easier  to measure. But pulling this off is even harder
+[08:25] than you think. They have to line this laser up  with incredible accuracy. That's what they're doing here at this crazy looking table. But to  look any closer, I need to put on some special gear...
+[08:42] Why do we look like this? Why are we  gowned up? "It's definitely not to protect us. It's
+[08:47] because we're just dirty, right? Like our skin,  our eyelashes, our sneezing or coughing." I touched my glasses after wiping my hands, so now I need  to wipe my hands again. This is serious business!
+[08:58] Even the tiniest speck of dust on these optics  could ruin the whole experiment. So to limit that chance, they only open up these chambers  about once a year to make sure that everything
+[09:07] is perfectly aligned. It's extremely rare to get  to go inside. And once it's all aligned, the laser
+[09:12] exits here and enters the arms. Oh my god! Do you  see it? That's the coolest thing. And while I was
+[09:22] here, I learned the most fun way to explain what  they're doing with this machine. "Has anyone else
+[09:27] shown you the LIGO dance yet?" No! "Okay, uh, one hand up in  the air, one hand out to the side. Gravitational waves coming towards us. This one goes down. This  one goes big. This one goes big. This one goes up.
+[09:40] And it goes faster and faster and faster ... And that is what's happening ... but it's doing it 10 to the minus 22 meters"
+[09:51] So they set up this incredible experiment. But if  anything jostles it, it messes the whole thing  up. My favorite story about this is how scientists  at LIGO found a very weird source of noise. Hey,
+[10:02] Mico, why did ravens cause an issue at LIGO  in 2018? "Here's the deal... back in 2018,
+[10:08] frost formed on these pipes that were part of the  cooling system at the end of one of the detector
+[10:14] 4 km arms. The ravens, clever as they are, found  the icy pipes and started pecking at them. That
+[10:20] tapping created little vibrations that interfered  with the laser readings underneath causing those glitches in the Gabamus data." This is Mico, it's like  Clippy but way smarter. Actually, hold on...
+[10:31] let me show you. There's a secret way to turn it into  There we go! Clippy! I like talking to it because it helps me figure out what's most interesting  about a story. Like I can have a conversation and
+[10:40] then I can go into the transcript and find sources  and figure out what I thought was most cool. Mico,  how did they solve the raven problem? "Well,  the team got a little creative. They insulated
+[10:49] those pipes so that condensation couldn't form and  freeze anymore, which means no more frosty treats for the ravens and no more data glitches caused  by their tapping." If you want to chat with Mico,
+[11:00] you can scan this QR code or use the link in my  description. And make sure to ask how they deal with airplane noise at LIGO. It's a whole thing.  Thanks, Mico! Back to the story. So, now that the
+[11:09] laser is lined up, it's flying down the arms  and it's hitting these mirrors. But remember, we're trying to measure something smaller than  a proton. So, these can't just be any mirrors...
+[11:20] ...these are some of the smoothest, most reflective  mirrors in the world. These things are HUGE. The
+[11:27] main mirrors at the ends of the arms weigh 40 kg,  and making them takes work on four continents over
+[11:33] multiple years. Wait...but that doesn't look like  a mirror...you can see right through it! That's cuz
+[11:39] these mirrors need to be coated with dozens of  layers of different materials to optimize their reflectiveness. But now, they definitely don't  look like regular mirrors. And that's because
+[11:49] they're not made for visible light. They're made  to reflect the infrared light of the laser. And on
+[11:55] top of that, they're polished to be unbelievably  smooth. "Normal people think that their fridge surface is flat stainless, but it turns out that  if you were to take your fingernail or something
+[12:05] and rub across it, it has a peak to valley shape,  right? All flat surfaces do." But those peaks and valleys won't work for the laser... "Those peaks and  valleys will distort our detector laser waveform."
+[12:16] A typical mirror in your bathroom is about 90  to 95% reflective. But these mirrors reflect
+[12:22] 99.9999% of the infrared light that hits them.  That means that practically all of this powerful
+[12:28] laser light can keep on bouncing back and forth  along these tubes, measuring their length for any
+[12:34] changes. So now we've got our powerful laser, our  insanely long arms, our super smooth mirrors all
+[12:40] aligned. But there's one more thing that could  ruin everything. What if you do all of this
+[12:46] incredibly delicate work and then a truck drives  by? The whole thing could get ruined if the ground
+[12:52] that it's on doesn't stay still. And by still, I  mean a kind of stillness that you and I have never known...
+[13:00] "So the natural movement of the ground that  we're standing on is about a nanometer. You know,
+[13:07] a billionth of a meter. That means our mirrors  have to be made 10 billion times more still than
+[13:14] the ground we're standing on." This machine is 10  billion times more still than the normal still
+[13:23] ground. What does that even mean?!?! They did it by  creating an insanely complex suspension system
+[13:31] that isolates those mirrors and counteracts  any vibrations, even hanging them by strands
+[13:37] of glass about four times thicker than a human  hair and yet stronger than steel. The details
+[13:46] of the engineering here are incredible. And what  really blows my mind is that they did ALL of this
+[13:53] work on basically a bet that Einstein was right.  So they build this crazy machine and then ... they
+[14:01] turn it on ... and ... nothing. For 10 years. No flicker.  The detector stays silent. They don't see a single
+[14:09] gravitational wave. Brutal. "We didn't see anything  in those first science runs. We didn't see any
+[14:15] gravitational waves at all..." But they kept going,  making the machine better and better, more and
+[14:20] more sensitive until in September 2015, they turn  on the newer, better advanced LIGO. And almost
+[14:28] immediately, 3 days later, they finally see... And  that flicker... it actually looked like this. Yep,
+[14:39] it's a bump on a chart. They call it a chirp. But  how did they know that that chirp was actually
+[14:45] a gravitational wave? Maybe it was just a truck  going by. That's why 3,000 km away in a totally
+[14:52] different place with none of the same trucks,  they'd built a whole another one. That's right.
+[14:59] There are two of these enormous crazy machines  working together to check each other's work.
+[15:05] And that second machine saw the chirp, too. After  ALL this work and ALL this building and ALL this
+[15:11] genius human effort ... a hundred years almost to  the day after Einstein predicted it, we saw our
+[15:20] FIRST gravitational wave. For those scientists,  it meant that they just won the Nobel Prize.
+[15:30] And for all the rest of us, it  meant a totally new era. Eventually,
+[15:34] they figured out that those first waves they  detected were caused by two black holes merging 1.3 billion lightyears away. It was a huge impact  causing massive waves, a cosmic "yell", basically.
+[15:48] And it turns out that the Universe "yells" a lot.  "We've made 294 detections to date. And right now,
+[15:56] we get them about once every 3 days or so."  We've now "heard" more black holes colliding,
+[16:01] creating even bigger ones. stars smashing and  exploding, telling us where many of the elements
+[16:06] on Earth come from. These "sounds" let us officially  measure the speed of gravity and the expansion
+[16:14] of the Universe. We first understood light and  then we manipulated it. We're now right at the
+[16:21] beginning of understanding gravity. Just imagine  what we could do if we could manipulate THAT! When
+[16:28] LIGO first started "listening" to the Universe, they  could only "hear" this far, and they didn't detect anything. Then here's how far they could "hear" in  2015, making their first detection. And today,
+[16:39] LIGO can reach more than a thousand times more  space than it originally could. And the best
+[16:45] part is ... we're only just getting started. They're  working on new, bigger machines, like this one in
+[16:51] Europe. It's a triangle with three 10 km long arms  buried underground. And in the US, there's another plan for one called Cosmic Explorer, an L-shape,  but instead of 4km arms, they want 40.
+[17:05] Those observatories would expand our "hearing" to  close to the edge of the observable universe.
+[17:11] Humans are astonishing. We gave ourselves and  every person after us a "new sense". We might be the
+[17:21] first living species ever to "sense" the Universe  in this way. The Universe has been "talking" to us
+[17:29] this whole time and we can finally "hear" it. So now  the question is ... what will we "hear" next?
+[17:38] If you believe that there should be more optimistic  science and tech stories...subscribe.

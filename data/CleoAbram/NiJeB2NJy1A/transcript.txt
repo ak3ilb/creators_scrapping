@@ -1,0 +1,106 @@
+[00:00] Ready? And... [CLAP] Think of something you want to see -  something that doesn’t exist. Like... "a portrait of King Louis IV... as a beagle."
+[00:09] The tool I’m using isn’t gonna go find pictures online and collage them together. It’s gonna create a new image. You’ve probably heard of this thing.
+[00:17] It’s a form of artificial intelligence called - “DALLE" "It's called DALL-E 2" "Image-generating artificial intelligence"
+[00:25] These tools are REALLY fun to play with. For the last couple weeks since we got access, my friend Justin and I have been sending our creations back and forth to each other...
+[00:32] "I was like, “robot samurai.” And so I put this in here…" "These are beautiful!" With these, anyone can make art in  seconds. Artists, understandably,
+[00:42] have concerns about that. This technology  has quickly become VERY controversial. "We're watching the death of artistry unfold right before our eyes..."
+[00:49] Justin is a designer and animator who works with  me on Huge If True. He’s an artist. I’m… not so much.
+[00:56] What I noticed as Justin and I were making  these is: His were way better than mine! It didn’t feel
+[01:01] like the AI was leveling the playing field  between us. It felt like I was getting new skills - but he was getting superpowers. So, to test that, we set up a little competition…
+[01:11] “I think we should try and do a  city skyline without AI first…"
+[01:17] "And then we should do like the AI version…” And I wanted to get you involved. So we mixed them all up - mine, Justin’s, AI, no AI -
+[01:25] and we let you vote on them. 3000+ of you voted... The results were FASCINATING.
+[01:31] This isn’t gonna be a story of how “AI is gonna replace artists.” It’s a story, like many, many before, of what happens when you give people a powerful new tool.
+[01:42] Of how technology, if we use it right, can unlock more of our very human creativity.
+[01:56] It’s easy to get obsessed. When you're using these tools, there’s this incredible giddy feeling - like “oh my god I can do WHAT?” "NO WAY!"
+[02:06] "Completely original works of art..." "This is frickin' incredible!!" "An AI just created that image.... holy crap"
+[02:14] You know what it feels like? It feels like that scene in Harry Potter where Hagrid’s like… “You’re a wizard, Harry” And there are ways to be better  and worse at actually using this magic...
+[02:22] “There's all kinds of like, I wouldn't call them  like secret prompts, but it's stuff that most people don't use or don't know how to use…” "It's LeviOsa, not LevioSA!"
+[02:32] Ok. Let’s say you put in “astronaut riding a skateboard”. It will give you something like  this…. which looks pretty cool.
+[02:43] But you can get way more specific… “a photo of  a yellow astronaut riding a skateboard.” Now your results look something like this…
+[02:52] Let me remind you, a computer is doing this with just  words I'm giving it. This is already amazing!
+[02:58] But you can also erase things and add something  else, like “With the head of a duck”... Or you can go back to your original prompt and  replace this part with….
+[03:08] “A blue banana riding a banana skateboard.” Sure, why not. Now let’s say you like the style of Van Gogh. You could say:
+[03:16] “A banana riding a skateboard painted by Van Gogh.” As you get farther into this, you discover new spells.
+[03:23] “This guy, who's like just part of the community, created this Excel spreadsheet. You can put in your main idea, your sub ideas, “do not includes," aspect ratio, what kind of camera, lighting, colors...
+[03:35] So basically he gives you all these options. And  at the end, it spits out this prompt...” For example, “A poster of a banana riding a  skateboard, high definition, bright lighting,
+[03:44] vibrant colors,1950-1960 Pop Art.” I mean, look at how cool these results are! Anyway. You can see how fun this is.
+[03:51] So Justin and I wanted to test what this could help us do at our very different artistic skill levels.
+[03:56] “I think we should do some kind of  prompt where we challenge each other…” “What should we do?” Here’s what we decided on: Round 1: Make a digital art piece of the New York City skyline - no AI.
+[04:07] Round 2: Make another one, WITH AI. The only rule is: You can't spend more than 30 minutes on each.
+[04:17] "This is terrible"
+[04:19] [ALARM BLING]
+[04:20] [FRUSTRATION YELP]
+[04:23] "I hate it. I hate it so much." "Well, the point is, I'm not an artist. So." "Hello!"
+[04:31] "Hello!" "You ready?" "Sort of!" "I'm ready to see yours!"
+[04:36] “I'll go first with my Round 1. I felt very limited in terms of my ambition, by the things that I knew I could  potentially make or not make. And then I found
+[04:44] this piece, which I really loved. So I was like,  okay, I'm gonna take inspiration from this and I'm gonna do it myself. I looked at a bunch of  images to find that tree bottom section,
+[04:54] but then I had this concern of like, okay,  if I use this, how much of it is mine?
+[05:01] So I went back and I found an image that  I had taken myself of a skyline of New York which is this one. So then I borrowed  an image of the sky and that's my final.”
+[05:10] “That's great.” “You're being very kind.”
+[05:14] [Laughs a little too hard]
+[05:16] "This was actually really good." "Thank you for saying that." “Alright. Your turn!” “Alright. This is the final image for one of them."
+[05:23] And for this, like I set up a whole set of parameters. The photo gets filled in with a collage image
+[05:29] that I put together. And so it's really cool, it looks  really, really intricate and detailed, but it took me all of 5 to 10 minutes to set this up. In a way, I'm almost cheating,
+[05:41] like the computer would cheat, but it just took  me a little bit longer to know the software and how to get it to do what I wanted it to do.  But the results are really, really cool.”
+[05:49] Justin and I didn’t use AI in this round, but  we both used technologies that were created to make it easier for people bring their creative visions to life. Which is what
+[05:57] the people before that did, and the people  before that, and before that… You see where I’m going with this. The AI tools we’re about to use are a new part of that old history.
+[06:06] Now, take a closer look at our results. Without AI,  Justin and I were both making collages - taking parts of other people’s creations and creating something new ourselves.
+[06:14] People are allowed to do that, within constraints. The line on what’s ok to use isn’t always  clear. I felt mixed about using someone else’s
+[06:22] photo of trees, so I used my own… it’s messy! This  kind of collaging is what lots of people THINK the AI tools are doing. Like, “A banana riding a skateboard”  must be an image a banana, and an image of a skateboard. That’s what Justin and I did, not what the AI does.
+[06:35] To really understand why these tools  have become so controversial, you need to understand how they actually work... "Great to meet both of you!"
+[06:42] That’s Aditya Ramesh. He helped build the most famous of these tools, DALL-E 2.
+[06:46] “So DALLE is made up of two kinds of technologies, right? CLIP and unCLIP? Could you explain how those work?” “So CLIP isn't a model can be trained on a large data set of like images and captions.
+[06:59] If you imagine a Venn diagram where there's one circle for all of the information that's in images and another circle that's all of the information that's in language. It learns the part in between.
+[07:09] In the process of learning what's at the intersection of those two circles, it learns things like aesthetics, style and broadly what anyone might write a caption for an image.
+[07:18] What DALLE-2 does is first before generating an image, it kind of generates CLIP’s conception
+[07:25] of what should be in the image.” Then, unCLIP takes that conception and the original text prompt and noise, and generates options for what an image might look like, and… "Round 2!"
+[07:38] “Now let's see what we got  for the AI assisted art.” “Okay. Here I go: So first I went with  like “New York skyline made of mirrors and
+[07:47] textiles,” like I was trying to get it to do a  better version of what I had previously done.” “This is beautiful!” “I really like this, but
+[07:56] then I had this moment where I was like,  I don't have to be limited by what I could do in Photoshop previously. So I tried a stain glass window, I was like oh I love this,
+[08:04] This is the one I like best of the stained glass window approach. And then I was like,
+[08:10] "I have 10 minutes left, so let's do it!” “Oh, here we go.” “New York city skyline painted in the style of Botticelli!” “Amazing! See, you're an artist!”
+[08:19] “With a little help!” “Alright. Let me, uh, let me show you my Round 2 here:
+[08:25] At first I went with like Lego brick… And then I went with "New York city skyline as bananas"… What if a kid drew it with crayon?
+[08:33] And then I was like, okay, let's now go a little bit more fun. Studio Ghibli! Leonardo DaVinci!"
+[08:38] “I really, really love this one.” “Then these next few are all by Van Gogh  if he was to paint the skyline.” So, unlike in Round 1, what we’re doing  with Botticelli and Van Gogh isn’t taking chunks of art and combining them. But we’re  clearly using SOMETHING of theirs...
+[08:52] “When I say something like “in the style of Van  Gogh”, where does it get the understanding of
+[08:58] what is in the style of Van Gogh?” “So CLIP is trained pretty broadly on a large data set of images, kind of collected  from the internet. Most of the time when you
+[09:06] see an image on the internet, there's some kind  of alt text or caption associated with it.” What DALLE is doing is less like collaging,  that's what Justin and I did,
+[09:14] and more like what I was doing when I found inspiration for my original Round 1. It’s retaining information about the style, colors, and all of that, and using it later.
+[09:25] Honestly, I’m not actually sure, compared  to what we let humans do, that these AI tools owe more or less to the original artist.
+[09:35] “The reason we need to be careful about the deployment of this technology is the scale of it, right? If a human goes out and studies something and gets a source of
+[09:43] inspiration from what they see online, that's regarded as acceptable. But now when a machine can do that and basically bring the cost down to something very small-”
+[09:54] If a machine doing something can bring the cost of doing it down really low, then what happens to the people who are doing it now? That’s the real question behind this controversy.
+[10:02] Take a look at this: On the left are images made by a designer at the media company Axios to pair with their articles. On the right,  that was made by prompting DALLE.
+[10:11] You still need someone to do the prompting - come up with the idea, make sure that it looks good - but the risk, and I don't know if this will happen, but it could,
+[10:20] is that because these tools are so fast, that could be one person, not 20. The chance
+[10:25] of that job loss happening - in an industry that is already hard - is creating real backlash against this technology. A journalist used Midjourney in an Atlantic piece recently, and the response was….
+[10:37] strong. The uncomfortable question I keep wondering is: Is all this any worse than what I’ve benefited from?
+[10:45] My job is a video journalist! It would be impossible without the tools that mimicked the work of typesetters, inbetweeners, film loaders, and a bunch of jobs that I probably don't even know,
+[10:55] and then put millions of them out of work in the previous form of their jobs. Be honest: Is that true for you too?
+[11:02] It certainly applies to the software tools used by digital designers in the jobs we’re taking about.
+[11:07] Then, what about those who can’t afford to  hire someone, or artists who can’t afford to use the current tools? Creativity is  distributed worldwide. Access to an art degree is not. Access to the expensive  software tools digital artists now use is not.
+[11:20] This is the profound power of technology. When used correctly, it can unlock abundance from scarcity.
+[11:27] In this case, that abundance is human creativity. That's really cool.
+[11:36] “So right now we're at DALL-E 2. Where do you see DALL-E 10?” [Laughs] “I'm more worried about 2.1 for the short term. I  am very excited about moving beyond just images,
+[11:47] for example, like you know, audio and  video. Things aren't quite at the point where
+[11:53] the images now are actually photorealistic,  but it's a matter of like months before that's pretty much solved for images…” Hold on. MONTHS???
+[12:03] We need to get ready. We’ve been talking about art. Photorealism puts this in a whole 'nother realm, for good and bad. We’re already dealing with deepfakes, misinformation,
+[12:12] all of the things that happen when it's hard to tell what's a real and what's a fake image. Like this is.... [sighs]
+[12:18] But here’s the thing: We don’t need to blindly  accept technology as an all or nothing. These
+[12:24] AI tools are a huge leap forward, pushing us  creatively. But they’ll need our help to refine how
+[12:30] they’re used. That’s one of the reasons  I make this show, I want to help people see these tools early and be a part of that conversation.
+[12:37] “I don't know how we're gonna choose a winner here because I think both of ours crushed it.” “A friend of mine had the idea that in order to raise the stakes, we should allow people to publicly vote on them.”
+[12:47] “We just say like, hey, go to this website,  vote for your favorites and where you see which ones rise to the top…”
+[12:53] We did do that. 3,000 of you voted. And the ones you liked best were…
+[12:58] [drumroll]
+[12:59] … Justin with AI. Then Justin without AI. Then me with AI. Then… all  the way at the bottom… me without AI.
+[13:09] [OOF]
+[13:10] It's cool. We're cool. I'm fine.
+[13:13] “I think that we saw in the competition what  we expected to see, which was that it boosted both of us. And by boosting both of us, it gave  me new skills and it gave you super powers.”
+[13:24] Increasing access to powerful creative  tools to more and more people has given us so much.
+[13:30] Has allowed us so many opportunities to flourish.  In this story, a group of humans created a tool that potentially billions of other humans could  use to make the ideas in their heads real,
+[13:41] faster and at a fraction of the cost…  the possibilities are endless.
+[13:46] “I think as we've created new technologies, whether it's new software or new ways of creating art, we've gradually gotten more and more and more inclusive.
+[13:55] And like this kind of leaps us into this other realm of like, anybody can create art and can be really cool art.” So, what will you make?

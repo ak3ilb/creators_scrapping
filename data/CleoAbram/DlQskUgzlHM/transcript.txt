@@ -1,0 +1,165 @@
+[00:00] So if for whatever reason... we're not going to have to jump out of the plane but
+[00:04] if for whatever reason we DO have to jump -
+[00:05] You're getting this, right?
+[00:06] That's me, learning to jump out of a plane.
+[00:09] Specifically, THAT plane.
+[00:11] But before we get to that let me back up...
+[00:15] So I recently went to Vermont to visit this  company called Beta and they've gotten a lot
+[00:19] of attention recently because they're building  a new kind of airplane
+[00:21] not this one... but THIS one
+[00:23] and the thing that's so cool about the plane  that they're building is
+[00:26] it's electric.
+[00:27] "The electric aircraft -"
+[00:28] "Flying electric vehicle take off  and landing aircraft -"
+[00:31] "Combination of a helicopter and a plane -"
+[00:33] Now when I think of electric airplanes I think of  those like tiny two-seater toy looking things
+[00:38] Very cool but very small. I thought that the  problem was the weight of batteries meant that
+[00:43] electric airplanes just weren't going to  be that useful for a really long time but the
+[00:47] thing I forgot is that we've gotten a lot better  at making batteries. All of those gains mean that
+[00:52] electric airplanes are now starting to do more  and more. And that's a really big deal.
+[00:56] You already know that air travel is bad for the environment but just look at this:
+[00:58] This shows how just within our grandparents' lifetime air travel has dumped
+[01:02] more and more CO2 into our atmosphere. But also
+[01:05] just within that same lifetime think about how air  travel has transformed us.
+[01:09] It's not just trade and transportation, it's like how we understand
+[01:12] each other and the world.
+[01:14] So we're in this moment where are one of the most important innovations in human history is
+[01:18] on a direct collision course with our future.
+[01:21] We've got to make better planes.
+[01:23] And now, we might have the tools to do it.
+[01:25] So in this video we're going to talk about the effort to build the future of airplanes:
+[01:28] Where we are now...
+[01:29] where we're headed...
+[01:30] and where we've been.
+[01:32] That last part is the reason why I needed a parachute and also a helmet because
+[01:36] while I couldn't actually fly in  one of those electric planes
+[01:39] I can give you some aviation history in the most YouTube way possible...
+[01:43] Up FRONT???
+[01:44] Oh yeah yeah! You gotta be up front.
+[01:45] Excellent.
+[01:46] But here's the really key part, the part that gets me most excited:
+[01:49] Building better planes isn't just an opportunity to reduce carbon emissions.
+[01:55] It's also a chance to rethink  planes themselves.
+[02:01] "In the future, electric vertical takeoff and landing aircraft -"
+[02:03] "electric vertical aircraft -"
+[02:05] "Electric aircraft, the future of aviation."
+[02:16] I'm here to visit a very cool electric plane company...
+[02:19] The idea of electric aviation doesn't start with climate change. Before airplanes there
+[02:23] were airships - just like look at these crazy sky whales - and some of those were electric.
+[02:28] Here's one in 1883. This thing used a nearly thousand pound battery made from zinc and chlorine.
+[02:33] But the more we flew, the more clear it became that batteries
+[02:35] were too big and heavy to compete with burning liquid fuel
+[02:43] So what you can see  at the very simplest level is the lithium ion cell
+[02:50] and 18 of those cells are arranged in parallel to  give us our basic building block of our battery
+[02:58] pack we take 14 of those battery modules and we  arrange those in series and now we end up with one
+[03:05] battery pack. These batteries are the same lithium  ion cells that are used in the Tesla so one of our
+[03:12] battery packs right here has the same amount of  energy that is in your standard Tesla car right now.
+[03:17] Okay let's say you were trying to build an  airplane. You've got two big ways to figure out
+[03:22] how much energy you can store in a battery: Either  volumetric which is how much energy you can store
+[03:27] in comparison to its size or gravimetric which is  how much energy you can store in comparison to its
+[03:32] weight. This is also called the specific energy. If you were building your plane in 2010 you would
+[03:36] have needed this much space to output the same  amount of energy as the average aviation fuel.
+[03:42] And it would have had to weigh a whopping 50  times more. Plus, you'd have to consider the other
+[03:48] factor here which is when you fly in a fuel plane  you are burning the fuel as you fly which means it
+[03:52] gets lighter and batteries don't. But in the last  decade batteries have gotten a lot smaller and
+[03:58] crucially for planes they've gotten lighter. You  saw this happen - you saw it in your laptops,
+[04:02] in your phones, in your electric cars... we're all  a part of this story without even realizing it.
+[04:07] And now all of that innovation, that's being  applied to electric planes and it's important to
+[04:11] understand this isn't just innovation in making  the individual batteries themselves better it's
+[04:15] also innovation in how densely we can pack  them together. But no matter how you measure it
+[04:20] batteries are still far from fuel. But it's also  not as though anyone's waiting for this moment
+[04:25] to start building things. They're using what they  already have and what they already have is really cool.
+[04:30] We're using commercial off-the-shelf lithium  ion cells and what I think is awesome about that
+[04:37] is it shows what we're doing is real it's here  today and it's achievable."
+[04:43] And maybe the most important factor in making it real and achievable?
+[04:46] Just look how much cheaper batteries have gotten.
+[04:48] Okay so all of this together means there's been  this huge new wave of investment in electric plans.
+[04:52] And along the way we're redesigning what a plane looks and feels like.
+[04:57] Beta's new electric plane is already flying around but
+[04:59] I am extremely not allowed inside it -
+[05:02] I tried I tried.
+[05:04] But instead, I'm going to show you what it's like in a different way...
+[05:06] This is a real cockpit of a Beta plane that
+[05:08] they built inside of a simulation to train new pilots or... me!
+[05:12] You have two different types of flight controls.
+[05:14] Attitude is in your right hand  and power is in your left hand...
+[05:18] This is going to be a fun video game...
+[05:19] I'm not very good at video games, just to clarify...
+[05:22] But are you good with attitude?
+[05:24] I have it!
+[05:27] I want you to just focus on raising  the lift lever until the aircraft starts to hover...
+[05:33] You did it! Let go of everything and I  want you to notice how stable the aircraft is...
+[05:38] Is this similar to real life?
+[05:40] It is. This is real physics...
+[05:43] At this point you've probably noticed that this plane is not taking off like a normal plane
+[05:46] It's a vertical takeoff and landing. This isn't because it's electric but
+[05:50] the innovations work together: Electric batteries are heavier but
+[05:53] electric motors are actually lighter and smaller  so you have more options for where you put them
+[05:57] on the plane. Here's roughly where the engines are  on a big fuel passenger plane that you might take
+[06:03] versus a smaller fuel plane
+[06:05] versus an electric one.
+[06:06] A very cool thing about trying so hard to build new kinds of planes is:
+[06:10] You get to rethink planes.
+[06:13] There's a lot of places that we can't get with conventional aircraft. Vertical takeoff and
+[06:18] land is going to open up aviation to places that just simply don't have an airport.
+[06:22] So you push that and there you go and you see these propellers stow.
+[06:25] You are now a single engine aircraft. So we're  going to have you land this aircraft...
+[06:29] This is perfect Cleo. You're about to land and nobody touched a single control but you.
+[06:35] There she is!
+[06:36] It's not very often I'm able to teach one of these and not have to help.
+[06:39] Really??
+[06:40] So you did a wonderful job.
+[06:41] Thank you!
+[06:42] Okay, so these planes are awesome but they're just not gonna replace the big fuel
+[06:47] passenger planes that you might be used to anytime  soon but the thing is - the really important piece
+[06:51] to understand here is: In order to make a huge  difference, they don't have to.
+[06:55] If the goal is reverse this skyrocketing emissions problem and
+[06:58] electric planes can only go fairly short distances
+[07:01] what we really need to know is what percentage  of the emissions from aviation are from long
+[07:05] versus short flights. No problem. Turns out you  need to first break up flights into passenger
+[07:09] versus freight so us versus our stuff, and then  within passenger flights a third of emissions
+[07:14] come from short haul flights which are defined  as less than 1500 kilometers or 932 miles.
+[07:19] That's a lot! But there's some debate on how far exactly  electric planes can go and there's a whole problem
+[07:25] with charging and how long people would wait to  charge or freight would wait to be charged but
+[07:29] here's where it gets even better: If you break  down emissions into even smaller chunks the
+[07:33] percent emissions actually look like this. Really  short flights account for more emissions because
+[07:38] the extra fuel used on take off is a greater  percentage of the flight compared to cruising
+[07:41] and because we often use less efficient planes on  short flights. So if you electrify these you can
+[07:46] make a real dent even before you get to all of  this. And then there's all of the freight
+[07:50] all of our stuff. This is what Beta is actually focusing  on. Freight is super interesting because there's
+[07:54] a chance especially with vertical takeoff and  landing that you can actually also reduce carbon
+[07:58] emissions from a totally different source outside of aviation:
+[08:01] [TRUCK HONK HONK]
+[08:02] It's probably one of the reasons why UPS just signed a big deal with Beta
+[08:05] I don't know for sure, but I imagine that one the big questions
+[08:07] they're thinking about is: If you didn't have to  rely on roads how would delivery change?
+[08:12] The point is, electric planes can help move us into the future without waiting to start in the future.
+[08:17] So at the end of my visit to Beta, we'd talked about the future of airplanes, we'd seen all this cool stuff and
+[08:22] they were like, "do you want to see how far we've  come?" I was like yeah of course.
+[08:26] "Do you want to do it in a 1940s airplane?" ....
+[08:29] You want to go upside down, don't you?
+[08:30] I'm going to go UPSIDE DOWN in an open cockpit plane?
+[08:33] Oh yeah!
+[08:33] I didn't know you were  allowed to do that...
+[08:35] Oh yeah we are.
+[08:36] I said yes I didn't tell my
+[08:38] parents until afterward though, sorry Mom and Dad.
+[08:41] Listen if I don't come back you want to upload these video files to the Dropbox...
+[08:44] So that is a 1942 Stearman, it is a primary World War II trainer.
+[08:54] How do I prevent the camera from going flying when I go upside down?
+[08:58] UUUUUMMMMMMMMM...
+[08:59] You know what's really cool? So from here in my seat
+[09:03] in this 1940s airplane I can see the electric planes
+[09:06] that they're building that are going to come next.
+[09:08] Here's the thing that really blows my mind:
+[09:10] when my grandfather was my age, this plane was
+[09:13] state of the art. Like right around here somewhere, before all of this.
+[09:16] just think about everything that we've accomplished in aeronautics since then!
+[09:20] If we can do all of that,
+[09:22] can we do something like this?
+[09:25] We're facing these big challenges right, environmental, financial, technological...
+[09:28] but I just keep thinking:
+[09:30] Could my grandfather have imagined
+[09:32] the planes that he would see in his 90s?
+[09:36] And the ways that we would use them?
+[09:38] I bet you we can't either.

@@ -1,0 +1,9 @@
+[00:00] After years of rivalry, Apple just picked Google to power series AI. For the past 2 years, Apple has been quietly testing AI models from OpenAI,
+[00:09] Anthropic, and Google. They needed a foundational model powerful enough to overhaul Siri, something they've delayed multiple times. After testing all three,
+[00:18] Apple chose Gemini. Now, Apple already works with OpenAI. Chart GPT is integrated into Siri for complex queries, but that partnership is for
+[00:27] specific tasks. This Google deal is foundational, meaning Gemini powers the entire next version of Siri launching
+[00:34] later this year. Google already pays Apple around $20 billion per year to be the default search engine on iPhones.
+[00:41] Now, as per reports, Apple will pay Google $1 billion per year to power Siri. Just days ago, Google briefly
+[00:48] touched a $4 trillion market cap driven largely by its AI momentum, cloud growth, and enterprise adoption. Now,
+[00:56] here's where it gets uncomfortable. In August 2024, a federal judge ruled it illegally maintained a search monopoly,
+[01:03] partly through deals like the one with Apple. And this deal might dent Apple's reputation. What do you think? Let me know in the comments.

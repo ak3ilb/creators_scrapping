@@ -1,0 +1,65 @@
+[00:00] [Ticking]
+[00:03] Okay so it's 2004 and Serena Williams is playing  Jennifer Capriati in the US Open. What you're about to see is a referee call so bad it changed a  sport forever. So she hits the ball... it bounces just inside the line... the crowd cheers... and then suddenly the umpire calls it out!
+[00:17] "Advantage..." "Whaaaat?" "No way! That was way in." "That ball was so in!" "That's one of the worst calls I've seen."
+[00:25] And Serena's right. You can clearly see  on this review, the ball is in. But the umpire wasn't using that review system. Only the  TV stations could see it. The system is called Hawkeye and you can hear the commentators  begging them to use it:
+[00:36] "Oh no" "OH NO" "HAWKEYE PLEASE."
+[00:39] Within just a year from this controversial game, Hawkeye was added as an official part of the US Open review process, and today it's replaced over 200 of  their human judges. And this whole robot ref
+[00:49] revolution, it isn't just happening in tennis. It's  taking over the sports world: Soccer, basketball,
+[00:55] baseball, they are all using machines to try to  improve the calls being made on the field. The stakes here are high. The difference between a  right and a wrong call could be a championship
+[01:03] or millions of dollars in prizes or endorsements  or ticket sales and for the most part fans like
+[01:08] tech that makes calls more objective. However, there  is a big chunk of sports fans who would strongly
+[01:15] disagree, who think that this tech is ruining  the game, who believe that human error is key to sports. The thing is though, this tech isn't  going back in the bottle. Stadiums are now being
+[01:25] decked out with dozens of cameras that can track  people and balls and even use AI to make calls so accurate that one day human refs might be a thing of the past...
+[01:35] "Footballers and coaches have complained about referees and lack of accuracy -" "The fans hate it" "I don't think people are enjoying football as much -" "- incredibly frustrated with  the Hawkeye system"
+[01:43] "YOU CANNOT BE SERIOUS" "The receiver did not maintain possession -" "Could Hawkeye technology replace humans?"
+[01:55] Okay, look at this: This is the ball from the  most recent World Cup. It looks pretty normal but inside it's anything but. For the first time ever,  hidden inside this ball are special sensors that
+[02:05] collect positioning data in real time. The  sensors are hung on a suspension system so the ball doesn't actually feel any different  to the players, all the while it's sending data
+[02:14] 500 times a second back to a room filled with refs  you never see. That room also receives data from 12
+[02:20] cameras mounted around the stadium that track 29  data points for each player on the field and can automatically alert the rest the moment a player  is offsides, here meaning past the last defender.
+[02:30] [Whistle]
+[02:31] They called this the new semi-automated offsides  technology and it uses that tracking data and AI to build a virtual 3D playing field so the refs  can see the play from basically any angle. This
+[02:41] is the cutting edge of live sports tracking tech  and it was featured in the World Cup with lots of hype. In this system, they're still human refs  involved but they only need to validate the calls
+[02:51] being made by these robots. That's why they call  it "semi-automated." A ton of amazing engineering
+[03:05] slo-mo footage. These systems work surprisingly  well, like in the recent World Cup match between the US and Sweden, the video review system  decided the game. Just watch this:
+[03:15] [Cheering "Did it go in???" The ruling was too close to call with the human eye... "Look, they're waiting..." "They're going to check..."
+[03:22] With the help of the automated system, you can see that ball just barely makes it fully across the line. And Sweden won.
+[03:28] [Cheering]
+[03:29] "Sweden wins!" "Wow, that is close!" "That is the margin..."
+[03:33] These robot ref systems are clearly helping make better calls and taking more human error out of the game and while many see that as a good thing, some fans hate it.
+[03:46] wouldn't you want a system that makes the  right call every time? Because while people do voice concerns with specific calls with this  automated tech, "it's not accurate" doesn't seem
+[03:55] to be the main complaint. Do people just like  fighting with the ref? Well maybe... "REF YOU SUCK" "REF YOU SUCK" "REF YOU SUCK!"
+[04:05] I get the fun of getting all riled up. But I also just don't  think that I could look an athlete that I admire in the face and say, "we think this tech will  judge you more fairly, but we don't want to use
+[04:15] it because injustice for you is entertainment  for me." I don't think that's right. And besides if I think a call is wrong I can totally yell  at a machine.
+[04:23] "We're a --- embarrassment, mate" "ABSOLUTE RUBBISH. RUBBISH."
+[04:27] It turns out though that wanting to argue with  the ref isn't actually the biggest issue here either. The main complaint is something that I  kind of actually agree with: AI-powered robot
+[04:36] ref systems don't understand the natural gray  areas of sports. To really see this in action watch this clip: this is Leverkusen... Leverkusen?  Let me check that... this is Leverkusen...
+[04:46] "Leverkusen" Leverkusen. This is Leverkusen versus Club Brugge - "Club Brugge" Yeah I got that one right. In the second half of the game, Leverkusen scores...
+[04:54] "Ohhhhh it's all the way in!"
+[04:56] But the play gets flagged by the semi-automated system because an inch of his toe was over the line. Like just look at it...
+[05:02] You can hardly see this... so the goal gets  disallowed and the other team wins the game.
+[05:06] [Cheering]
+[05:09] [Angry tweet]
+[05:09] [Many angry tweets]
+[05:12] I get why people dislike this. The player  probably reasonably believed that he was on sides. With a more human system, we had a  natural buffer because we couldn't be more
+[05:21] accurate. Now that we can, we have to decide if  we actually want to be or if we actually like the sort of human nuance. You totally could  in theory build the buffer into an automated
+[05:30] system but you'd have to admit that you want it  first. This is where it gets complicated because at the start of this story I was like, "yeah  100 accurate, that's the way to go" and then
+[05:39] you give me one example and all of a sudden  I'm feeling conflicted. But on the other hand not having precise consistent calls affects  the game as well. Remember that tennis match with Serena Williams? Here's what she had to  say about it years later:
+[05:50] "The reason Hawkeye became a thing was because they were calling my balls out and they weren't even close to the line and it became impossible to play."
+[05:58] We ask athletes to spend their whole lives training to perform better than anybody else and  then give their all in front of us in every game
+[06:06] [Tennis grunts]
+[06:07] [Cheering]
+[06:09] I think we owe it to them to use the tools  that we can to judge them fairly and to try to do better at that all the time. Tennis  is a good example of that effort going
+[06:17] well. Today the Hawkeye system at the US  Open tracks the ball by using 12 cameras capturing 340 frames every second. For each frame,  it identifies the ball, triangulates its position,
+[06:26] and creates a combined model of exactly  where it's been to predict where it's going. "... OUT!"
+[06:32] Hawkeye boasts the margin of error less than  two millimeters. The best study that I could find comparing human refs showed that the  margin of error for line judges is around 40
+[06:42] millimeters. In tennis, it's gotten to the point  where championships not using Hawkeyes to the fullest are the ones becoming controversial  instead of the other way around. And besides
+[06:50] it's just fun. I really like seeing the  Hawkeye replay and trying to figure out if I was right. And while tennis and soccer have  really helped pioneer some of these new systems
+[06:57] a lot of other sports are coming on board as  well. The NBA just announced that it's going to use Hawkeye tech to track the ball and the  players in upcoming basketball games. Other sports like Minor League Baseball are already  using it to let players challenge human calls.
+[07:13] It's clear that we're entering a new world  of refereeing and a new world of being a fan too. With these tracking tools, what we're really  doing is creating super accurate models of the
+[07:22] world and those models give us a superpower: We  can understand what's going on much better than we can with just our eyes. That superpower brings  with it questions that extend far beyond sports
+[07:32] like, "how much better does the technology need to  be than humans for us to like it?" That's a question
+[07:38] that we're exploring with technologies like  self-driving cars and AI medical diagnoses. Or "how precisely do we actually want our rules enforced?"
+[07:46] Or "when do we actually want human judgment and why, especially if we can measure that it's less reliable?"
+[07:53] But for all of the talk about tech replacing humans what struck me most about this story is that all of the cutting edge tech in sports is actually going into just measuring humans.
+[08:03] We're not interested in replacing the athletes with robots I mean a robot basketball game sounds fun  but it's no NBA. Sports are fundamentally about
+[08:12] pushing forward what humans can do. And all of  this tech, it's just a new way to appreciate that.

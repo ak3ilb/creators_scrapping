@@ -1,0 +1,151 @@
+[00:00] Time to talk about AI. Right now, we're  in this weird moment where lots of smart
+[00:04] people agree that we're on the cusp of  this truly world-changing technology
+[00:08] but some of them seem to be saying it's  going to kill us all, while others are
+[00:12] saying it's more profound than fire...
+[00:14] "You know, I've always thought of AI as the most profound technology,
+[00:18] more profound than fire or electricity..."
+[00:20] It's clear at this point that something big is happening. But my problem is, it's all just so
+[00:26] vague. I want to know: How specifically  would AI kill me? Or how would it dramatically
+[00:32] transform my life for the better? In this video, that's what I'm going to try to figure out, what
+[00:36] the most extreme bad and good possible features  with AI actually look like, so that you and I can
+[00:42] get ready. And more importantly, so that we can  be a part of making sure that our real future
+[00:47] goes right.
+[00:48] "Artificial intelligence -" "artificial  intelligence -"
+[00:49] "artificial intelligence"
+[00:50] "the benefits vastly outweigh the risks"
+[00:52] "eventually they will completely out-think their makers -"
+[00:55] "AI to begin to kill humans -"
+[00:57] "AI has the potential to change society"
+[01:00] "and a lot of people can be replaced by this technology"
+[01:03] "Is this depressing? I don't see why it should be..."
+[01:05] "This will be the greatest technology humanity has yet developed."
+[01:13] To understand why you're seeing so many mind-blowing AI tools
+[01:17] all of a sudden, you need to understand how they  actually work. And to do that we need to play some
+[01:21] chess. This isn't one of those "oh my god, AI beats  a person" kind of games. In this game, neither of the
+[01:27] players are human. One is a famous chess engine, a  system programmed by humans with insanely complex
+[01:32] rules for how to play the game. The other is using  a very different strategy. And that second player
+[01:37] absolutely crushed the first...
+[01:40] "It had learned the game without any of those rules, it just
+[01:45] watched enough games to see what winning looked like."
+[01:49] That is Eric Schmidt, former CEO of Google
+[01:52] and chairman of its parent company, Alphabet.
+[01:54] Yeah.
+[01:55] He was chairman of the company when they created that second player, AlphaZero.
+[01:59] "Before that moment all of the game playing was done algorithmically,
+[02:04] move here, evaluate this, do the math that..."
+[02:07] But that's not how AlphaZero worked...
+[02:09] "It didn't understand the principles of what a rook and a  pawn and so forth and so on, it just knew how to
+[02:15] play because it had observed enough games and it learned how to win."
+[02:18] In other words, our best systems had gone from using
+[02:22] human-given rules to win, to using observation to win.
+[02:24] "So you can think of that as moving from algorithms to learning. That to me was a major major deal."
+[02:29] That ability to learn changed everything. It's what makes incredible tools like ChatGPT possible today.
+[02:36] You now know this technique as
+[02:37] "machine learning"
+[02:38] "Machine Learning!"
+[02:39] "machine learning..."
+[02:40] The reason that it suddenly feels like "AI" is everywhere is because
+[02:43] of the incredible success of machine learning specifically. At a basic level,
+[02:46] the idea is that instead of giving a computer a rigid set of rules
+[02:49] that says "if this happens, then these are the  possible outcomes," instead you give a computer a
+[02:54] set of inputs and outputs and allow it to create  the rules that turn one into the other. Meaning
+[02:59] that it might come up with rules that we didn't  think of or maybe don't even understand... but making
+[03:04] the AI models that can do all the incredible  things that you see now just recently became
+[03:09] possible. And it's because the computers training  them have gotten way more powerful. Look at this
+[03:13] graph: So you see it going up and then around 2009  the computing power behind AI models just begins
+[03:19] to explode. That change is largely thanks to a  switch in the physical technology used to do that
+[03:24] training, going from CPUs to GPUs. My favorite  way to show the difference between CPUs and
+[03:30] gpus is this Mythbusters demo back in 2009. That robot  right there represents a CPU and it shoots paint
+[03:35] in these little sequential bursts. It can get the  job done but it's slow. And this robot represents
+[03:41] a GPU so instead of shooting paint one little bit  at a time it can shoot in parallel. Basically, the
+[03:48] physical tools behind AI are extremely powerful  now and they're getting even more powerful, fast.
+[03:54] According to OpenAI, the amount of computing power  used in the largest AI models has been doubling
+[03:59] every three months. This is why you're seeing  now AIs able to pass the bar exam, make more
+[04:05] realistic images, answer more complex questions.  It's why this particular type of AI technology is
+[04:15] "the risk that could lead to the extinction of humans"
+[04:18] "AI is a fundamental existential risk  for human civilization."
+[04:22] "How do we know we can keep control?"
+[04:24] So we have this technology that can learn. And it's learning fast. And so of course, in large
+[04:29] part thanks to Hollywood, we imagine that it'll learn to kill us.
+[04:33] "My CPU is a neural net processor, a learning computer"
+[04:36] but as much as these systems appear to be human, they're not. Why would they
+[04:40] want to kill us? They don't want anything. And yet, Bill Gates, Sam Altman, and hundreds of other tech
+[04:47] leaders recently signed a 22-word statement that  shocked me. I'll just read it to you: "Mitigating
+[04:52] the risk of Extinction from AI should be a global  priority alongside other societal scale risks such
+[05:00] as pandemics and nuclear war." That is an incredible  statement, that the development of AI is in the
+[05:06] same realm of risk and importance as destruction  by nuclear war. To better understand why they feel
+[05:12] this way I turn to this survey. This is the  same one that's been widely reported as "half
+[05:16] of AI researchers give AI a 10% chance of causing  human extinction." The specific question that they
+[05:22] were asked is, "what probability do you put on  human inability to control future advanced AI
+[05:28] systems causing human extinction..." So what's going  on here? Well the surveyors summarized an argument
+[05:34] for why AI might be so dangerous by saying "it's  essentially the old story of the genie in the lamp,
+[05:39] or the sorcerer's apprentice, or King Midas: You get  exactly what you ask for not what you want."
+[05:45] Imagine this: In the future someone creates a powerful  machine learning system and gives it the desired
+[05:51] output of a very accurate climate prediction. Then  the AI, using its self-created rules, figures out
+[05:57] that the more computing hardware it can use the  more accurate its prediction will be. Then it
+[06:02] figures out that by releasing a biological weapon  there would be fewer humans taking up the valuable
+[06:08] computing hardware that it needs. So that's what it  does and then it gives its climate prediction to
+[06:14] no one left. This is the category of thing that the  researchers mean when they say "a system optimizing
+[06:20] a function of n variables will often set the  remaining unconstrained variables to extreme
+[06:25] values." In other words, it might optimize for what  we tell it to do at the expense of other things
+[06:30] that we care about. "You get exactly what you ask  for, not what you want." The term that researchers
+[06:36] use for this is "specification gaming" and 82%  of the researchers surveyed agreed
+[06:41] that it was an important or the most important  problem in AI today. Specification gaming leading
+[06:46] to disaster becomes less likely if we work to  contain AI systems and we don't let them get
+[06:51] connected to tools that might physically harm  humans. Like don't give them the nuclear codes
+[06:57] but how likely is anything like this to actually  happen? I honestly don't know and I think neither
+[07:04] does anyone which is a big reason why all of  those tech CEOs signed that letter and why you
+[07:09] might have heard people advocating for a pause  on AI development. However, there are real risks
+[07:14] to not moving forward too. There's a fairly large  and impressive group of people now advocating
+[07:20] for a pause on AI development. What do you think about that?
+[07:23] I think it's a terrible idea and the reason for that is
+[07:26] that a pause would give time for our  competitors which starts with China to catch up.
+[07:31] At the moment the US is in a very strong position.  We have all of the top models, we have the majority
+[07:37] of the researchers, we have the majority of the  hardware, we have the majority of the data that's
+[07:41] being used. That's not going to be true forever,  but this is a critical time for us to build this
+[07:46] technology in American values, liberal values, not authoritarian values."
+[07:51] So we've created these tools that have started to become so powerful
+[07:55] that we're concerned about how well they might do what we ask
+[07:58] and at the same time every country, every company  is incentivized to build them first with their
+[08:04] own interests in mind. But why should we want AI  in the first place? Like what's the goal here??
+[08:11] In my view, the most positive extreme case for AI  that I've heard isn't how much better or faster
+[08:17] it can do the mundane things that we already do  it's how it could leap frog us to do things that
+[08:22] we can't. You might be wondering, how? Because of  how incredibly good machine learning systems are
+[08:27] at pattern matching, they can sometimes give us  results that we can verify are correct but we
+[08:32] don't totally understand how it got there. It's  funny, it's the same skill that scares us is the
+[08:38] one that gives this tool such incredible potential. And if you're feeling a little bit skeptical here
+[08:43] that's totally fine and understandable, I was too,  until I heard this example: In 2021, researchers
+[08:50] used machine learning on a problem that had up  until very recently been called "one of
+[08:54] the most important yet unresolved issues of modern  science." It figured out the structure of a protein
+[09:01] from just amino acid building blocks. For decades,  our best effort to do this has been to spend
+[09:07] hundreds of thousands of dollars per protein to  shoot X-rays at them all in the hopes of learning
+[09:12] just a little bit more about our own bodies and  make better medicines. This is how we got new
+[09:16] treatments for diabetes and sickle cell disease,  breast cancer and the flu, but then researchers
+[09:22] fed pairs of sequences and 3D structures that we  already knew into a machine learning system and
+[09:27] allowed it to learn the patterns between them.  And the result was just incredible. We now have
+[09:33] predicted 3D structures for nearly all proteins  known to science, more than 200 million of them.
+[09:39] "Deepmind's AlphaFold"
+[09:41] "AlphaFold"
+[09:41] "AlphFold was able to do in a matter of days what might take years!"
+[09:45] "solving an impossible problem in biology..."
+[09:49] I get a little emotional just thinking about this
+[09:52] about how many people's lives might actually get  better because of this knowledge explosion. And
+[09:59] this is just one example of what we've already  been able to do. As machine learning systems
+[10:04] get better and better, people have extremely high  hopes about what we might be able to use them for...
+[10:08] "We have lots of problems in the world. Think about  climate change, for example. Climate change will be
+[10:13] solved to the degree it's solved by using techniques  that are very complicated and very powerful that
+[10:18] will have as their basis generative AI. And I think that we want that future."
+[10:22] After learning more about AI and this moment that we're in
+[10:25] I think I've figured out why it feels so confusing and so hard:
+[10:29] We're living inside a trolley problem.
+[10:32] Down one path is the status quo, life without AI. But
+[10:36] with this incredible new tool we can pull  ourselves onto another path, one that could
+[10:41] fundamentally change society. But we just don't  know, at what cost? Will AI give us what we ask
+[10:47] for or what we actually want? In this video, we've  only talked about the most extreme futures with
+[10:52] AI. In other episodes, we're going to go deep into  specific applications. We'll go full on Huge If True
+[10:58] into AI in music and news and robotics and  climate and food and sports and more to explore
+[11:04] how these tools might transform our world. It's  easy to dismiss it as crazy when you hear someone
+[11:08] say that AI might be "more profound than fire or  electricity" and while the cynical side of my brain
+[11:15] wants to say that it's probably true that most of  the most ambitious AI efforts will likely fail, the
+[11:21] more optimistic Huge If True side of my brain just keeps wondering:
+[11:25] What if they actually work?

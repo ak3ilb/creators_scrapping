@@ -1,0 +1,512 @@
+{
+  "video_id": "Hr6GPYCHTfA",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 2,
+      "text": "Alright, and... [CLAP]"
+    },
+    {
+      "start": 2,
+      "duration": 9,
+      "text": "So, a couple of weeks ago I clicked on this video that just blew my mind. \"About to do my first driverless ride, typing in an address, requesting a car....\""
+    },
+    {
+      "start": 11,
+      "duration": 11,
+      "text": "Okay. This guy's name is Kyle and he's calling for a ride... Totally normal. I do this all the time. Car arrives, Kyle looks inside...."
+    },
+    {
+      "start": 22,
+      "duration": 9,
+      "text": "\"Guys, there is nobody in this car.\" There's no one in the car."
+    },
+    {
+      "start": 31,
+      "duration": 4,
+      "text": "Kyle is the CEO of the company that makes these cars. But this isn't just some private company demo!"
+    },
+    {
+      "start": 35,
+      "duration": 9,
+      "text": "Dozens of people across San Francisco are calling for rides and finding   nobody else inside. \"Oh, my God. This is so cool.\""
+    },
+    {
+      "start": 44,
+      "duration": 1,
+      "text": "[Amazed chuckling]"
+    },
+    {
+      "start": 45,
+      "duration": 6,
+      "text": "\"This feels weird!!\" [Silicon Valley clip] \"Um. What's happening?\""
+    },
+    {
+      "start": 51,
+      "duration": 6,
+      "text": "I'll admit, you know I'm an optimist but I was getting a little bit cynical about self-driving cars!"
+    },
+    {
+      "start": 57,
+      "duration": 7,
+      "text": "Like, it does feel like every few years they say that self-driving cars will be here... in another few years."
+    },
+    {
+      "start": 64,
+      "duration": 8,
+      "text": "But after watching this video, I wondered: Are they finally here? So I took a deep dove into that  question over the past few months,"
+    },
+    {
+      "start": 72,
+      "duration": 9,
+      "text": "not just into driverless taxis, but also all of the other driverless stuff that I'd heard about, trying to piece  together the big picture here."
+    },
+    {
+      "start": 81,
+      "duration": 5,
+      "text": "I actually ended up in San Francisco interviewing Kyle himself. \"You know, it's very clear that  this is something different. It's a robotaxi.\""
+    },
+    {
+      "start": 86,
+      "duration": 7,
+      "text": "The answer that I found to whether self-driving cars are actually here is: YES."
+    },
+    {
+      "start": 93,
+      "duration": 11,
+      "text": "They just don't look like what I thought. It's not that single go-anywhere sci-fi version."
+    },
+    {
+      "start": 104,
+      "duration": 8,
+      "text": "It's actually two very different approaches two competing ideas of what the near future of self-driving might look like,"
+    },
+    {
+      "start": 112,
+      "duration": 1,
+      "text": "fighting it out on the road."
+    },
+    {
+      "start": 113,
+      "duration": 20,
+      "text": "And our lives are about to look very different depending on who wins."
+    },
+    {
+      "start": 133,
+      "duration": 6,
+      "text": "I live in New York, but all  of those self-driving cars, they're in San Francisco, so that's where I've got to go."
+    },
+    {
+      "start": 139,
+      "duration": 9,
+      "text": "On the way, some context:  This conversation isn't about some binary switch from us driving cars to cars just driving themselves."
+    },
+    {
+      "start": 148,
+      "duration": 7,
+      "text": "It's more like thiiiis... a long road from one to the other with a lot of messy middle."
+    },
+    {
+      "start": 155,
+      "duration": 8,
+      "text": "And we've been driving down this road for decades. Back in the mid 1900s, we got basic cruise control where you could set a speed."
+    },
+    {
+      "start": 163,
+      "duration": 5,
+      "text": "And in the early 2000s, we got help from our cars in key moments, like emergency braking."
+    },
+    {
+      "start": 168,
+      "duration": 8,
+      "text": "And then we got more continuous  support, like lane centering or adaptive cruise control, it would match the car in front of you, right?"
+    },
+    {
+      "start": 176,
+      "duration": 11,
+      "text": "And as we got farther down this road, we started to see where we were headed more clearly, and we began to categorize the journey into levels of self-driving-ness."
+    },
+    {
+      "start": 187,
+      "duration": 8,
+      "text": "Gotta watch for bikes! These are the levels you might hear about today. Level 0: Momentary help."
+    },
+    {
+      "start": 195,
+      "duration": 6,
+      "text": "Level 1: More continuous support. Level 2 is newer, like highway piloting systems."
+    },
+    {
+      "start": 201,
+      "duration": 3,
+      "text": "[Giggling maniacally]"
+    },
+    {
+      "start": 204,
+      "duration": 11,
+      "text": "This is where we are now with the limit of most cars we can easily buy. With all of the levels that we've gotten to so far,"
+    },
+    {
+      "start": 215,
+      "duration": 6,
+      "text": "humans are still very much in charge.  but as we get higher, maybe not so much."
+    },
+    {
+      "start": 221,
+      "duration": 9,
+      "text": "The idea is that we'd first just be monitoring the car... and then it would be fully in charge, but only in certain situations or areas."
+    },
+    {
+      "start": 230,
+      "duration": 10,
+      "text": "And then the last level would be car is in charge anywhere, any time...  you're asleep.  I knew that we were here..."
+    },
+    {
+      "start": 240,
+      "duration": 8,
+      "text": "and that lots of companies  were working hard on these... But those self-driving taxis? The ones that are already picking people up?"
+    },
+    {
+      "start": 248,
+      "duration": 8,
+      "text": "They're HERE. And it's not just them! Now that you know the levels  and where we are now,"
+    },
+    {
+      "start": 256,
+      "duration": 12,
+      "text": "here's the really key thing to understand about where we're headed: A lot of the headlines that I see are about the effort to get to that last sci fi level..."
+    },
+    {
+      "start": 268,
+      "duration": 2,
+      "text": "This way. And we're not that close."
+    },
+    {
+      "start": 270,
+      "duration": 6,
+      "text": "Like, I don't know how long level 5 is going to take, but a lot of the predictions kind of seem like bullshit."
+    },
+    {
+      "start": 276,
+      "duration": 8,
+      "text": "Instead, the interesting fight right now is actually just within the level we're already on: full self-driving but within constraints."
+    },
+    {
+      "start": 284,
+      "duration": 7,
+      "text": "For example, training vehicles to drive anywhere that doesn't have too much complexity, like just on highways."
+    },
+    {
+      "start": 291,
+      "duration": 5,
+      "text": "Or in more complex areas, but  they have to be trained there, you can't just drop 'em into a new city."
+    },
+    {
+      "start": 296,
+      "duration": 15,
+      "text": "In other words, the fight for the future of self-driving isn't just happening this way... It's happening THIS way, too."
+    },
+    {
+      "start": 311,
+      "duration": 2,
+      "text": "Here I am in sunny San Francisco."
+    },
+    {
+      "start": 313,
+      "duration": 7,
+      "text": "I'm about to go interview the CEO of Cruise, and I'm going to take a not self-driving car to get there because it's really hard to get into one of those self-driving cars!"
+    },
+    {
+      "start": 320,
+      "duration": 7,
+      "text": "I think this is my car... Hi, how are you? Hello!"
+    },
+    {
+      "start": 327,
+      "duration": 9,
+      "text": "The company I'm going to visit, Cruise, is an example of one of the two big  visions for how to use self-driving cars within our current level."
+    },
+    {
+      "start": 336,
+      "duration": 6,
+      "text": "To understand these visions, you have to understand the two big divides within the big picture of self-driving cars:"
+    },
+    {
+      "start": 342,
+      "duration": 8,
+      "text": "The first is where we to use them: Less complex situations, but anywhere? Or more complex, but geographically constrained?"
+    },
+    {
+      "start": 350,
+      "duration": 9,
+      "text": "Different companies are working on each. Okay. I think this is it. Yeah..."
+    },
+    {
+      "start": 359,
+      "duration": 7,
+      "text": "Hi! I'm looking for the Cruise office? Yes, this is it! Great! Uh, I am here to interview the CEO."
+    },
+    {
+      "start": 366,
+      "duration": 9,
+      "text": "Ah! Ok, perfect. I can help you... Thank you very much. I know I introduced him as just like this guy, but Kyle is a really big deal."
+    },
+    {
+      "start": 375,
+      "duration": 1,
+      "text": "I'm a little nervous."
+    },
+    {
+      "start": 376,
+      "duration": 7,
+      "text": "All right, here we go.  \"I've seen the video of you getting into the driverless car on the public street for the first time."
+    },
+    {
+      "start": 383,
+      "duration": 8,
+      "text": "What did that feel like?\" \"Well, it was high pressure. This wasn't like a staged thing. That was the first time."
+    },
+    {
+      "start": 391,
+      "duration": 4,
+      "text": "And so I was pretty nervous.\" \"What have you learned from the results of that test so far?\""
+    },
+    {
+      "start": 395,
+      "duration": 8,
+      "text": "\"The things we're learning are all the weird nuances between humans and machines that we take for granted.\" \"Do you want to tell me, what's most interesting one?\""
+    },
+    {
+      "start": 403,
+      "duration": 4,
+      "text": "\"So sometimes people use this service to come home from restaurants or even bars."
+    },
+    {
+      "start": 407,
+      "duration": 8,
+      "text": "Maybe have a few drinks, and that makes you sleepy. And so we've had multiple people fall asleep - [Friends clip] \"You fell ASLEEP?\" \"- in the back. What do we do?"
+    },
+    {
+      "start": 415,
+      "duration": 7,
+      "text": "The car's just kind of waiting  for them to wake up...\" \"What do you do?\" \"Well, we detect if people don't exit the vehicle quickly."
+    },
+    {
+      "start": 422,
+      "duration": 4,
+      "text": "And so someone from our customer support popped on the audio and said,"
+    },
+    {
+      "start": 426,
+      "duration": 8,
+      "text": "\"Hi, are you still in the car?\"\"   I never thought of that problem, But yeah, like when technology meets the real world,"
+    },
+    {
+      "start": 434,
+      "duration": 7,
+      "text": "sometimes it's a little bit bumpy. You might have seen this other example. This is kind of my favorite: \"The future is here!\""
+    },
+    {
+      "start": 441,
+      "duration": 4,
+      "text": "\"Bizarre encounter between police and a driverless car has gone viral on social media.\""
+    },
+    {
+      "start": 445,
+      "duration": 9,
+      "text": "\"The officer then looked inside that car only to discover nobody in it!\" \"And then the car speeds away from the officers!\""
+    },
+    {
+      "start": 454,
+      "duration": 3,
+      "text": "\"Are you serious??\" \"Everyone, including police, were laughing.\""
+    },
+    {
+      "start": 457,
+      "duration": 9,
+      "text": "\"I'm glad that, you know, the first thing that went wildly viral was a rather humorous and somewhat clumsy interaction between humans and machines."
+    },
+    {
+      "start": 466,
+      "duration": 8,
+      "text": "There's an enormously complex   system of audio detection, visual detection for the sirens and flashing lights"
+    },
+    {
+      "start": 474,
+      "duration": 8,
+      "text": "In this video, you saw all of that working perfectly, this marvel of engineering The part that was a little awkward is the police officer goes up and doesn't see anyone inside, and"
+    },
+    {
+      "start": 482,
+      "duration": 11,
+      "text": "you see the police officer interacting with a customer support person and not realizing that the when they walk away from the vehicle and turn off the sirens, the  vehicle thinks it's safe to go."
+    },
+    {
+      "start": 493,
+      "duration": 8,
+      "text": "And in fact, it detected that it was still   supposed to be pulled over and did what it was programed to do, which is go across the intersection and find a safe place to pull over."
+    },
+    {
+      "start": 501,
+      "duration": 3,
+      "text": "It was certainly a first and something kind of interesting.\""
+    },
+    {
+      "start": 504,
+      "duration": 7,
+      "text": "This is what it's like to take on all of the complexity of a city.  Okay, now for the second big divide within self driving:"
+    },
+    {
+      "start": 511,
+      "duration": 7,
+      "text": "whether to carry people. You've probably seen what goes here. Cities, no people: Delivery robots."
+    },
+    {
+      "start": 518,
+      "duration": 8,
+      "text": "And finally, this square is really important. Highways, no people: Long distance autonomous trucking."
+    },
+    {
+      "start": 526,
+      "duration": 8,
+      "text": "The two biggest, most different visions for self-driving at our current level are these two."
+    },
+    {
+      "start": 534,
+      "duration": 10,
+      "text": "Imagine being able to move goods long distances with no humans involved In this future, you probably don't experience self-driving as often, but"
+    },
+    {
+      "start": 544,
+      "duration": 8,
+      "text": "it might impact your life in even bigger ways if it reshapes the way that we move goods around the world. \"The autonomous truck revolution is here!\""
+    },
+    {
+      "start": 552,
+      "duration": 8,
+      "text": "\"This truck is driving itself...\" \"They don't sleep, they don't drink, they don't get distracted.\" \"You're not actually using  them for deliveries yet...\" \"We are, actually.\""
+    },
+    {
+      "start": 560,
+      "duration": 7,
+      "text": "\"It not only drives, it does so as politely as possible.\" \"The future is now.\""
+    },
+    {
+      "start": 567,
+      "duration": 2,
+      "text": "You're probably going to see these on the road soon."
+    },
+    {
+      "start": 569,
+      "duration": 5,
+      "text": "And I found this analogy for how they'll change our lives that I just can't get out of my head:"
+    },
+    {
+      "start": 574,
+      "duration": 9,
+      "text": "They'll be different from human-driven trucks \"in the same way a hundred guys with shovels are not an excavator.\""
+    },
+    {
+      "start": 583,
+      "duration": 8,
+      "text": "Okay, now imagine a different future that looks like this. Much more in your life. You call a car, a driverless one shows up."
+    },
+    {
+      "start": 591,
+      "duration": 10,
+      "text": "I'm walking with Kyle to go see the cars that they have now, but just listen to him describe the NEXT Cruise car. Not the one called the \"Bolt,\" but the \"Origin.\""
+    },
+    {
+      "start": 601,
+      "duration": 7,
+      "text": "\"It gets rid of the stuff that people don't need, like a steering wheel and brake pedals. And a lot of the other stuff that was meant for the driver,"
+    },
+    {
+      "start": 608,
+      "duration": 8,
+      "text": "that is just kind of silly to keep  around if there is no driver. \"The feeling of taking a steering wheel out of a car makes me nervous."
+    },
+    {
+      "start": 616,
+      "duration": 7,
+      "text": "How do you think about the reality that a driver couldn't take over one of those cars?\""
+    },
+    {
+      "start": 623,
+      "duration": 7,
+      "text": "\"Even now, the vehicles that we have, you can't take control of them. You're in the backseat and there's plexiglass holding you back."
+    },
+    {
+      "start": 630,
+      "duration": 8,
+      "text": "And it's because at this point, if you were to reach up and try to interfere with the vehicle, you'd probably make it worse. As weird as it sounds, you know,"
+    },
+    {
+      "start": 638,
+      "duration": 9,
+      "text": "We're there. We're ready. These are the two near futures for self-driving cars, the ones that might actually change your real life in the next few years."
+    },
+    {
+      "start": 647,
+      "duration": 10,
+      "text": "In the longer term future, we might  look back and think it was crazy to drive at all. That we put teenagers behind the wheel of huge death machines."
+    },
+    {
+      "start": 657,
+      "duration": 4,
+      "text": "that people had to drive for days to deliver stuff to other people."
+    },
+    {
+      "start": 661,
+      "duration": 6,
+      "text": "The status quo of humans driving cars involves a lot of risk."
+    },
+    {
+      "start": 667,
+      "duration": 12,
+      "text": "\"People 20 years from now will see the humans of today as kind of barbaric.  We let kids who just got their driver's license drive you know, a two ton vehicle on the  highway at 80 miles an hour.\""
+    },
+    {
+      "start": 679,
+      "duration": 2,
+      "text": "And it involves a lot of time."
+    },
+    {
+      "start": 681,
+      "duration": 8,
+      "text": "\"There's not many things that you can do today to give people back like an hour or more of their time. I think that's going to be profound.\""
+    },
+    {
+      "start": 689,
+      "duration": 8,
+      "text": "In the meantime, now that you know these levels and approaches, maybe you'll see the headlines a little bit differently. And when you encounter these cars on the road,"
+    },
+    {
+      "start": 697,
+      "duration": 8,
+      "text": "you'll know how they fit into the big picture. \"Oh, cool!\" \"There she is. This is Poppy.\" \"Hey, Poppy!\""
+    },
+    {
+      "start": 705,
+      "duration": 4,
+      "text": "\"Are we allowed to get in it?\" \"Think so...\""
+    },
+    {
+      "start": 709,
+      "duration": 6,
+      "text": "The most important thing that I learned through all of this, though, is bigger than self-driving cars. It's this:"
+    },
+    {
+      "start": 715,
+      "duration": 9,
+      "text": "Don't wait for the sci-fi version before paying attention. The future is made in the messy, messy middle."
+    },
+    {
+      "start": 724,
+      "duration": 3.0,
+      "text": "And that's what we're in right now."
+    }
+  ]
+}

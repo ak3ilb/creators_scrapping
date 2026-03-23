@@ -1,0 +1,155 @@
+{
+  "name": "Shivanshu.Agrawal",
+  "url": "https://www.youtube.com/@Shivanshu.Agrawal/videos",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "last_updated": "2026-03-23T04:28:04.033455+00:00",
+  "total_discovered": 27,
+  "ingestion_stats": {
+    "total": 15,
+    "ok": 14,
+    "low_quality": 0,
+    "no_transcript": 1,
+    "no_speech": 0
+  },
+  "completion_percentage": "55.6%",
+  "videos": [
+    {
+      "video_id": "PMZJdZGr9g4",
+      "title": "How A Poor Boy Built ₹15,000 Crore Hotel Empire",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "fwbyYGv-LXI",
+      "title": "Yuvraj Singh: A Story That Will Make You Cry 💔",
+      "status": "OK"
+    },
+    {
+      "video_id": "79wvIU2XZjM",
+      "title": "How Ambanis Became So Rich?",
+      "status": "OK"
+    },
+    {
+      "video_id": "zRHJONQ_Gv4",
+      "title": "How A Farmer's Son Created Groww",
+      "status": "OK"
+    },
+    {
+      "video_id": "dl7mQ0xWSfw",
+      "title": "How An Indian Chips Company Destroyed Lay's",
+      "status": "pending"
+    },
+    {
+      "video_id": "FqOi3NsT8cY",
+      "title": "The Indian Temple That Scientists Can't Understand",
+      "status": "OK"
+    },
+    {
+      "video_id": "9u2f-pSo200",
+      "title": "How MrBeast Became World's Biggest YouTuber?",
+      "status": "OK"
+    },
+    {
+      "video_id": "hN_T1KokoGQ",
+      "title": "How Elon Musk Became World's Richest Man | Hindi",
+      "status": "OK"
+    },
+    {
+      "video_id": "eAJ30sL-ZsM",
+      "title": "How Vijay Mallya Scammed India & Ran Away?",
+      "status": "OK"
+    },
+    {
+      "video_id": "wtv1M5vyg3E",
+      "title": "The Depressing Downfall of Nirma",
+      "status": "pending"
+    },
+    {
+      "video_id": "e8e4IrSzyC8",
+      "title": "How A Poor Boy Created Rolex",
+      "status": "pending"
+    },
+    {
+      "video_id": "TFDM5iZLUvE",
+      "title": "Reality of Harshad Mehta SCAM",
+      "status": "OK"
+    },
+    {
+      "video_id": "A1vfiGuILwA",
+      "title": "How A Poor Boy Built Oberoi Hotels",
+      "status": "pending"
+    },
+    {
+      "video_id": "3UgGcjxS2sI",
+      "title": "The Painful Downfall of Big Bazaar",
+      "status": "OK"
+    },
+    {
+      "video_id": "NlHplfBFPPA",
+      "title": "TATA Group: The Full History",
+      "status": "pending"
+    },
+    {
+      "video_id": "CgQApD9yB5g",
+      "title": "How A Poor Boy Created Rolls Royce",
+      "status": "pending"
+    },
+    {
+      "video_id": "VILohre4Q6w",
+      "title": "How a Poor Marwari Boy Built Haldiram's",
+      "status": "pending"
+    },
+    {
+      "video_id": "rcIA7QAhpH8",
+      "title": "The Satisfying Downfall of Byju's",
+      "status": "OK"
+    },
+    {
+      "video_id": "kHnwWavy9aI",
+      "title": "India Pakistan 1971 War | Full Documentary",
+      "status": "pending"
+    },
+    {
+      "video_id": "PoOlDDvVVaE",
+      "title": "How A Poor Boy Built Honda",
+      "status": "OK"
+    },
+    {
+      "video_id": "CVCbAoiNX6A",
+      "title": "How A Failed Athlete Built NIKE | Hindi",
+      "status": "OK"
+    },
+    {
+      "video_id": "mlAGyhBFZlU",
+      "title": "How a Poor Boy Built Hyundai",
+      "status": "pending"
+    },
+    {
+      "video_id": "CE8M5KNI4R0",
+      "title": "The Best Indian State in 2023",
+      "status": "pending"
+    },
+    {
+      "video_id": "o90sO2Modkw",
+      "title": "Dark SECRETS of Indian Emergency (1975)",
+      "status": "pending"
+    },
+    {
+      "video_id": "KcFx9mBnqxQ",
+      "title": "How One (Wrong) Switch Crashed Helios 522? I हिंदी",
+      "status": "pending"
+    },
+    {
+      "video_id": "vMWblK-RNDg",
+      "title": "EXPLAINED: Why is China targeting Arunachal Pradesh? India-China Tawang Border Clash",
+      "status": "OK"
+    },
+    {
+      "video_id": "OIQV-qhh2nc",
+      "title": "Why did Elon Musk buy Twitter? | Future of Twitter | Shivanshu Agrawal",
+      "status": "OK"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "video_id": "pD9DdNSq-9c",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 9,
+      "text": "After years of rivalry, Apple just picked Google to power series AI. For the past 2 years, Apple has been quietly testing AI models from OpenAI,"
+    },
+    {
+      "start": 9,
+      "duration": 9,
+      "text": "Anthropic, and Google. They needed a foundational model powerful enough to overhaul Siri, something they've delayed multiple times. After testing all three,"
+    },
+    {
+      "start": 18,
+      "duration": 9,
+      "text": "Apple chose Gemini. Now, Apple already works with OpenAI. Chart GPT is integrated into Siri for complex queries, but that partnership is for"
+    },
+    {
+      "start": 27,
+      "duration": 7,
+      "text": "specific tasks. This Google deal is foundational, meaning Gemini powers the entire next version of Siri launching"
+    },
+    {
+      "start": 34,
+      "duration": 7,
+      "text": "later this year. Google already pays Apple around $20 billion per year to be the default search engine on iPhones."
+    },
+    {
+      "start": 41,
+      "duration": 7,
+      "text": "Now, as per reports, Apple will pay Google $1 billion per year to power Siri. Just days ago, Google briefly"
+    },
+    {
+      "start": 48,
+      "duration": 8,
+      "text": "touched a $4 trillion market cap driven largely by its AI momentum, cloud growth, and enterprise adoption. Now,"
+    },
+    {
+      "start": 56,
+      "duration": 7,
+      "text": "here's where it gets uncomfortable. In August 2024, a federal judge ruled it illegally maintained a search monopoly,"
+    },
+    {
+      "start": 63,
+      "duration": 3.0,
+      "text": "partly through deals like the one with Apple. And this deal might dent Apple's reputation. What do you think? Let me know in the comments."
+    }
+  ]
+}

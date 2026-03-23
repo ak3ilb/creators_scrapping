@@ -1,0 +1,243 @@
+[00:00] “T-3…” [STOVE TURNS ON]
+[00:01] “2…” [BOILING]
+[00:03] “1…” [POURING]
+[00:04] “LIFTOFF!”
+[00:05] That rocket is part of a billionaire’s plan to put your internet in space…
+[00:09] “Jeff Bezos’ Project Kuiper…”
+[00:11] No no, the other one!
+[00:12] "Elon Musk's new Starlink satellite -"
+[00:14] “OneWeb, backed by Richard Branson”
+[00:17] “Keep it all straight..."
+[00:18] "Yeah..."
+[00:19] Hold on, why are multiple billionaires trying to put the internet in space?
+[00:23] And… where is the internet now?
+[00:26] “A new race to provide internet access at fast speeds to the world”
+[00:31] "You're... Elon Musk!"
+[00:34] Elon Musk: "I am."
+[00:35] "Well finally, it is here!"
+[00:36] "Starlink!"
+[00:37] “Jeff, who?”
+[00:38] “Jeffrey, Jeffrey Bezos!”
+[00:42] Jeffrey Bezos: [CACKLING]
+[00:44] “From Musk to Bezos to Branson”
+[00:46] “Let’s get rrrrrready to rummmble!”
+[00:49] Alright. I’m going to explain this Great Internet Space Race.
+[00:52] This is especially relevant right now  because as we were making this episode,
+[00:56] Elon Musk announced Starlink is available in  Ukraine. More on that in a minute.
+[01:01] These systems could change how millions of people get access to the internet.
+[01:05] They could be huge, if true.
+[01:17] You want to see something cool? This is a  piece of the internet. It’s an unused
+[01:21] chunk of the over 800,000 miles of  cables that criss-cross our oceans.
+[01:25] Here let me show you...
+[01:28] There they are. As of 2021, there were  roughly 436 of these cables in service.
+[01:34] They carry the vast majority of current  international internet traffic today.
+[01:38] Some estimates put it up to 99%. Meaning, for most people, right now
+[01:43] Your internet isn't in space.
+[01:45] It's underwater.
+[01:46] The goal is to get information from one  computer to another. And you’ve probably
+[01:50] heard that all the information in  your computer is binary - “1s and
+[01:53] 0s,” “on and off.” These cables carry  that information as flashes of light.
+[02:00] Imagine...
+[02:01] Oh hold on one sec...
+[02:03] Imagine turning a flashlight on and off in code down a tube.
+[02:08] I'm definitely not going to shine it right at the camera...
+[02:10] Now imagine doing that millions of times faster down
+[02:13] a tiny glass fiber, across  an entire ocean and you’ve got the right idea.
+[02:17] “That’s pretty cool…”
+[02:19] Yeah. Humans are wild.
+[02:22] I wanted to know how on Earth we  made this internet infrastructure,
+[02:25] so I toured a ship that lays these  cables, as part of a Vox show.
+[02:28] "That's the internet!"
+[02:31] Look how excited I am!
+[02:32] And here I am finding out the answer  to my question: Ships like this…
+[02:36] Load up cable like this… And then slowly cross the ocean,
+[02:40] we’re talking like 6 knots, which  is 7 miles per hour, this takes
+[02:44] weeks, dropping the cable off the back of the  boat, weaving a literal web around the world.
+[02:52] Which means fire hose-lookin’  things like this really are just
+[02:55] laying there on bottom of the ocean.  And you’re using them all the time.
+[02:59] This breaks my brain. Like... this YouTube video  that you're watching right now
+[03:04] is one tiny drop in the unthinkably huge stream of things that
+[03:09] people are saying to each other all of the time, all across these cables
+[03:12] and they're all made of light.
+[03:15] If you were to describe an  alien species to me like
+[03:18] “they communicate incredibly complicated  audio visual information using only light and
+[03:23] these light boxes they made for  each other…” I would be like… !!!
+[03:27] My biggest question when I  heard this for the first time was:
+[03:30] “Aren’t there parts of the ocean that are deeper than Mount Everest is tall?
+[03:35] If you're using cables as opposed to satellites, how do they get across those parts??"
+[03:39] Just like... look at this!
+[03:40] This is the deepest ocean trench...
+[03:43] Some of these cables have to go over some of these super deep parts...
+[03:47] I couldn’t find the answer to this question until I reached out to one of
+[03:50] the cable-laying ship companies and asked if this was a big problem...
+[03:53] “Would a cable hang through the water?”
+[03:55] "Or do you build... bridges?”
+[03:57] And they actually got back to me!
+[03:59] To say: "NO, we don't build bridges..."
+[04:01] And “NO we don’t let the cable just hang through the water.”
+[04:04] They said they really do lay enough cable so that it does fall all the way
+[04:08] to the bottom, which can get difficult and expensive,
+[04:10] which is why they try to avoid the  deepest parts. And so far they say they have.
+[04:14] I’ve made videos about this before. Like, a  lot of them. And every single time, people are
+[04:20] shocked. They say they thought  the internet was in space.
+[04:24] And that makes sense! Think about the language  we use: “the cloud” “upload” “download”...
+[04:29] “Download all his nudes…”
+[04:31] One time I asked people to “draw the internet.”  Though some of you awesome nerds drew very
+[04:36] detailed infrastructure drawings, most  people thought of the internet like this…
+[04:45] Except this person:
+[04:46] “I thought of the internet as a bunch of cats.”
+[04:50] That’s my favorite. Anyway. My point is  our existing internet infrastructure is
+[04:54] a marvel of human ingenuity. So… why do Elon  Musk and Daddy Bezos want to put it in space?
+[05:09] “History is about to be made in the  science of communication among men…”
+[05:13] The idea isn’t new. This is Telstar 1, the first  communications satellite, launched in 1962.
+[05:19] President Kennedy: “This understanding  which will inevitably come from these
+[05:22] speedier communications is bound to increase  the wellbeing and security of all people.”
+[05:28] ... Mixed results. With fiber optic cables,  we can turn 1s and 0s into visible light.
+[05:33] With satellites, at some point,
+[05:34] that information has to go up and down,  so we turn those 1s and 0s into radio waves.
+[05:40] The question that I always had is: How do 1s and 0s become WAVES?
+[05:47] The way to think about this is: You could change the amplitude or
+[05:50] the height of the wave, like this. So that every tall wave
+[05:52] is a 1 and every short wave is a 0.
+[05:55] So like "1 1 0 0 1 1..."
+[05:57] Or you could change the frequency  of the wave, so that you could say
+[06:00] long wave is a 1 and every short wave is a 0.
+[06:02] "1 0 0 1..."
+[06:03] It is WAY more complicated than this now. Companies
+[06:06] combine methods, they develop new  ones.. that's the right idea.
+[06:10] No matter what though, to communicate via  satellite, radio waves with binary
+[06:13] information have to make this trek. It’s  a big limitation for satellite internet.
+[06:18] So far, this (cables carrying visible  light) has generally been faster,
+[06:23] cheaper, and more reliable than  this (satellites using radio waves).
+[06:27] "The file's not loading!"
+[06:28] "Nothing's loading!"
+[06:29] "Ugh, it's still loading..."
+[06:30] To understand what we’re comparing, it helps me to  think about a water pipe. “Bandwidth” is the width
+[06:34] of the pipe, how much can go through in a set  period of time.
+[06:38] Like this: “Megabits per second”
+[06:40] Just to really tie this together: A  “bit” is one of those 1s or 0s. So
+[06:45] 400 Megabits is… 419,430,400  1s and 0s… per second.
+[06:53] Damn.
+[06:54] “Latency” is like the length of the  pipe, the time it takes the information
+[06:57] stream to travel from one end to the  other. It’s measured in milliseconds.
+[07:01] Low bandwidth, high latency: worse internet.  High bandwidth, low latency: better internet.
+[07:06] Satellites before these recent projects… Fiber  cables. And satellites would cost you more.
+[07:11] BUT. And this is a big but! That might not be  true forever, and it’s not true everywhere now.
+[07:17] The biggest reason people are so excited  about all of these new satellite internet projects
+[07:21] is that though our existing internet  infrastructure is awesome, it’s not enough.
+[07:28] Though if you’re watching this you might have  really good internet, lots of people don’t.
+[07:32] In some places, it’s prohibitively difficult  to lay cables. In others, crucial ground-based
+[07:37] service might be threatened by politics or  war, which is happening in Ukraine right
+[07:42] now - I’ll come back to this. And during peacetime,  companies might decide it’s not financially worth it
+[07:47] to lay cable because there aren’t enough  people who would pay for their service.
+[07:51] Think about roughly the same amount of cable in  a city with hundreds of people paying for it,
+[07:54] versus in a rural community with much fewer. And  if they do lay cable, they might charge even more.
+[08:00] And that right there is a HUGE problem.
+[08:03] This map shows the share of each  countries’ population using the internet.
+[08:07] Look at who is able to get online and who isn’t.
+[08:09] (I'll put a link to this in the description, if you want to explore it)
+[08:12] This difference is called the “Digital Divide.”
+[08:14] And it’s not just between countries but also within them...
+[08:17] "It's really hard to get internet here -"
+[08:18] "We do not get internet service -"
+[08:20] "There is no high speed internet -"
+[08:22] Take a look at this. This is a map from the US Federal Communications Commission
+[08:26] - or FCC - showing where they say about 14  million people don’t have access to fast internet.
+[08:31] They’re in those light parts. But look how much  lighter this map is. It's from Microsoft,
+[08:37] and it shows a very different estimate: over 120  million people. The one by the FCC is based
+[08:44] on data that’s self-reported  by internet service providers.
+[08:47] It gets worse. The form the FCC gives them,  Form 477, asks if they are “providing or could
+[08:55] provide broadband service in an area.” So, for  example, these are New York City’s census blocks.
+[09:01] If an internet provider is giving anyone  in this block high speed internet,
+[09:05] they get to count the entire block. There  are nearly 800 people living in this block!
+[09:11] So, the digital divide is a big problem  globally, between cities and rural communities,
+[09:15] and within communities themselves, and the data  probably wildly underestimates the problem.
+[09:21] It's a problem we need to solve, given how important the  internet is for just participating in society today.
+[09:27] It's really two problems wrapped into one:  it’s accessibility and affordability.
+[09:32] This is why the Great Internet Space Race actually matters.
+[09:36] There’s a vision here, of a world where  your ability to freely participate
+[09:40] depends a lot less on where you live and how  much money you can shell out for internet.
+[09:45] And that’s what these companies say they’re trying to solve…
+[09:48] “Starlink will serve the  hardest to serve customers”
+[09:51] “The goal here is broadband everywhere”
+[09:53] “to the roughly 4 billion people  on Earth who don’t yet have it.”
+[09:57] “Access to broadband is going to be  very close to a fundamental human need...”
+[10:01] The cynical side of me thinks: “These companies don't operate
+[10:04] out of the goodness of their own hearts,  so why do they want to be the one
+[10:07] to bring internet access to the world?” And the answer is that
+[10:11] bringing internet access to more people is a great thing to do,
+[10:14] and it can be a great business.
+[10:16] “Providing broadband is more like  probably… 30 billion a year?”
+[10:19] If a company can use satellites to make the internet better,
+[10:23] cheaper, and more widely available, they could get  as customers the millions of people underserved
+[10:28] by existing internet service providers now. And this  is where it gets really cool: they’re going
+[10:32] about the problem differently than satellite  internet companies that have come before.
+[10:40] Older satellite systems, like HughesNet  and Viasat, put their satellites really
+[10:44] high up and keep them stationary over one  spot on the surface, which lets them cover
+[10:48] huge areas. The HughesNet Jupiter 2 satellite  covers all of the continental United States.
+[10:53] But when you’re up that high, it takes a really long  time to send those radio waves we talked about
+[10:58] back and forth. Which means your latency is  very high. If you brought those satellites
+[11:03] lower, you could reduce that time. But you’d  need more of them to cover the same area,
+[11:07] and to stay at that altitude,  they’d need to orbit.
+[11:10] This is what all the big new projects you’ve heard  of are doing, though they’re at different stages.
+[11:14] Project Kuiper hasn’t launched yet… OneWeb  has, but was rescued from bankruptcy in 2020,
+[11:19] and is focusing primarily on businesses, not  individuals…
+[11:23] In this race, Elon Musk is winning.
+[11:25] "Starlink is here!!!"
+[11:26] "We have the magic space wifi..."
+[11:28] “That's right! Internet from the stars, baby! Pew pew! Pew pew pew!”
+[11:31] "So let's take a look at what's inside..."
+[11:33] "Here we go!"
+[11:34] “We've got a satellite dish, a router, and fast internet!"
+[11:37] “There are only two instructions and they can  be done in either order: Point at sky, plug in.”
+[11:43] "Voila!
+[11:44] Starlink is already shockingly high bandwidth  and low latency for a satellite system. It seems
+[11:49] to be somewhere in the middle on cost, but these comparisons aren’t great because
+[11:52] fiber isn’t everywhere, which is the whole point, and
+[11:55] Starlink is in its infancy. Which you can kind of see in other ways too…
+[11:58] “Everything was going fine until I  encountered it’s ultimate nemesis: Trees.”
+[12:04] "That red is where it's being interrupted..."
+[12:08] "That... sucks."
+[12:09] It could get a lot better though. Starlink  uses visible light between satellites,
+[12:14] like the fiber cables in the ocean. Which means  these satellites actually have an advantage over
+[12:19] cables. You’ve probably heard that the speed  of light is constant, but that refers to light
+[12:23] in a vacuum… like space. It’s slower in other  materials… like a glass cable. The optimistic
+[12:29] take here is that Starlink could challenge not  just other satellites but fiber itself,
+[12:34] the GOAT. The most likely scenario is Starlink wins in some places,
+[12:38] but fiber still wins in the vast majority.
+[12:40] But just look at this. This is a site that  tracks where Starlink satellites are already.
+[12:45] This is so cool.
+[12:48] BUT…. if you’re an astronomer for example, looking up at the stars,
+[12:51] these satellites can really mess up your science.
+[12:53] ASTRONOMER: "I think it's really a threat to send not a couple of hundred satellites
+[12:58] but having 10 thousand, 20 thousand, 50 thousand satellites in low earth orbit..."
+[13:02] This is a big deal. And even if you like Starlink, it shouldn't be dismissed.
+[13:06] Ground-based astronomy is crucial to answering questions about our universe,
+[13:11] and if that’s not enough for you, it also  includes planetary defense against asteroids.
+[13:20] My take is: We need to give the remaining  4 billion people on the planet
+[13:24] internet access. And, at the same time, we can’t let  looking at each other prevent us from looking up.
+[13:33] We need to find ways to do both, whether that’s through more data on exactly where
+[13:37] these satellites are so they can be avoided
+[13:39] or more rules about where they can be.
+[13:42] These companies have a real shot at giving people around the world
+[13:45] better, faster, cheaper internet. They’re already  coming to the rescue in moments of crisis.
+[13:50] Elon Musk just announced  Starlink is active in Ukraine.
+[13:54] And if Russia doesn’t like it? “They  can shake their fist at the sky.”
+[13:59] There’s something extremely powerful happening  here. In general, if what these companies
+[14:04] provide ends up better and faster - so higher  bandwidth and lower latency - but not cheaper,
+[14:11] it's mostly left to those who can pay  more for it. High frequency traders,
+[14:15] wealthy people… fine but not world-changing.
+[14:18] The real impact happens when we use technology  to make things faster, better, AND cheaper. We
+[14:23] turn luxuries into commodities. To take things  only wealthy people have access to and make
+[14:28] them available to everyone. We've done this before
+[14:31] with everything from refrigerators...
+[14:33] to iphones... to the internet to some extent.
+[14:36] So, can it continue? And what's the impact, if it does?
+[14:41] Research shows that where internet access goes,  job growth follows. More new businesses get
+[14:46] formed. Fewer people are unemployed.  People have better health outcomes,
+[14:49] better access to education… We saw this all  to an extreme since the pandemic started.
+[14:54] New satellite systems could  be a huge part of this,
+[14:57] along with more investment in the  systems most of us rely on right now.
+[15:01] Our existing internet infrastructure is a  monument to human creativity, hard work, and
+[15:08] the desire to connect. It blows me away.
+[15:11] But it’s not finished.

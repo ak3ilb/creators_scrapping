@@ -1,0 +1,2327 @@
+{
+  "video_id": "iX6w1P60m8M",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 2,
+      "text": "Look at this. This is rare footage from"
+    },
+    {
+      "start": 2,
+      "duration": 2,
+      "text": "1933. You see this dog looking animal"
+    },
+    {
+      "start": 4,
+      "duration": 2,
+      "text": "pacing back and forth in a cage. That's"
+    },
+    {
+      "start": 6,
+      "duration": 3,
+      "text": "a Tasmanian tiger. One of the very last"
+    },
+    {
+      "start": 9,
+      "duration": 3,
+      "text": "of its kind. It died in 1936. And the"
+    },
+    {
+      "start": 12,
+      "duration": 3,
+      "text": "species was ultimately declared extinct."
+    },
+    {
+      "start": 15,
+      "duration": 2,
+      "text": "But now scientists are trying to bring"
+    },
+    {
+      "start": 17,
+      "duration": 2,
+      "text": "them back. And it's not alone. You might"
+    },
+    {
+      "start": 19,
+      "duration": 2,
+      "text": "have seen headlines about direwolves or"
+    },
+    {
+      "start": 21,
+      "duration": 2,
+      "text": "woolly mammoths or dodo birds or"
+    },
+    {
+      "start": 23,
+      "duration": 2,
+      "text": "passenger pigeons or dinosaurs."
+    },
+    {
+      "start": 25,
+      "duration": 4,
+      "text": "deextinction has become a new and urgent"
+    },
+    {
+      "start": 29,
+      "duration": 2,
+      "text": "scientific debate that we should all"
+    },
+    {
+      "start": 31,
+      "duration": 1,
+      "text": "know about. But when I took a deep dive"
+    },
+    {
+      "start": 32,
+      "duration": 3,
+      "text": "into what's really going on here, I"
+    },
+    {
+      "start": 35,
+      "duration": 1,
+      "text": "realized that we're getting this"
+    },
+    {
+      "start": 36,
+      "duration": 3,
+      "text": "conversation very, very wrong. Because"
+    },
+    {
+      "start": 39,
+      "duration": 3,
+      "text": "we're on the cusp of a huge genetic"
+    },
+    {
+      "start": 42,
+      "duration": 2,
+      "text": "breakthrough. But the most huge if true"
+    },
+    {
+      "start": 44,
+      "duration": 2,
+      "text": "thing happening here isn't actually"
+    },
+    {
+      "start": 46,
+      "duration": 2,
+      "text": "bringing back extinct animals. It's what"
+    },
+    {
+      "start": 48,
+      "duration": 3,
+      "text": "this means for all the animals alive"
+    },
+    {
+      "start": 51,
+      "duration": 3,
+      "text": "today. And very few people seem to know"
+    },
+    {
+      "start": 54,
+      "duration": 1,
+      "text": "about it."
+    },
+    {
+      "start": 55,
+      "duration": 1,
+      "text": "Deextinction."
+    },
+    {
+      "start": 56,
+      "duration": 1,
+      "text": "The extinction."
+    },
+    {
+      "start": 57,
+      "duration": 1,
+      "text": "Trying to bring back creatures from the"
+    },
+    {
+      "start": 58,
+      "duration": 1,
+      "text": "past."
+    },
+    {
+      "start": 59,
+      "duration": 0,
+      "text": "We can do this."
+    },
+    {
+      "start": 59,
+      "duration": 2,
+      "text": "Resurrect the woolly mammoth."
+    },
+    {
+      "start": 61,
+      "duration": 0,
+      "text": "Direwolf."
+    },
+    {
+      "start": 61,
+      "duration": 1,
+      "text": "Tasmanian."
+    },
+    {
+      "start": 62,
+      "duration": 1,
+      "text": "It sounds like something out of a"
+    },
+    {
+      "start": 63,
+      "duration": 1,
+      "text": "science fiction movie."
+    },
+    {
+      "start": 64,
+      "duration": 2,
+      "text": "It's no longer science fiction."
+    },
+    {
+      "start": 66,
+      "duration": 3,
+      "text": "That's the future."
+    },
+    {
+      "start": 69,
+      "duration": 4,
+      "text": "[Music]"
+    },
+    {
+      "start": 73,
+      "duration": 2,
+      "text": "All right. Imagine you're a mad"
+    },
+    {
+      "start": 75,
+      "duration": 2,
+      "text": "scientist and you want to bring back an"
+    },
+    {
+      "start": 77,
+      "duration": 2,
+      "text": "extinct animal. Here's the recipe. Step"
+    },
+    {
+      "start": 79,
+      "duration": 3,
+      "text": "one, choose your animal. like a mammoth."
+    },
+    {
+      "start": 82,
+      "duration": 1,
+      "text": "Now, from here, you need to choose one"
+    },
+    {
+      "start": 83,
+      "duration": 2,
+      "text": "of three paths, and for each, you'll"
+    },
+    {
+      "start": 85,
+      "duration": 2,
+      "text": "need different ingredients. You could"
+    },
+    {
+      "start": 87,
+      "duration": 1,
+      "text": "try to take a close- living relative of"
+    },
+    {
+      "start": 88,
+      "duration": 2,
+      "text": "the animal that you chose and breed a"
+    },
+    {
+      "start": 90,
+      "duration": 2,
+      "text": "bunch of them together until you get an"
+    },
+    {
+      "start": 92,
+      "duration": 2,
+      "text": "animal with traits that roughly match"
+    },
+    {
+      "start": 94,
+      "duration": 1,
+      "text": "the one that you wanted. This is the"
+    },
+    {
+      "start": 95,
+      "duration": 3,
+      "text": "same basic process that made my dog Thor"
+    },
+    {
+      "start": 98,
+      "duration": 2,
+      "text": "out of a wolf. But instead of trying to"
+    },
+    {
+      "start": 100,
+      "duration": 1,
+      "text": "make something new and adorable, you're"
+    },
+    {
+      "start": 101,
+      "duration": 2,
+      "text": "trying to make something old. It's"
+    },
+    {
+      "start": 103,
+      "duration": 1,
+      "text": "called back breeding, and it can work."
+    },
+    {
+      "start": 104,
+      "duration": 2,
+      "text": "Like with this guy, it's called a quaga."
+    },
+    {
+      "start": 106,
+      "duration": 3,
+      "text": "I actually have a little uh toy quaga"
+    },
+    {
+      "start": 109,
+      "duration": 2,
+      "text": "right here. It's a subspecies of zebra"
+    },
+    {
+      "start": 111,
+      "duration": 1,
+      "text": "native to South Africa."
+    },
+    {
+      "start": 112,
+      "duration": 2,
+      "text": "They have stripes on the head and neck"
+    },
+    {
+      "start": 114,
+      "duration": 2,
+      "text": "and the stripes fade away along the"
+    },
+    {
+      "start": 116,
+      "duration": 0,
+      "text": "body."
+    },
+    {
+      "start": 116,
+      "duration": 3,
+      "text": "It was hunted to extinction by 1883, but"
+    },
+    {
+      "start": 119,
+      "duration": 2,
+      "text": "we've already been able to bring a"
+    },
+    {
+      "start": 121,
+      "duration": 2,
+      "text": "version of it back using back breeding."
+    },
+    {
+      "start": 123,
+      "duration": 3,
+      "text": "This is a really exciting approach and"
+    },
+    {
+      "start": 126,
+      "duration": 2,
+      "text": "it can work for both animals and plants,"
+    },
+    {
+      "start": 128,
+      "duration": 4,
+      "text": "but it is incredibly slow. It takes many"
+    },
+    {
+      "start": 132,
+      "duration": 2,
+      "text": "generations of zebra to get there and"
+    },
+    {
+      "start": 134,
+      "duration": 1,
+      "text": "it's a guessing game. You don't know"
+    },
+    {
+      "start": 135,
+      "duration": 2,
+      "text": "which genes will appear when and which"
+    },
+    {
+      "start": 137,
+      "duration": 2,
+      "text": "will go away. In reality,"
+    },
+    {
+      "start": 139,
+      "duration": 3,
+      "text": "it's a cool method that's been done, but"
+    },
+    {
+      "start": 142,
+      "duration": 1,
+      "text": "probably pretty limited."
+    },
+    {
+      "start": 143,
+      "duration": 1,
+      "text": "Okay, but how about option two? I"
+    },
+    {
+      "start": 144,
+      "duration": 2,
+      "text": "remember in Jurassic Park, they pulled"
+    },
+    {
+      "start": 146,
+      "duration": 3,
+      "text": "dinosaur DNA from blood inside a"
+    },
+    {
+      "start": 149,
+      "duration": 2,
+      "text": "fossilized mosquito."
+    },
+    {
+      "start": 151,
+      "duration": 3,
+      "text": "Bingo. Dino DNA."
+    },
+    {
+      "start": 154,
+      "duration": 2,
+      "text": "And then they cloned the animal based on"
+    },
+    {
+      "start": 156,
+      "duration": 1,
+      "text": "that DNA."
+    },
+    {
+      "start": 157,
+      "duration": 2,
+      "text": "It's all part of the miracle of cloning."
+    },
+    {
+      "start": 159,
+      "duration": 2,
+      "text": "Cool. Let's do that. In real life,"
+    },
+    {
+      "start": 161,
+      "duration": 1,
+      "text": "though, the ingredients that you need"
+    },
+    {
+      "start": 162,
+      "duration": 2,
+      "text": "for this method aren't just the extinct"
+    },
+    {
+      "start": 164,
+      "duration": 2,
+      "text": "animals DNA. You need a whole living"
+    },
+    {
+      "start": 166,
+      "duration": 2,
+      "text": "cell. Because cloning is actually a very"
+    },
+    {
+      "start": 168,
+      "duration": 1,
+      "text": "specific scientific technique."
+    },
+    {
+      "start": 169,
+      "duration": 3,
+      "text": "The long name is sematic cell nuclear"
+    },
+    {
+      "start": 172,
+      "duration": 3,
+      "text": "transfer. It means removing the nucleus"
+    },
+    {
+      "start": 175,
+      "duration": 2,
+      "text": "out of an egg cell and replacing it with"
+    },
+    {
+      "start": 177,
+      "duration": 2,
+      "text": "the nucleus of a body or sematic cell of"
+    },
+    {
+      "start": 179,
+      "duration": 2,
+      "text": "the animal you want to clone. And then"
+    },
+    {
+      "start": 181,
+      "duration": 2,
+      "text": "you put that egg with its new nucleus"
+    },
+    {
+      "start": 183,
+      "duration": 3,
+      "text": "into an animal where it can grow. And"
+    },
+    {
+      "start": 186,
+      "duration": 3,
+      "text": "this actually works"
+    },
+    {
+      "start": 189,
+      "duration": 0,
+      "text": "almost."
+    },
+    {
+      "start": 189,
+      "duration": 3,
+      "text": "People tried this in the early 2000s"
+    },
+    {
+      "start": 192,
+      "duration": 2,
+      "text": "with an extinct species called the"
+    },
+    {
+      "start": 194,
+      "duration": 3,
+      "text": "bukardo. These animals are so cool. But"
+    },
+    {
+      "start": 197,
+      "duration": 3,
+      "text": "by 2000, there was only one Bicardo"
+    },
+    {
+      "start": 200,
+      "duration": 2,
+      "text": "left. But luckily, this was 4 years"
+    },
+    {
+      "start": 202,
+      "duration": 2,
+      "text": "after Dolly the sheep was famously"
+    },
+    {
+      "start": 204,
+      "duration": 2,
+      "text": "successfully cloned. So, in an attempt"
+    },
+    {
+      "start": 206,
+      "duration": 2,
+      "text": "to save the species, some quick-thinking"
+    },
+    {
+      "start": 208,
+      "duration": 2,
+      "text": "biologists put tissue samples from the"
+    },
+    {
+      "start": 210,
+      "duration": 1,
+      "text": "remaining Bicardo in storage. And then"
+    },
+    {
+      "start": 211,
+      "duration": 2,
+      "text": "they were able to take the nucleus from"
+    },
+    {
+      "start": 213,
+      "duration": 2,
+      "text": "those cells and put them into the cells"
+    },
+    {
+      "start": 215,
+      "duration": 3,
+      "text": "of domestic goat hybrids. And in 2003, a"
+    },
+    {
+      "start": 218,
+      "duration": 3,
+      "text": "baby Bicardo was born. Unfortunately,"
+    },
+    {
+      "start": 221,
+      "duration": 3,
+      "text": "their first clone that was born had a"
+    },
+    {
+      "start": 224,
+      "duration": 3,
+      "text": "malformed lung and didn't survive. Um,"
+    },
+    {
+      "start": 227,
+      "duration": 1,
+      "text": "this hasn't been tried again."
+    },
+    {
+      "start": 228,
+      "duration": 3,
+      "text": "So, we are able to clone animals when we"
+    },
+    {
+      "start": 231,
+      "duration": 3,
+      "text": "have living cells, which is wild. But"
+    },
+    {
+      "start": 234,
+      "duration": 2,
+      "text": "unlike the bicardo, nobody carefully"
+    },
+    {
+      "start": 236,
+      "duration": 2,
+      "text": "preserved the whole cells of a mammoth."
+    },
+    {
+      "start": 238,
+      "duration": 2,
+      "text": "The biggest challenge is needing those"
+    },
+    {
+      "start": 240,
+      "duration": 2,
+      "text": "living cells in the first place. Because"
+    },
+    {
+      "start": 242,
+      "duration": 2,
+      "text": "it turns out that cells have a shelf"
+    },
+    {
+      "start": 244,
+      "duration": 2,
+      "text": "life. Once an animal dies, their cells"
+    },
+    {
+      "start": 246,
+      "duration": 2,
+      "text": "are typically pretty shortlived, dying"
+    },
+    {
+      "start": 248,
+      "duration": 3,
+      "text": "off within hours or days. But freezing"
+    },
+    {
+      "start": 251,
+      "duration": 2,
+      "text": "can dramatically slow this process,"
+    },
+    {
+      "start": 253,
+      "duration": 1,
+      "text": "which is why there's been hope that"
+    },
+    {
+      "start": 254,
+      "duration": 2,
+      "text": "animals found preserved in ice, like"
+    },
+    {
+      "start": 256,
+      "duration": 4,
+      "text": "this 40,000-year-old baby mammoth, might"
+    },
+    {
+      "start": 260,
+      "duration": 2,
+      "text": "have some usable cells. But so far, no"
+    },
+    {
+      "start": 262,
+      "duration": 3,
+      "text": "revivable cells have been found. So"
+    },
+    {
+      "start": 265,
+      "duration": 2,
+      "text": "cloning is hard. But we've got one more"
+    },
+    {
+      "start": 267,
+      "duration": 3,
+      "text": "option, and this one is by far the most"
+    },
+    {
+      "start": 270,
+      "duration": 0,
+      "text": "popular."
+    },
+    {
+      "start": 270,
+      "duration": 3,
+      "text": "For the 99.99%"
+    },
+    {
+      "start": 273,
+      "duration": 2,
+      "text": "of extinct species, we have to use the"
+    },
+    {
+      "start": 275,
+      "duration": 3,
+      "text": "third method, gene editing. If you"
+    },
+    {
+      "start": 278,
+      "duration": 2,
+      "text": "imagine DNA as a group of blocks, each"
+    },
+    {
+      "start": 280,
+      "duration": 2,
+      "text": "block here could represent a gene. Like"
+    },
+    {
+      "start": 282,
+      "duration": 1,
+      "text": "this one tells me the shape of the"
+    },
+    {
+      "start": 283,
+      "duration": 2,
+      "text": "skull, and this one tells me ear size,"
+    },
+    {
+      "start": 285,
+      "duration": 2,
+      "text": "and maybe this one tells me thick woolly"
+    },
+    {
+      "start": 287,
+      "duration": 2,
+      "text": "coat. And then stacked together, they"
+    },
+    {
+      "start": 289,
+      "duration": 1,
+      "text": "give me the instructions for how to"
+    },
+    {
+      "start": 290,
+      "duration": 2,
+      "text": "build this specific animal. The"
+    },
+    {
+      "start": 292,
+      "duration": 2,
+      "text": "challenge is like living cells have a"
+    },
+    {
+      "start": 294,
+      "duration": 2,
+      "text": "shelf life. So does DNA. Once an animal"
+    },
+    {
+      "start": 296,
+      "duration": 3,
+      "text": "dies, the DNA in its cells starts to"
+    },
+    {
+      "start": 299,
+      "duration": 2,
+      "text": "break down into tinier and tinier and"
+    },
+    {
+      "start": 301,
+      "duration": 2,
+      "text": "tinier fragments until eventually"
+    },
+    {
+      "start": 303,
+      "duration": 1,
+      "text": "there's nothing left. That's why right"
+    },
+    {
+      "start": 304,
+      "duration": 2,
+      "text": "now we can't bring back animals that"
+    },
+    {
+      "start": 306,
+      "duration": 2,
+      "text": "went extinct too long ago, like the"
+    },
+    {
+      "start": 308,
+      "duration": 2,
+      "text": "dinosaurs. Too much time has passed and"
+    },
+    {
+      "start": 310,
+      "duration": 2,
+      "text": "their DNA is way too fragmented. But if"
+    },
+    {
+      "start": 312,
+      "duration": 2,
+      "text": "we use an animal that died off fairly"
+    },
+    {
+      "start": 314,
+      "duration": 2,
+      "text": "recently or was frozen in just the right"
+    },
+    {
+      "start": 316,
+      "duration": 2,
+      "text": "way, scientists can figure out what some"
+    },
+    {
+      "start": 318,
+      "duration": 2,
+      "text": "of those key missing pieces are and"
+    },
+    {
+      "start": 320,
+      "duration": 2,
+      "text": "replicate this stack of blocks in"
+    },
+    {
+      "start": 322,
+      "duration": 2,
+      "text": "another animal. This is gene editing."
+    },
+    {
+      "start": 324,
+      "duration": 2,
+      "text": "You compare the stack of DNA blocks of"
+    },
+    {
+      "start": 326,
+      "duration": 2,
+      "text": "the extinct animal with the blocks of a"
+    },
+    {
+      "start": 328,
+      "duration": 2,
+      "text": "close living relative to see where the"
+    },
+    {
+      "start": 330,
+      "duration": 2,
+      "text": "two are different and edit the DNA in"
+    },
+    {
+      "start": 332,
+      "duration": 2,
+      "text": "the living relative. So, it resembles"
+    },
+    {
+      "start": 334,
+      "duration": 2,
+      "text": "the DNA in the extinct one. This is what"
+    },
+    {
+      "start": 336,
+      "duration": 2,
+      "text": "they're trying to do with woolly"
+    },
+    {
+      "start": 338,
+      "duration": 3,
+      "text": "mammoths and direwolves,"
+    },
+    {
+      "start": 341,
+      "duration": 3,
+      "text": "but they won't be exactly like the"
+    },
+    {
+      "start": 344,
+      "duration": 2,
+      "text": "extinct animal. In fact, people online"
+    },
+    {
+      "start": 346,
+      "duration": 1,
+      "text": "were really quick to point out that"
+    },
+    {
+      "start": 347,
+      "duration": 3,
+      "text": "these actually aren't really direwolves"
+    },
+    {
+      "start": 350,
+      "duration": 2,
+      "text": "at all. It's better to think of them as"
+    },
+    {
+      "start": 352,
+      "duration": 2,
+      "text": "genetically modified greywolves. But the"
+    },
+    {
+      "start": 354,
+      "duration": 2,
+      "text": "thing is, that was intentional."
+    },
+    {
+      "start": 356,
+      "duration": 2,
+      "text": "Scientists are choosing which exact"
+    },
+    {
+      "start": 358,
+      "duration": 1,
+      "text": "traits to manipulate to get the outcomes"
+    },
+    {
+      "start": 359,
+      "duration": 2,
+      "text": "that they want. and they want to do it"
+    },
+    {
+      "start": 361,
+      "duration": 2,
+      "text": "by making the least amount of edits"
+    },
+    {
+      "start": 363,
+      "duration": 2,
+      "text": "possible. I asked the scientist in"
+    },
+    {
+      "start": 365,
+      "duration": 2,
+      "text": "charge of the direwolf project why I'm"
+    },
+    {
+      "start": 367,
+      "duration": 2,
+      "text": "thinking about deextinction and I'm also"
+    },
+    {
+      "start": 369,
+      "duration": 1,
+      "text": "thinking about animal welfare. Every"
+    },
+    {
+      "start": 370,
+      "duration": 2,
+      "text": "time we change the sequence of DNA in a"
+    },
+    {
+      "start": 372,
+      "duration": 3,
+      "text": "genetic background, there's a risk that"
+    },
+    {
+      "start": 375,
+      "duration": 1,
+      "text": "something happens that we didn't"
+    },
+    {
+      "start": 376,
+      "duration": 2,
+      "text": "predict. I want healthy animals in the"
+    },
+    {
+      "start": 378,
+      "duration": 3,
+      "text": "end. Therefore, my goal is the fewest"
+    },
+    {
+      "start": 381,
+      "duration": 1,
+      "text": "number of changes necessary to"
+    },
+    {
+      "start": 382,
+      "duration": 3,
+      "text": "de-extinct those important"
+    },
+    {
+      "start": 385,
+      "duration": 2,
+      "text": "characteristics. So deextinction might"
+    },
+    {
+      "start": 387,
+      "duration": 2,
+      "text": "have a branding problem because people"
+    },
+    {
+      "start": 389,
+      "duration": 2,
+      "text": "on one side are looking at the literal"
+    },
+    {
+      "start": 391,
+      "duration": 2,
+      "text": "definition and saying that's not"
+    },
+    {
+      "start": 393,
+      "duration": 2,
+      "text": "de-extinction and they're right that's"
+    },
+    {
+      "start": 395,
+      "duration": 2,
+      "text": "not the exact animal. But then on the"
+    },
+    {
+      "start": 397,
+      "duration": 1,
+      "text": "other side of this you have scientists"
+    },
+    {
+      "start": 398,
+      "duration": 2,
+      "text": "who are saying bringing back exact"
+    },
+    {
+      "start": 400,
+      "duration": 2,
+      "text": "replicas isn't really the point. They're"
+    },
+    {
+      "start": 402,
+      "duration": 3,
+      "text": "not trying to deextinct the exact"
+    },
+    {
+      "start": 405,
+      "duration": 3,
+      "text": "animal. They're trying to deextinct what"
+    },
+    {
+      "start": 408,
+      "duration": 3,
+      "text": "the animal did. In the end the whole"
+    },
+    {
+      "start": 411,
+      "duration": 2,
+      "text": "direwolf or not direwolf debate doesn't"
+    },
+    {
+      "start": 413,
+      "duration": 2,
+      "text": "really matter. Branding them this way"
+    },
+    {
+      "start": 415,
+      "duration": 3,
+      "text": "makes for a good headline, but it's not"
+    },
+    {
+      "start": 418,
+      "duration": 1,
+      "text": "technically accurate. And while the"
+    },
+    {
+      "start": 419,
+      "duration": 2,
+      "text": "effort to bring back a version of a"
+    },
+    {
+      "start": 421,
+      "duration": 2,
+      "text": "direwolf or a woolly mammoth is totally"
+    },
+    {
+      "start": 423,
+      "duration": 3,
+      "text": "cool, I think it's a distraction from"
+    },
+    {
+      "start": 426,
+      "duration": 4,
+      "text": "what is the real huge, if true, use of"
+    },
+    {
+      "start": 430,
+      "duration": 2,
+      "text": "this technology. But first, let me show"
+    },
+    {
+      "start": 432,
+      "duration": 2,
+      "text": "you something. This new phone case is"
+    },
+    {
+      "start": 434,
+      "duration": 1,
+      "text": "special. It's not just that it's built"
+    },
+    {
+      "start": 435,
+      "duration": 2,
+      "text": "with insane impact resistance and"
+    },
+    {
+      "start": 437,
+      "duration": 2,
+      "text": "durability, or that it has a lifetime"
+    },
+    {
+      "start": 439,
+      "duration": 2,
+      "text": "warranty against yellowing. Those things"
+    },
+    {
+      "start": 441,
+      "duration": 1,
+      "text": "are important, but what's even more"
+    },
+    {
+      "start": 442,
+      "duration": 2,
+      "text": "important is their mission to tackle"
+    },
+    {
+      "start": 444,
+      "duration": 4,
+      "text": "plastic waste. Every year, 19 to 23"
+    },
+    {
+      "start": 448,
+      "duration": 3,
+      "text": "million tons of plastic waste leaks into"
+    },
+    {
+      "start": 451,
+      "duration": 2,
+      "text": "lakes and rivers and oceans. First, they"
+    },
+    {
+      "start": 453,
+      "duration": 2,
+      "text": "plan to become plastic neutral. So, they"
+    },
+    {
+      "start": 455,
+      "duration": 2,
+      "text": "built a closed loop model. The phone"
+    },
+    {
+      "start": 457,
+      "duration": 3,
+      "text": "cases are 100% recyclable. You can send"
+    },
+    {
+      "start": 460,
+      "duration": 1,
+      "text": "back your old phone case and they break"
+    },
+    {
+      "start": 461,
+      "duration": 2,
+      "text": "it down and repurpose it into a brand"
+    },
+    {
+      "start": 463,
+      "duration": 2,
+      "text": "new one, giving it a second or third or"
+    },
+    {
+      "start": 465,
+      "duration": 3,
+      "text": "more life. It's even got a QR code on"
+    },
+    {
+      "start": 468,
+      "duration": 1,
+      "text": "the inside so you can track the"
+    },
+    {
+      "start": 469,
+      "duration": 2,
+      "text": "product's life cycle. But what they"
+    },
+    {
+      "start": 471,
+      "duration": 2,
+      "text": "really wanted was to tackle all plastic"
+    },
+    {
+      "start": 473,
+      "duration": 2,
+      "text": "waste, not just modern plastic, but also"
+    },
+    {
+      "start": 475,
+      "duration": 3,
+      "text": "legacy and future plastic, too. What if"
+    },
+    {
+      "start": 478,
+      "duration": 2,
+      "text": "you could take plastic waste out of the"
+    },
+    {
+      "start": 480,
+      "duration": 3,
+      "text": "ocean, and then use or upcycle it?"
+    },
+    {
+      "start": 483,
+      "duration": 2,
+      "text": "That's exactly what they do. They've"
+    },
+    {
+      "start": 485,
+      "duration": 2,
+      "text": "built a solar powered floating platform"
+    },
+    {
+      "start": 487,
+      "duration": 2,
+      "text": "that uses water jets to create pressure"
+    },
+    {
+      "start": 489,
+      "duration": 2,
+      "text": "differences that guide floating garbage"
+    },
+    {
+      "start": 491,
+      "duration": 2,
+      "text": "into its collection area. It's like a"
+    },
+    {
+      "start": 493,
+      "duration": 3,
+      "text": "robot vacuum for ocean cleanup. This is"
+    },
+    {
+      "start": 496,
+      "duration": 2,
+      "text": "new. They're testing it right now, but"
+    },
+    {
+      "start": 498,
+      "duration": 1,
+      "text": "it's the kind of effort that I find"
+    },
+    {
+      "start": 499,
+      "duration": 2,
+      "text": "really optimistic. Protecting your phone"
+    },
+    {
+      "start": 501,
+      "duration": 2,
+      "text": "and protecting oceans, too. If you want"
+    },
+    {
+      "start": 503,
+      "duration": 2,
+      "text": "to check it out, use the code cleo for"
+    },
+    {
+      "start": 505,
+      "duration": 3,
+      "text": "10% off at the link in my description."
+    },
+    {
+      "start": 508,
+      "duration": 2,
+      "text": "There have been five times in the"
+    },
+    {
+      "start": 510,
+      "duration": 2,
+      "text": "history of Earth where over 75% of all"
+    },
+    {
+      "start": 512,
+      "duration": 2,
+      "text": "life was lost. And many scientists say"
+    },
+    {
+      "start": 514,
+      "duration": 2,
+      "text": "we're going through a sixth right now."
+    },
+    {
+      "start": 516,
+      "duration": 1,
+      "text": "And while prior mass extinctions were"
+    },
+    {
+      "start": 517,
+      "duration": 3,
+      "text": "caused by natural disasters, this one"
+    },
+    {
+      "start": 520,
+      "duration": 2,
+      "text": "seems to be caused by us. But hang on,"
+    },
+    {
+      "start": 522,
+      "duration": 2,
+      "text": "even if you don't care about animals and"
+    },
+    {
+      "start": 524,
+      "duration": 3,
+      "text": "biodiversity, this sucks for us. This"
+    },
+    {
+      "start": 527,
+      "duration": 1,
+      "text": "has huge impacts on our food and our"
+    },
+    {
+      "start": 528,
+      "duration": 2,
+      "text": "homes and everything we rely on to"
+    },
+    {
+      "start": 530,
+      "duration": 2,
+      "text": "survive. And here's the optimistic part."
+    },
+    {
+      "start": 532,
+      "duration": 2,
+      "text": "The same tools that we've been talking"
+    },
+    {
+      "start": 534,
+      "duration": 2,
+      "text": "about to bring back extinct animals can"
+    },
+    {
+      "start": 536,
+      "duration": 2,
+      "text": "also be used to help animals not go"
+    },
+    {
+      "start": 538,
+      "duration": 2,
+      "text": "extinct in the first place. This is the"
+    },
+    {
+      "start": 540,
+      "duration": 2,
+      "text": "part that got me most excited, and this"
+    },
+    {
+      "start": 542,
+      "duration": 1,
+      "text": "is what I don't see enough people"
+    },
+    {
+      "start": 543,
+      "duration": 2,
+      "text": "talking about. It's called genetic"
+    },
+    {
+      "start": 545,
+      "duration": 2,
+      "text": "rescue. Meet the blackfooted ferret."
+    },
+    {
+      "start": 547,
+      "duration": 2,
+      "text": "This adorable little guy is in need of"
+    },
+    {
+      "start": 549,
+      "duration": 2,
+      "text": "genetic rescue because"
+    },
+    {
+      "start": 551,
+      "duration": 2,
+      "text": "every living blackfooted ferret alive"
+    },
+    {
+      "start": 553,
+      "duration": 2,
+      "text": "today are first cousins."
+    },
+    {
+      "start": 555,
+      "duration": 2,
+      "text": "Yikes."
+    },
+    {
+      "start": 557,
+      "duration": 2,
+      "text": "This little guy nearly went extinct in"
+    },
+    {
+      "start": 559,
+      "duration": 2,
+      "text": "1979. Because of humans, the population"
+    },
+    {
+      "start": 561,
+      "duration": 2,
+      "text": "crashed. But fortunately, they've"
+    },
+    {
+      "start": 563,
+      "duration": 3,
+      "text": "started to come back. The problem now is"
+    },
+    {
+      "start": 566,
+      "duration": 1,
+      "text": "that this new group of blackfooted"
+    },
+    {
+      "start": 567,
+      "duration": 1,
+      "text": "ferrets,"
+    },
+    {
+      "start": 568,
+      "duration": 2,
+      "text": "it has really, really low diversity."
+    },
+    {
+      "start": 570,
+      "duration": 1,
+      "text": "Very small gene pool."
+    },
+    {
+      "start": 571,
+      "duration": 2,
+      "text": "Scientists call this the bottleneck"
+    },
+    {
+      "start": 573,
+      "duration": 1,
+      "text": "effect. If your group doesn't have"
+    },
+    {
+      "start": 574,
+      "duration": 2,
+      "text": "enough genetic variety, you're"
+    },
+    {
+      "start": 576,
+      "duration": 2,
+      "text": "vulnerable to things like disease and"
+    },
+    {
+      "start": 578,
+      "duration": 2,
+      "text": "weird genetic mutations. This is a"
+    },
+    {
+      "start": 580,
+      "duration": 2,
+      "text": "problem facing dozens of species whose"
+    },
+    {
+      "start": 582,
+      "duration": 2,
+      "text": "populations put them at risk for genetic"
+    },
+    {
+      "start": 584,
+      "duration": 3,
+      "text": "bottlenecking. But today, scientists are"
+    },
+    {
+      "start": 587,
+      "duration": 3,
+      "text": "exploring gene editing to create more"
+    },
+    {
+      "start": 590,
+      "duration": 2,
+      "text": "genetic diversity in some of those"
+    },
+    {
+      "start": 592,
+      "duration": 0,
+      "text": "groups."
+    },
+    {
+      "start": 592,
+      "duration": 3,
+      "text": "We can take DNA from a museum stuffed"
+    },
+    {
+      "start": 595,
+      "duration": 2,
+      "text": "animal from a 100 years ago, sequence"
+    },
+    {
+      "start": 597,
+      "duration": 3,
+      "text": "its DNA, and then edit it into living"
+    },
+    {
+      "start": 600,
+      "duration": 2,
+      "text": "blackfooted ferrets."
+    },
+    {
+      "start": 602,
+      "duration": 2,
+      "text": "One way to get diversity back, which we"
+    },
+    {
+      "start": 604,
+      "duration": 1,
+      "text": "are working on."
+    },
+    {
+      "start": 605,
+      "duration": 1,
+      "text": "Another great example of using minimal"
+    },
+    {
+      "start": 606,
+      "duration": 4,
+      "text": "gene editing to save a species, is this"
+    },
+    {
+      "start": 610,
+      "duration": 2,
+      "text": "little guy, the northern qu from"
+    },
+    {
+      "start": 612,
+      "duration": 2,
+      "text": "Australia. Look how cute he is. But"
+    },
+    {
+      "start": 614,
+      "duration": 1,
+      "text": "they're expected to be extinct in the"
+    },
+    {
+      "start": 615,
+      "duration": 3,
+      "text": "wild within the next 10 years because of"
+    },
+    {
+      "start": 618,
+      "duration": 2,
+      "text": "this guy, this toad. This is the cane"
+    },
+    {
+      "start": 620,
+      "duration": 2,
+      "text": "toad, and it's an invasive species. It's"
+    },
+    {
+      "start": 622,
+      "duration": 3,
+      "text": "got a deadly toxin on its skin. So what"
+    },
+    {
+      "start": 625,
+      "duration": 0,
+      "text": "happens is"
+    },
+    {
+      "start": 625,
+      "duration": 3,
+      "text": "so our carnivorous little qual will eat"
+    },
+    {
+      "start": 628,
+      "duration": 2,
+      "text": "the cane toad and they die instantly"
+    },
+    {
+      "start": 630,
+      "duration": 1,
+      "text": "from that toxin."
+    },
+    {
+      "start": 631,
+      "duration": 2,
+      "text": "But scientists found that it's just one"
+    },
+    {
+      "start": 633,
+      "duration": 2,
+      "text": "single letter of genetic code that makes"
+    },
+    {
+      "start": 635,
+      "duration": 2,
+      "text": "them either die from eating a cane toad"
+    },
+    {
+      "start": 637,
+      "duration": 3,
+      "text": "or completely resistant. Just one"
+    },
+    {
+      "start": 640,
+      "duration": 2,
+      "text": "letter. So they're working on a way to"
+    },
+    {
+      "start": 642,
+      "duration": 2,
+      "text": "introduce that one change into the"
+    },
+    {
+      "start": 644,
+      "duration": 2,
+      "text": "population and make coals that are able"
+    },
+    {
+      "start": 646,
+      "duration": 2,
+      "text": "to eat cane toads without dying, saving"
+    },
+    {
+      "start": 648,
+      "duration": 3,
+      "text": "an entire species. In theory, you could"
+    },
+    {
+      "start": 651,
+      "duration": 1,
+      "text": "do a lot of this. Not just making key"
+    },
+    {
+      "start": 652,
+      "duration": 2,
+      "text": "animals poison resistant, but also"
+    },
+    {
+      "start": 654,
+      "duration": 2,
+      "text": "disease resistant or heat resistant."
+    },
+    {
+      "start": 656,
+      "duration": 2,
+      "text": "There are projects to do this on coral"
+    },
+    {
+      "start": 658,
+      "duration": 4,
+      "text": "reefs. Huge if true. But then why are we"
+    },
+    {
+      "start": 662,
+      "duration": 4,
+      "text": "trying to deextinct animals at all? That"
+    },
+    {
+      "start": 666,
+      "duration": 2,
+      "text": "brings us back to the Tasmanian tiger."
+    },
+    {
+      "start": 668,
+      "duration": 2,
+      "text": "Humans hunted these tigers until there"
+    },
+    {
+      "start": 670,
+      "duration": 1,
+      "text": "were none left in the wild. But they"
+    },
+    {
+      "start": 671,
+      "duration": 2,
+      "text": "didn't understand what would happen"
+    },
+    {
+      "start": 673,
+      "duration": 2,
+      "text": "next. Without the tiger, Tasmania lost"
+    },
+    {
+      "start": 675,
+      "duration": 2,
+      "text": "its only apex predator, a keystone"
+    },
+    {
+      "start": 677,
+      "duration": 2,
+      "text": "species, meaning it has a huge impact on"
+    },
+    {
+      "start": 679,
+      "duration": 2,
+      "text": "its ecosystem. And without them,"
+    },
+    {
+      "start": 681,
+      "duration": 2,
+      "text": "there's been an explosion of walabeees"
+    },
+    {
+      "start": 683,
+      "duration": 2,
+      "text": "and kangaroos there. They're eating all"
+    },
+    {
+      "start": 685,
+      "duration": 1,
+      "text": "the shrubs, they're eating all the"
+    },
+    {
+      "start": 686,
+      "duration": 2,
+      "text": "bushes, you know, that's impacting the"
+    },
+    {
+      "start": 688,
+      "duration": 2,
+      "text": "bird populations. It's changing the"
+    },
+    {
+      "start": 690,
+      "duration": 0,
+      "text": "landscape,"
+    },
+    {
+      "start": 690,
+      "duration": 2,
+      "text": "which means that now other species are"
+    },
+    {
+      "start": 692,
+      "duration": 2,
+      "text": "at risk, like the Tasmanian devil."
+    },
+    {
+      "start": 694,
+      "duration": 2,
+      "text": "They developed this incredibly strange"
+    },
+    {
+      "start": 696,
+      "duration": 2,
+      "text": "disease, and it's actually like a cancer"
+    },
+    {
+      "start": 698,
+      "duration": 2,
+      "text": "tumor that grows on their face, and they"
+    },
+    {
+      "start": 700,
+      "duration": 2,
+      "text": "spread it from animal to animal. Apex"
+    },
+    {
+      "start": 702,
+      "duration": 2,
+      "text": "predators used to reduce diseases like"
+    },
+    {
+      "start": 704,
+      "duration": 2,
+      "text": "this. By eating sick members of the"
+    },
+    {
+      "start": 706,
+      "duration": 3,
+      "text": "population by killing all the Tasmanian"
+    },
+    {
+      "start": 709,
+      "duration": 2,
+      "text": "tigers, we created a butterfly effect"
+    },
+    {
+      "start": 711,
+      "duration": 1,
+      "text": "that's rippling through the food chain"
+    },
+    {
+      "start": 712,
+      "duration": 3,
+      "text": "to this day. So, some are proposing"
+    },
+    {
+      "start": 715,
+      "duration": 1,
+      "text": "the only way we'll ever be able to bring"
+    },
+    {
+      "start": 716,
+      "duration": 2,
+      "text": "that ecosystem back into balance is to"
+    },
+    {
+      "start": 718,
+      "duration": 3,
+      "text": "put the Tasmanian tiger back into it."
+    },
+    {
+      "start": 721,
+      "duration": 2,
+      "text": "Tasmania is an island cut off from other"
+    },
+    {
+      "start": 723,
+      "duration": 2,
+      "text": "natural predators. And many scientists"
+    },
+    {
+      "start": 725,
+      "duration": 1,
+      "text": "agree that there's no other living"
+    },
+    {
+      "start": 726,
+      "duration": 2,
+      "text": "species that could replace what the"
+    },
+    {
+      "start": 728,
+      "duration": 3,
+      "text": "thyloine could do here. But could we"
+    },
+    {
+      "start": 731,
+      "duration": 1,
+      "text": "actually do this? Well, they're"
+    },
+    {
+      "start": 732,
+      "duration": 2,
+      "text": "following the recipe. They've identified"
+    },
+    {
+      "start": 734,
+      "duration": 3,
+      "text": "the animal. They've sequenced the DNA."
+    },
+    {
+      "start": 737,
+      "duration": 2,
+      "text": "As for close relatives, this is the"
+    },
+    {
+      "start": 739,
+      "duration": 1,
+      "text": "closest living animal to the thyloine."
+    },
+    {
+      "start": 740,
+      "duration": 3,
+      "text": "Their genetic makeup is 99.9%"
+    },
+    {
+      "start": 743,
+      "duration": 1,
+      "text": "identical."
+    },
+    {
+      "start": 744,
+      "duration": 3,
+      "text": "And then you just edit that.1% where"
+    },
+    {
+      "start": 747,
+      "duration": 1,
+      "text": "they're different. And that will turn"
+    },
+    {
+      "start": 748,
+      "duration": 4,
+      "text": "that then into a Tasmanian tiger or a"
+    },
+    {
+      "start": 752,
+      "duration": 1,
+      "text": "thyloine cell."
+    },
+    {
+      "start": 753,
+      "duration": 1,
+      "text": "Wait.1%."
+    },
+    {
+      "start": 754,
+      "duration": 2,
+      "text": "That's actually a lot genetically. And"
+    },
+    {
+      "start": 756,
+      "duration": 2,
+      "text": "that's the bit that's going to take a"
+    },
+    {
+      "start": 758,
+      "duration": 2,
+      "text": "really, really long time um to get that"
+    },
+    {
+      "start": 760,
+      "duration": 1,
+      "text": "bit done."
+    },
+    {
+      "start": 761,
+      "duration": 1,
+      "text": "At this point though, you might be"
+    },
+    {
+      "start": 762,
+      "duration": 2,
+      "text": "wondering, whoa, whoa, whoa, whoa, whoa."
+    },
+    {
+      "start": 764,
+      "duration": 1,
+      "text": "Did we not learn our lesson from"
+    },
+    {
+      "start": 765,
+      "duration": 2,
+      "text": "Jurassic Park?"
+    },
+    {
+      "start": 767,
+      "duration": 3,
+      "text": "What are the consequences of actually"
+    },
+    {
+      "start": 770,
+      "duration": 2,
+      "text": "doing this? When is it okay to use this"
+    },
+    {
+      "start": 772,
+      "duration": 2,
+      "text": "technology? And when is it not? In other"
+    },
+    {
+      "start": 774,
+      "duration": 3,
+      "text": "words, how do we get this right? What"
+    },
+    {
+      "start": 777,
+      "duration": 2,
+      "text": "happens when you drop a predator back"
+    },
+    {
+      "start": 779,
+      "duration": 1,
+      "text": "into an environment that hasn't seen it"
+    },
+    {
+      "start": 780,
+      "duration": 4,
+      "text": "in decades? Well, in this case, it seems"
+    },
+    {
+      "start": 784,
+      "duration": 3,
+      "text": "like a lot of the animals remember them."
+    },
+    {
+      "start": 787,
+      "duration": 2,
+      "text": "We made some replica thyloines and we"
+    },
+    {
+      "start": 789,
+      "duration": 2,
+      "text": "took them out into the bush in Tasmania."
+    },
+    {
+      "start": 791,
+      "duration": 3,
+      "text": "We saw that they absolutely without"
+    },
+    {
+      "start": 794,
+      "duration": 2,
+      "text": "doubt, even though it's been over a"
+    },
+    {
+      "start": 796,
+      "duration": 1,
+      "text": "hundred years since they were really"
+    },
+    {
+      "start": 797,
+      "duration": 2,
+      "text": "there. All of those animals remember the"
+    },
+    {
+      "start": 799,
+      "duration": 2,
+      "text": "thyloine. If there's a fox or a goat,"
+    },
+    {
+      "start": 801,
+      "duration": 2,
+      "text": "they don't really care. But if they see"
+    },
+    {
+      "start": 803,
+      "duration": 2,
+      "text": "the thyloine, they are out of it."
+    },
+    {
+      "start": 805,
+      "duration": 2,
+      "text": "But what about the thyloine's instincts?"
+    },
+    {
+      "start": 807,
+      "duration": 2,
+      "text": "How would it know to behave right like a"
+    },
+    {
+      "start": 809,
+      "duration": 2,
+      "text": "predator? How much of an animal is"
+    },
+    {
+      "start": 811,
+      "duration": 2,
+      "text": "nature versus nurture? There's real"
+    },
+    {
+      "start": 813,
+      "duration": 1,
+      "text": "debate here."
+    },
+    {
+      "start": 814,
+      "duration": 2,
+      "text": "I frankly don't think that it will ever"
+    },
+    {
+      "start": 816,
+      "duration": 2,
+      "text": "happen that we will see thyloines into"
+    },
+    {
+      "start": 818,
+      "duration": 0,
+      "text": "the wild."
+    },
+    {
+      "start": 818,
+      "duration": 2,
+      "text": "But advocates for the thyloine would"
+    },
+    {
+      "start": 820,
+      "duration": 1,
+      "text": "argue"
+    },
+    {
+      "start": 821,
+      "duration": 3,
+      "text": "those behaviors are really hardwired in"
+    },
+    {
+      "start": 824,
+      "duration": 2,
+      "text": "any animal's brain. The best example of"
+    },
+    {
+      "start": 826,
+      "duration": 2,
+      "text": "this would be domestic cats. These are a"
+    },
+    {
+      "start": 828,
+      "duration": 2,
+      "text": "pounce predator animal that have been"
+    },
+    {
+      "start": 830,
+      "duration": 2,
+      "text": "living in our houses now for hundreds of"
+    },
+    {
+      "start": 832,
+      "duration": 3,
+      "text": "generations, eating tinned cat food or"
+    },
+    {
+      "start": 835,
+      "duration": 2,
+      "text": "little crispy biscuits. But if you"
+    },
+    {
+      "start": 837,
+      "duration": 1,
+      "text": "wiggle a feather in front of them or a"
+    },
+    {
+      "start": 838,
+      "duration": 2,
+      "text": "mouse runs across the floor, they"
+    },
+    {
+      "start": 840,
+      "duration": 2,
+      "text": "immediately know that they are a pounce"
+    },
+    {
+      "start": 842,
+      "duration": 3,
+      "text": "predator and they will pounce and kill"
+    },
+    {
+      "start": 845,
+      "duration": 1,
+      "text": "and eat that that animal."
+    },
+    {
+      "start": 846,
+      "duration": 2,
+      "text": "We don't really know until we try. And"
+    },
+    {
+      "start": 848,
+      "duration": 2,
+      "text": "they're trying. This is all hard, but"
+    },
+    {
+      "start": 850,
+      "duration": 2,
+      "text": "it's not like we're creating things that"
+    },
+    {
+      "start": 852,
+      "duration": 2,
+      "text": "are suddenly going to just be released"
+    },
+    {
+      "start": 854,
+      "duration": 1,
+      "text": "into the wild."
+    },
+    {
+      "start": 855,
+      "duration": 1,
+      "text": "You would have them in a very large"
+    },
+    {
+      "start": 856,
+      "duration": 3,
+      "text": "enclosure. you would really study them"
+    },
+    {
+      "start": 859,
+      "duration": 2,
+      "text": "very very closely and make sure that"
+    },
+    {
+      "start": 861,
+      "duration": 2,
+      "text": "they have taken on all of the behaviors"
+    },
+    {
+      "start": 863,
+      "duration": 2,
+      "text": "so that by the time we get a population"
+    },
+    {
+      "start": 865,
+      "duration": 2,
+      "text": "that we could think about releasing into"
+    },
+    {
+      "start": 867,
+      "duration": 1,
+      "text": "the wild, we know that they're going to"
+    },
+    {
+      "start": 868,
+      "duration": 2,
+      "text": "be able to really thrive once again."
+    },
+    {
+      "start": 870,
+      "duration": 3,
+      "text": "What this all means, best case, is we're"
+    },
+    {
+      "start": 873,
+      "duration": 2,
+      "text": "still decades away from a wild Tasmanian"
+    },
+    {
+      "start": 875,
+      "duration": 3,
+      "text": "tiger, but this technology is coming and"
+    },
+    {
+      "start": 878,
+      "duration": 2,
+      "text": "we need to be part of that conversation"
+    },
+    {
+      "start": 880,
+      "duration": 2,
+      "text": "right now. It's obviously fun to imagine"
+    },
+    {
+      "start": 882,
+      "duration": 2,
+      "text": "Jurassic Park or bringing back a"
+    },
+    {
+      "start": 884,
+      "duration": 3,
+      "text": "direwolf, but as we have this"
+    },
+    {
+      "start": 887,
+      "duration": 1,
+      "text": "conversation, we got to be careful."
+    },
+    {
+      "start": 888,
+      "duration": 2,
+      "text": "We're talking about manipulating"
+    },
+    {
+      "start": 890,
+      "duration": 2,
+      "text": "billions of years of evolution. There"
+    },
+    {
+      "start": 892,
+      "duration": 2,
+      "text": "are huge stakes, ethical stakes about"
+    },
+    {
+      "start": 894,
+      "duration": 2,
+      "text": "using animals as lab experiments,"
+    },
+    {
+      "start": 896,
+      "duration": 1,
+      "text": "environmental stakes that could"
+    },
+    {
+      "start": 897,
+      "duration": 2,
+      "text": "accidentally devastate entire"
+    },
+    {
+      "start": 899,
+      "duration": 3,
+      "text": "ecosystems, and of course, the stakes of"
+    },
+    {
+      "start": 902,
+      "duration": 3,
+      "text": "not doing absolutely everything we can."
+    },
+    {
+      "start": 905,
+      "duration": 2,
+      "text": "To me personally, the most huge, if"
+    },
+    {
+      "start": 907,
+      "duration": 3,
+      "text": "true, optimistic bit of all of this"
+    },
+    {
+      "start": 910,
+      "duration": 2,
+      "text": "isn't actually bringing back animals"
+    },
+    {
+      "start": 912,
+      "duration": 2,
+      "text": "from the past. It's using all of this"
+    },
+    {
+      "start": 914,
+      "duration": 3,
+      "text": "incredible science and technology to"
+    },
+    {
+      "start": 917,
+      "duration": 2,
+      "text": "help keep the animals and the world that"
+    },
+    {
+      "start": 919,
+      "duration": 2,
+      "text": "we live in now healthy."
+    },
+    {
+      "start": 921,
+      "duration": 1,
+      "text": "I would love people to go away from this"
+    },
+    {
+      "start": 922,
+      "duration": 3,
+      "text": "and be like, deextinction science is"
+    },
+    {
+      "start": 925,
+      "duration": 2,
+      "text": "conservation science and we absolutely"
+    },
+    {
+      "start": 927,
+      "duration": 1,
+      "text": "have to use it."
+    },
+    {
+      "start": 928,
+      "duration": 2,
+      "text": "We are living in a world that we changed"
+    },
+    {
+      "start": 930,
+      "duration": 2,
+      "text": "before we understood the consequences."
+    },
+    {
+      "start": 932,
+      "duration": 2,
+      "text": "The real debate about de-extinction"
+    },
+    {
+      "start": 934,
+      "duration": 2,
+      "text": "isn't what's a direwolf. It's what"
+    },
+    {
+      "start": 936,
+      "duration": 3,
+      "text": "responsibility do we have to the world"
+    },
+    {
+      "start": 939,
+      "duration": 5,
+      "text": "we created."
+    },
+    {
+      "start": 944,
+      "duration": 3.0,
+      "text": "[Music]"
+    }
+  ]
+}

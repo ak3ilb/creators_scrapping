@@ -1,0 +1,408 @@
+[00:00] Year 1984 — While other kids were playing video games,
+[00:05] a 12-year-old boy was coding and creating his own video game.
+[00:09] He was a genius.
+[00:11] Different from everyone else.
+[00:12] And that’s why he had no friends.
+[00:15] He was badly bullied.
+[00:17] But even then, he didn’t give up.
+[00:20] Today, by building rockets, electric cars, and AI tools that same boy
+[00:24] has become the richest man in the world.
+[00:27] This is the story of Elon Musk.
+[00:30] Elon Musk was born in 1971 in the city of Pretoria, South Africa.
+[00:35] His father was a mechanical engineer
+[00:37] and his mother a model and dietitian.
+[00:40] In childhood, Elon had a problem
+[00:42] —he would often go into a trance-like state.
+[00:45] During those moments, no matter what was happening around him,
+[00:47] he wouldn’t have the slightest clue.
+[00:49] His parents and doctors thought there was something wrong with his hearing.
+[00:53] But later it was discovered that during those episodes,
+[00:54] his brain functioned like a supercomputer.
+[00:58] He would lose focus on the outside world,
+[01:00] and his entire brainpower would be directed toward visualizing complex ideas.
+[01:04] Basically, there was a fully functioning science lab inside his head.
+[01:09] Elon would also spend hours reading encyclopedias and science fiction books.
+[01:15] These books made him highly intellectual.
+[01:18] One night, he was playing outside with his cousins
+[01:20] when one of them said she was afraid of the dark.
+[01:24] Elon replied, “Darkness is only the absence of light.”
+[01:28] Elon always responded to people in logical and factual ways,
+[01:33] which made other kids dislike him.
+[01:36] In fact, he was badly bullied at school.
+[01:39] Once, a gang of students threw him down a flight of stairs
+[01:42] and beat him so badly that he had to be hospitalized.
+[01:45] But all of these incidents made Elon strong—able to endure pain and hardship.
+[01:50] Until the age of eight, Elon’s family lived happily.
+[01:54] This photo is from those happy times.
+[01:56] But within just a year, everything fell apart.
+[01:59] His parents got divorced.
+[02:01] Yet Elon decided to stay with his father.
+[02:04] At the age of 10, he saw a computer in a mall for the first time
+[02:08] and was so fascinated by it that he insisted his father buy it.
+[02:13] Eventually, he got this computer with 5 KB of memory,
+[02:16] along with a workbook for learning BASIC programming language.
+[02:20] Generally, this workbook was designed to be completed in six months.
+[02:23] But Elon finished all the lessons in just three days, working continuously without sleep.
+[02:28] In 1984, at the age of just 12,
+[02:30] Elon used that computer to create a video game and named it Blaster.
+[02:35] It was a single-player space shooter game
+[02:37] in which the player used their spaceship to destroy alien ships.
+[02:42] He even sold Blaster to a company for $500.
+[02:46] Technically, this was his first business.
+[02:49] By high school, Elon realized that
+[02:51] he was more capable than the other kids,
+[02:54] and only one country could do justice to his capabilities
+[02:57] —that country was America.
+[02:59] But before that, he planned to go to Canada
+[03:02] because Elon had a relative who was a Canadian citizen,
+[03:04] and according to Canadian law, she could transfer her citizenship to her children.
+[03:09] In this way, 17-year-old Elon left for Canada.
+[03:12] In Canada, he lived with his cousin and started doing odd jobs.
+[03:16] In 1989, his mother and brother Kimbal also moved to Canada,
+[03:20] and during this time, Elon got admission into Queen’s University.
+[03:24] Within two years, he transferred to the University of Pennsylvania in the USA,
+[03:29] finally setting foot in America.
+[03:31] In 1995, after finishing college, Elon and his brother Kimbal
+[03:35] wanted to start their own startup.
+[03:37] At that time, the internet had started reaching the masses rapidly.
+[03:41] Yet, to find local businesses or stores
+[03:45] people still had to use city paper directories
+[03:48] —these directories listed all business details in the area.
+[03:52] For directions, people had to use physical maps or ask others.
+[03:59] Seeing this, Elon got the idea
+[04:00] —why not create an online listing for businesses?
+[04:04] A website where all city businesses would be listed
+[04:07] and divided into categories like restaurants, hotels, and doctors
+[04:11] so people could locate them easily.
+[04:13] And it would also have an online map for directions.
+[04:16] Elon and Kimbal rented a small apartment and began working on the idea.
+[04:21] They named their startup Zip2.
+[04:23] Elon would code day and night,
+[04:25] and Kimbal would go door-to-door convincing shopkeepers to get listed on Zip2.
+[04:30] Within a year, the Zip2 team grew.
+[04:33] The platform improved, and customers started joining quickly.
+[04:36] Later, Zip2 also started building software for other companies.
+[04:39] Seeing this, the company secured $3 million
+[04:42] and then $50 million in funding.
+[04:45] By 1999, the internet boom was at its peak,
+[04:48] and big companies were eager to acquire good startups.
+[04:52] That's when Compaq acquired Zip2 for $37 million.
+[04:57] In return for his shares, Elon received $22 million.
+[05:01] And just like that, at the age of 27, Elon Musk became a multimillionaire.
+[05:06] Elon could’ve retired with that money.
+[05:09] But the success of Zip2 was not even 1% of what the future held for him.
+[05:13] By the way, if you run or want to start a business,
+[05:16] keep in mind that simply creating a good product doesn't ensure success.
+[05:21] Along with the product, you must also manage day-to-day operations
+[05:24] like invoicing, accounting, recruitment, and customer relationships.
+[05:29] Wouldn’t it be great if we could manage all these things
+[05:32] through a single all-in-one management software?
+[05:35] Well, that’s possible with Odoo.
+[05:37] Odoo offers 45 apps
+[05:39] that cover all business needs, for any type and size of business.
+[05:45] Here you can generate invoices, maintain books of accounts,
+[05:48] and also manage marketing, websites, and sales.
+[05:51] The special thing about Odoo is how easy it is to use.
+[05:54] You don’t need to be an expert to use it.
+[05:56] Also, all its apps are integrated with each other.
+[05:59] For example, if you raise an invoice through Odoo,
+[06:02] the entry will automatically be made in your books of accounts.
+[06:06] Similarly, when you record a sale, your inventory records will update automatically,
+[06:11] and the customer’s purchase history will also reflect in the CRM app.
+[06:15] The best part is you don’t need to pay separately for each app.
+[06:19] All these apps are included in a single affordable subscription.
+[06:22] In fact, their first app is 100% free for lifetime.
+[06:25] So, if you too want to digitize your business operations,
+[06:28] sign up on Odoo using the link in the description or the pinned comment.
+[06:32] During college, while doing an internship at Nova Scotia Bank, Elon realized that
+[06:36] the banking industry was quite slow and old-fashioned.
+[06:39] That’s when he decided he wanted to disrupt the banking industry.
+[06:43] His vision was to take every aspect of banking
+[06:45] —payments, investments, loans, and savings accounts—
+[06:49] completely online, without the need for any physical branches.
+[06:52] With this vision, he invested $12 million and in 1999, launched X.com.
+[06:58] But at that time, people didn’t even trust online shopping
+[07:01] Online banking was out of the question.
+[07:03] Because of this, it was very difficult for Elon to attract customers.
+[07:07] So Elon came up with a brilliant scheme.
+[07:10] He started offering $20 for free to every new user who joined.
+[07:15] This $20 could be spent by the customer immediately.
+[07:18] Additionally, a referral bonus of $10 was given for referring the app to others.
+[07:23] This strategy was so successful that within just two months,
+[07:26] X.com had gained 200,000 users.
+[07:29] But the problem was that Elon wasn’t the only one doing this.
+[07:33] Around the same time, a young entrepreneur named Peter Thiel
+[07:36] also started a digital bank called PayPal.
+[07:39] Both companies were spending crores of rupees on marketing to outcompete each other.
+[07:44] But at the beginning of the year 2000, they realized that
+[07:47] if they kept fighting like this, both companies would be ruined.
+[07:50] So, in March, the two companies merged.
+[07:53] Elon became the largest shareholder and CEO of the new company,
+[07:56] and the company was named X.com.
+[07:59] But after the merger, it became clear that
+[08:01] there were many disagreements between Elon and the founders of PayPal.
+[08:05] While Elon wanted the company to be called X.com,
+[08:07] the employees and customers preferred the name PayPal.
+[08:11] Moreover, Elon’s management style was quite ruthless.
+[08:14] He micromanaged his employees and publicly criticized them for their mistakes.
+[08:19] Tasks that typically took days or weeks,
+[08:22] Elon expected them to be completed in just a few hours.
+[08:25] Around the same time, Elon got married to his longtime girlfriend, Justine,
+[08:29] and in September 2000, they went to Australia for their honeymoon.
+[08:33] Taking advantage of this opportunity, the company’s senior executives
+[08:36] and board of directors removed him from the position of CEO
+[08:40] and made Peter Thiel the new CEO.
+[08:42] Elon tried very hard to regain control after returning,
+[08:45] but he was not successful.
+[08:47] However, he remained the largest shareholder of PayPal.
+[08:51] Luckily, under Peter Thiel’s leadership, PayPal also saw significant growth,
+[08:55] and in 2002, eBay acquired PayPal for $1.5 billion.
+[09:00] From this deal, Elon received a total of $180 million.
+[09:04] After PayPal’s success,
+[09:05] Elon had become one of the most successful entrepreneurs in Silicon Valley.
+[09:10] But just then, a major tragedy occurred in Elon’s life.
+[09:14] Due to an illness, he lost his 2.5-month-old son forever.
+[09:19] This incident deeply impacted Elon.
+[09:22] He didn’t return home for three weeks
+[09:24] because he didn’t have the courage to see the empty cradle at home.
+[09:27] As a child, Elon used to immerse himself in books
+[09:31] and programming to deal with bullying.
+[09:33] Similarly, to cope with the loss of his son, he committed himself to work.
+[09:38] In 2001, at the age of 30, Elon
+[09:40] began searching again for an industry that could be disrupted.
+[09:44] As a child, he was deeply interested in space
+[09:46] and used to build and launch mini rockets.
+[09:49] So, he began exploring the space sector.
+[09:53] One day, a question popped into his mind
+[09:55] —why haven’t humans explored Mars yet?
+[09:58] He checked NASA’s website
+[10:00] and found that NASA had no concrete plans to explore Mars.
+[10:04] And in that very moment, he decided that his next mission would be to explore Mars.
+[10:09] Elon met with the world’s best rocket scientists
+[10:13] and immersed himself in rocket science books
+[10:16] to the point where he began becoming an expert in rocket science himself.
+[10:19] Elon launched the "Life to Mars" Foundation
+[10:22] and started the Mars Oasis Project,
+[10:24] whose main aim was to send a pressurized greenhouse to Mars
+[10:28] and grow the first plant there.
+[10:30] His objective was to prove to the world that life on Mars was possible.
+[10:34] He wanted to show this experiment to the world through cameras
+[10:38] and reignite global interest in Mars exploration.
+[10:42] Elon’s plan was to buy intercontinental ballistic missiles from Russia
+[10:46] and use them as launch vehicles.
+[10:49] He planned a trip to Russia with some aerospace experts,
+[10:53] but the negotiations with the Russians never really went well.
+[10:57] The Russians didn’t take Elon seriously because of his age.
+[11:00] Elon had come there to buy three missiles for $20 million.
+[11:04] But the Russians quoted a price of $21 million for just one missile.
+[11:09] Elon and his team realized that expecting rockets from Russia was pointless.
+[11:14] On the return flight, while his team sat disappointed,
+[11:17] Elon was busy working on his laptop.
+[11:20] After a while, he told his team, “We’ll build the rockets ourselves.”
+[11:24] He had already calculated the costs of raw materials, manufacturing,
+[11:27] assembly, and launch on his laptop.
+[11:30] He realized that the cost of raw materials required to build a rocket
+[11:35] was only 2 to 3% of the total cost of the finished rocket.
+[11:39] The remaining cost could be reduced through better design and manufacturing processes.
+[11:43] Elon understood that the real problem in the space industry
+[11:46] wasn’t that no one was exploring Mars
+[11:48] but that humanity simply didn’t have affordable rockets to do so.
+[11:53] That’s why he was now ready to transform the space industry.
+[11:57] And this is how SpaceX was born.
+[11:59] In June 2002, Elon bought a 75,000-square-foot warehouse
+[12:04] and converted it into a modern rocket factory.
+[12:07] From organizations like Boeing and NASA,
+[12:09] he hired the world’s best rocket scientists and engineers.
+[12:13] They had only one mission
+[12:15] -- to become the company that builds the cheapest and fastest rockets in the space industry.
+[12:21] To achieve this, Elon used several innovative strategies.
+[12:25] While other aerospace companies kept design and build teams separate,
+[12:31] SpaceX made both teams work together.
+[12:34] This saved time and reduced errors.
+[12:37] Then SpaceX adopted vertical integration.
+[12:40] That is, parts that were earlier sourced from third-party suppliers
+[12:43] —like engines, fuel, tanks, and battery packs—
+[12:45] were now made in-house by SpaceX.
+[12:48] Because suppliers were slow and expensive.
+[12:50] Finally, Elon noticed that other companies
+[12:52] were spending two to three times more on every rocket part.
+[12:57] While the same tasks could be accomplished using cheaper components.
+[12:59] With this, Elon declared that
+[13:01] SpaceX’s first rocket would be named Falcon 1.
+[13:04] At that time, other companies
+[13:06] charged around $70 million to send a 600 kg payload into low Earth orbit.
+[13:12] Whereas Elon promised to send the same payload for just $7 million.
+[13:18] SpaceX’s target was to launch Falcon 1 within a year.
+[13:22] But despite all efforts, it took four full years to prepare.
+[13:27] Finally, in 2006, the day arrived.
+[13:29] The 70-foot-tall silver-colored Falcon 1 was ready for launch.
+[13:33] The countdown ended, and the rocket began to lift off,
+[13:36] and the whole team erupted in joy.
+[13:39] Suddenly, after just 25 seconds, disaster struck.
+[13:42] Due to a small fuel leak, a fire broke out near the engine.
+[13:45] Falcon 1 lost control and crashed.
+[13:48] Elon and his team were literally watching their dreams go up in flames.
+[13:53] But they gathered courage and immediately began preparing for the second launch.
+[13:58] Exactly one year later, Falcon 1’s second launch attempt took place.
+[14:01] This time, three minutes had passed since the launch and everything seemed fine.
+[14:06] The first stage separation happened perfectly.
+[14:08] But then, the second stage engine shut off prematurely.
+[14:12] As a result, Falcon 1 started spinning mid-air and crashed again.
+[14:17] Elon was heartbroken, but he knew he was very close to success.
+[14:21] So, he started preparations for the third launch.
+[14:24] In August 2008, the third launch attempt of Falcon 1 took place.
+[14:28] But once again, success slipped through their fingers.
+[14:30] Due to a minor error, Falcon 1 exploded mid-air.
+[14:35] There was pin-drop silence in the control room.
+[14:37] With this rocket, Elon had also burned off $100 million.
+[14:42] SpaceX now had funds left for only one more launch.
+[14:45] If the next attempt failed, SpaceX would cease to exist forever.
+[14:50] On one hand, SpaceX was struggling,
+[14:53] and on the other, Elon’s second company was also on the verge of collapse
+[14:57] —Tesla.
+[14:58] When Elon was entering the space industry,
+[15:01] he was also analyzing the automobile industry.
+[15:05] Elon knew that the cars of that time depended on fossil fuels,
+[15:08] and fossil fuels were depleting rapidly.
+[15:11] Plus, they caused pollution.
+[15:13] That’s why his prediction was that in the future,
+[15:14] every government would want to shift to clean energy-powered cars.
+[15:19] In short, electric cars were the future.
+[15:22] At that time, a few companies had launched electric cars.
+[15:25] For example, General Motors' EV1.
+[15:27] But due to being slow, expensive, and having low range,
+[15:30] all of them failed.
+[15:32] After this, automobile companies shifted their focus away from electric cars.
+[15:36] Elon understood that if electric cars were to become successful,
+[15:40] they would have to be better than gasoline cars
+[15:44] in terms of speed, range, price, and aspirational value.
+[15:46] Fortunately, he found a startup working with the same vision
+[15:50] — and that startup was Tesla Motors.
+[15:52] Tesla was started by engineers named Martin and Mark,
+[15:56] and their idea was to build a high-performance electric sports car named Roadster.
+[16:01] Traditional electric cars used lead-acid batteries.
+[16:04] But Tesla discovered in their research that
+[16:06] if the Roadster needed to be charged quickly and have a range of 300 km,
+[16:11] it would have to use the same batteries used in phones and laptops
+[16:15] — lithium-ion batteries.
+[16:17] Additionally, their plan was for the Roadster to go from 0 to 100 km/h in just 4 seconds.
+[16:22] And in terms of looks and features, it would be highly superior.
+[16:25] Seeing this vision, Elon invested $6.5 million in Tesla in 2004
+[16:31] and became its lead investor.
+[16:33] But as bold as Tesla’s vision was, its execution was equally difficult.
+[16:38] Lithium-ion battery technology was quite new,
+[16:41] and modifying it for use in a car was proving to be very difficult.
+[16:44] Additionally, Tesla had estimated that
+[16:46] they would be able to sell each Roadster car for only $65,000.
+[16:51] But by 2007, the cost of making the car alone had reached $100,000.
+[16:55] At such high costs, Tesla’s business model would collapse entirely.
+[17:00] Understanding the urgency of the situation,
+[17:02] Elon himself became Tesla’s CEO.
+[17:04] But before he could take any major steps,
+[17:05] came the global financial crisis of 2008,
+[17:09] which negatively impacted the automobile industry greatly.
+[17:13] Apart from SpaceX, all the capital Elon had was already invested in Tesla,
+[17:18] and the other investors refused to put in more money.
+[17:22] As a result, Tesla was on the verge of bankruptcy.
+[17:25] Basically, in 2008, on one side was Elon’s SpaceX,
+[17:29] which was on the brink of ruin after three consecutive launch failures,
+[17:32] and on the other side, Tesla Motors was about to go bankrupt.
+[17:36] In such a situation, any logical entrepreneur would have raised funds
+[17:38] and saved at least one of the two companies.
+[17:41] But Elon was different.
+[17:43] He sold his McLaren car and other personal assets
+[17:46] and invested that money in Tesla so that it could survive a few more days.
+[17:50] Along with this, he personally got involved
+[17:52] in making the fourth launch of Falcon 1 successful.
+[17:56] Finally, in December 2008, the day of Falcon 1’s fourth launch arrived.
+[18:00] Once again, Falcon 1 stood ready on the launch pad.
+[18:04] The future of SpaceX — and even Elon’s future —
+[18:06] depended on this one rocket.
+[18:08] The countdown ended, and the rocket began to lift off.
+[18:11] The first stage was successful.
+[18:13] The second stage was successful.
+[18:15] And the third stage was also successful.
+[18:17] But no one celebrated yet.
+[18:19] A few minutes later, everyone in the control room began to cheer.
+[18:23] Confirmation had appeared on the screen
+[18:24] — Falcon 1 had reached orbit.
+[18:27] SpaceX had become the first private company in the world to do this.
+[18:32] Just a few weeks later, NASA awarded SpaceX a contract worth $1.6 billion.
+[18:37] Under this contract, SpaceX was to deliver cargo to the International Space Station.
+[18:41] Due to this contract,
+[18:42] SpaceX became the most successful private space company in the world.
+[18:47] But on the other hand, Tesla was still struggling.
+[18:50] That’s why Elon personally contacted investors
+[18:54] and explained to them that not only was the car ready,
+[18:56] but thousands of people had already pre-ordered it.
+[19:00] They just needed the funding to mass-produce the car and deliver it to customers.
+[19:05] Finally, Elon’s hard work paid off.
+[19:07] On Christmas Eve, he received emergency funding of $40 million,
+[19:11] and Tesla was saved from bankruptcy just days before it could collapse.
+[19:15] With this funding, Tesla began mass production and deliveries of the Roadster,
+[19:19] and its success proved to the world
+[19:22] that an electric car could be fast, long-range, and classy.
+[19:26] But there was one problem.
+[19:28] The Roadster was a two-seater sports car
+[19:30] that was quite expensive and made for only a niche customer segment.
+[19:35] Elon knew that
+[19:36] if Tesla were to become a successful and large automobile company in the long run,
+[19:41] it would have to make cars for the mass market.
+[19:44] That’s why, in 2012, Tesla launched the Model S
+[19:47] — a premium electric sedan that could go from 0 to 97 km/h in just 4.2 seconds.
+[19:54] On a single charge, it had a range of about 500 km
+[19:57] and had a very cool look.
+[20:00] But the special thing about the Model S was that it wasn’t just a car
+[20:02] — it was a computer with wheels.
+[20:05] It had a massive 17-inch touchscreen
+[20:08] through which users could virtually control every function of the car
+[20:10] — such as lighting, climate, navigation, and entertainment.
+[20:15] Plus, like a laptop or mobile phone,
+[20:17] improvements and new features could be added through software updates.
+[20:22] Even the car’s door handles would automatically pop out when a user approached the car.
+[20:27] Because of all this, the Model S wasn’t just a good electric car
+[20:30] — it was far better than all existing cars.
+[20:33] As soon as it launched, the Model S became quite successful
+[20:36] and was awarded Car of the Year by Motor Trend.
+[20:39] After this, not only did Tesla launch its IPO,
+[20:42] but by 2013 it also became profitable.
+[20:45] Later, Tesla launched the Model X, Model 3, and Model Y,
+[20:49] and by 2017, Tesla had become the most valuable car company in the world.
+[20:54] Today, Tesla is very close to building fully self-driving cars.
+[20:58] On the other hand, SpaceX launched the Falcon 9,
+[21:01] which could carry 50 times the payload to space compared to the Falcon 1.
+[21:05] Then in 2015, they launched reusable rockets,
+[21:08] eliminating the need to build a new rocket for every launch,
+[21:12] which significantly reduced the cost of space travel.
+[21:15] Through SpaceX, Elon also launched thousands of satellites under the name Starlink,
+[21:19] which are providing high-speed internet services to many parts of the world.
+[21:24] And today, they are building their biggest rocket yet — Starship
+[21:27] — which will be capable of taking humans to Mars.
+[21:30] Apart from this, to revolutionize transportation,
+[21:33] Elon also conceptualized The Boring Company and Hyperloop.
+[21:36] In 2015, he launched Neuralink,
+[21:39] which implants computer chips in human brains
+[21:42] to enable direct communication between the brain and computers.
+[21:46] Elon’s latest move was acquiring Twitter in 2023
+[21:49] to enter the social media space.
+[21:52] Along with this, he has also started an AI company through xAI.
+[21:56] Because of all these companies,
+[21:57] Elon has become the richest person in the world,
+[22:00] with a net worth of around $400 billion
+[22:03] — almost double that of the second richest person, Jeff Bezos.
+[22:07] But as rich as Elon is, he is equally controversial.
+[22:11] His employees have complained about tough working conditions
+[22:13] and extreme work pressure.
+[22:16] Even after acquiring Twitter,
+[22:18] he laid off thousands of employees in one go.
+[22:22] His controversial tweets have often negatively impacted stock prices.
+[22:26] Finally, after donating around $280 million to election campaigning,
+[22:30] Elon has become quite close to President Trump.
+[22:34] Because of this, he holds a lethal combination of money and political power.
+[22:38] And some people fear that he might misuse it.
+[22:42] But despite all this, one thing fits 100% in the case of Elon:
+[22:46] You love him or hate him — you can't ignore him.
+[22:49] Because a man doesn’t wait for the future,
+[22:52] he builds the future himself.
+[22:54] This was the story of Elon Musk.
+[22:57] If you liked this video, I recommend that you watch this next video.

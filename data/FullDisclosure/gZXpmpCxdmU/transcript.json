@@ -1,0 +1,137 @@
+{
+  "video_id": "gZXpmpCxdmU",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 2,
+      "text": "India just launched three sovereign AI"
+    },
+    {
+      "start": 2,
+      "duration": 2,
+      "text": "models and one of them is beating Deep"
+    },
+    {
+      "start": 4,
+      "duration": 2,
+      "text": "Seek and Google Gemini on key"
+    },
+    {
+      "start": 6,
+      "duration": 2,
+      "text": "benchmarks. Follow full disclosure and"
+    },
+    {
+      "start": 8,
+      "duration": 1,
+      "text": "I'll break this down for you. At the"
+    },
+    {
+      "start": 9,
+      "duration": 3,
+      "text": "India AI impact summit, three Indian AI"
+    },
+    {
+      "start": 12,
+      "duration": 2,
+      "text": "companies unveiled models designed to be"
+    },
+    {
+      "start": 14,
+      "duration": 3,
+      "text": "trained, deployed, and governed entirely"
+    },
+    {
+      "start": 17,
+      "duration": 2,
+      "text": "within India. First, Serum AI launched"
+    },
+    {
+      "start": 19,
+      "duration": 3,
+      "text": "two large language models, a 30 billion"
+    },
+    {
+      "start": 22,
+      "duration": 3,
+      "text": "parameter model and a 105 billion"
+    },
+    {
+      "start": 25,
+      "duration": 2,
+      "text": "parameter model. The 105B model is"
+    },
+    {
+      "start": 27,
+      "duration": 2,
+      "text": "reportedly matching or outperforming"
+    },
+    {
+      "start": 29,
+      "duration": 3,
+      "text": "DeepSeek V3 and Google Gemini Flash on"
+    },
+    {
+      "start": 32,
+      "duration": 2,
+      "text": "several benchmarks. Second, Gani AI"
+    },
+    {
+      "start": 34,
+      "duration": 4,
+      "text": "unveiled Vajna TTS, a textto-spech model"
+    },
+    {
+      "start": 38,
+      "duration": 2,
+      "text": "that can clone human voices across 12"
+    },
+    {
+      "start": 40,
+      "duration": 2,
+      "text": "Indian languages using under 10 seconds"
+    },
+    {
+      "start": 42,
+      "duration": 4,
+      "text": "of reference audio. Third, Bhat Jen, an"
+    },
+    {
+      "start": 46,
+      "duration": 3,
+      "text": "IIT Bombayled consortium, launched a 17"
+    },
+    {
+      "start": 49,
+      "duration": 2,
+      "text": "billion parameter multilingual model"
+    },
+    {
+      "start": 51,
+      "duration": 3,
+      "text": "optimized for Indic languages. It's open"
+    },
+    {
+      "start": 54,
+      "duration": 1,
+      "text": "source and designed for governance,"
+    },
+    {
+      "start": 55,
+      "duration": 3,
+      "text": "healthcare, agriculture, and enterprise"
+    },
+    {
+      "start": 58,
+      "duration": 1,
+      "text": "use cases. What are your thoughts on"
+    },
+    {
+      "start": 59,
+      "duration": 3.0,
+      "text": "sovereign AI?"
+    }
+  ]
+}

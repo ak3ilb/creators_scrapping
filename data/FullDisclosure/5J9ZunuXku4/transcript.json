@@ -1,0 +1,47 @@
+{
+  "video_id": "5J9ZunuXku4",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 8,
+      "text": "An AI just sent its first message from space. Greetings, Earthlings. A fascinating collection of blue and green. That message came from an AI"
+    },
+    {
+      "start": 8,
+      "duration": 9,
+      "text": "model running 500 km above Earth. A littleknown Nvidia backed startup called StarCloud launched a satellite with an"
+    },
+    {
+      "start": 17,
+      "duration": 8,
+      "text": "H100 GPU. The same chip used in today's most powerful AI data centers. From orbit, it ran Gemma, Google's open"
+    },
+    {
+      "start": 25,
+      "duration": 11,
+      "text": "model. This isn't a gimmick. It's a response to a real crisis. AI data centers on Earth are draining power grids, consuming massive amounts of water and driving up electric bills."
+    },
+    {
+      "start": 36,
+      "duration": 8,
+      "text": "Space changes everything. Unlimited solar energy, no water cooling. And signals travel 35% faster in vacuum than"
+    },
+    {
+      "start": 44,
+      "duration": 4,
+      "text": "fiber. StarCloud claims 10 times lower energy costs. And they're not alone."
+    },
+    {
+      "start": 48,
+      "duration": 8,
+      "text": "Even Indian startups like Take Me to Space are entering the race. AI's future might not sit in warehouses. It might"
+    },
+    {
+      "start": 56,
+      "duration": 3.0,
+      "text": "orbit above us. What do you think about AI moving to space?"
+    }
+  ]
+}

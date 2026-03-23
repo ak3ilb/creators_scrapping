@@ -1,0 +1,1222 @@
+{
+  "video_id": "Q089i8RQPB0",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 1,
+      "text": "“T-3…” [STOVE TURNS ON]"
+    },
+    {
+      "start": 1,
+      "duration": 2,
+      "text": "“2…” [BOILING]"
+    },
+    {
+      "start": 3,
+      "duration": 1,
+      "text": "“1…” [POURING]"
+    },
+    {
+      "start": 4,
+      "duration": 1,
+      "text": "“LIFTOFF!”"
+    },
+    {
+      "start": 5,
+      "duration": 4,
+      "text": "That rocket is part of a billionaire’s plan to put your internet in space…"
+    },
+    {
+      "start": 9,
+      "duration": 2,
+      "text": "“Jeff Bezos’ Project Kuiper…”"
+    },
+    {
+      "start": 11,
+      "duration": 1,
+      "text": "No no, the other one!"
+    },
+    {
+      "start": 12,
+      "duration": 2,
+      "text": "\"Elon Musk's new Starlink satellite -\""
+    },
+    {
+      "start": 14,
+      "duration": 3,
+      "text": "“OneWeb, backed by Richard Branson”"
+    },
+    {
+      "start": 17,
+      "duration": 1,
+      "text": "“Keep it all straight...\""
+    },
+    {
+      "start": 18,
+      "duration": 1,
+      "text": "\"Yeah...\""
+    },
+    {
+      "start": 19,
+      "duration": 4,
+      "text": "Hold on, why are multiple billionaires trying to put the internet in space?"
+    },
+    {
+      "start": 23,
+      "duration": 3,
+      "text": "And… where is the internet now?"
+    },
+    {
+      "start": 26,
+      "duration": 5,
+      "text": "“A new race to provide internet access at fast speeds to the world”"
+    },
+    {
+      "start": 31,
+      "duration": 3,
+      "text": "\"You're... Elon Musk!\""
+    },
+    {
+      "start": 34,
+      "duration": 1,
+      "text": "Elon Musk: \"I am.\""
+    },
+    {
+      "start": 35,
+      "duration": 1,
+      "text": "\"Well finally, it is here!\""
+    },
+    {
+      "start": 36,
+      "duration": 1,
+      "text": "\"Starlink!\""
+    },
+    {
+      "start": 37,
+      "duration": 1,
+      "text": "“Jeff, who?”"
+    },
+    {
+      "start": 38,
+      "duration": 4,
+      "text": "“Jeffrey, Jeffrey Bezos!”"
+    },
+    {
+      "start": 42,
+      "duration": 2,
+      "text": "Jeffrey Bezos: [CACKLING]"
+    },
+    {
+      "start": 44,
+      "duration": 2,
+      "text": "“From Musk to Bezos to Branson”"
+    },
+    {
+      "start": 46,
+      "duration": 3,
+      "text": "“Let’s get rrrrrready to rummmble!”"
+    },
+    {
+      "start": 49,
+      "duration": 3,
+      "text": "Alright. I’m going to explain this Great Internet Space Race."
+    },
+    {
+      "start": 52,
+      "duration": 4,
+      "text": "This is especially relevant right now  because as we were making this episode,"
+    },
+    {
+      "start": 56,
+      "duration": 5,
+      "text": "Elon Musk announced Starlink is available in  Ukraine. More on that in a minute."
+    },
+    {
+      "start": 61,
+      "duration": 4,
+      "text": "These systems could change how millions of people get access to the internet."
+    },
+    {
+      "start": 65,
+      "duration": 12,
+      "text": "They could be huge, if true."
+    },
+    {
+      "start": 77,
+      "duration": 4,
+      "text": "You want to see something cool? This is a  piece of the internet. It’s an unused"
+    },
+    {
+      "start": 81,
+      "duration": 4,
+      "text": "chunk of the over 800,000 miles of  cables that criss-cross our oceans."
+    },
+    {
+      "start": 85,
+      "duration": 3,
+      "text": "Here let me show you..."
+    },
+    {
+      "start": 88,
+      "duration": 6,
+      "text": "There they are. As of 2021, there were  roughly 436 of these cables in service."
+    },
+    {
+      "start": 94,
+      "duration": 4,
+      "text": "They carry the vast majority of current  international internet traffic today."
+    },
+    {
+      "start": 98,
+      "duration": 5,
+      "text": "Some estimates put it up to 99%. Meaning, for most people, right now"
+    },
+    {
+      "start": 103,
+      "duration": 2,
+      "text": "Your internet isn't in space."
+    },
+    {
+      "start": 105,
+      "duration": 1,
+      "text": "It's underwater."
+    },
+    {
+      "start": 106,
+      "duration": 4,
+      "text": "The goal is to get information from one  computer to another. And you’ve probably"
+    },
+    {
+      "start": 110,
+      "duration": 3,
+      "text": "heard that all the information in  your computer is binary - “1s and"
+    },
+    {
+      "start": 113,
+      "duration": 7,
+      "text": "0s,” “on and off.” These cables carry  that information as flashes of light."
+    },
+    {
+      "start": 120,
+      "duration": 1,
+      "text": "Imagine..."
+    },
+    {
+      "start": 121,
+      "duration": 2,
+      "text": "Oh hold on one sec..."
+    },
+    {
+      "start": 123,
+      "duration": 5,
+      "text": "Imagine turning a flashlight on and off in code down a tube."
+    },
+    {
+      "start": 128,
+      "duration": 2,
+      "text": "I'm definitely not going to shine it right at the camera..."
+    },
+    {
+      "start": 130,
+      "duration": 3,
+      "text": "Now imagine doing that millions of times faster down"
+    },
+    {
+      "start": 133,
+      "duration": 4,
+      "text": "a tiny glass fiber, across  an entire ocean and you’ve got the right idea."
+    },
+    {
+      "start": 137,
+      "duration": 2,
+      "text": "“That’s pretty cool…”"
+    },
+    {
+      "start": 139,
+      "duration": 3,
+      "text": "Yeah. Humans are wild."
+    },
+    {
+      "start": 142,
+      "duration": 3,
+      "text": "I wanted to know how on Earth we  made this internet infrastructure,"
+    },
+    {
+      "start": 145,
+      "duration": 3,
+      "text": "so I toured a ship that lays these  cables, as part of a Vox show."
+    },
+    {
+      "start": 148,
+      "duration": 3,
+      "text": "\"That's the internet!\""
+    },
+    {
+      "start": 151,
+      "duration": 1,
+      "text": "Look how excited I am!"
+    },
+    {
+      "start": 152,
+      "duration": 4,
+      "text": "And here I am finding out the answer  to my question: Ships like this…"
+    },
+    {
+      "start": 156,
+      "duration": 4,
+      "text": "Load up cable like this… And then slowly cross the ocean,"
+    },
+    {
+      "start": 160,
+      "duration": 4,
+      "text": "we’re talking like 6 knots, which  is 7 miles per hour, this takes"
+    },
+    {
+      "start": 164,
+      "duration": 8,
+      "text": "weeks, dropping the cable off the back of the  boat, weaving a literal web around the world."
+    },
+    {
+      "start": 172,
+      "duration": 3,
+      "text": "Which means fire hose-lookin’  things like this really are just"
+    },
+    {
+      "start": 175,
+      "duration": 4,
+      "text": "laying there on bottom of the ocean.  And you’re using them all the time."
+    },
+    {
+      "start": 179,
+      "duration": 5,
+      "text": "This breaks my brain. Like... this YouTube video  that you're watching right now"
+    },
+    {
+      "start": 184,
+      "duration": 5,
+      "text": "is one tiny drop in the unthinkably huge stream of things that"
+    },
+    {
+      "start": 189,
+      "duration": 3,
+      "text": "people are saying to each other all of the time, all across these cables"
+    },
+    {
+      "start": 192,
+      "duration": 3,
+      "text": "and they're all made of light."
+    },
+    {
+      "start": 195,
+      "duration": 3,
+      "text": "If you were to describe an  alien species to me like"
+    },
+    {
+      "start": 198,
+      "duration": 5,
+      "text": "“they communicate incredibly complicated  audio visual information using only light and"
+    },
+    {
+      "start": 203,
+      "duration": 4,
+      "text": "these light boxes they made for  each other…” I would be like… !!!"
+    },
+    {
+      "start": 207,
+      "duration": 3,
+      "text": "My biggest question when I  heard this for the first time was:"
+    },
+    {
+      "start": 210,
+      "duration": 5,
+      "text": "“Aren’t there parts of the ocean that are deeper than Mount Everest is tall?"
+    },
+    {
+      "start": 215,
+      "duration": 4,
+      "text": "If you're using cables as opposed to satellites, how do they get across those parts??\""
+    },
+    {
+      "start": 219,
+      "duration": 1,
+      "text": "Just like... look at this!"
+    },
+    {
+      "start": 220,
+      "duration": 3,
+      "text": "This is the deepest ocean trench..."
+    },
+    {
+      "start": 223,
+      "duration": 4,
+      "text": "Some of these cables have to go over some of these super deep parts..."
+    },
+    {
+      "start": 227,
+      "duration": 3,
+      "text": "I couldn’t find the answer to this question until I reached out to one of"
+    },
+    {
+      "start": 230,
+      "duration": 3,
+      "text": "the cable-laying ship companies and asked if this was a big problem..."
+    },
+    {
+      "start": 233,
+      "duration": 2,
+      "text": "“Would a cable hang through the water?”"
+    },
+    {
+      "start": 235,
+      "duration": 2,
+      "text": "\"Or do you build... bridges?”"
+    },
+    {
+      "start": 237,
+      "duration": 2,
+      "text": "And they actually got back to me!"
+    },
+    {
+      "start": 239,
+      "duration": 2,
+      "text": "To say: \"NO, we don't build bridges...\""
+    },
+    {
+      "start": 241,
+      "duration": 3,
+      "text": "And “NO we don’t let the cable just hang through the water.”"
+    },
+    {
+      "start": 244,
+      "duration": 4,
+      "text": "They said they really do lay enough cable so that it does fall all the way"
+    },
+    {
+      "start": 248,
+      "duration": 2,
+      "text": "to the bottom, which can get difficult and expensive,"
+    },
+    {
+      "start": 250,
+      "duration": 4,
+      "text": "which is why they try to avoid the  deepest parts. And so far they say they have."
+    },
+    {
+      "start": 254,
+      "duration": 6,
+      "text": "I’ve made videos about this before. Like, a  lot of them. And every single time, people are"
+    },
+    {
+      "start": 260,
+      "duration": 4,
+      "text": "shocked. They say they thought  the internet was in space."
+    },
+    {
+      "start": 264,
+      "duration": 5,
+      "text": "And that makes sense! Think about the language  we use: “the cloud” “upload” “download”..."
+    },
+    {
+      "start": 269,
+      "duration": 2,
+      "text": "“Download all his nudes…”"
+    },
+    {
+      "start": 271,
+      "duration": 5,
+      "text": "One time I asked people to “draw the internet.”  Though some of you awesome nerds drew very"
+    },
+    {
+      "start": 276,
+      "duration": 9,
+      "text": "detailed infrastructure drawings, most  people thought of the internet like this…"
+    },
+    {
+      "start": 285,
+      "duration": 1,
+      "text": "Except this person:"
+    },
+    {
+      "start": 286,
+      "duration": 4,
+      "text": "“I thought of the internet as a bunch of cats.”"
+    },
+    {
+      "start": 290,
+      "duration": 4,
+      "text": "That’s my favorite. Anyway. My point is  our existing internet infrastructure is"
+    },
+    {
+      "start": 294,
+      "duration": 15,
+      "text": "a marvel of human ingenuity. So… why do Elon  Musk and Daddy Bezos want to put it in space?"
+    },
+    {
+      "start": 309,
+      "duration": 4,
+      "text": "“History is about to be made in the  science of communication among men…”"
+    },
+    {
+      "start": 313,
+      "duration": 6,
+      "text": "The idea isn’t new. This is Telstar 1, the first  communications satellite, launched in 1962."
+    },
+    {
+      "start": 319,
+      "duration": 3,
+      "text": "President Kennedy: “This understanding  which will inevitably come from these"
+    },
+    {
+      "start": 322,
+      "duration": 6,
+      "text": "speedier communications is bound to increase  the wellbeing and security of all people.”"
+    },
+    {
+      "start": 328,
+      "duration": 5,
+      "text": "... Mixed results. With fiber optic cables,  we can turn 1s and 0s into visible light."
+    },
+    {
+      "start": 333,
+      "duration": 1,
+      "text": "With satellites, at some point,"
+    },
+    {
+      "start": 334,
+      "duration": 6,
+      "text": "that information has to go up and down,  so we turn those 1s and 0s into radio waves."
+    },
+    {
+      "start": 340,
+      "duration": 7,
+      "text": "The question that I always had is: How do 1s and 0s become WAVES?"
+    },
+    {
+      "start": 347,
+      "duration": 3,
+      "text": "The way to think about this is: You could change the amplitude or"
+    },
+    {
+      "start": 350,
+      "duration": 2,
+      "text": "the height of the wave, like this. So that every tall wave"
+    },
+    {
+      "start": 352,
+      "duration": 3,
+      "text": "is a 1 and every short wave is a 0."
+    },
+    {
+      "start": 355,
+      "duration": 2,
+      "text": "So like \"1 1 0 0 1 1...\""
+    },
+    {
+      "start": 357,
+      "duration": 3,
+      "text": "Or you could change the frequency  of the wave, so that you could say"
+    },
+    {
+      "start": 360,
+      "duration": 2,
+      "text": "long wave is a 1 and every short wave is a 0."
+    },
+    {
+      "start": 362,
+      "duration": 1,
+      "text": "\"1 0 0 1...\""
+    },
+    {
+      "start": 363,
+      "duration": 3,
+      "text": "It is WAY more complicated than this now. Companies"
+    },
+    {
+      "start": 366,
+      "duration": 4,
+      "text": "combine methods, they develop new  ones.. that's the right idea."
+    },
+    {
+      "start": 370,
+      "duration": 3,
+      "text": "No matter what though, to communicate via  satellite, radio waves with binary"
+    },
+    {
+      "start": 373,
+      "duration": 5,
+      "text": "information have to make this trek. It’s  a big limitation for satellite internet."
+    },
+    {
+      "start": 378,
+      "duration": 5,
+      "text": "So far, this (cables carrying visible  light) has generally been faster,"
+    },
+    {
+      "start": 383,
+      "duration": 4,
+      "text": "cheaper, and more reliable than  this (satellites using radio waves)."
+    },
+    {
+      "start": 387,
+      "duration": 1,
+      "text": "\"The file's not loading!\""
+    },
+    {
+      "start": 388,
+      "duration": 1,
+      "text": "\"Nothing's loading!\""
+    },
+    {
+      "start": 389,
+      "duration": 1,
+      "text": "\"Ugh, it's still loading...\""
+    },
+    {
+      "start": 390,
+      "duration": 4,
+      "text": "To understand what we’re comparing, it helps me to  think about a water pipe. “Bandwidth” is the width"
+    },
+    {
+      "start": 394,
+      "duration": 4,
+      "text": "of the pipe, how much can go through in a set  period of time."
+    },
+    {
+      "start": 398,
+      "duration": 2,
+      "text": "Like this: “Megabits per second”"
+    },
+    {
+      "start": 400,
+      "duration": 5,
+      "text": "Just to really tie this together: A  “bit” is one of those 1s or 0s. So"
+    },
+    {
+      "start": 405,
+      "duration": 8,
+      "text": "400 Megabits is… 419,430,400  1s and 0s… per second."
+    },
+    {
+      "start": 413,
+      "duration": 1,
+      "text": "Damn."
+    },
+    {
+      "start": 414,
+      "duration": 3,
+      "text": "“Latency” is like the length of the  pipe, the time it takes the information"
+    },
+    {
+      "start": 417,
+      "duration": 4,
+      "text": "stream to travel from one end to the  other. It’s measured in milliseconds."
+    },
+    {
+      "start": 421,
+      "duration": 5,
+      "text": "Low bandwidth, high latency: worse internet.  High bandwidth, low latency: better internet."
+    },
+    {
+      "start": 426,
+      "duration": 5,
+      "text": "Satellites before these recent projects… Fiber  cables. And satellites would cost you more."
+    },
+    {
+      "start": 431,
+      "duration": 6,
+      "text": "BUT. And this is a big but! That might not be  true forever, and it’s not true everywhere now."
+    },
+    {
+      "start": 437,
+      "duration": 4,
+      "text": "The biggest reason people are so excited  about all of these new satellite internet projects"
+    },
+    {
+      "start": 441,
+      "duration": 7,
+      "text": "is that though our existing internet  infrastructure is awesome, it’s not enough."
+    },
+    {
+      "start": 448,
+      "duration": 4,
+      "text": "Though if you’re watching this you might have  really good internet, lots of people don’t."
+    },
+    {
+      "start": 452,
+      "duration": 5,
+      "text": "In some places, it’s prohibitively difficult  to lay cables. In others, crucial ground-based"
+    },
+    {
+      "start": 457,
+      "duration": 5,
+      "text": "service might be threatened by politics or  war, which is happening in Ukraine right"
+    },
+    {
+      "start": 462,
+      "duration": 5,
+      "text": "now - I’ll come back to this. And during peacetime,  companies might decide it’s not financially worth it"
+    },
+    {
+      "start": 467,
+      "duration": 4,
+      "text": "to lay cable because there aren’t enough  people who would pay for their service."
+    },
+    {
+      "start": 471,
+      "duration": 3,
+      "text": "Think about roughly the same amount of cable in  a city with hundreds of people paying for it,"
+    },
+    {
+      "start": 474,
+      "duration": 6,
+      "text": "versus in a rural community with much fewer. And  if they do lay cable, they might charge even more."
+    },
+    {
+      "start": 480,
+      "duration": 3,
+      "text": "And that right there is a HUGE problem."
+    },
+    {
+      "start": 483,
+      "duration": 4,
+      "text": "This map shows the share of each  countries’ population using the internet."
+    },
+    {
+      "start": 487,
+      "duration": 2,
+      "text": "Look at who is able to get online and who isn’t."
+    },
+    {
+      "start": 489,
+      "duration": 3,
+      "text": "(I'll put a link to this in the description, if you want to explore it)"
+    },
+    {
+      "start": 492,
+      "duration": 2,
+      "text": "This difference is called the “Digital Divide.”"
+    },
+    {
+      "start": 494,
+      "duration": 3,
+      "text": "And it’s not just between countries but also within them..."
+    },
+    {
+      "start": 497,
+      "duration": 1,
+      "text": "\"It's really hard to get internet here -\""
+    },
+    {
+      "start": 498,
+      "duration": 2,
+      "text": "\"We do not get internet service -\""
+    },
+    {
+      "start": 500,
+      "duration": 2,
+      "text": "\"There is no high speed internet -\""
+    },
+    {
+      "start": 502,
+      "duration": 4,
+      "text": "Take a look at this. This is a map from the US Federal Communications Commission"
+    },
+    {
+      "start": 506,
+      "duration": 5,
+      "text": "- or FCC - showing where they say about 14  million people don’t have access to fast internet."
+    },
+    {
+      "start": 511,
+      "duration": 6,
+      "text": "They’re in those light parts. But look how much  lighter this map is. It's from Microsoft,"
+    },
+    {
+      "start": 517,
+      "duration": 7,
+      "text": "and it shows a very different estimate: over 120  million people. The one by the FCC is based"
+    },
+    {
+      "start": 524,
+      "duration": 3,
+      "text": "on data that’s self-reported  by internet service providers."
+    },
+    {
+      "start": 527,
+      "duration": 8,
+      "text": "It gets worse. The form the FCC gives them,  Form 477, asks if they are “providing or could"
+    },
+    {
+      "start": 535,
+      "duration": 6,
+      "text": "provide broadband service in an area.” So, for  example, these are New York City’s census blocks."
+    },
+    {
+      "start": 541,
+      "duration": 4,
+      "text": "If an internet provider is giving anyone  in this block high speed internet,"
+    },
+    {
+      "start": 545,
+      "duration": 6,
+      "text": "they get to count the entire block. There  are nearly 800 people living in this block!"
+    },
+    {
+      "start": 551,
+      "duration": 4,
+      "text": "So, the digital divide is a big problem  globally, between cities and rural communities,"
+    },
+    {
+      "start": 555,
+      "duration": 6,
+      "text": "and within communities themselves, and the data  probably wildly underestimates the problem."
+    },
+    {
+      "start": 561,
+      "duration": 6,
+      "text": "It's a problem we need to solve, given how important the  internet is for just participating in society today."
+    },
+    {
+      "start": 567,
+      "duration": 5,
+      "text": "It's really two problems wrapped into one:  it’s accessibility and affordability."
+    },
+    {
+      "start": 572,
+      "duration": 4,
+      "text": "This is why the Great Internet Space Race actually matters."
+    },
+    {
+      "start": 576,
+      "duration": 4,
+      "text": "There’s a vision here, of a world where  your ability to freely participate"
+    },
+    {
+      "start": 580,
+      "duration": 5,
+      "text": "depends a lot less on where you live and how  much money you can shell out for internet."
+    },
+    {
+      "start": 585,
+      "duration": 3,
+      "text": "And that’s what these companies say they’re trying to solve…"
+    },
+    {
+      "start": 588,
+      "duration": 3,
+      "text": "“Starlink will serve the  hardest to serve customers”"
+    },
+    {
+      "start": 591,
+      "duration": 2,
+      "text": "“The goal here is broadband everywhere”"
+    },
+    {
+      "start": 593,
+      "duration": 4,
+      "text": "“to the roughly 4 billion people  on Earth who don’t yet have it.”"
+    },
+    {
+      "start": 597,
+      "duration": 4,
+      "text": "“Access to broadband is going to be  very close to a fundamental human need...”"
+    },
+    {
+      "start": 601,
+      "duration": 3,
+      "text": "The cynical side of me thinks: “These companies don't operate"
+    },
+    {
+      "start": 604,
+      "duration": 3,
+      "text": "out of the goodness of their own hearts,  so why do they want to be the one"
+    },
+    {
+      "start": 607,
+      "duration": 4,
+      "text": "to bring internet access to the world?” And the answer is that"
+    },
+    {
+      "start": 611,
+      "duration": 3,
+      "text": "bringing internet access to more people is a great thing to do,"
+    },
+    {
+      "start": 614,
+      "duration": 2,
+      "text": "and it can be a great business."
+    },
+    {
+      "start": 616,
+      "duration": 3,
+      "text": "“Providing broadband is more like  probably… 30 billion a year?”"
+    },
+    {
+      "start": 619,
+      "duration": 4,
+      "text": "If a company can use satellites to make the internet better,"
+    },
+    {
+      "start": 623,
+      "duration": 5,
+      "text": "cheaper, and more widely available, they could get  as customers the millions of people underserved"
+    },
+    {
+      "start": 628,
+      "duration": 4,
+      "text": "by existing internet service providers now. And this  is where it gets really cool: they’re going"
+    },
+    {
+      "start": 632,
+      "duration": 8,
+      "text": "about the problem differently than satellite  internet companies that have come before."
+    },
+    {
+      "start": 640,
+      "duration": 4,
+      "text": "Older satellite systems, like HughesNet  and Viasat, put their satellites really"
+    },
+    {
+      "start": 644,
+      "duration": 4,
+      "text": "high up and keep them stationary over one  spot on the surface, which lets them cover"
+    },
+    {
+      "start": 648,
+      "duration": 5,
+      "text": "huge areas. The HughesNet Jupiter 2 satellite  covers all of the continental United States."
+    },
+    {
+      "start": 653,
+      "duration": 5,
+      "text": "But when you’re up that high, it takes a really long  time to send those radio waves we talked about"
+    },
+    {
+      "start": 658,
+      "duration": 5,
+      "text": "back and forth. Which means your latency is  very high. If you brought those satellites"
+    },
+    {
+      "start": 663,
+      "duration": 4,
+      "text": "lower, you could reduce that time. But you’d  need more of them to cover the same area,"
+    },
+    {
+      "start": 667,
+      "duration": 3,
+      "text": "and to stay at that altitude,  they’d need to orbit."
+    },
+    {
+      "start": 670,
+      "duration": 4,
+      "text": "This is what all the big new projects you’ve heard  of are doing, though they’re at different stages."
+    },
+    {
+      "start": 674,
+      "duration": 5,
+      "text": "Project Kuiper hasn’t launched yet… OneWeb  has, but was rescued from bankruptcy in 2020,"
+    },
+    {
+      "start": 679,
+      "duration": 4,
+      "text": "and is focusing primarily on businesses, not  individuals…"
+    },
+    {
+      "start": 683,
+      "duration": 2,
+      "text": "In this race, Elon Musk is winning."
+    },
+    {
+      "start": 685,
+      "duration": 1,
+      "text": "\"Starlink is here!!!\""
+    },
+    {
+      "start": 686,
+      "duration": 2,
+      "text": "\"We have the magic space wifi...\""
+    },
+    {
+      "start": 688,
+      "duration": 3,
+      "text": "“That's right! Internet from the stars, baby! Pew pew! Pew pew pew!”"
+    },
+    {
+      "start": 691,
+      "duration": 2,
+      "text": "\"So let's take a look at what's inside...\""
+    },
+    {
+      "start": 693,
+      "duration": 1,
+      "text": "\"Here we go!\""
+    },
+    {
+      "start": 694,
+      "duration": 3,
+      "text": "“We've got a satellite dish, a router, and fast internet!\""
+    },
+    {
+      "start": 697,
+      "duration": 6,
+      "text": "“There are only two instructions and they can  be done in either order: Point at sky, plug in.”"
+    },
+    {
+      "start": 703,
+      "duration": 1,
+      "text": "\"Voila!"
+    },
+    {
+      "start": 704,
+      "duration": 5,
+      "text": "Starlink is already shockingly high bandwidth  and low latency for a satellite system. It seems"
+    },
+    {
+      "start": 709,
+      "duration": 3,
+      "text": "to be somewhere in the middle on cost, but these comparisons aren’t great because"
+    },
+    {
+      "start": 712,
+      "duration": 3,
+      "text": "fiber isn’t everywhere, which is the whole point, and"
+    },
+    {
+      "start": 715,
+      "duration": 3,
+      "text": "Starlink is in its infancy. Which you can kind of see in other ways too…"
+    },
+    {
+      "start": 718,
+      "duration": 6,
+      "text": "“Everything was going fine until I  encountered it’s ultimate nemesis: Trees.”"
+    },
+    {
+      "start": 724,
+      "duration": 4,
+      "text": "\"That red is where it's being interrupted...\""
+    },
+    {
+      "start": 728,
+      "duration": 1,
+      "text": "\"That... sucks.\""
+    },
+    {
+      "start": 729,
+      "duration": 5,
+      "text": "It could get a lot better though. Starlink  uses visible light between satellites,"
+    },
+    {
+      "start": 734,
+      "duration": 5,
+      "text": "like the fiber cables in the ocean. Which means  these satellites actually have an advantage over"
+    },
+    {
+      "start": 739,
+      "duration": 4,
+      "text": "cables. You’ve probably heard that the speed  of light is constant, but that refers to light"
+    },
+    {
+      "start": 743,
+      "duration": 6,
+      "text": "in a vacuum… like space. It’s slower in other  materials… like a glass cable. The optimistic"
+    },
+    {
+      "start": 749,
+      "duration": 5,
+      "text": "take here is that Starlink could challenge not  just other satellites but fiber itself,"
+    },
+    {
+      "start": 754,
+      "duration": 4,
+      "text": "the GOAT. The most likely scenario is Starlink wins in some places,"
+    },
+    {
+      "start": 758,
+      "duration": 2,
+      "text": "but fiber still wins in the vast majority."
+    },
+    {
+      "start": 760,
+      "duration": 5,
+      "text": "But just look at this. This is a site that  tracks where Starlink satellites are already."
+    },
+    {
+      "start": 765,
+      "duration": 3,
+      "text": "This is so cool."
+    },
+    {
+      "start": 768,
+      "duration": 3,
+      "text": "BUT…. if you’re an astronomer for example, looking up at the stars,"
+    },
+    {
+      "start": 771,
+      "duration": 2,
+      "text": "these satellites can really mess up your science."
+    },
+    {
+      "start": 773,
+      "duration": 5,
+      "text": "ASTRONOMER: \"I think it's really a threat to send not a couple of hundred satellites"
+    },
+    {
+      "start": 778,
+      "duration": 4,
+      "text": "but having 10 thousand, 20 thousand, 50 thousand satellites in low earth orbit...\""
+    },
+    {
+      "start": 782,
+      "duration": 4,
+      "text": "This is a big deal. And even if you like Starlink, it shouldn't be dismissed."
+    },
+    {
+      "start": 786,
+      "duration": 5,
+      "text": "Ground-based astronomy is crucial to answering questions about our universe,"
+    },
+    {
+      "start": 791,
+      "duration": 9,
+      "text": "and if that’s not enough for you, it also  includes planetary defense against asteroids."
+    },
+    {
+      "start": 800,
+      "duration": 4,
+      "text": "My take is: We need to give the remaining  4 billion people on the planet"
+    },
+    {
+      "start": 804,
+      "duration": 9,
+      "text": "internet access. And, at the same time, we can’t let  looking at each other prevent us from looking up."
+    },
+    {
+      "start": 813,
+      "duration": 4,
+      "text": "We need to find ways to do both, whether that’s through more data on exactly where"
+    },
+    {
+      "start": 817,
+      "duration": 2,
+      "text": "these satellites are so they can be avoided"
+    },
+    {
+      "start": 819,
+      "duration": 3,
+      "text": "or more rules about where they can be."
+    },
+    {
+      "start": 822,
+      "duration": 3,
+      "text": "These companies have a real shot at giving people around the world"
+    },
+    {
+      "start": 825,
+      "duration": 5,
+      "text": "better, faster, cheaper internet. They’re already  coming to the rescue in moments of crisis."
+    },
+    {
+      "start": 830,
+      "duration": 4,
+      "text": "Elon Musk just announced  Starlink is active in Ukraine."
+    },
+    {
+      "start": 834,
+      "duration": 5,
+      "text": "And if Russia doesn’t like it? “They  can shake their fist at the sky.”"
+    },
+    {
+      "start": 839,
+      "duration": 5,
+      "text": "There’s something extremely powerful happening  here. In general, if what these companies"
+    },
+    {
+      "start": 844,
+      "duration": 7,
+      "text": "provide ends up better and faster - so higher  bandwidth and lower latency - but not cheaper,"
+    },
+    {
+      "start": 851,
+      "duration": 4,
+      "text": "it's mostly left to those who can pay  more for it. High frequency traders,"
+    },
+    {
+      "start": 855,
+      "duration": 3,
+      "text": "wealthy people… fine but not world-changing."
+    },
+    {
+      "start": 858,
+      "duration": 5,
+      "text": "The real impact happens when we use technology  to make things faster, better, AND cheaper. We"
+    },
+    {
+      "start": 863,
+      "duration": 5,
+      "text": "turn luxuries into commodities. To take things  only wealthy people have access to and make"
+    },
+    {
+      "start": 868,
+      "duration": 3,
+      "text": "them available to everyone. We've done this before"
+    },
+    {
+      "start": 871,
+      "duration": 2,
+      "text": "with everything from refrigerators..."
+    },
+    {
+      "start": 873,
+      "duration": 3,
+      "text": "to iphones... to the internet to some extent."
+    },
+    {
+      "start": 876,
+      "duration": 5,
+      "text": "So, can it continue? And what's the impact, if it does?"
+    },
+    {
+      "start": 881,
+      "duration": 5,
+      "text": "Research shows that where internet access goes,  job growth follows. More new businesses get"
+    },
+    {
+      "start": 886,
+      "duration": 3,
+      "text": "formed. Fewer people are unemployed.  People have better health outcomes,"
+    },
+    {
+      "start": 889,
+      "duration": 5,
+      "text": "better access to education… We saw this all  to an extreme since the pandemic started."
+    },
+    {
+      "start": 894,
+      "duration": 3,
+      "text": "New satellite systems could  be a huge part of this,"
+    },
+    {
+      "start": 897,
+      "duration": 4,
+      "text": "along with more investment in the  systems most of us rely on right now."
+    },
+    {
+      "start": 901,
+      "duration": 7,
+      "text": "Our existing internet infrastructure is a  monument to human creativity, hard work, and"
+    },
+    {
+      "start": 908,
+      "duration": 3,
+      "text": "the desire to connect. It blows me away."
+    },
+    {
+      "start": 911,
+      "duration": 3.0,
+      "text": "But it’s not finished."
+    }
+  ]
+}

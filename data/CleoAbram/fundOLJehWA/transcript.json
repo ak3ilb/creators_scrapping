@@ -1,0 +1,622 @@
+{
+  "video_id": "fundOLJehWA",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 2,
+      "duration": 2,
+      "text": "This is my dog, Thor."
+    },
+    {
+      "start": 4,
+      "duration": 5,
+      "text": "He kind of looks like a puppy, but he's actually 8 years old."
+    },
+    {
+      "start": 9,
+      "duration": 4,
+      "text": "Which means he is roughly halfway through his average lifespan."
+    },
+    {
+      "start": 13,
+      "duration": 4,
+      "text": "I, on the other hand, I’m probably about  a third of the way through mine."
+    },
+    {
+      "start": 17,
+      "duration": 7,
+      "text": "This math sucks. It just seems… cruel!"
+    },
+    {
+      "start": 24,
+      "duration": 6,
+      "text": "That our dogs live so much shorter lives than we do,  and that we so often watch them go."
+    },
+    {
+      "start": 30,
+      "duration": 5,
+      "text": "\"Excited girl!\""
+    },
+    {
+      "start": 35,
+      "duration": 10,
+      "text": "\"Aww okay!\""
+    },
+    {
+      "start": 45,
+      "duration": 3,
+      "text": "So why do our dogs live so much shorter lives than we do?"
+    },
+    {
+      "start": 48,
+      "duration": 3,
+      "text": "And is there anything we can do about that?"
+    },
+    {
+      "start": 51,
+      "duration": 4,
+      "text": "Turns out the answer is… YES. Or at least, we can try."
+    },
+    {
+      "start": 55,
+      "duration": 5,
+      "text": "You've probably seen all of those headlines about various anti-aging efforts for people."
+    },
+    {
+      "start": 60,
+      "duration": 9,
+      "text": "Well now there's a new one. For dogs."
+    },
+    {
+      "start": 69,
+      "duration": 3,
+      "text": "“One human year equals seven years for dog years...”"
+    },
+    {
+      "start": 72,
+      "duration": 1,
+      "text": "“Dog years”"
+    },
+    {
+      "start": 73,
+      "duration": 0,
+      "text": "\"Dog years!\""
+    },
+    {
+      "start": 73,
+      "duration": 3,
+      "text": "I always heard that to figure out  how old your dog was compared to you,"
+    },
+    {
+      "start": 76,
+      "duration": 5,
+      "text": "you multiply the years they’ve been alive  times 7. Which would look like this."
+    },
+    {
+      "start": 81,
+      "duration": 3,
+      "text": "So at 2, they’re “14” - a teenager."
+    },
+    {
+      "start": 84,
+      "duration": 4,
+      "text": "And at 10, they're \"70\" - a distinguished gentleman."
+    },
+    {
+      "start": 88,
+      "duration": 3,
+      "text": "Turns out, not how this works!"
+    },
+    {
+      "start": 91,
+      "duration": 4,
+      "text": "Vets call this “the myth that never dies,\" they say it's not based on any research at all"
+    },
+    {
+      "start": 95,
+      "duration": 4,
+      "text": "it's based on basically “humans kind of live to ~70..."
+    },
+    {
+      "start": 99,
+      "duration": 6,
+      "text": "And dogs kind of live to 10, so sure, fine, why not.” But now there’s a much more scientific way"
+    },
+    {
+      "start": 105,
+      "duration": 4,
+      "text": "to compare your dogs age to yours. And that chart looks like this:"
+    },
+    {
+      "start": 109,
+      "duration": 5,
+      "text": "I don't know why I assumed it had to be linear but the fact that it's curved blows my mind..."
+    },
+    {
+      "start": 114,
+      "duration": 5,
+      "text": "This is based on research by a group of geneticists at UC San Diego. It’s saying your dog"
+    },
+    {
+      "start": 119,
+      "duration": 5,
+      "text": "at 1 is the equivalent to a person who is about 30, as opposed to 7."
+    },
+    {
+      "start": 124,
+      "duration": 7,
+      "text": "But at 14, your dog is only 70, as opposed to 98. In other words, that dogs as a species age"
+    },
+    {
+      "start": 131,
+      "duration": 4,
+      "text": "faster than we do when they're young, and slower when they're old. Or,"
+    },
+    {
+      "start": 135,
+      "duration": 4,
+      "text": "if you really want to freak yourself out: That we as humans age slower than they do"
+    },
+    {
+      "start": 139,
+      "duration": 3,
+      "text": "when we're young, but faster when we're old."
+    },
+    {
+      "start": 142,
+      "duration": 4,
+      "text": "But, what are they actually measuring  here?? What is it that’s happening in me"
+    },
+    {
+      "start": 146,
+      "duration": 2,
+      "text": "versus Thor at different rates?"
+    },
+    {
+      "start": 148,
+      "duration": 4,
+      "text": "Or, in other words: How do you quantify aging?"
+    },
+    {
+      "start": 152,
+      "duration": 4,
+      "text": "“So that's actually one of the  core goals of Loyal! To develop the most"
+    },
+    {
+      "start": 156,
+      "duration": 3,
+      "text": "comprehensive quantified aging process.”"
+    },
+    {
+      "start": 159,
+      "duration": 5,
+      "text": "That’s Celine Halioua. She's the founder of Loyal, the company trying to better understand"
+    },
+    {
+      "start": 164,
+      "duration": 2,
+      "text": "- and hopefully slow - aging in dogs."
+    },
+    {
+      "start": 166,
+      "duration": 6,
+      "text": "There’s a lot we still don’t know about aging,  for dogs and humans. What we think right now"
+    },
+    {
+      "start": 172,
+      "duration": 8,
+      "text": "is that “there's a series of various types of  cellular damage, that these accrue and accrue, and"
+    },
+    {
+      "start": 180,
+      "duration": 6,
+      "text": "then lead into the disease that you end up having  the symptoms of when you're 60, 70, 80.”"
+    },
+    {
+      "start": 186,
+      "duration": 4,
+      "text": "Basically, that many of the diseases we die  from spring in some way from underlying damage"
+    },
+    {
+      "start": 190,
+      "duration": 2,
+      "text": "that happens as we get older."
+    },
+    {
+      "start": 192,
+      "duration": 3,
+      "text": "One way of measuring this is by looking at changes that happen to DNA…"
+    },
+    {
+      "start": 195,
+      "duration": 5,
+      "text": "“Oh, here's a cord! So if this is your DNA, you can have modifications on this that then"
+    },
+    {
+      "start": 200,
+      "duration": 5,
+      "text": "change how it's shaped. So maybe it becomes shaped this way"
+    },
+    {
+      "start": 205,
+      "duration": 5,
+      "text": "or it's shaped that way… these modifications are  thought to change predictively with age.”"
+    },
+    {
+      "start": 210,
+      "duration": 4,
+      "text": "This “aging clock” is called “methylation” and  that’s what’s being measured on this chart."
+    },
+    {
+      "start": 214,
+      "duration": 4,
+      "text": "The researchers looked at DNA from  Labradors collected over 16 years,"
+    },
+    {
+      "start": 218,
+      "duration": 5,
+      "text": "and then compared them to DNA collected from  humans between the ages of 1 and 103."
+    },
+    {
+      "start": 223,
+      "duration": 5,
+      "text": "This helps us get a better sense of what’s going  on beneath all the age-related stuff we can see:"
+    },
+    {
+      "start": 228,
+      "duration": 5,
+      "text": "The thinning hair, the wrinkles (dogs do get  wrinkles under there!), but more importantly"
+    },
+    {
+      "start": 233,
+      "duration": 7,
+      "text": "the frailty, the cancer, the disease. The more  we know, the more we can do about it."
+    },
+    {
+      "start": 240,
+      "duration": 5,
+      "text": "This chart is a key step there. But… it was  made using data from just Labs…"
+    },
+    {
+      "start": 245,
+      "duration": 4,
+      "text": "What about other breeds? What  if your dog isn't a Lab?"
+    },
+    {
+      "start": 249,
+      "duration": 4,
+      "text": "Dog breeds live shockingly  different lengths of time."
+    },
+    {
+      "start": 253,
+      "duration": 3,
+      "text": "If you've ever had a very small or a very big dog, you know this."
+    },
+    {
+      "start": 256,
+      "duration": 3,
+      "text": "“There's a 2x variance! A Great  Dane might live 6-8 years while"
+    },
+    {
+      "start": 259,
+      "duration": 3,
+      "text": "a Chihuahua can live 18 years plus.”"
+    },
+    {
+      "start": 262,
+      "duration": 3,
+      "text": "Big dogs generally live shorter lives than small dogs."
+    },
+    {
+      "start": 265,
+      "duration": 4,
+      "text": "I knew that, but I didn’t realize how strong this correlation was. And..."
+    },
+    {
+      "start": 269,
+      "duration": 2,
+      "text": "it's our fault."
+    },
+    {
+      "start": 271,
+      "duration": 1,
+      "text": "\"It's such a large effect in dogs because"
+    },
+    {
+      "start": 272,
+      "duration": 4,
+      "text": "we were selectively breeding,  accidentally selectively breeding"
+    },
+    {
+      "start": 276,
+      "duration": 8,
+      "text": "for the genetics that caused the dogs to  have these, these growth issues.”"
+    },
+    {
+      "start": 284,
+      "duration": 4,
+      "text": "But it’s important to study the difference that now exists because"
+    },
+    {
+      "start": 288,
+      "duration": 4,
+      "text": "small dogs seem to be holding the secret to longer doggy life."
+    },
+    {
+      "start": 292,
+      "duration": 3,
+      "text": "“Dogs on average are actually born in  very similar sizes."
+    },
+    {
+      "start": 295,
+      "duration": 5,
+      "text": "Bigger dogs just grow metabolically at a much, much faster rate."
+    },
+    {
+      "start": 300,
+      "duration": 4,
+      "text": "It's thought that basically the things that  make them grow very quickly and become so"
+    },
+    {
+      "start": 304,
+      "duration": 5,
+      "text": "large when they're babies, don't fully turn off  or don't fully function correctly after the dog"
+    },
+    {
+      "start": 309,
+      "duration": 7,
+      "text": "is fully grown, which causes them to age at a  faster rate and then die sooner on average."
+    },
+    {
+      "start": 316,
+      "duration": 6,
+      "text": "That's terrible, I love big dogs, but it's also very  interesting from a biological perspective.”"
+    },
+    {
+      "start": 322,
+      "duration": 3,
+      "text": "This is the research area Loyal is  focused on. They’re trying to figure"
+    },
+    {
+      "start": 325,
+      "duration": 3,
+      "text": "out more about not just what’s going on inside of dogs, but what’s"
+    },
+    {
+      "start": 328,
+      "duration": 3,
+      "text": "different BETWEEN dog breeds, so that they can treat it."
+    },
+    {
+      "start": 331,
+      "duration": 4,
+      "text": "“We're basically trying to make the \"metabolism,\" for lack of a better word"
+    },
+    {
+      "start": 335,
+      "duration": 4,
+      "text": "of a big dog look more like that of a small dog. And it's not gonna go all the"
+    },
+    {
+      "start": 339,
+      "duration": 5,
+      "text": "way, right? But we can like walk it back to, you  know, Australian Shepherd or something instead"
+    },
+    {
+      "start": 344,
+      "duration": 2,
+      "text": "of a, you know, honkin' Great Dane.”"
+    },
+    {
+      "start": 346,
+      "duration": 2,
+      "text": "Right now, they’re still in the research phase"
+    },
+    {
+      "start": 348,
+      "duration": 4,
+      "text": "trying to figure out what specific  areas can be targeted with what specific drugs."
+    },
+    {
+      "start": 352,
+      "duration": 6,
+      "text": "There isn't a pill you can buy today that will help  your dog live longer. Sorry."
+    },
+    {
+      "start": 358,
+      "duration": 3,
+      "text": "But they did ask for doggy volunteers, so I sent in some of Thor’s DNA..."
+    },
+    {
+      "start": 361,
+      "duration": 2,
+      "text": "\"C'mere bud!\""
+    },
+    {
+      "start": 363,
+      "duration": 3,
+      "text": "\"You smell these?\""
+    },
+    {
+      "start": 366,
+      "duration": 2,
+      "text": "... which he wasn't thrilled about..."
+    },
+    {
+      "start": 368,
+      "duration": 1,
+      "text": "\"Say ah!\""
+    },
+    {
+      "start": 369,
+      "duration": 1,
+      "text": "\"Yucky\""
+    },
+    {
+      "start": 370,
+      "duration": 4,
+      "text": "\"Ok I put this in here and I'm gonna shake it...\""
+    },
+    {
+      "start": 374,
+      "duration": 2,
+      "text": "\"GOOD BOY\""
+    },
+    {
+      "start": 376,
+      "duration": 3,
+      "text": "\"Good boy, you did that so good\""
+    },
+    {
+      "start": 379,
+      "duration": 6,
+      "text": "My hope is that Thor can help future dogs spend  more time with their people. Thor's hope is"
+    },
+    {
+      "start": 385,
+      "duration": 3,
+      "text": "that he gets a treat..."
+    },
+    {
+      "start": 388,
+      "duration": 3,
+      "text": "And Loyal's hope, in all of this?"
+    },
+    {
+      "start": 391,
+      "duration": 2,
+      "text": "“My mission in Loyal and in life in general is to"
+    },
+    {
+      "start": 393,
+      "duration": 6,
+      "text": "bring forward drugs that help dogs live  longer, healthier lives. And while doing that"
+    },
+    {
+      "start": 399,
+      "duration": 4,
+      "text": "also learn more about aging and use that  to hopefully one day help people too.”"
+    },
+    {
+      "start": 403,
+      "duration": 5,
+      "text": "Helping dogs could help humans?  I mean..."
+    },
+    {
+      "start": 408,
+      "duration": 1,
+      "text": "huge if true."
+    },
+    {
+      "start": 409,
+      "duration": 5,
+      "text": "Do I wish there was a pill I could buy right now to make Thor live 10 more years? YES."
+    },
+    {
+      "start": 414,
+      "duration": 5,
+      "text": "I would buy that in a heartbeat. But this is what progress needs:"
+    },
+    {
+      "start": 419,
+      "duration": 4,
+      "text": "Progress needs people who see the vision for where we're gonna go long before we get there."
+    },
+    {
+      "start": 423,
+      "duration": 3,
+      "text": "And that's always been a big goal for me in making Huge If True, to help you"
+    },
+    {
+      "start": 426,
+      "duration": 1,
+      "text": "see that vision sooner."
+    },
+    {
+      "start": 427,
+      "duration": 5,
+      "text": "And, in the meantime, even though there's no big anti-aging solution YET for dogs"
+    },
+    {
+      "start": 432,
+      "duration": 3,
+      "text": "that doesn’t mean there’s nothing you can do to help your dog live longer."
+    },
+    {
+      "start": 435,
+      "duration": 7,
+      "text": "Here are 5 things you really should make sure you’re doing to make sure that your dog can live the longest life."
+    },
+    {
+      "start": 442,
+      "duration": 4,
+      "text": "The time that we get with  our dogs is just so precious."
+    },
+    {
+      "start": 446,
+      "duration": 8,
+      "text": "It's - it's a real gift."
+    },
+    {
+      "start": 454,
+      "duration": 8,
+      "text": "And I want more of it."
+    },
+    {
+      "start": 462,
+      "duration": 7,
+      "text": "But making this video also helped me remember the most important part, which is"
+    },
+    {
+      "start": 469,
+      "duration": 1,
+      "text": "it's -"
+    },
+    {
+      "start": 470,
+      "duration": 4,
+      "text": "- it's amazing that our totally different lives overlapped at all."
+    },
+    {
+      "start": 474,
+      "duration": 4,
+      "text": "I'm so glad that that little guy and I are alive at the same time."
+    },
+    {
+      "start": 478,
+      "duration": 3,
+      "text": "\"Hi!!!\""
+    },
+    {
+      "start": 481,
+      "duration": 7,
+      "text": "\"C'mere!\""
+    },
+    {
+      "start": 488,
+      "duration": 8,
+      "text": "And as much as I wish that he could live for my whole rest of my life"
+    },
+    {
+      "start": 496,
+      "duration": 2,
+      "text": "It's important to me to remember that"
+    },
+    {
+      "start": 498,
+      "duration": 7,
+      "text": "for Thor’s whole life, there will never be a day when I'm not there taking care of him."
+    },
+    {
+      "start": 505,
+      "duration": 5,
+      "text": "\"Thor!\""
+    },
+    {
+      "start": 510,
+      "duration": 3.0,
+      "text": "Okay, let's go play!"
+    }
+  ]
+}

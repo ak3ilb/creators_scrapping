@@ -1,0 +1,617 @@
+{
+  "video_id": "enevSuDgf3U",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 10,
+      "text": "Ready? This is the world's most realistic  lightsaber and I'm holding it because today"
+    },
+    {
+      "start": 10,
+      "duration": 6,
+      "text": "I got the chance to go behind the scenes with  Walt Disney Imagineering, the place where Disney"
+    },
+    {
+      "start": 16,
+      "duration": 6,
+      "text": "brings their craziest ideas to life from stunt  robots to a real life version of The Force to"
+    },
+    {
+      "start": 22,
+      "duration": 6,
+      "text": "these adorable little droids. On this show, we  explore how technology can improve people's"
+    },
+    {
+      "start": 28,
+      "duration": 6,
+      "text": "lives by living longer, going farther... but the  reason that I've loved Disney since I was a"
+    },
+    {
+      "start": 34,
+      "duration": 6,
+      "text": "kid is that they use tech to improve lives  a different way... by making people happy. And"
+    },
+    {
+      "start": 40,
+      "duration": 10,
+      "text": "that means that they're pushing forward what  tech can do in some really crazy unexpected   ways. So let me take you inside the magic to  show you the cutting edge tech that Disney is"
+    },
+    {
+      "start": 50,
+      "duration": 7,
+      "text": "building, how it really works, and what happens  when we put it to the test. Let's do this...."
+    },
+    {
+      "start": 57,
+      "duration": 15,
+      "text": "This is what we call our Imagineering department where we dream up our new projects... Ohhhh that's cool!"
+    },
+    {
+      "start": 72,
+      "duration": 8,
+      "text": "When Walt Disney started building  Disneyland, he needed people to help him   build rides and robots and castles every aspect  of this new kind of park. He needed people who"
+    },
+    {
+      "start": 80,
+      "duration": 6,
+      "text": "would think outside the box. Their job was to  imagine ways to bring the magic of Disney to"
+    },
+    {
+      "start": 86,
+      "duration": 10,
+      "text": "life so Walt called them \"Imagineers.\" Today  the Imagineers have built these legendary   parks all around the world and they constantly  come up with new ideas for them here in their"
+    },
+    {
+      "start": 96,
+      "duration": 6,
+      "text": "research and development lab. \"Let's take a walk  through R&D!\" Awesome. \"This way. Let's take a walk"
+    },
+    {
+      "start": 102,
+      "duration": 7,
+      "text": "through R&D! Come on with us right this way, we  have some friends we want you to meet. These are"
+    },
+    {
+      "start": 109,
+      "duration": 6,
+      "text": "the latest and greatest BDX units.\" Hello! How  are you? Can I give you a little boop? \"Go for"
+    },
+    {
+      "start": 115,
+      "duration": 11,
+      "text": "it!\" For this show I've gotten to meet some  very cool robots that can walk over uneven   ground or get pushed or even open doors.  But what makes these droids different is"
+    },
+    {
+      "start": 126,
+      "duration": 8,
+      "text": "their personality. They're just so cute! And  that cuteness comes down to a bunch of very"
+    },
+    {
+      "start": 134,
+      "duration": 5,
+      "text": "specific design and engineering decisions, from  how this robot walks to how it does this little"
+    },
+    {
+      "start": 139,
+      "duration": 9,
+      "text": "shimmy! These droids aren't autonomous. They're  told exactly where to go by a person holding"
+    },
+    {
+      "start": 148,
+      "duration": 6,
+      "text": "this console so of course I wanted to try it.  Okay so I'm going to do a little dance. I'm"
+    },
+    {
+      "start": 154,
+      "duration": 7,
+      "text": "going to move his head around. Can I try tantrum?  \"You can absolutely. It's going to get angry for a"
+    },
+    {
+      "start": 161,
+      "duration": 8,
+      "text": "second.\" Yeah! How do I ask him to walk? \"Tap and  then move the stick forward or any direction...\""
+    },
+    {
+      "start": 169,
+      "duration": 7,
+      "text": "There. Hi! It's important to understand that  I'm telling the droid what to do, walk here,"
+    },
+    {
+      "start": 176,
+      "duration": 6,
+      "text": "throw a tantrum, but I'm not telling it how to  do that. The actual way that it responds to me"
+    },
+    {
+      "start": 182,
+      "duration": 10,
+      "text": "comes down to its training. Using ducklings as  inspiration, Disney Imagineers created a series   of animations like in a Disney movie for how  the robot should walk or jump or shimmy. Then"
+    },
+    {
+      "start": 192,
+      "duration": 8,
+      "text": "they put a digital version of the robot into  a simulation. Most of the time when robots are   trained this way they're given a goal and then  they're rewarded based on how well they meet that"
+    },
+    {
+      "start": 200,
+      "duration": 9,
+      "text": "goal under different circumstances. So for example  walk from A to B over different terrain. This is   reinforcement learning. \"So we actually have some  live training going on on our computers right now."
+    },
+    {
+      "start": 209,
+      "duration": 8,
+      "text": "So that's what you're seeing here is the thousands  and thousands of robots trying different things,   stumbling a little bit and trying something  different.\" In this case though, the droids are"
+    },
+    {
+      "start": 217,
+      "duration": 9,
+      "text": "rewarded not just for walking from A to B but  also for how closely they follow the animations   while they do that. In these digital worlds  they can get way more reps than they would in"
+    },
+    {
+      "start": 226,
+      "duration": 8,
+      "text": "the physical world and they don't get damaged.  Then the Imagineers upload that training to   the physical robots and they test them with  these cute little harnesses until eventually"
+    },
+    {
+      "start": 234,
+      "duration": 10,
+      "text": "the droids are ready to go out into the world all  on their own... well, with help. These are not the robots   that are most likely to be doing your laundry  or working in a factory in the future but their"
+    },
+    {
+      "start": 244,
+      "duration": 10,
+      "text": "design means that they're on the cutting edge of  robotics in a different way. In a world that uses   more and more robotics, how we feel about something,  whether or not we feel something is cute, whether"
+    },
+    {
+      "start": 254,
+      "duration": 7,
+      "text": "we feel something is well-intentioned as opposed  to scary, matters a lot for how much humans want to"
+    },
+    {
+      "start": 261,
+      "duration": 11,
+      "text": "interact with robots and that also must make  the development I mean probably more fun but   also by definition more difficult because the  reinforcement learning has two objectives. It"
+    },
+    {
+      "start": 272,
+      "duration": 10,
+      "text": "has don't fall but it also has be cute about it!  \"And that's what's really challenging about a lot   of Imagineering projects is we don't want our  guests to see technology. We want them to fall"
+    },
+    {
+      "start": 282,
+      "duration": 6,
+      "text": "in love with a character and feel things.\" I did  feel things! It's hard not to love these little"
+    },
+    {
+      "start": 288,
+      "duration": 9,
+      "text": "droids. If you want to know more about how they're  made to look so real, my friend Michelle Khare is   making a video all about what it takes to become  an Imagineer for her show Challenge Accepted and"
+    },
+    {
+      "start": 297,
+      "duration": 5,
+      "text": "if you're really lucky you might spot these droids  walking around in a Disney park. Eventually though"
+    },
+    {
+      "start": 302,
+      "duration": 8,
+      "text": "I had to leave my new friends. I have to go now! Bye  guys! Because I have something else to try... \"We have"
+    },
+    {
+      "start": 310,
+      "duration": 6,
+      "text": "made the most realistic expandable extendable  lightsaber ever.\" That's Lanny Smoot. He's one of"
+    },
+    {
+      "start": 316,
+      "duration": 5,
+      "text": "the world's most famous Imagineers. He holds over  a 100 patents including for this lightsaber. \"I'm"
+    },
+    {
+      "start": 321,
+      "duration": 8,
+      "text": "going to allow you to extend and retract it.  Now this is a very expensive... no no now this"
+    },
+    {
+      "start": 329,
+      "duration": 13,
+      "text": "is a prop so we're going to be very careful  with it once it's extended. And this is the   button that you push to extend it. I'm going to  stand back just so that...\" So I just..."
+    },
+    {
+      "start": 342,
+      "duration": 6,
+      "text": "Ohohhhh that's cool."
+    },
+    {
+      "start": 348,
+      "duration": 10,
+      "text": "This felt as cool as I thought it would.  And it looked as real up close as it does on   camera. In the Star Wars universe, of course these  Jedi weapons work by channeling energy through a"
+    },
+    {
+      "start": 358,
+      "duration": 7,
+      "text": "crystal to create a blade that can cut through  basically anything. In our universe filming the"
+    },
+    {
+      "start": 365,
+      "duration": 10,
+      "text": "Star Wars movies, actors used these fighting  prop sticks and then visual effects artists   painstakingly added the glow in post-production.  But for Disney Parks they somehow needed to make"
+    },
+    {
+      "start": 375,
+      "duration": 7,
+      "text": "lightsabers real and that was Lanny's job. How  does it work? \"So the challenge when you're making"
+    },
+    {
+      "start": 382,
+      "duration": 6,
+      "text": "a prop for a performer is that it has to  look like what we see in the movies and you"
+    },
+    {
+      "start": 388,
+      "duration": 6,
+      "text": "remember in the movie of you know flashing light  extends that can cut through all sorts of things"
+    },
+    {
+      "start": 394,
+      "duration": 7,
+      "text": "well we don't cut through all sorts of things  but we did want smooth extension of the blade.\""
+    },
+    {
+      "start": 401,
+      "duration": 5,
+      "text": "It's that smooth extension that isn't possible  with lightsaber toys that I've seen before. \"Our"
+    },
+    {
+      "start": 406,
+      "duration": 7,
+      "text": "lightsaber unrolls from internal motors that  are pushing it out and that was important for"
+    },
+    {
+      "start": 413,
+      "duration": 6,
+      "text": "our performers to really look like Jedi Knights.\" The  lightsaber has a clear cap with two long translucent"
+    },
+    {
+      "start": 419,
+      "duration": 9,
+      "text": "tapes attached to it that unroll from  inside the lightsaber allowing it to extend   upward as they extend out of the hillt. The  tapes bend into a concave shape to create"
+    },
+    {
+      "start": 428,
+      "duration": 11,
+      "text": "a rigid blade and on those tapes are a series  of bright LEDs. They had to program those LEDs   to make that realistic lightsaber glow. \"It knows  what angle you're moving through and it's going"
+    },
+    {
+      "start": 439,
+      "duration": 11,
+      "text": "to blink its lights a little bit to give it  the feeling that it has moved from place to   place and we're also strobing it a little bit  in general to give the life of flickering bring"
+    },
+    {
+      "start": 450,
+      "duration": 8,
+      "text": "power.\" If two people have them can the blades touch  each other? \"This one is not used for battle. We"
+    },
+    {
+      "start": 458,
+      "duration": 12,
+      "text": "have a stand in for it when we have to have our  Stars moving it around quickly. This is more for   the extension and retraction.\" So I should not touch it. Much like a real lightsaber."
+    },
+    {
+      "start": 470,
+      "duration": 4,
+      "text": "\"Yes you don't want to get burned.\" Of course. Right.  Of course. Even though I now understood how they"
+    },
+    {
+      "start": 474,
+      "duration": 8,
+      "text": "were doing this it still felt like magic. Like  you can see the kid in me is just mesmerized"
+    },
+    {
+      "start": 482,
+      "duration": 5,
+      "text": "and just when I thought I couldn't feel any  more powerful they showed me how to use"
+    },
+    {
+      "start": 487,
+      "duration": 9,
+      "text": "The Force. \"And of course you can  go left and right if you"
+    },
+    {
+      "start": 496,
+      "duration": 11,
+      "text": "like.\" This is so cool! \"You're strong with the force!\"  I can't keep a straight face I'm sorry. \"All right"
+    },
+    {
+      "start": 507,
+      "duration": 10,
+      "text": "there you are that's a serious Jedi.\" Yes I take my  responsibilities... seriously. But hang on how"
+    },
+    {
+      "start": 517,
+      "duration": 11,
+      "text": "am I doing this first that camera right there  is recording my hand movements from above and   there's another bit of magic on the floor... Hang  on a sec so I just got back from the UK where"
+    },
+    {
+      "start": 528,
+      "duration": 6,
+      "text": "I was training to drive a real Formula E car no  joke and while I was there I was also using the"
+    },
+    {
+      "start": 534,
+      "duration": 9,
+      "text": "sponsor of this episode, Surfshark. Surfshark is  a virtual private network or VPN which means that   that when I'm traveling I can make my computer  think that I'm somewhere else. I really like that"
+    },
+    {
+      "start": 543,
+      "duration": 9,
+      "text": "because I want being online to feel like I'm still  at home even when I'm traveling so much for this   show I want my streaming shows to still show up, I  want things to automatically be in dollars, I want"
+    },
+    {
+      "start": 552,
+      "duration": 8,
+      "text": "shipping to be the United States, those kinds of  things. But then when I get home I sometimes want   my computer to think that I'm somewhere else.  This is really useful when I'm sitting here at"
+    },
+    {
+      "start": 560,
+      "duration": 10,
+      "text": "this desk doing a lot of research for Huge If True episodes, sometimes I want to see government sites   from another country or things like that. I just go  to Surfshark like this and then I set my location"
+    },
+    {
+      "start": 570,
+      "duration": 7,
+      "text": "to one of a hundred different places. So I can be  anywhere in the world still at home. If you don't   use a VPN you might find it useful. I know I do. If  you want to try it they offer a 30-day money back"
+    },
+    {
+      "start": 577,
+      "duration": 9,
+      "text": "guarantee and for the Huge Crew, for you guys,  they're offering four extra months for free if   you use my link which is Surfshark dot com slash cleo. It's also in my description go check it out now"
+    },
+    {
+      "start": 586,
+      "duration": 9,
+      "text": "back to Disney. This is Disney's famous Holotile, also  invented by Lanny. It's basically a treadmill but in"
+    },
+    {
+      "start": 595,
+      "duration": 10,
+      "text": "any direction. I've been wanting to try this since  I saw my friend Marques walk on an earlier version.   All right I'm ready! So I just walk in a circle. It's like I'm drifting back toward the center a"
+    },
+    {
+      "start": 605,
+      "duration": 7,
+      "text": "little bit ooh. Up close you can see that the floor  I'm walking on is made of these rotating circular"
+    },
+    {
+      "start": 612,
+      "duration": 11,
+      "text": "tiles like this. One gear on the bottom controls  overall spin and another on the top controls the angle of the head. What that means is that your  shoe is only ever hitting the top of that angled"
+    },
+    {
+      "start": 623,
+      "duration": 7,
+      "text": "disc. So I'm standing on the surface that's created  by the edge and that edge might also be moving and"
+    },
+    {
+      "start": 630,
+      "duration": 7,
+      "text": "that creates motion back toward the center that I  feel is just the ground sort of moving me back. So"
+    },
+    {
+      "start": 637,
+      "duration": 5,
+      "text": "as you're walking in one direction the spin of  the top of the angled discs pushes you together"
+    },
+    {
+      "start": 642,
+      "duration": 8,
+      "text": "in the opposite direction. So I can walk backward. I  can walk forward woooh and what's interesting is it"
+    },
+    {
+      "start": 650,
+      "duration": 5,
+      "text": "feels like, I don't know how to describe this  exactly, it doesn't quite feel exactly like a"
+    },
+    {
+      "start": 655,
+      "duration": 6,
+      "text": "treadmill in every direction. It takes a little bit  of learning but it very clearly wants me if I walk"
+    },
+    {
+      "start": 661,
+      "duration": 6,
+      "text": "in a circle. It's sort of pushing. You can see my  foot every step is drifting back toward the center."
+    },
+    {
+      "start": 667,
+      "duration": 5,
+      "text": "But wait, how does it know which way I'm going? Well  this entire surface is surrounded by lidar cameras"
+    },
+    {
+      "start": 672,
+      "duration": 10,
+      "text": "that are constantly scanning your feet. one camera  at floor level identifies where your foot is on   the tiles, so it's tracking each step in real time  and then there's a second camera that's looking"
+    },
+    {
+      "start": 682,
+      "duration": 11,
+      "text": "at the direction of your foot. It does that by  identifying not only where your foot is but   also where your shin bone is. So if your shin is at  the back of your foot then you're facing this way"
+    },
+    {
+      "start": 693,
+      "duration": 9,
+      "text": "and vice versa. This demo had six different lidar  angles so at least one of them always had a good   view of my feet. \"Each of these has a different  view. That one may be a little confused there"
+    },
+    {
+      "start": 702,
+      "duration": 6,
+      "text": "right this one has a very clear view that  your ankle is in the back of your foot here.\""
+    },
+    {
+      "start": 708,
+      "duration": 11,
+      "text": "Interesting. Or you don't need to walk at all. You  can move the floor with a video game controller."
+    },
+    {
+      "start": 719,
+      "duration": 6,
+      "text": "Yeah this was really fun. And above all that is  the point of the Holotile. It's fun! They're not"
+    },
+    {
+      "start": 725,
+      "duration": 8,
+      "text": "really sure how they're going to use it in  the future. Right now Imagineers are testing   designs on it and playing games. While we  were there they implied that they might"
+    },
+    {
+      "start": 733,
+      "duration": 19,
+      "text": "end up using it in a park or maybe in a movie  like in the Volume where they film Star Wars   but right now fun is enough. And speaking  of fun, I have one more thing to show you..."
+    },
+    {
+      "start": 752,
+      "duration": 6,
+      "text": "These are stuntronics, meaning they're robot stunt  doubles! This is how Spider-Man launches over"
+    },
+    {
+      "start": 758,
+      "duration": 11,
+      "text": "Disneyland. \"We wanted a larger than life Spider-Man  performance but some of these flips that you see   done in the movie, that's just CGI. We have to do  it in real life. And those would not be safe for a"
+    },
+    {
+      "start": 769,
+      "duration": 10,
+      "text": "stunt performer to be doing once much less several  times a day.\" Wouldn't be safe or wouldn't be   possible? \"Both! At certain points when Spider-Man  first launches in the parks he's pulling like 10 G's"
+    },
+    {
+      "start": 779,
+      "duration": 6,
+      "text": "so this is something that we absolutely think  a robot is very well suited for. To build a robot"
+    },
+    {
+      "start": 785,
+      "duration": 6,
+      "text": "that can do that they basically flung a metal  stick with some motors and actuators over and"
+    },
+    {
+      "start": 791,
+      "duration": 7,
+      "text": "over and over and then gradually over time learned  and made it more human. \"This is Mini Man...\" Can I"
+    },
+    {
+      "start": 798,
+      "duration": 9,
+      "text": "hold Mini Man? Okay my dude. So you take this after  learning from those and you fling them through the"
+    },
+    {
+      "start": 807,
+      "duration": 4,
+      "text": "air... \"Fling them through the air a couple hundred  times, track the results and get better and better"
+    },
+    {
+      "start": 811,
+      "duration": 8,
+      "text": "at controlling that motion through thin air\" until  eventually.... Could you see stuntronics being"
+    },
+    {
+      "start": 819,
+      "duration": 9,
+      "text": "used in movies? \"That's a really good question!  We're open to using them for all sorts of uses.   They haven't asked yet but we're just down the  street and we'd be happy to use them in a movie!\""
+    },
+    {
+      "start": 828,
+      "duration": 10,
+      "text": "So if you have all of this incredible technology  to tell stories... what stories do you tell? Maybe the   craziest part of my day was meeting two of the  most important people at Disney who make those"
+    },
+    {
+      "start": 838,
+      "duration": 7,
+      "text": "decisions. That is Josh D'Amaro who runs all of  Disney parks and cruises and products and... yeah."
+    },
+    {
+      "start": 845,
+      "duration": 12,
+      "text": "How do you think about the purpose of all of this  incredible tech? \"The purpose at the end of the day   is to create a connection with our guests. To make them feel something. And ultimately what we want...\" [footsteps]"
+    },
+    {
+      "start": 857,
+      "duration": 7,
+      "text": "One second I'm going to stop you while they walk past.  \"Kevin Feige was walking by...\" \"We should have invited"
+    },
+    {
+      "start": 864,
+      "duration": 7,
+      "text": "him in! Call him in!\" Oh my god. \"Hey nice shirt!\"  Pleasure to meet you. Nice to meet you!"
+    },
+    {
+      "start": 871,
+      "duration": 7,
+      "text": "And that is Kevin Feige, president of Marvel  Studios who I did not know that I was going to"
+    },
+    {
+      "start": 878,
+      "duration": 9,
+      "text": "be meeting. \"I'm literally heading back to an X-Men  meeting right now.\" Unbelievable well I'm so glad   that we caught you. The question that I was asking  is what is the purpose of all of this technology,"
+    },
+    {
+      "start": 887,
+      "duration": 10,
+      "text": "what is the mission here? \"I think it's continuing  the storytelling. It's immersing the audience and   the guests in the world which nobody does better  than Imagineering. When when Disney bought Marvel I"
+    },
+    {
+      "start": 897,
+      "duration": 6,
+      "text": "was like sheepish about it, \"so does that mean  we can go to Imagineering now?\" and the answer"
+    },
+    {
+      "start": 903,
+      "duration": 5,
+      "text": "was yes come on by! And now with Josh leading it,  it's feeling very exciting.\" \"And the great thing is"
+    },
+    {
+      "start": 908,
+      "duration": 11,
+      "text": "is as these stories are coming out of his head and  his team's head we're automatically thinking how   are we going to bring this to life in real form.\"  \"For years we'd spend time on our sets and go you"
+    },
+    {
+      "start": 919,
+      "duration": 10,
+      "text": "know what's so sad is after we film them we tear  them down, they go away forever. We said if only   Imagineering gets their hands on it and actually  [SECRET] we brought a bunch of Josh's team down there"
+    },
+    {
+      "start": 929,
+      "duration": 9,
+      "text": "to see it and and to see how they can then extend  that into the into the parks.\" Great so nice meeting you! So great to meet you. Thank  you so much for your time, I really appreciate"
+    },
+    {
+      "start": 938,
+      "duration": 10,
+      "text": "it. There you go unbelievable oh my god cool. \"But  ultimately what's important for us is to tell a"
+    },
+    {
+      "start": 948,
+      "duration": 5,
+      "text": "story. But you have to feel something and I think  it's very different from what's going on generally"
+    },
+    {
+      "start": 953,
+      "duration": 6,
+      "text": "speaking in the robotic space and that's why we're  so different.\" It felt different. The point of all of"
+    },
+    {
+      "start": 959,
+      "duration": 6,
+      "text": "the tech that I saw today is not to be useful. It's  not to make your life more convenient or to help"
+    },
+    {
+      "start": 965,
+      "duration": 7,
+      "text": "you stay alive longer. It's to help make sure that  while you are alive you get the chance sometimes"
+    },
+    {
+      "start": 972,
+      "duration": 3.0,
+      "text": "to just be a kid. It's a reminder of how important  it is to find ways to just feel... joy."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[00:00] Wait, listen to this: This sounds exactly  like Frank Sinatra is singing Get Low by Lil Jon... "To the window to the wall, 'til the sweat drops down my -" No?
+[00:11] How about Linkin Park singing the Pokemon Song? "Pokemon! Gotta catch em all!" Or how about Johnny Cash singing Barbie Girl?
+[00:20] "I'm a Barbie girl, in a Barbie world..."
+[00:24] These are all made using AI voice clones. Sinatra  never sang Get Low, sorry. But the craziest part is that voice cloning is just the beginning  of what's happening right now with "AI music"...
+[00:34] AI is letting people create completely new songs  as fake collaborations or generate lyrics or even melodies in seconds. That song that you're  hearing in the background right now? That was
+[00:43] made using AI! Just by typing in a few words.  This stuff has gotten crazy, fast. And people keep saying that AI is going to be "the death  of music." Technology causes turning points in
+[00:53] history. We've seen it happen countless times.  And I think that we're in one right now for music. The stakes are high: If we get this wrong,  we could jeopardize how human musicians make
+[01:03] money and art. But if we get it right, we have an  opportunity to LEAP ahead in how we as humans get
+[01:09] to express ourselves. That might sound like  hyperbole, but it's not! This is an extremely complex and controversial topic and to really  understand it you have to understand how the
+[01:18] music industry already works and how it might  be changing. So, to do that, I reached out to two
+[01:23] people right in the thick of it: The artist Grimes  and the CEO of Spotify are going to help explain what's really going on in the fight over AI music.
+[01:33] "AI" "AI generated music" "There will always be a problem with AI -" "It's making the music industry very nervous -" "We're drowning in music -"
+[01:41] "Old McDonald had a farm, e-i-e-i-o...." "Don't show up, don't come out -" "Will this be something that artists actually embrace?"
+[01:52] "We really haven't figured out a way to compensate the creators..." "How bad could this really be for artists and the music industry?"
+[02:04] This whole messy fight over AI music really boils  down to two big questions: One, what can AI music
+[02:10] actually do for us? And two, when should artists  get paid in a world where we have it? There are a
+[02:16] lot of layers to AI music. "In the style of Taylor  Swift" is different from cloning her voice which is different from using her music to train an  AI. And those nuances really matter for how the
+[02:26] finished product gets treated. We're going to  get into all of it, but first you might be wondering: Why do we want this? Like wouldn't having  AI make music hurt human creativity and musicians?
+[02:37] Not necessarily. I think if we get this right, AI  can help us shrink what I'm going to call "the gap."
+[02:43] The gap is the difference between the idea  that's in your head that's obviously perfect and amazing versus what you can realistically  create. Sometimes I'll try and make exactly what
+[02:52] I imagined, but sometimes the truth is, I'll shrink  my idea because it's just what I can make with the
+[02:58] tools that I have. Creativity isn't the same as  technical skill. We sometimes confuse them because you've often needed one to show that you have  the other but lowering the amount of technical skill that you need to express your creativity  is how we've gotten more great music throughout history.
+[03:12] "A few hundred years ago, you needed to be  a musical genius in order to create a composition
+[03:18] right? Someone like a Mozart or Beethoven, there  was a huge cost to gather a whole orchestra to
+[03:23] test ideas so they had to test it by themselves  and I can only say that's a musical genius. So there wen't that many of those in the world  that could do this."
+[03:32] I think we can agree, we'd have less great music today if that were still the case. "Someone like Avicii, who's now passed,
+[03:38] in my opinion he was a musical genius too. His tool was the computer." I see AI as a new tool. A really really powerful one.
+[03:47] One artists can already  use technology like ChatGPT to generate lyrics or Google's MusicLM to create new melodies. In fact,  you might be listening to that without knowing it.
+[03:55] "I would be surprised if we didn't have already  works of that kind on Spotify." And musicians disagree about what to use AI for...
+[04:03] "I don't think AI should write lyrics for you. I don't think AI should be able to just automatically generate music for you. I think that is probably not good for the human mind."
+[04:11] I was very interested to hear Grimes say that, because she's one of the first artists to come out in favor of another  controversial use of AI: Voice cloning.
+[04:17] "If you press record and just saying like Old McDonald or something..." "Old McDonald had a farm, e-i-e-i-o..."
+[04:25] I was... singing... because Grimes was teaching me how to use a tool  that she recently released called Elf Tech which lets anyone change their voice into hers ...
+[04:33] "And on that farm he had a [PAUSE] pig, e-i-e-i-o..."
+[04:38] GRIMES VOICE: "Od McDonald had a farm, e-i-e-i-o. And on that farm he had a [PAUSE] pig, e-i-e-i-o..."
+[04:47] It just transformed my singing into yours! If you go to Spotify right now and type in Grimes, two verified artists come up:
+[04:54] That's human Grimes and that's the collaborator for anyone else who uses her voice on Spotify.
+[05:00] "And the really good ones, we're going to go back and give them a full featuring Grimes. And then when I release my album I'm also going to release a competitive AI album..."
+[05:08] "So like releasing a Grimes album and a Grimes AI made by others album at the same time" Yes and which one which one performs better?"
+[05:15] Grimes is excited about this but a lot of other artists are  extremely not okay with people using their voice this way.
+[05:20] "People should have consent. If you want  copyright, you don't want people to use your name When should artists get paid in a world with AI music?
+[05:34] "Major concern in the music industry -" "violates copyright law -" "could lead to major legal battles -" "Who gets paid?"
+[05:41] The thing to know here is the music industry already has rules for this.
+[05:44] The question now is whether AI can fit into that system or if something's got to change. For decades, whether  an artist gets paid or not depends on how the
+[05:52] industry defines what is inspiration versus  what is copying. This box, getting inspired by someone and not paying them is most music.
+[06:01] "I was inspired by a lot of great singers..." "There's so much Beatles inspiration in there..." "My greatest influence was Whitney..."
+[06:10] "George Michael. Whitney..." This box, directly copying someone and paying them for it is also totally fine.
+[06:17] Doja Cat did that in that new song of hers that goes "walk on by..." "Walk on by.... I said what I said, I'd rather be famous instead... Walk on by..."
+[06:25] Now here's the original: "Walk on by.... Walk on by...."
+[06:34] This is just sampling. Doja Cat needs to pay composition of the song and the original  recording or a musician might re-record a line or a melody from someone else's song and use  it in their new one. I'll use Arianna Grande as an example:
+[06:46] "Breakfast at Tiffany's and bottles of bubbles..."
+[06:49] [Repeat melody]
+[06:52] Does that sound familiar?
+[06:53] ["Favorite Things" melody, sort of...]
+[06:57] I'm gonna stop singing now... "These are a few of my favorite things!"
+[07:01] That's interpolation. Arianna Grande needs to pay the original composer of the song but she's not using the original recording so she doesn't need to pay for that.
+[07:07] Or an artist could re-record an entire song. That's just covering.
+[07:10] [Miley Cyrus "Jolene" cover example]
+[07:15] Again, got to pay the owner of the  original composition. What Grimes is doing fits in here too actually. People are making new songs and  new recordings but they are using her voice and
+[07:25] likeness so they've agreed that they should pay her.  In all of these cases though, some original owner is getting paid. It doesn't matter how you made the  track, if you use AI to do any of these things, you still got to pay! And if you try not to... yikes.
+[07:38] "I'm going to sue you! I'll see you in court!" Copying an artist and not paying them? That's what our entire existing copyright system is built for.
+[07:46] Copyright protects the original song recording (the master)  and separately the composition of the original song itself. Like a lot of the law though, it's  less a list of rules and more a list of lawsuits.
+[07:57] In 2015 for example, Pharrell Williams and Robin  Thick had to pay $5 million after losing a lawsuit claiming that their song "Blurred Lines" copied  the composition of Marvin Gay's "Got to Give It Up"
+[08:06] Versus, Ed Sheeran recently won a lawsuit over  this chord progression in his song "Thinking Out Loud": "Darling I will be loving you..."
+[08:15] Which the heirs of Ed Townsend claimed was copied from a song he co-wrote, "Let's Get It On"... "Let's Get It On..."
+[08:22] Sometimes it's just messy. Like Olivia Rodrigo retroactively gave Taylor Swift songwriting credits on some  of her songs and therefore a lot of money and
+[08:30] royalties because other people accused her songs  of being too similar. But what about an artist's
+[08:35] ... vibe? Like "in the style of Taylor Swift" or even  making a song that sounds like two artists
+[08:41] collaborating but it's not their composition and  it's also not their original recording? This is
+[08:46] where all hell breaks loose. You can't impersonate  someone, but you can parody them. You can't copy specific producer tags... like... "ANOTHER ONE!"
+[08:55] "ANOTHER ONE!"
+[08:58] But you can copy phrases that other people have used even if they're super famous like "JASON DERULO" "JAYYYYSON DERUUUULLOOOO"
+[09:06] You can't use another song's melody but you can use popular  chord progressions... The copyright system is just incredibly complicated and it's a fight every  time people disagree. That's true whether it's made
+[09:16] with AI or not. But there is a question that's  specific to AI which is: Should artists get paid
+[09:21] if an AI trains on their music? Is that inspiration  or is that copying? The AI tools that we're talking
+[09:27] about require thousands of songs in order to learn. These training data sets are just enormous and the companies that use them aren't always exactly  forthcoming about what they're using. But it's
+[09:36] important to know that these AI tools aren't  really sampling or interpolating or covering
+[09:42] they're not taking pieces of the music in their  data sets and collaging them. They're analyzing patterns and creating entirely new works based  on them. Inspiration or copying? You might have
+[09:52] noticed that right now the way that the industry  decides is based entirely on the output not the
+[09:57] input. In theory, you could download someone else's  entire song if you then changed it enough so that
+[10:03] it wasn't similar in the end. So artists get paid  if the end result sounds enough like them whether their music was used to make it or not. You could  change that but it would mean filling a box that
+[10:13] so far has never been filled: Paying artists for  what the industry calls "inspiration." But it might change. There's several ongoing lawsuits worth  keeping an eye on across different art forms.
+[10:22] I asked Daniel how he thinks about this: "If I'm an  artist on Spotify, does it matter what tools I use depending on like how they're trained and all of that?"
+[10:31] "We wouldn't know what tools you're using in creating your music. We get them as audio files  at the end of it, and we wouldn't know how that
+[10:39] was generated. Every musician learned on the back  of every other musician in the past, so the fact
+[10:45] whether it's trained on or not, I respect that  that is an ongoing debate but I think the more
+[10:50] important one is the output of that training.  We want it to be really new IP, not something
+[10:57] that's drafting off someone else's name and  likeness. When it gets too close where it's confusingly similar what it is, that that's kind of  where I draw the line."
+[11:05] But if AI actually begins to make music more autonomously then it becomes less a tool for artists and more... an artist??
+[11:15] "You may have totally autonomous AI agents that are creators on every platform that just generate
+[11:23] not 1 song or 100 songs or 1000 songs but like 1 million, 10  million, 100 million, a billion songs and just test
+[11:29] their way into what may work. And that's the one  I feel is harder to figure out because it's not
+[11:36] clear to me who owns the IP and that regard or  even how to think about it because is it is it a creator? Is it not a creator? You know the AI  we wouldn't treat as a creator but the person behind the AI, we would right?
+[11:51] [EXISTENTIAL CRISIS]
+[11:54] This is where I start to get existential: If I listen to a piece of music and I like it, if it makes me dance or sing or cry... do I care if an AI made it?
+[12:04] But on the other hand, I really believe that music  is human expression. It is awe and love and joy and
+[12:12] fear and jealousy all woven into waves in the air. I really think it's one of the best ways that we
+[12:17] have to communicate between our lonely little  brains what it's like to be alive. If AI is a
+[12:23] tool to help us do more of that, awesome. There's  obviously a lot that we need to do to figure out how to make sure that musicians are compensated fairly,
+[12:31] but I think that AI can be a tool to help us form more of those connections.
+[12:36] "There's a lot of people that may not have believed that they had a musical talent that all of a sudden  would realize that they actually do and that's why I'm so excited about this technology at the end of the day."
+[12:47] I look around at the incredible amount of human expression that we communicate through music and I think to myself, oh my god
+[12:56] how much more of that is out there, locked inside  people's minds? And what would happen if we set it free?
+[13:07] Thor wanted to say hi!
+[13:08] This was a really hard episode to write. It was really fascinating but really complicated and there's still so much  that we're figuring out about this topic. But
+[13:16] I just wanted to say thank you because when you  subscribe to our show, you're giving us the ability to go interview people like the CEO of Spotify  and Grimes and some of the episodes that we have
+[13:25] coming up I can't tell you about yet but they're  going to be amazing and I just I feel really

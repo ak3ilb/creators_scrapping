@@ -1,0 +1,32 @@
+{
+  "video_id": "65rUtGwFf7I",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 8,
+      "text": "This AI tool just made motion design agencies obsolete. [music] Hicksfield launched Vibe Motion, an AI platform that generates professional motion"
+    },
+    {
+      "start": 8,
+      "duration": 7,
+      "text": "graphics from [music] a single text prompt. You type animated logo that pulses with energy or infographics showing user growth skyrocketing and it"
+    },
+    {
+      "start": 15,
+      "duration": 8,
+      "text": "builds it in minutes. But here's what makes this different from other AI video tools. Vibe Motion powered by Clawude AI understands the structure of your"
+    },
+    {
+      "start": 23,
+      "duration": 4,
+      "text": "request. It configures the animation logic, the text, brand [music] elements,"
+    },
+    {
+      "start": 27,
+      "duration": 3.0,
+      "text": "movement with technical accuracy. The output is a controllable asset, not a flat video file. Will [music] this replace motion design agencies?"
+    }
+  ]
+}

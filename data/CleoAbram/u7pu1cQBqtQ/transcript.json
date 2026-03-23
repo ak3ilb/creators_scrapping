@@ -1,0 +1,632 @@
+{
+  "video_id": "u7pu1cQBqtQ",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 5,
+      "duration": 7,
+      "text": "\"OHHHH\" \"That's insane!!\" Today I'm testing out some insane tech and  seeing how movies really get made. But hold on,"
+    },
+    {
+      "start": 12,
+      "duration": 2,
+      "text": "let me start from the beginning..."
+    },
+    {
+      "start": 14,
+      "duration": 1,
+      "text": "[REWIND]"
+    },
+    {
+      "start": 15,
+      "duration": 2,
+      "text": "Okay. Think of your favorite movie."
+    },
+    {
+      "start": 17,
+      "duration": 11,
+      "text": "Have you ever seen how they filmed it?  There's a chance that it looked pretty...   weird. The tech behind how they make movies these  days has exploded in complexity and realism."
+    },
+    {
+      "start": 28,
+      "duration": 7,
+      "text": "And it's not just HollywoodI It's gotten to the point  where I could be watching a YouTube video and not   be totally sure what's real... and what's not."
+    },
+    {
+      "start": 35,
+      "duration": 11,
+      "text": "I'm not in my studio right now, I am in a warehouse   full of the tech behind my favorite movies. Today I'm at ZeroSpace studios in New York   with Marques Brownlee who knows a thing or two about dope tech."
+    },
+    {
+      "start": 46,
+      "duration": 5,
+      "text": "\"The old rules about how media gets made are basically rewritten. You  can do whatever you want!\""
+    },
+    {
+      "start": 51,
+      "duration": 6,
+      "text": "ZeroSpace has given us full access to their warehouse full of amazing movie-making toys. We're gonna get to try out"
+    },
+    {
+      "start": 57,
+      "duration": 7,
+      "text": "three truly wild tech tools that are changing  how movies get made. And we're gonna explore   how you and we can use them."
+    },
+    {
+      "start": 64,
+      "duration": 12,
+      "text": "\"This might be a very expensive day for me...\" \"Let's do it!\" \"Hey everyone! If you want to come over here..."
+    },
+    {
+      "start": 76,
+      "duration": 6,
+      "text": "that'd be really helpful... Hello Cleo and Marques, thank you for coming to hang out with us today we're super excited to have you all out here...\""
+    },
+    {
+      "start": 82,
+      "duration": 6,
+      "text": "The first tool that we get to play with is taking  green screen to the next level. Welcome to the XR stage."
+    },
+    {
+      "start": 88,
+      "duration": 12,
+      "text": "In its simplest form, an XR stage is a giant  LED wall that lets you display whatever you want   on it, which is what you saw me doing at the start  of this video. Here we are setting up that fake   studio trick that we tried to pull on you:"
+    },
+    {
+      "start": 100,
+      "duration": 3,
+      "text": "This is my perspective just on my phone of what's going on right now..."
+    },
+    {
+      "start": 103,
+      "duration": 5,
+      "text": "Maybe one of the reveal takes that we  should have is you just - I just walk in?"
+    },
+    {
+      "start": 108,
+      "duration": 1,
+      "text": "[Laughing]"
+    },
+    {
+      "start": 109,
+      "duration": 3,
+      "text": "I'm like lost, what's going? Oh, I'm in the wrong video, sorry..."
+    },
+    {
+      "start": 112,
+      "duration": 8,
+      "text": "Marques pulled a similar trick on his channel... Is this rolling already? Hey what's up MKBHD here,  welcome back to Dope Tech... So what would you use this for?"
+    },
+    {
+      "start": 120,
+      "duration": 4,
+      "text": "We would just design awesome sets over  and over again behind us..."
+    },
+    {
+      "start": 124,
+      "duration": 9,
+      "text": "The XR stage is already amazing but we haven't even gotten to the new part yet. In fact, what we're doing right now is   more like an old movie, where they'd use a still  image or a video behind an actor to put them in"
+    },
+    {
+      "start": 133,
+      "duration": 10,
+      "text": "another place, like driving scenes and classic  movies. But there's a problem with this \"rear projection technique.\" You see how in this shot with  a real background as the camera moves the objects"
+    },
+    {
+      "start": 143,
+      "duration": 11,
+      "text": "closer shift at a different speed than the ones  farther away. That's called \"motion parallax,\" and   even if you didn't know its name you can tell  when it's not there. It just looks... weird. But an"
+    },
+    {
+      "start": 154,
+      "duration": 8,
+      "text": "XR stage actually solves this problem because  it lets you create a whole live virtual world   in the background and perfectly match it to the  movements of the cameras."
+    },
+    {
+      "start": 162,
+      "duration": 8,
+      "text": "So before we just had our backgrounds which are just like a flat 2D plain reference image. Now, we're using the"
+    },
+    {
+      "start": 170,
+      "duration": 8,
+      "text": "entire background and there's a lot more going  on! The background moves, kind of like as if it   was actually a background. This is parallax."
+    },
+    {
+      "start": 178,
+      "duration": 12,
+      "text": "And the things in the foreground move differently than the things in the background. I thought that an LED screen would look like the scene to the   actor, but it has these kind of overlaid boxes..."
+    },
+    {
+      "start": 190,
+      "duration": 2,
+      "text": "Like moving windows... Yeah!"
+    },
+    {
+      "start": 192,
+      "duration": 8,
+      "text": "This moving window is camera sees. So as the camera position changes  the window adjusts perfectly to make what's inside look realistic,"
+    },
+    {
+      "start": 200,
+      "duration": 2,
+      "text": "which it can do because it knows where it's positioned..."
+    },
+    {
+      "start": 202,
+      "duration": 7,
+      "text": "This little gadget top of the camera, each one of these cameras, is what's giving them the position information..."
+    },
+    {
+      "start": 209,
+      "duration": 8,
+      "text": "Now, you might be thinking, \"well what about green screen?\" \"Hello there!\" \"That's been around forever, and it also allows you to put any background you want behind an actor\""
+    },
+    {
+      "start": 217,
+      "duration": 6,
+      "text": "The problem though with green or blue screens is something that visual effects teams in Hollywood have been dealing with for years."
+    },
+    {
+      "start": 223,
+      "duration": 11,
+      "text": "And you can see it in this behind the scenes  moment.... right there. You see that extra green   reflection on the shield? That is called spill, and it is a pain to get rid of after shooting"
+    },
+    {
+      "start": 234,
+      "duration": 6,
+      "text": "especially if you have a character who, let's  say, never takes off his super reflective armor..."
+    },
+    {
+      "start": 240,
+      "duration": 2,
+      "text": "[HEY MANDO]"
+    },
+    {
+      "start": 242,
+      "duration": 7,
+      "text": "With an XR stage, the lighting looks  right while you're shooting. No green spill. No matter how shiny the surface."
+    },
+    {
+      "start": 249,
+      "duration": 8,
+      "text": "The spill problem is so real. You're talking about green screens   or blue screens or any of that, it works and really  talented editors can sort of hide it but when it's"
+    },
+    {
+      "start": 257,
+      "duration": 7,
+      "text": "this good and you have the lights matching the room  and everything around like the way this is built   is just matching perfectly, it's so much better."
+    },
+    {
+      "start": 264,
+      "duration": 7,
+      "text": "This is how they shot Disney's The Mandalorian using an XR stage they call \"The Volume,\" which  let them get all of these gorgeous reflections."
+    },
+    {
+      "start": 271,
+      "duration": 7,
+      "text": "\"Mando's got a reflective armor. If we weren't  utilizing The Volume, we would almost certainly   be replacing all of his armor with CG armor.\""
+    },
+    {
+      "start": 278,
+      "duration": 4,
+      "text": "That is Richard Bluff, visual effects supervisor for the Mandalorian."
+    },
+    {
+      "start": 282,
+      "duration": 8,
+      "text": "You might have seen his work in little  films like The Avengers or Avatar or Transformers   or Star Trek or Iron Man... I was very excited to talk to him."
+    },
+    {
+      "start": 290,
+      "duration": 8,
+      "text": "\"So the scene with Mando walking into   what we call the safe house, that for us was an  obvious choice to go in the LED volume.\""
+    },
+    {
+      "start": 298,
+      "duration": 16,
+      "text": "In this scene, the walls, the ceiling, all virtual, but  casting real-looking light and shadows on the   characters inside. Of course, some things in these  scenes are real, like that pole or that desk...  Here's another example: Can you tell where the real set ends and the screen begins?"
+    },
+    {
+      "start": 314,
+      "duration": 6,
+      "text": "Figuring out what to make real versus virtual in an XR stage scene is  an interesting challenge. What they do is they're basically -"
+    },
+    {
+      "start": 320,
+      "duration": 8,
+      "text": "\"- taking a a cookie cutter which is the  shape of the LED volume and basically just   slicing it straight through the environment top down...\""
+    },
+    {
+      "start": 328,
+      "duration": 7,
+      "text": "\"It's extension of the real. So they'll have sand on the ground and then more sand in the background...\" \"But it also must mean that you can change things really quickly, right?\""
+    },
+    {
+      "start": 335,
+      "duration": 9,
+      "text": "A big benefit of this? Just change like time of day... Yes! [Giggle-level excitement] That is a big deal. The power to change backgrounds quickly makes productions cheaper and faster."
+    },
+    {
+      "start": 344,
+      "duration": 7,
+      "text": "\"If we were Star Wars movie, maybe we would  have 15, 20, 25 standing sets on a whole studio"
+    },
+    {
+      "start": 351,
+      "duration": 5,
+      "text": "lot, but for the Mandalorian, we only had three  locations on season one to shoot anything. But"
+    },
+    {
+      "start": 356,
+      "duration": 13,
+      "text": "yet we wanted to tell a Star Wars story that  required our character to travel to many many   different planets. But utilizing the LED Volume meant that we could load different sets up across the entire season.\""
+    },
+    {
+      "start": 369,
+      "duration": 14,
+      "text": "And that brings us to the coolest thing about these screens: If you look   closely, you may have noticed there's not just one  box here. There's actually two... which means there   are two cameras filming at the same time... which means..."
+    },
+    {
+      "start": 383,
+      "duration": 6,
+      "text": "\"...it must be showing different things to different cameras... which really complicated...\" \"How are you showing different things to different cameras?\""
+    },
+    {
+      "start": 389,
+      "duration": 11,
+      "text": "\"The wall is actually refreshing at 120  FPS and then one camera is capturing 60 FPS and   then the other camera is capturing every other 60fps...\""
+    },
+    {
+      "start": 400,
+      "duration": 12,
+      "text": "\"So why is what he just said so interesting?\" \"That's incredible. Okay. So. 120 frames per second  coming from this. They are alternating between what they show every other frame...\""
+    },
+    {
+      "start": 412,
+      "duration": 4,
+      "text": "\"It's like if you and I were blinking at opposite times, really fast.\""
+    },
+    {
+      "start": 416,
+      "duration": 9,
+      "text": "\"That's really clever tech. So you can point two cameras at  the exact same screen at the exact same place and   they will see completely different things.\""
+    },
+    {
+      "start": 425,
+      "duration": 8,
+      "text": "The best way to watch this in action is the Blue-Green Test. \"This camera is probably... oh look at that! It's  a green screen on that one...."
+    },
+    {
+      "start": 433,
+      "duration": 2,
+      "text": "And a blue screen on that one!\""
+    },
+    {
+      "start": 435,
+      "duration": 7,
+      "text": "And here's my favorite part: You  remember those reflections? Each camera only   sees the correct color reflections too! We tested this with a mirror."
+    },
+    {
+      "start": 442,
+      "duration": 4,
+      "text": "\"That's insane!\" \"That's... [shook].\""
+    },
+    {
+      "start": 446,
+      "duration": 12,
+      "text": "And it's not just two cameras. This wall can go up to six. So you can have the screen refreshing a minimum of 180 frames per second and six different cameras filming at 30 frames per second and each will see a different thing!"
+    },
+    {
+      "start": 458,
+      "duration": 17,
+      "text": "\"That's the fun we've been able  to have with this technology and really kind of   pushing the boundaries of really what's possible.\" We could have played on the XR stage all day but we were just getting started..."
+    },
+    {
+      "start": 475,
+      "duration": 8,
+      "text": "high tech movies that's getting way more accessible... \"Pleasure to meet you\" \"Same!\" \"I'm gonna give you this suit\" \"Okay\" \"If you could put this on...\" \"Getting in the game!\""
+    },
+    {
+      "start": 483,
+      "duration": 8,
+      "text": "\"I'm now a completely velcro human. Time to add tracking markers to me...\" \"20... 22... 24... 26... 28. 28 dots!\""
+    },
+    {
+      "start": 491,
+      "duration": 4,
+      "text": "\"36 now.\" \"54...\" \"60 independent tracking orbs....\""
+    },
+    {
+      "start": 495,
+      "duration": 6,
+      "text": "These motion capture or performance capture suits, they're same category of tech that you've seen in Avatar"
+    },
+    {
+      "start": 501,
+      "duration": 10,
+      "text": "or Planet of the Apes or Lord of the Rings. The  suits that we're using today have - \"60 dots\" - that are   being tracked by a handful of cameras around us,  allowing the team at ZeroSpace to map our every"
+    },
+    {
+      "start": 511,
+      "duration": 8,
+      "text": "movement to any character we wanted including  digital versions of ourselves which we made   by getting scanned inside of this claw lookin' thing..."
+    },
+    {
+      "start": 519,
+      "duration": 6,
+      "text": "\"So what are we about to go do?\" \"We're about to scan ourselves into a virtual creation...\""
+    },
+    {
+      "start": 525,
+      "duration": 7,
+      "text": "Once we had our scans, the motion capture suits took   a few minutes to calibrate so we started playing  charades by only looking at the dots..."
+    },
+    {
+      "start": 532,
+      "duration": 1,
+      "text": "[FLEXING VERY HARD]"
+    },
+    {
+      "start": 533,
+      "duration": 9,
+      "text": "\"Flexing? Are you a bodybuilder?\" \"You're The Rock.\" \"Yep. I'm The Rock.\" \"Ok, you do a celebrity.\" \"Okay. Alright, ready?\" \"Yeah.\""
+    },
+    {
+      "start": 542,
+      "duration": 1,
+      "text": "[LOSES IT]"
+    },
+    {
+      "start": 543,
+      "duration": 14,
+      "text": "\"Who was that?\" \"You just won. That was amazing.\" \"Oh! Chill, my face is in there.\" [Laughing] [Laughing] \"Wait Cody, you gotta see -\""
+    },
+    {
+      "start": 557,
+      "duration": 9,
+      "text": "These suits were awesome, but I had a big  question: You probably saw the news around   the latest Avatar and how they put actors in  motion capture suits and filmed underwater."
+    },
+    {
+      "start": 566,
+      "duration": 5,
+      "text": "Kate Winslet said she held her breath for  over seven minutes and wondered if she died."
+    },
+    {
+      "start": 571,
+      "duration": 7,
+      "text": "My question was: \"Why did the actors in Avatar 2 need to be in the water?\""
+    },
+    {
+      "start": 578,
+      "duration": 6,
+      "text": "\"Some of it might just be a physics thing. When I shot  YouTube Rewind that one time I got like lowered"
+    },
+    {
+      "start": 584,
+      "duration": 11,
+      "text": "out of the bus and I was on like a cable. You  pretend you're falling, your arms are flailing,   and then you land, and it's it's 90% convincing  but for the last 10% you have to just do it.\""
+    },
+    {
+      "start": 595,
+      "duration": 8,
+      "text": "\"Ahahah. Ah that's hot!\" \"So I feel like putting the actual actors  in real water is kind of that last ten percent.\""
+    },
+    {
+      "start": 603,
+      "duration": 15,
+      "text": "\"What you try to do with motion capture is  capture the truest form of motion for the scene. So if the scene is supposed to be underwater, you  need people underwater to capture that motion.\""
+    },
+    {
+      "start": 618,
+      "duration": 9,
+      "text": "If you're thinking \"Cool for Hollywood but what about me?\" Well Marques and I had exactly that same thought.   \"This looks like the setup for Avatar 1 one which I know was super innovative at the time..."
+    },
+    {
+      "start": 627,
+      "duration": 3,
+      "text": "you're doing it right now with an iPhone.\""
+    },
+    {
+      "start": 630,
+      "duration": 11,
+      "text": "\"That's kind of where my mind goes so like when   you look at the future of a tech, on one hand  the ceiling gets higher and higher and it gets   better and better but on the other hand, the accessibility, it gets more and more accessible to more and more people.\""
+    },
+    {
+      "start": 641,
+      "duration": 8,
+      "text": "\"You can almost already do a lot of this from home as an individual, but   over time you're right it's going to become more  accessible to anyone.\""
+    },
+    {
+      "start": 649,
+      "duration": 9,
+      "text": "Some of the implications of more widely available motion capture are a little mind-bendy. Marques didn't know we were going to do this but - \"Marques, we've now made you into Cleo.\""
+    },
+    {
+      "start": 658,
+      "duration": 7,
+      "text": "\"I am Cleo!\" \"He could do anything!\" \"I mean, I trust you, but I'm glad this is not like, you know, open sourced!\""
+    },
+    {
+      "start": 665,
+      "duration": 5,
+      "text": "\"Yeah. I AM CLEO. I have all the power. Huge If True, it's my YouTube channel now.\""
+    },
+    {
+      "start": 670,
+      "duration": 13,
+      "text": "Okay, I know he doesn't really look like me in  this very quick scan, but soon he might. Higher tech,   more realistic versions of this are getting close  and imagining that world gets trippy fast."
+    },
+    {
+      "start": 683,
+      "duration": 10,
+      "text": "\"If that tech really is photo real, an actor's IP of their  face wouldn't -\" \"Just keeps going. Well into their   retirement they're still acting in movies.\" \"Or after they're -\" \"After they pass, still in movies yeah.\""
+    },
+    {
+      "start": 693,
+      "duration": 9,
+      "text": "Or imagine for example a musician gets scanned and then their choreographer dances as them in their music video. \"Are we mad at that? Is that weird?\""
+    },
+    {
+      "start": 702,
+      "duration": 1,
+      "text": "\"Weirdly I'm not that mad about it...\""
+    },
+    {
+      "start": 703,
+      "duration": 7,
+      "text": "\"Cause like if you're a stunt double in a movie,  that's fine. We used the camera trick we made it   look like it was you but it wasn't really you\"..."
+    },
+    {
+      "start": 710,
+      "duration": 11,
+      "text": "\"The reason I don't mind when it's a stunt double is I assume that Scarlett Johansson isn't jumping  off a bridge, but if I saw her in a movie I do"
+    },
+    {
+      "start": 721,
+      "duration": 10,
+      "text": "still assume that she's actually the one acting  in the movie. Like would you want to know if   The Rock was physically there on the shoot or if  he was The Digital Rock...\""
+    },
+    {
+      "start": 731,
+      "duration": 8,
+      "text": "\"Yeah they just grab his likeness from the motion capture, drop him  in the movie, somebody else acts, does the body movements. Is that the future?\""
+    },
+    {
+      "start": 739,
+      "duration": 10,
+      "text": "\"Or it could be hundreds of fake Marques' making MKBHD   videos but you just type in your script and you  have your digital double do all the shooting.\""
+    },
+    {
+      "start": 749,
+      "duration": 9,
+      "text": "\"Man! I don't know if I like that. If there's a world  where I can just download any actor anywhere, it   does level the playing field but it also feels  like now it's not my work as much.\""
+    },
+    {
+      "start": 758,
+      "duration": 8,
+      "text": "I felt really mixed. For one thing, the Internet isn't always kind about aging.  \"Would it be advantageous to me"
+    },
+    {
+      "start": 766,
+      "duration": 6,
+      "text": "if I had a digital double that looked like I'm 30? And does that extend my career in a way that I'm"
+    },
+    {
+      "start": 772,
+      "duration": 9,
+      "text": "comfortable with, in a way that's like worth it,  in a way that doesn't feel great because I'm not   allowing myself to age and then I'm giving into  like... like that's where my mind goes...\" \"Right. These are the gray areas.\""
+    },
+    {
+      "start": 781,
+      "duration": 13,
+      "text": "We could get lost in these gray areas. But we had one more tool to see and this one   felt most like it might change how Marques and  I actually make videos in the future..."
+    },
+    {
+      "start": 794,
+      "duration": 8,
+      "text": "\"Marques, Cleo, come on in to the volumetric video capture stage.\" \"Sure! Ok so we're in.\" This is volumetric video. By placing cameras around you,"
+    },
+    {
+      "start": 802,
+      "duration": 5,
+      "text": "it creates a real-time 3D hologram which allows  you to move yourself and the camera anywhere you want."
+    },
+    {
+      "start": 807,
+      "duration": 8,
+      "text": "\"You don't need to put on a suit, you don't  need to come in early to get scanned. As soon as   you step into this volume you get turned into a 3D hologram.\""
+    },
+    {
+      "start": 815,
+      "duration": 9,
+      "text": "\"So how many cameras are we using right now for this demo that we just did?\" \"For this demo, there's six cameras.\" \"The camera angle I'm looking at right now is not a real camera angle.\""
+    },
+    {
+      "start": 824,
+      "duration": 5,
+      "text": "\"That's right.\" \"It's a stitch of the six.\""
+    },
+    {
+      "start": 829,
+      "duration": 7,
+      "text": "I liked beaming in and out of places sure but  it was really Marques' description of how this   tech could be used on YouTube that blew my mind:"
+    },
+    {
+      "start": 836,
+      "duration": 6,
+      "text": "\"This is one of those things where like people have asked, \"Marques what is the few future  of video?\" and to me I've always been trying to"
+    },
+    {
+      "start": 842,
+      "duration": 10,
+      "text": "make videos as realistic as possible which is  like first person view, wide angle, you see the   device in your hands and it almost feels like  a natural feature of that is like putting the"
+    },
+    {
+      "start": 852,
+      "duration": 10,
+      "text": "device in your hands so I'm now holding  the device right now there's like a very   flat version of that which is 360 video. I did  a 360 video which was a studio tour which was"
+    },
+    {
+      "start": 862,
+      "duration": 5,
+      "text": "moving through my studio and you could look  around which was you looking around the 360"
+    },
+    {
+      "start": 867,
+      "duration": 10,
+      "text": "sphere but you couldn't like look to the side  and like check underneath, the camera   didn't do that. And so this is like an added  dimension of that interactivity.\""
+    },
+    {
+      "start": 877,
+      "duration": 9,
+      "text": "\"Thank you so much, this is so so cool.\" \"Beam us out, Scotty!\""
+    },
+    {
+      "start": 886,
+      "duration": 12,
+      "text": "50 years ago, the idea that I'd be telling stories with my own little digital camera, on a channel that's all mine, was   totally unthinkable. Today made me wonder what  will making video look like 50 years from now?"
+    },
+    {
+      "start": 898,
+      "duration": 6,
+      "text": "I don't know. But from what we've learned today, I  think the future is going to be even more open to"
+    },
+    {
+      "start": 904,
+      "duration": 10,
+      "text": "more people's creativity. We're just going to  be able to do so much more. Advances in video   tech are allowing creators to tell stories that  would have been nearly impossible before, at a"
+    },
+    {
+      "start": 914,
+      "duration": 7,
+      "text": "pace and a budget that's just been unheard of. As  much as I love cool tech, it's not about how big"
+    },
+    {
+      "start": 921,
+      "duration": 5,
+      "text": "the screen or how many dots or how many cameras. It's about what we do with them."
+    },
+    {
+      "start": 926,
+      "duration": 8,
+      "text": "\"There's lots and lots of stories we just simply haven't explored yet that are ripe for the technology that exist today.\""
+    },
+    {
+      "start": 934,
+      "duration": 14,
+      "text": "So the only question left is: What story will you tell?"
+    },
+    {
+      "start": 948,
+      "duration": 8,
+      "text": "\"I'm gonna have Cleo choreograph an MKBHD  video. She'll do the whole video and I won't   even touch, I won't lift a finger, it'll be amazing. it'll be great."
+    },
+    {
+      "start": 956,
+      "duration": 3.0,
+      "text": "Coming soon, our next collab..."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[00:00] There is a field where freshers are earning up to 10 lakhs, but 70% of applicants are still not getting hired.
+[00:07] Most people think that AI or ML engineering means being able to prompt Chad GPT. Well, but that's also like thinking that if you know how to use
+[00:14] Google, it qualifies you to build Google. So, here is what an AI ML engineer actually does. They build the systems that learn. So, they decide how
+[00:23] raw data can become intelligent models to solve real world problems. For example, Netflix's recommendation feature, fraud detection in banking
+[00:31] apps, or your voice recognition in Alexa. All of those don't exist without ML engineers designing how the system learns from millions of data points. So,
+[00:40] chat GPD is just the base product. ML engineers design how the product will learn and you too can learn this skill
+[00:48] completely free of cost. First is begin with your Python basics, but do not skip your linear algebra and statistics.
+[00:54] Search for Andrew Neng machine learning free code camp on YouTube. Google's ML crash course is also completely free.
+[01:01] Then move to building real models.
+[01:03] Practice classification and regression on actual data sets using scikitlearn.
+[01:08] Anyone can train a model on a clean data set. But the real skill is ML ops. Only after that do you touch deep learning,
+[01:15] TensorFlow or PyTorch, neural networks and training models at scale. In this role, freshers start around 5 to 10
+[01:22] lakhs perom. But with experience that can jump to 18 to 35 lakhs per anomo. The world does not need more prompters.
+[01:29] It needs more builders. Follow full disclosure for more such gone debt.

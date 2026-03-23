@@ -1,0 +1,116 @@
+[00:00] Groww is India’s number one stockbroker today. Out of every three new SIPs, one is created through Groww.
+[00:06] But surprisingly, this multi-thousand-crore company was built by the son of a farmer, who came from a village that didn’t even have an English-medium school.
+[00:16] At just seven years old, he had to live away from his parents. Lalit Keshre was born in a village called Lepa in Madhya Pradesh.
+[00:25] The village was so underdeveloped that his parents had to send him to Khargone city to get a better education. He stayed with his maternal grandparents there.
+[00:33] Luckily, that same year, the first English-medium school opened in Khargone, and Lalit became its forty-second student.
+[00:39] He was an average student, but somehow he topped his class in the second grade. After this, his grandfather praised him with just one word: “Good", only good.
+[00:48] But that one word inspired him throughout his life to always strive for excellence. Years later, while in school, Lalit spotted a thick book in the library.
+[00:58] The principal told him that it was for IIT-JEE preparation — one of the toughest exams in India.
+[01:04] Until that day, neither Lalit nor any of his classmates had even heard of IIT.
+[01:09] But because the principal described it as a “complicated exam,” Lalit decided that was exactly what he wanted to prepare for.
+[01:16] He subscribed to the postal-based coaching program of Brilliant Tutorials. Every month, he received study materials delivered by post.
+[01:23] He prepared day and night, completely by himself. He took the exam and got selected for IIT Bombay in Microelectronics Engineering.
+[01:32] At IIT, while other students focused only on campus life, placements, and grades, Lalit’s approach to life was different.
+[01:39] Because of pollen on campus, he often suffered from allergies.
+[01:43] So he applied his engineering knowledge practically and created an allergen detector device that warned him in advance about allergens in the environment.
+[01:53] This proved that he already had a passion for problem-solving and entrepreneurship. Apart from this, IIT gave Lalit exposure to the stock market.
+[02:02] He started watching financial news, tracking capital markets, and even bought a share worth ₹80 using his scholarship money.
+[02:09] Back then, opening a stock market account meant standing in long lines, filling out physical paperwork, and paying high brokerage fees.
+[02:17] But Lalit had no idea that one day, he would solve this exact problem for the entire country.
+[02:24] After graduating from IIT, Lalit joined Ittiam Systems. It was an Indian company that built video-streaming software or clients like Google and Netflix,
+[02:34] ensuring videos could reach users without delay. Working there, Lalit realised the power of video content.
+[02:42] He remembered how, in childhood, he had to live away from his parents just to get a good education, and even for IIT, he had prepared without any guidance.
+[02:51] So in 2011, he started Eduflix — basically, a Netflix for education.
+[02:58] The idea was to bring India’s best teachers online and deliver quality education across the country through live streaming.
+[03:05] Surprisingly, Lalit came up with this idea years before Unacademy, BYJU’S, or PW. But ironically, that very fact also became the reason Eduflix failed.
+[03:15] At that time, India’s infrastructure wasn’t advanced enough to support large-scale video streaming. Nor did every household have a laptop or smartphone.
+[03:23] So after nearly three years of effort, Eduflix shut down. But this failure taught Lalit a massive business lesson:
+[03:31] “Timing is everything in a startup.” After this crushing failure, Lalit decided to join India’s biggest startup — Flipkart.
+[03:40] While working there, an incident occurred during Raksha Bandhan. Due to a technical error, many Rakhi orders were cancelled.
+[03:47] Flipkart could have just sent an apology email and closed the matter. But that night, 10–15 engineers stayed back in the office,
+[03:55] packed Rakhis themselves, and ensured customers received them on the day of Raksha Bandhan.
+[04:00] This incident taught Lalit how important customer obsession is for building a successful business. He also observed that the faster the delivery,
+[04:09] the higher the customer satisfaction.
+[04:12] That’s when he thought — not of three-day, two-day, or one-day delivery — but one-hour delivery.
+[04:19] He even ran a pilot project called Flipkart Quick. Basically, the same concept that Zepto, Swiggy, and Blinkit are using today, Lalit had already piloted in 2015.
+[04:28] But again, due to a lack of infrastructure, the idea couldn’t scale up then. Flipkart was a fantastic place to work, but Lalit had bigger dreams.
+[04:39] He wanted to build a startup that would be as impactful as Flipkart. His only goal now was to choose co-founders who were better than himself.
+[04:48] Soon, Harsh Jain, Neeraj Singh, and Ishan Bansal joined him — all three were working at Flipkart at the time.
+[04:55] Once the team was formed, it was time to come up with a startup idea. Every Sunday, they began meeting for breakfast.
+[05:01] Surprisingly, they found themselves talking about the same thing every time — the stock market and investing.
+[05:08] They kept asking: Why is opening a Demat account so painful? Why are mutual funds so complicated?
+[05:14] And why are only 2 crore Indians investing in mutual funds when 20 crore have the money to do so?
+[05:22] Around this time, India was witnessing the Digital India initiative, Aadhaar-enabled eKYC, and the entry of Jio.
+[05:29] That meant, unlike Eduflix and Flipkart Quick, this time the infrastructure was ready. So they decided to build a startup in the financial services space.
+[05:39] Before moving forward, they made an important announcement:
+[05:41] we are hiring talented freelance researchers and video editors who can take our content to the next level.
+[05:48] Anyone interested could apply by sending an email to the given address. In the email, cover these three things: Why do you want to work with us?
+[05:56] How can you help our channel grow? And what is your past work experience (with work samples attached)?
+[06:02] Professionalism, tone, and writing style matter a lot. That's why download QuillBot’s Chrome extension before writing,
+[06:10] as it catches grammar, punctuation, and spelling mistakes in real-time and fixes them with one click. Its paraphrasing feature is a game-changer.
+[06:19] It helps to transform messages into formal, fluent, or creative styles.
+[06:25] Plus, its AI customisation makes it adaptable to different writing contexts. And QuillBot extension isn't limited to emails.
+[06:32] It works everywhere you write online: LinkedIn, Twitter, Google Docs, anywhere.
+[06:38] Basically, QuillBot helps you write clearly and professionally across emails, social media captions, YouTube scripts, and project reports.
+[06:47] The link to the extension and my email ID are both in the pinned comment and description. Now, coming back to the video. Finally, in 2017, they launched Groww,
+[06:55] a platform that would revolutionise simplicity in investing.
+[07:00] Initially, they launched only a website because they didn’t have the funds to build an app. The Groww website only offered mutual funds.
+[07:08] It provided all the information such as fund manager profiles, expense ratios, performance over the last 1, 3, 5, and 10 years, and risk ratings.
+[07:17] Users could check all this data and make their own investment decisions.
+[07:21] They thought, “If we get even 100 users in the first month, we’ll continue.” But in the very first month, 600 users joined without any paid marketing.
+[07:32] This small success was a huge achievement for the founders. They felt charged up. Month after month, Groww kept adding new users.
+[07:41] Meanwhile, co-founder and CTO Neeraj Singh built the Groww app, and finally, they received funding from renowned investors.
+[07:49] Groww had found its product-market fit. Now, it was time to scale this proven concept across India.
+[07:57] But Groww wasn’t alone in the market. Players like Zerodha, Upstox, and 5paisa were already offering discount broking services.
+[08:07] To compete, Groww had to do something unique. They noticed one common thing among competitors:
+[08:13] all were focused on direct stock investing and trading because that’s where the revenue potential was highest.
+[08:21] So Groww decided to do the exact opposite. They started with extremely simple products,
+[08:29] where even beginners could easily invest — mutual funds.
+[08:33] They also made another bold decision to completely stop offering regular mutual funds and offer only direct ones.
+[08:40] Regular funds charged users 1 to 1.5% extra commission, which the platform kept.
+[08:48] But Groww, thinking of customer benefit, made its commission completely zero. As a result, from 2017 to 2021,
+[08:55] Groww had almost no meaningful revenue for four years. But during that time, they built a base of nearly 2 crore registered users who trusted Groww.
+[09:05] So when they finally launched stock trading, 1.8 lakh Demat accounts were opened on day one.
+[09:11] Groww charged zero account-opening fees and zero annual maintenance charges, while competitors still charged both.
+[09:20] Instead, Groww charged brokerage only on buy/sell transactions because the focus was still not revenue, but trust.
+[09:28] One by one, new products were launched: ETFs, IPOs, intraday trading, F&O, and more.
+[09:34] The platform that started as a mutual fund service now had the vision to offer every kind of financial service.
+[09:42] When they launched stock trading and began monetising, their revenue exploded from ₹52.7 crore in FY21 to ₹4062 crore in FY25,
+[09:54] about 77 times growth in just four years. But success doesn’t come merely from launching multiple products.
+[10:01] The real secret behind their success was customer obsession.
+[10:04] Even today, CEO Lalit Keshre personally uses the Groww app for two hours daily and interacts directly with customers to gain the same perspective as the users.
+[10:15] Every employee, whether engineer, designer, or even Lalit himself, regularly works in customer support to understand real user problems.
+[10:26] If a user faces issues in eKYC or doesn’t understand the process, Groww’s customer support executives personally visit their homes to collect signatures.
+[10:34] But they took customer obsession to an entirely new level in 2023. SEBI released a report showing that 9 out of 10 people trading in F&O were losing money,
+[10:44] meaning 90% of them were failing. So Groww introduced features that benefited users,
+[10:51] even if it meant revenue loss for the company. If a user continuously incurred losses, Groww automatically blocked their trading,
+[10:59] depending on loss amount and income level. If the market was too volatile, Groww allowed users to pause F&O trading.
+[11:06] And if users exceeded their safe limit, they received warnings. This showed that Groww’s focus was on building long-term loyal customers.
+[11:15] When users saw that Groww’s features helped them reduce losses and genuinely build wealth, they stuck with the platform.
+[11:23] The longer users invested through Groww, the more chances Groww had to earn revenue. As a result of this customer obsession,
+[11:32] 70–80% of Groww’s users today join the platform purely through word of mouth. Finally, looking at Groww’s marketing strategy, it doesn’t even feel like marketing.
+[11:41] They completely flipped the traditional marketing model. While competitors spent crores on TV ads, celebrity endorsements, and influencer marketing,
+[11:50] Groww focused entirely on education. Today, they run 19 educational YouTube channels.
+[11:57] Their main channel has 2.4 million subscribers,
+[12:00] plus seven regional-language channels — Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, and Bengali,
+[12:06] helping them reach non-English-speaking Tier 2 and Tier 3 audiences.
+[12:11] They’ve also launched specialised channels like Mutual Funds by Groww, IPO Review by Groww, and Money Talks by Groww for personal finance.
+[12:19] On the internet, they’ve created over 60,000 educational pages, which mainly of three types: educational articles,
+[12:27] thousands of individual stock pages with real-time data, and over 200 calculators.
+[12:34] So when someone searches “What is a mutual fund,” “TCS share price,” or “SIP calculator,” Groww’s web page appears on the first page of the search engine thanks to brilliant SEO.
+[12:44] As a result, millions visit Groww’s website every month, get educated, and eventually start trusting the platform.
+[12:52] But they knew digital marketing alone wouldn’t suffice. So in 2020, they launched the “Ab India Karega Invest” campaign.
+[13:00] They toured over 250 cities — 60% of them Tier 2 and Tier 3
+[13:08] — conducting free workshops and conferences with industry experts to teach people how to invest through Groww.
+[13:16] What are mutual funds? How do SIPs work? How to manage risk? etc. Essentially, Groww replaced marketing with education.
+[13:25] When millions of users learned the basics of investing and personal finance from Groww for the first time, they built immense trust in the brand.
+[13:32] So when they finally decided to start investing, they naturally chose Groww. Of course, today, for brand awareness,
+[13:40] Groww has also started investing in TV ads, cricket sponsorships, and influencer marketing.
+[13:45] But if you notice, every one of Groww’s marketing strategies had one main goal -- to win the customer’s trust.
+[13:51] Even if some marketing decisions didn’t look practical on paper due to low immediate ROI,
+[13:59] the brand name and logo reached millions of Indians, building credibility that would pay off for years to come.
+[14:08] In one interview, Lalit Keshre said he isn’t building this company for today or next year, but for the coming decades.
+[14:16] And because of this long-term vision, Groww’s growth continues to compound every year. Today, it operates across 98% of India’s pin codes.
+[14:25] With around 27% market share, it is India’s number one stockbroker.
+[14:29] But the most remarkable thing is that Groww achieved all this not by exploiting customers, but by educating them. This was the story of Groww.
+[14:39] If you liked the video, I’d recommend watching this video next.

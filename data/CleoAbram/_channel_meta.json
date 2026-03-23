@@ -1,0 +1,290 @@
+{
+  "name": "CleoAbram",
+  "url": "https://www.youtube.com/@CleoAbram/videos",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "last_updated": "2026-03-23T04:35:50.638405+00:00",
+  "total_discovered": 54,
+  "ingestion_stats": {
+    "total": 37,
+    "ok": 37,
+    "low_quality": 0,
+    "no_transcript": 0,
+    "no_speech": 0
+  },
+  "completion_percentage": "68.5%",
+  "videos": [
+    {
+      "video_id": "p60I9LNHNxg",
+      "title": "Why This Olympic Sport Bothers Physicists",
+      "status": "OK"
+    },
+    {
+      "video_id": "kr3iXUcNt2g",
+      "title": "The Craziest Experiment Humans Have Ever Built",
+      "status": "OK"
+    },
+    {
+      "video_id": "LOn-mmezykQ",
+      "title": "Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)",
+      "status": "OK"
+    },
+    {
+      "video_id": "iX6w1P60m8M",
+      "title": "The Real Reason We Should Revive Extinct Animals",
+      "status": "OK"
+    },
+    {
+      "video_id": "qmQ_lQOBdq4",
+      "title": "Why NASA Is Sending This Truck To The Moon",
+      "status": "pending"
+    },
+    {
+      "video_id": "hmtuvNfytjM",
+      "title": "Sam Altman Shows Me GPT 5... And What's Next",
+      "status": "OK"
+    },
+    {
+      "video_id": "znWFsB0f0EA",
+      "title": "5 Wild Experiments In Zero Gravity (Bonus Episode)",
+      "status": "pending"
+    },
+    {
+      "video_id": "5zJbE7J3X8I",
+      "title": "Why Gravity Is A Lie, explained in Zero G",
+      "status": "OK"
+    },
+    {
+      "video_id": "0OXaanDHENI",
+      "title": "Editing Your DNA, with Nobel Prize Winner Dr. Jennifer Doudna",
+      "status": "pending"
+    },
+    {
+      "video_id": "bY1EQ6HD-ao",
+      "title": "What Bothers Physicists About Black Holes (Interview with Brian Cox)",
+      "status": "pending"
+    },
+    {
+      "video_id": "BKIkTKqWMfg",
+      "title": "What If I Fell Into A Black Hole?",
+      "status": "pending"
+    },
+    {
+      "video_id": "enevSuDgf3U",
+      "title": "How Disney Built A Realistic Lightsaber",
+      "status": "OK"
+    },
+    {
+      "video_id": "7ARBJQn6QkM",
+      "title": "NVIDIA CEO Jensen Huang's Vision for the Future",
+      "status": "OK"
+    },
+    {
+      "video_id": "RDoVLHaYfgM",
+      "title": "Dinosaurs Were Weirder Than We Thought",
+      "status": "pending"
+    },
+    {
+      "video_id": "N0-ZZ9pLyWw",
+      "title": "What If You Just Keep Digging?",
+      "status": "pending"
+    },
+    {
+      "video_id": "LrHaXyv8eO0",
+      "title": "Why Can't I Vote Online?",
+      "status": "pending"
+    },
+    {
+      "video_id": "oX7OduG1YmI",
+      "title": "The Future Mark Zuckerberg Is Trying To Build",
+      "status": "pending"
+    },
+    {
+      "video_id": "JbKzSDfDdns",
+      "title": "Something Huge Is Coming...",
+      "status": "OK"
+    },
+    {
+      "video_id": "KmxNtDMAj2A",
+      "title": "Why This Robot Kills Weeds With Lasers",
+      "status": "OK"
+    },
+    {
+      "video_id": "pfIWxFIVP_Y",
+      "title": "The Shoe That Broke Running",
+      "status": "OK"
+    },
+    {
+      "video_id": "98R8ObXlR1E",
+      "title": "The Truth About Egg Freezing",
+      "status": "pending"
+    },
+    {
+      "video_id": "FerFv7BZAwo",
+      "title": "I Tested NASA's New Space Suit (Ft. Axiom Space)",
+      "status": "OK"
+    },
+    {
+      "video_id": "bCmwCkNY85g",
+      "title": "What's Really Happening At CERN",
+      "status": "pending"
+    },
+    {
+      "video_id": "VJgdOMXhEj0",
+      "title": "Formula 1 Cars, Explained with Max Verstappen",
+      "status": "OK"
+    },
+    {
+      "video_id": "n7hJlyVDEc8",
+      "title": "The Real Reason To Care About The Apple Vision Pro",
+      "status": "OK"
+    },
+    {
+      "video_id": "DecYIeB44aE",
+      "title": "I Tested A Robot Dog. It's Not What I Thought.",
+      "status": "OK"
+    },
+    {
+      "video_id": "2jAH-51feAA",
+      "title": "Supersonic Planes Are Coming BACK",
+      "status": "OK"
+    },
+    {
+      "video_id": "nAgTgwak7ME",
+      "title": "I Challenged Boston Dynamics' Famous Atlas Robot",
+      "status": "OK"
+    },
+    {
+      "video_id": "Ey75Xw_ikqs",
+      "title": "AI Music, Explained with Spotify CEO",
+      "status": "OK"
+    },
+    {
+      "video_id": "Cz24meZACsY",
+      "title": "The Ocean Is Deeper Than You Think. We Need Better Maps.",
+      "status": "pending"
+    },
+    {
+      "video_id": "IMbBxMrIFjQ",
+      "title": "Why More Sports Need Robot Referees",
+      "status": "OK"
+    },
+    {
+      "video_id": "MWHN6ojlVXI",
+      "title": "What We Get Wrong About AI (feat. former Google CEO)",
+      "status": "OK"
+    },
+    {
+      "video_id": "u7pu1cQBqtQ",
+      "title": "How Do Sci-Fi Movies Look So Real? (feat. MKBHD)",
+      "status": "OK"
+    },
+    {
+      "video_id": "fpwDi8f6TLQ",
+      "title": "The Truth About Psychedelics",
+      "status": "OK"
+    },
+    {
+      "video_id": "IzQ3gFRj0Bc",
+      "title": "The Big Lie About Nuclear Waste",
+      "status": "OK"
+    },
+    {
+      "video_id": "e3fz3dqhN44",
+      "title": "Quantum Computers, explained with MKBHD",
+      "status": "OK"
+    },
+    {
+      "video_id": "USmu0scNcSs",
+      "title": "What I Wish Everyone Knew About Cancer",
+      "status": "OK"
+    },
+    {
+      "video_id": "8foQERR0mc0",
+      "title": "The Electric Formula 1, Explained",
+      "status": "OK"
+    },
+    {
+      "video_id": "xsikwXnUcBs",
+      "title": "We Tried To Do Nuclear Fusion",
+      "status": "OK"
+    },
+    {
+      "video_id": "DlQskUgzlHM",
+      "title": "Why Aren't Planes Electric Yet?",
+      "status": "OK"
+    },
+    {
+      "video_id": "piPbnKdve9M",
+      "title": "Nuclear Fusion, explained for beginners",
+      "status": "pending"
+    },
+    {
+      "video_id": "NiJeB2NJy1A",
+      "title": "The Real Fight Over AI Art",
+      "status": "OK"
+    },
+    {
+      "video_id": "Hr6GPYCHTfA",
+      "title": "The Two Opposite Futures of Self-Driving Cars",
+      "status": "OK"
+    },
+    {
+      "video_id": "ampB1laCWF4",
+      "title": "How This Telescope Searches For Aliens",
+      "status": "pending"
+    },
+    {
+      "video_id": "6OknnFuDQE8",
+      "title": "This Gene-Edited Tree Captures More CO2. Should We Plant It?",
+      "status": "pending"
+    },
+    {
+      "video_id": "SSdsncLXLYs",
+      "title": "Formula 1, Explained for Rookies",
+      "status": "OK"
+    },
+    {
+      "video_id": "fundOLJehWA",
+      "title": "Can My Dog Live 80 Years?",
+      "status": "OK"
+    },
+    {
+      "video_id": "mLYMAkgvZsI",
+      "title": "Would You Use An Artificial Womb? (I Would)",
+      "status": "OK"
+    },
+    {
+      "video_id": "v6k7yBBhuZo",
+      "title": "The Big Misconception About Clean Energy",
+      "status": "pending"
+    },
+    {
+      "video_id": "Q089i8RQPB0",
+      "title": "Why Elon Musk is Really Building Starlink",
+      "status": "OK"
+    },
+    {
+      "video_id": "451V-lBLfuo",
+      "title": "Why You Can't Just Screenshot an NFT",
+      "status": "OK"
+    },
+    {
+      "video_id": "sFbghkE0WYo",
+      "title": "Metformin, the Big New \"Anti-Aging\" Drug, Explained",
+      "status": "OK"
+    },
+    {
+      "video_id": "cCE1i2tJQQY",
+      "title": "Fracking for Clean Energy (wait, what?)",
+      "status": "pending"
+    },
+    {
+      "video_id": "54IteWmegk0",
+      "title": "Why I left Vox",
+      "status": "OK"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+[00:00] Why did we get this tender in those states where the BJP government was present?
+[00:08] Eduquity, which used to have a revenue of 7 crores, is now at 135 crores. It came to be known that BJP MLA Sanjeev Khuswaha's NGO was running this NRI college.
+[00:23] Eduquity lost NTA's tender, the tender was cancelled. It lost MP's tender, the tender was cancelled. It also lost SSC's tender, the tender was cancelled.
+[00:30] After losing the tender, they were cancelled. Rules were changed. The tender came again. And then, they won the tender.
+[00:40] By mistake, when the names of Vensysco and Innovatiview were caught in the job posting.
+[00:45] In the technical round, the area where TCS was strong, its marks were reduced and given to Eduquity.
+[00:54] This is not a rich kid who will take out a 500 rupee note in the center and buy a burger to eat.
+[01:02] Look, before moving ahead, I would like to discuss a common concern.
+[01:05] Due to India's geographical positioning, dark spots, pigmentation and tanning are common skin concerns.
+[01:13] And our Indian skin is melanin-rich. Melanin is a pigment cell that defines our skin tone. It protects our skin from UV radiation.
+[01:22] But if it is overproduced, it can also cause pigmentation.
+[01:25] Due to intense UV exposure and increasing air pollution, our skin's melanin production is increasing and collagen is decreasing.
+[01:32] Due to this, skin texture and complexion are becoming uneven. And pigment spots have become a common skin concern.
+[01:39] And when it comes to treating skin, you can trust Dermatouch Bright and Even Skin Tone Face Wash which contains Niacinamide, which helps in skin brightening.
+[01:50] Kojic Acid, which prevents dark spots and uneven skin tone and Vitamin E to protect and nourish the skin.
+[01:57] This brand, Dermatouch – Doctors Recommended India Pharmacy – makes quality products for all skin concerns.
+[02:04] The starting price of this 4-star rated face wash is Rs. 149, which is pocket friendly.
+[02:09] It is available on their website - dermatouch.com and on platforms like Amazon, Flipkart, Blinkit and also at your nearest pharmacy.
+[02:17] So let's come back to the topic.
+[02:18] Look, before independence, there was a separate commission for the hiring of higher positions in the British government. Federal Public Service Commission, i.e., FPSC.
+[02:28] They used to conduct government job exams and hire people. But the problem was that during recruitment, there was racial discrimination.
+[02:35] There was political interference. Referrals were required. If someone criticised the British, they would not be hired.
+[02:41] After independence, there was a discussion that the previous exam system was unfair.
+[02:47] And if India wants to move forward, there shouldn't be political interference in the bureaucracy. Otherwise, the party that comes to power will recruit according to its benefits.
+[02:56] Looking at all these things, in 1950, when our constitution was made, the old Federal Public Service Commission of the British Raj was changed to the Union Public Service Commission, UPSC.
+[03:07] And UPSC was included in Constitutional Status Article 315-323. And by doing this, the power of UPSC, its role,
+[03:16] and major changes in it, could not be changed on their own. For that, under Article 368, a Parliamentary Constitutional Amendment had to be made.
+[03:26] The advantage of this was that the top-level government jobs, like IAS, IPS, IRS, had a centralized recruitment body.
+[03:34] Now this was made, but the subordinate level work under them, like data operators, stenographers, inspectors, clerks,
+[03:42] for their recruitment, no centralized body was made.
+[03:45] And when nothing like this was done, because of this for these subordinate level jobs, every department and state of the government started announcing different vacancies according to their needs.
+[03:57] All departments used to hire with their own syllabus, different exams, different interviews. And because of this, the problem was that for the same education-level jobs,
+[04:06] students had to fill different forms again and again, and they had to take different exams. Because of this, students wasted their money and time.
+[04:13] And even government resources were wasted on the same work again and again.
+[04:17] On 4th November 1975, the Subordinate Services Commission, SSC, was formed which was later renamed Staff Selection Commission in 1977.
+[04:29] By creating this commission, a centralized body was made. And for the same rank jobs, common exams were conducted.
+[04:35] But the problem was that SSC was not kept under Constitutional Articles 315-320 like UPSC.
+[04:43] And from here, the roots of all problems began. Because whichever government came to power, started running it according to its convenience.
+[04:49] At this time, when SSC was created, there were no private players in it. Offline written exams were held and SSC itself appointed the examiners.
+[04:57] And the question papers were printed in the secure government press. And government buildings, schools, and colleges were supervised by government teachers during exams.
+[05:08] It meant that all the work was under the government. Nothing was private in SSC at this time.
+[05:15] When this system was implemented, there were no problems for many years.
+[05:19] But by the year 2000, as the level of education increased in India, the number of applicants also increased rapidly in SSC.
+[05:27] More than 30 lakh applications started coming in altogether. And because of this, cases of mismanagement also started coming up. Results started getting delayed.
+[05:34] It used to take 8 months for results to be published.
+[05:36] Government resources were limited, so due to mismanagement, sometimes the question paper was leaked from the printing press. Sometimes it leaked during transport and storage.
+[05:44] But even after this, at this stage, private players were not involved. Private vendors were used only for the raw material of the paper and nothing else.
+[05:53] For many years, this process of SSC was continued.
+[05:58] But on 29th September 2013, when CBI exposed the question paper leak of the SSC CGL Tier 2 exam,
+[06:06] because of this incident, media headlines were very high. The credibility of SSC was greatly shaken. The Government of India and the Department of Personnel and Training (DOPT)
+[06:16] came into action immediately. And after 2 years of multiple planning, in 2015, it was decided that to deal with these issues,
+[06:25] SSC exams would now have to be conducted through CBT, i.e., Computer Based Test.
+[06:30] The plan was simple: they would create the question paper of SSC and store it in encrypted form on a secure server,
+[06:36] and on the day of the exam, students would sit at computers to take the exam and the question paper would be decrypted there.
+[06:42] Their thought behind this was that the incidents of paper leaks at every step would end. A plan was made to conduct computer-based tests in SSC.
+[06:51] But to implement this, digital infrastructure was needed throughout the country.
+[06:56] Computer labs were required so that students could take the exam using computers in these labs. Secure exam software was required in which an encrypted question paper would be loaded.
+[07:06] To conduct this exam in multiple cities, network and server management were required, which the government didn't have.
+[07:12] And to solve this problem, private companies entered SSC from here.
+[07:18] On 15th January 2016, SSC issued a formal tender to conduct CBT – Computer Based Tests – in the country so that multiple private companies with the capability could apply.
+[07:31] While publishing this tender, SSC had kept a simple rule.
+[07:34] According to this rule, only those companies could apply that had an average turnover of 75 crores in 3 years and had conducted exams through computers for at least 4 years.
+[07:46] This is a copy of that tender, please read it once. When SSC conducted this tender and the whole process was completed,
+[07:52] on 12th April 2016, SIFY Technologies Ltd. won the tender.
+[07:57] After winning the tender, SIFY had to conduct the first exam of SSC-CGL, which was scheduled to start on 27th August 2016.
+[08:05] Now when this exam starts on 27th August 2016, problems begin as soon as the exam starts.
+[08:11] Somewhere the server was down, somewhere there was a power backup problem, somewhere the system was freezing. Somehow it was managed, but on 17th February 2018,
+[08:19] when the main exam was also conducted through computers, the same problems started. And along with this, another issue came up.
+[08:26] Using Anydesk software for remote access, cases of cheating started surfacing.
+[08:31] And images of the secured encrypted question paper started going viral on social media and WhatsApp.
+[08:38] There was a lot of chaos in the entire media. Because of this paper leak, an FIR was filed against 17 people. And the surprising thing was that 10 of them were employees of the vendor company, SIFY.
+[08:48] This case went to the CBI, whose investigation is still going on. When this incident happened, SSC again decided in 2018 to deal with it,
+[08:58] that this time they would give the tender to a big and stable company which could conduct the exam properly. And for this, SSC hardcoded the rules of the tender.
+[09:06] This is a copy of that tender. In the bidding process of this tender, SSC made two categories for vendor companies.
+[09:13] In the first big category, companies that had conducted computer-based exams for more than 50 lakh students at once in the past could apply.
+[09:23] And in the second small category, companies could apply that had conducted computer-based exams for less than 50 lakh students.
+[09:31] Many companies applied for this tender. TCS, Tata Consultancy Services, also applied. But no other company could compete with TCS.
+[09:39] TCS won in both the categories created by SSC. TCS had the experience of handling such large projects.
+[09:47] It had good infrastructure with a 24x7 help desk, security, and cloud. The network of local test centers was very strong.
+[09:55] So after winning this tender, in 2018, TCS started conducting SSC exams. With only minor problems, SSC exams were conducted smoothly.
+[10:05] There were no major problems. So in 2018, SSC changed the rules and brought this new tender,
+[10:12] where TCS won the contract. From here, the major problems of SSC were solved.
+[10:18] Now see, TCS was conducting SSC exams continuously from 2018. And on the other side entered Eduquity Career Technologies Pvt. Ltd.
+[10:30] The entire on-going commotion of SSC, its center of attraction was this – Eduquity. Why and how was everyone talking so much about it?
+[10:39] You will get to know in a while. This Eduquity company, after it was registered in 2000, used to conduct computer exams with small projects.
+[10:48] It even conducted one exam in Saudi Arabia. But the real game of Eduquity changed 10 years after the company's registration,
+[10:56] i.e., in 2010, when the BJP government of Gujarat removed MeritTrac – the company conducting the entrance exams of Gujarat state – and brought in Eduquity.
+[11:08] A lot of questions arose because MeritTrac was conducting the exams properly. But it was said that Eduquity did it for less money.
+[11:16] So the Gujarat government gave this project to Eduquity. After getting this Gujarat government project, Eduquity's frequency of conducting exams increased.
+[11:25] Eduquity conducted many computer-based tests at the national level at that time. It started conducting exams in BITS Pilani, HAL, etc. After this incident ~
+[11:33] On one side, TCS was winning SSC tenders and conducting SSC exams. On the other side, Eduquity was gradually moving forward.
+[11:42] And when the government changed in 2014, under the concept of Digital India, the tendency to conduct digital exams also increased.
+[11:50] So the companies conducting computer-based exams increased rapidly. Now, after this, the year 2020 begins.
+[11:56] And in this year, the Directorate General of Training (DGT) conducted the government's skill development exams in India.
+[12:04] And its exam was also conducted computer-based. So DGT released a tender for this in 2020. TCS, which had already won the tender in 2018 and was conducting SSC exams, applied.
+[12:14] And on the other side, Eduquity was conducting small exams and moving forward. Both these companies, TCS and Eduquity, applied for this tender by DGT.
+[12:23] Now after applying, the process started.
+[12:26] And in the same month, on 15th June 2020, DGT declared Eduquity ineligible in this tender because it was a very small company.
+[12:34] For this tender, the company’s 2-year average turnover had to be around 50 crores. This is a copy of the result. In this, Eduquity was declared ineligible.
+[12:42] It means that after being declared ineligible, until DGT gave official permission again, Eduquity could not conduct DGT exams.
+[12:52] Generally, when such companies are declared ineligible in a department,
+[12:56] this is not a strict rule, but generally it happens that the Central Public Procurement Portal or the Press Port is informed about this so that departments conducting different exams are on the same page and know about it.
+[13:06] So on 15th June 2020, DGT declared Eduquity ineligible. And after 5 months, on 13th November 2020, NTA – the National Testing Agency,
+[13:16] which conducts exams on a larger scale than DGT in India, like JEE Main, NEET, CMAT – all these exams,
+[13:23] NTA also issued a tender to conduct its exams. This is its copy. When this tender was issued, Eduquity, which had already been declared ineligible by DGT,
+[13:33] applied for this NTA tender on 7th December 2020. In the NTA tender, big giants like TCS had also applied.
+[13:43] So you will say, Eduquity, which was already ineligible in DGT’s small-scale exam tender, what would it do in such a large-scale NTA tender?
+[13:52] See, it’s not that simple. This Eduquity will do big things in the future. Just wait for a while. The tender issued by NTA, this is a copy of that tender.
+[14:02] There were two rounds, technical and financial. When the company’s assessment started for this tender, Eduquity’s technical parameters were low.
+[14:09] So it was not able to meet the minimum requirement criteria. NTA rejected Eduquity in the first round of this tender itself. This is a copy of that day’s technical scoring.
+[14:18] And this is a copy of that day’s result. When Eduquity was out, TCS and NSEIT were left, and one of them had to get NTA’s tender.
+[14:27] But before TCS or NSEIT could win, the tender was cancelled after Eduquity was out.
+[14:33] And only 4 months later, on 29th April 2021, NTA issued a tender again.
+[14:40] But this time, when NTA issued the tender, the rules were changed. Which rules were changed, and what was their impact? I’ll tell you that too.
+[14:47] So the first NTA tender in 2020, in which Eduquity was rejected,
+[14:52] in that, if a vendor company’s IT staff strength was less than 500, they got 0 marks in the technical round.
+[14:59] If you go to page 38 of that old tender, at point 1.1, it is mentioned they would get 0 marks.
+[15:07] Now in the new tender NTA issued, at page 38, point 1.1, it was changed to:
+[15:15] if a vendor company’s IT staff strength is more than 251, they will get full marks, i.e., 8 marks.
+[15:23] If you look at Eduquity’s total employee strength on LinkedIn, it shows between 201 and 500. And this is recent. There are many auditing websites too.
+[15:31] They showed Eduquity’s employee strength as 496 till 7th April 2024. That means Eduquity had less than 500 employees,
+[15:39] and this is 2024 data. In 2020, it would have been even less. So by doing this, where in the old tender Eduquity was getting 0, now it got 8 marks.
+[15:48] In the old NTA tender, the average turnover in the last 3 years had to be a minimum of more than 50 crores, which Eduquity did not have.
+[15:56] Eduquity's 3-year average turnover was 34.27 crores. This is a copy of Eduquity's financial report. You can pause and see.
+[16:03] I have also put all these documents in the description. You can read them from there too.
+[16:07] So in the old tender, the rule was 50 crores. When NTA brought a new tender, it reduced this to 10 crores.
+[16:16] Eduquity benefited from this too. Now TCS was already above 50 crores, so it didn’t matter. But Eduquity was gaining advantage from every rule.
+[16:25] You will find this on page 38 at point 3.1 of the old NTA tender. The rule was
+[16:31] that the vendor company applying should have conducted a computer-based test for more than 1,00,000 students in the past in a single shift.
+[16:39] When NTA brought a new tender, it was reduced to 35,000. TCS had already fulfilled the old criteria as well.
+[16:48] Eduquity benefited here too. So many rules were changed this way. So Eduquity, which was already rejected in the old tender in the first round, applied again in this new tender.
+[17:00] Eduquity, TCS, and other companies – their assessment started. And after 5 months, on 23rd November 2021, the result of this new NTA tender came out.
+[17:09] This is a copy of that result. Pause and see. So Eduquity, which was rejected in the first round of the same NTA tender, after the rule changes,
+[17:20] cleared the technical round. And in the financial round too, by bidding lower than TCS, Eduquity won.
+[17:26] What I mean is, by cancelling the old tender and changing the rules, in the new NTA tender,
+[17:33] Eduquity defeated a giant like TCS and won the contract. There were questions about this too.
+[17:39] In DGT, which was a small-scale exam, Eduquity was declared ineligible.
+[17:44] But in NTA, which was a large-scale exam, it defeated a company like TCS and won the tender.
+[17:50] And after winning, this is a copy of the MOU signed by Eduquity and NTA. Now this was about the tender.
+[17:56] But after winning, when Eduquity started conducting the NTA exam, problems began. There were technical glitches in exam centres.
+[18:05] In Choksi College, Bilaspur, 50% of the questions were not loading in exam centres. In Ranchi College, due to server failure, the second shift had to be completely cancelled.
+[18:15] In the admit card, the exam address was given as Pakistan border, Patti, and in the advance information slip, another address was given.
+[18:22] The exam was conducted in such a way that students had to approach the Supreme Court. Then the Supreme Court ordered re-exams for some students.
+[18:30] But the rest of the students did not get re-exams. There were many protests, but nothing changed. And it didn’t end here.
+[18:39] In Madhya Pradesh, there is a government agency called MPPEB. Earlier, it was called Vyapam and today it is called MPESB.
+[18:50] It conducts entrance and recruitment exams in MP. Exams like MP Patwari, MP TET – all these are conducted by MPESB in Madhya Pradesh.
+[19:01] When the NTA tender was announced, around the same time in Madhya Pradesh,
+[19:06] MPESB launched a new tender to conduct exams and invited private companies to bid.
+[19:13] In this tender too, Eduquity applied. Along with Eduquity, another company, NSEIT, applied. It also applied. Here too, the same process.
+[19:21] First, the technical round began. And when the technical round was over, the result came in the same month. This is a copy of that result.
+[19:29] If you look at this result, in this column the marks of NSEIT are written. And here, the marks of Eduquity are written.
+[19:38] In this result copy, look at segment A6 on page 4, which is the CMMI certification segment.
+[19:46] If there is a CMMI level 5 certification, 4 marks are given. If there is a CMMI level 3 certification, 3 marks are given.
+[19:56] If there is an additional ISO certification, then 1 extra mark will be given.
+[20:01] I am showing you this segment because Eduquity was given 5 marks in this section.
+[20:07] And these 5 marks would only be given if Eduquity had a CMMI Level 5 certification, not anything lower.
+[20:16] So the question here is whether Eduquity actually had a CMMI Level 5 certification or only a lower CMMI Level 3 certification.
+[20:27] Whether it was there or not, we will discuss that too. If you go to Eduquity’s website, all the small certifications are listed there.
+[20:37] But CMMI Level 5 certification is not mentioned anywhere. Now, if you want to accept this as a mistake, it may simply not have been written.
+[20:45] But if you check the CMMI Institute’s global official database, like PARS, Eduquity’s CMMI Level 5 is not visible there either.
+[20:56] Only CMMI Level 3 certification is visible, and that too of 2024. But what we are talking about here is the MP exam tender of 2020.
+[21:04] So this means that Eduquity did not have either CMMI Level 3 or Level 5 at that time.
+[21:11] In fact, in a 2019 pre-bid query, Eduquity itself admitted that they did not have a CMMI certification.
+[21:19] It was still in process. This was written exactly – you can pause and read it once. Along with this, Eduquity has a “Journey” column on its official website,
+[21:29] in which, year-wise, they have listed their achievements. Everything is mentioned. Every certification is mentioned year-wise in that journey.
+[21:37] CMMI Level 3 is also mentioned there, but only in 2024. In this entire journey, CMMI Level 5 certification is not mentioned anywhere.
+[21:46] The Level 3 that is mentioned is of 2024, not 2020.
+[21:50] Even on LinkedIn, Eduquity’s compliance manager – the one who provided CMMI certification – has mentioned in his profile that he provided Eduquity with CMMI Level 3.
+[22:02] And this compliance manager only started working with Eduquity in 2022.
+[22:07] So it means that at the time of the MP tender in 2020, Eduquity did not even have CMMI Level 3, let alone Level 5.
+[22:17] So how were they given 5 marks for this certification? That is the question.
+[22:25] So when MP’s tender was issued, when all the calculations were done and the final result came, NSEIT got 97, Eduquity got 83.
+[22:35] And after the financial round, when the result came in September 2020, Eduquity lost and NSEIT won.
+[22:42] The tender won by NSEIT was cancelled on 16th December 2021.
+[22:49] Then for a year, no tender was issued. In 2022, a new tender was issued again.
+[22:55] The assessment happened again, and this time Eduquity won. So what was the technical scoring? What was the process in the financial bid? All these details are missing from the website.
+[23:04] But Eduquity won this tender in MP as well. And after winning, Eduquity had to conduct MPTET and MP Patwari exams in Madhya Pradesh.
+[23:16] On 5th March 2022, Eduquity had to conduct the MPTET exams.
+[23:22] And as soon as the exams were conducted, controversy started again. Because Eduquity took this tender and handed it over to a Rajasthan company, Sai Educare Pvt. Ltd.
+[23:32] Reports started appearing in the media because, according to the rules, you cannot take a tender and give it to another company.
+[23:39] But still, no action was taken. After all these problems, exams began in Madhya Pradesh, and as soon as they started,
+[23:47] server problems, wrong enrollment, and questions not loading on the system occurred, and some people even brought mobiles into the exam centre.
+[23:54] But the biggest problem began when students started complaining about a paper leak. From the exam centre, this image started going viral on social media.
+[24:03] But the government department clearly denied it, saying this was fake news. No paper had been leaked.
+[24:08] But after a few days, when the department uploaded the model answer on the official page,
+[24:14] the screenshots that were going viral matched with it. After this, students started complaining about the paper leak everywhere.
+[24:22] And when the matter escalated, the same department removed the model answer link from its official page.
+[24:29] Across the country, thousands of SSC aspirants are protesting today. They are demanding fair exams and objecting to exam centers set at extremely far locations.
+[24:41] Students, parents, and teachers protested against this too, but nothing happened. On the contrary, next year, in 2023, MP Patwari exams were to be conducted.
+[24:50] That work was also given to Eduquity. And when the MP Patwari exam was conducted, the same technical problems started at the exam centers.
+[24:58] Students started complaining repeatedly that cheating was being done from exam centers by gaining access from unauthorized computers.
+[25:05] Another thing the students said was that the quota for caste and handicap certificates was also being misused in this exam.
+[25:12] But still, nothing happened. The real problem started when the result came.
+[25:17] Because when the result was announced, 114 students were selected, and out of the top 10 students,
+[25:26] 7 of them were from the same NRI college in Gwalior alone. And their roll numbers were in the same range.
+[25:32] And when the media asked questions related to the syllabus to the top students, they couldn’t even answer basic questions.
+[25:38] After this result came, the name of the NRI college was being mentioned a lot.
+[25:49] And when reports about this college started getting published, it was found that this college belongs to BJP MLA Sanjeev Singh Kushwaha.
+[25:56] But the official confirmation was still not available about what was going on in this college. There was, however, an official gazette notification of NCTE.
+[26:04] If you look at the second paragraph of the first page, it is written that this NRI college belongs to Gujarati Devi Siksha Parasar NGO,
+[26:12] and BJP MLA Sanjeev Singh Kushwaha is the secretary of this NGO.
+[26:16] And during the 2018 and 2023 elections, the affidavit he filed – at that time he was in BSP – even in that, he mentioned this NGO.
+[26:24] His wife also gave money to this NGO. This is a copy of it; pause and read it once. On July 12, 2023, Indian Express also covered this.
+[26:31] Now see, these back-to-back events were a trigger point. What was going on? Why were all the tenders being given only to Eduquity?
+[26:39] And why were they unable to conduct exams, with repeated paper leak allegations being filed?
+[26:43] And even then, why were these tenders being given only to Eduquity, and why was it getting tenders only in those states where BJP’s government was present?
+[26:50] And when the case of the NRI college came out, in which BJP’s MLA was involved, this started spreading even more widely.
+[26:56] So it created more chaos: Eduquity, which was very small in 2010, was still given a chance by Gujarat’s BJP government.
+[27:05] During Covid, its revenue was around 7 crores. By 2023, Eduquity’s revenue had reached more than 100 crores.
+[27:13] So what is going on here? From here, back-to-back protests started. There were slogans against the government.
+[27:19] Because of this, Madhya Pradesh’s CM Shivraj Singh Chauhan appointed retired High Court Justice Rajendra Kumar Verma and started an inquiry.
+[27:29] Along with this, a review order of results for the people whose center was the NRI college was also passed.
+[27:36] MP Patwari 2023’s recruitment appointments were stopped. The inquiry is still going on. The appointments of earlier candidates are still on hold.
+[27:43] Now when all this was going on in MP, it seemed that Eduquity would not get another tender. But the opposite happened.
+[27:50] In the same year, 2023, Maharashtra’s MBS CET tender was also given to Eduquity.
+[27:55] And in 2023, the SSC exam tender that TCS had won in 2018 was also going to expire that year.
+[28:06] So SSC also had to issue a new tender for private companies. Now see, SSC tenders are for all of India, so they are very big.
+[28:15] The rules are such that only big companies can easily apply for them. The SSC tender issued in 2018 – this is a copy of it.
+[28:22] According to these rules of SSC, Eduquity was not eligible for this tender. As you can see, Eduquity had not won any tender worth Rs. 100 crores.
+[28:31] SSC’s new tender was worth more than Rs. 250 crores. So practically, for Eduquity to win by defeating TCS was not possible.
+[28:37] What I mean is that if SSC’s old rules had remained the same, then Eduquity would not have been eligible.
+[28:44] But then came November 2, 2023. And on this date, SSC issued a new tender.
+[28:51] Now it issued the tender, but with changes in the rules. And when the tender was issued after changing the rules,
+[28:56] then Eduquity, which was not eligible under the old rules, became eligible under the new rules. And how did this happen?
+[29:04] Let me explain that too. According to the old rules of SSC, there were two categories.
+[29:11] In one category, companies could apply if they had conducted exams for more than 50 lakh students at once in the past. This was the big category.
+[29:19] And in the second small category, companies could apply if they had conducted exams for less than 50 lakh students at once in the past.
+[29:27] These were the two categories under SSC’s old rules.
+[29:29] Now when SSC issued this new tender, this rule was changed, and the student limit was decreased from 50 lakh to 10 lakh.
+[29:39] And because of this, Eduquity, which conducted small-scale exams, became eligible.
+[29:45] But still, under SSC’s old rules, Eduquity was not eligible based on financial capability.
+[29:53] According to the old SSC rules, in the big category, if a company was applying,
+[29:59] then its revenue for 3 financial years had to be at least 100 crores every year.
+[30:05] If applying for the small category, even then the company’s revenue for the last 3 years had to be at least 20 crores every year. But during Covid, Eduquity’s revenue was around 7 crores.
+[30:15] Next year, it became 59 crores, and the year after, it became 102 crores. This growth was very good,
+[30:21] but according to SSC’s rules, it still didn’t fit, because it wasn’t asking for an average. It wanted revenue for every year. Meaning, even if it was 5 crores one year and 100 crores the next,
+[30:30] it wouldn’t be considered. The required amount was needed every year. So by this rule, Eduquity wasn’t fit.
+[30:36] Now when the new tender was issued, this rule was changed. It stated that companies
+[30:42] applying for slab 1, among the last 5 years, if the average revenue of any 3 consecutive years
+[30:49] was 30 crores, it would be considered. And in the second category, it stated that companies applying among the last 5 years, if the average revenue of any 3 consecutive years was 50 crores, it would be considered.
+[31:00] So they reduced it from 100 crores to 50 crores and increased the financial period from 3 years to 5 years.
+[31:07] This gave Eduquity relaxation for its Covid-time revenue gap. So when SSC issued this new tender after changing the rules and published 2 slabs,
+[31:17] then in one slab, the smaller one, Eduquity became eligible.
+[31:21] In the other category, TCS was standing alone. There was no competition, but Eduquity was so lucky that even after being eligible in only one category,
+[31:31] it would defeat TCS in both categories. I’ll tell you further how. So after doing all this, changing the rules, SSC issued the tender on November 2, 2023,
+[31:41] and the date from November 17–30, 2023 was fixed for companies to process their tenders.
+[31:47] But in between, this date was changed and extended to December 15, 2023. And a week before,
+[31:56] on December 1, 2023, and December 7, 2023, some rules were changed again.
+[32:02] Eduquity got that advantage as well. In the old SSC tender, the strict rule was that whichever company won the tender could not pass it on to someone else.
+[32:12] This was the issue in MPTET, where Eduquity had Sai Educare do the work, which caused chaos.
+[32:17] So in the new tender issued by SSC, the old rule of subcontracting wasn’t removed,
+[32:23] but a line was added before it – “Ancillary services.” That meant supporting work could be done. And along with that, in one section,
+[32:34] Networking and Hardware Support was also allowed. Now by adding these two things, the game of subcontracting was left open-ended.
+[32:42] Because the line “Ancillary services” was added for supporting work, but no clarity was given. When a company conducts computer-based exams, what falls under ancillary services,
+[32:52] i.e. supporting work, and what falls under the main core task in SSC, was not clear. This created a disadvantage for TCS, because TCS already had a strong network of its own.
+[33:01] But small-scale companies got an advantage. They didn’t have a strong network, so they got the advantage that under the supporting clause,
+[33:10] they could pass on their work to someone else, showing it as supporting work.
+[33:13] So they could have someone else do their supporting work. Now whether this would be considered a core task or supporting work, you can think about it. Along with this, one more thing was done –
+[33:22] In SSC’s previous technical scoring, if a company had CMMI certification in both Development and Services,
+[33:31] then 10 marks were given for it. Now TCS had both certifications, so it always got 10 out of 10. This was an advantage for TCS, but a disadvantage for small- scale companies.
+[33:41] In fact, I’ve already told you about the story of Eduquity’s CMMI certification – firstly, it got it in 2024,
+[33:48] and secondly, it got it only in Services, not in Development. So what I mean is, it was a very important part
+[33:55] to win the tender. Now this rule was changed. Earlier, the rule was if a company had CMMI certification
+[34:02] in both Development and Services, then it would get 10 marks. But this rule was changed, and now it stated that if a company had CMMI certification in Development, it would get 5 marks – i.e. 5 marks were reduced.
+[34:17] And this gave a disadvantage to TCS because TCS was the only company that had both certifications. And the rest of the companies didn’t have any certification, so their marks couldn’t be reduced anyway.
+[34:26] So the changes were made again just a week before bidding. And then on 15th December 2023,
+[34:34] TCS, Eduquity, Aptech, and Edutest applied for the tender, and 3 days later, on 18th December 2023,
+[34:43] these companies were called at 3:00 PM in Room No. 704 of SSC’s office, and the technical assessment was conducted.
+[34:50] And on 18th December 2023, when the technical assessment of these companies was completed,
+[34:56] then after waiting for the next 3 months, on 2nd March 2024, the result of this technical assessment was published.
+[35:05] This is the copy of that result. Keep one thing in mind here – this result is of the technical assessment.
+[35:10] The financial assessment was still pending, whose bidding was yet to be done. The entire technical assessment
+[35:16] conducted for these companies was of 100 marks, among which 70 marks were allotted for the company’s technical capability, 20 marks were allotted for the software demo, and 10 marks for the presentation.
+[35:28] In this way, scoring would be done for a total of 100 marks. This is the copy of the result where scoring was shown.
+[35:34] Now, if you look closely, Edutest and Aptech were disqualified in the first round itself,
+[35:40] because they didn’t have basic certification. After this, in the 20 marks allotted for the software demo,
+[35:45] TCS got 18.22, Eduquity got 16.88. And in the 70 marks allotted for technical ability,
+[35:53] TCS was again at the top. TCS got 66 out of 70, and Eduquity got 62 out of 70. After this scoring,
+[36:01] the SSC committee even made a comment about TCS and Eduquity.
+[36:06] They wrote separately that TCS had the best architecture. And for Eduquity, they wrote that its system had good enough encryption, but the problem was that it was running on Windows.
+[36:16] And the client machines of exam centers would face problems in securing Windows.
+[36:22] This was exactly the same issue students later complained about, that they were facing problems. Now after this, in the 10 marks allotted for presentation – even there, TCS scored better.
+[36:30] It got 10 out of 10. Eduquity got 9 out of 10. In the final technical score, TCS got 94.22 out of 100,
+[36:37] and Eduquity got 87.88 out of 100. So what I mean is, in this technical round TCS defeated Eduquity.
+[36:45] TCS got 94.22, Eduquity got 87.88 – a difference of 6.34 marks. And as I already told you,
+[36:54] in the other category, TCS was running alone. So TCS won in that as well. So in this technical assessment of SSC, whether Slab 1 or Slab 2 – even after the rule change,
+[37:03] TCS won this technical assessment. Now when the result of the technical round was published on 2nd March 2024,
+[37:09] TCS won this round and was waiting for the financial round. The next month, April, even then the financial round wasn’t conducted. And in April 2024,
+[37:19] another interesting thing happened. In this month, Eduquity got CMMI certification in Services –
+[37:26] not in Development, but exactly in Services, which SSC had changed in the tender from Development to Services.
+[37:33] It got exactly that one. So now after all this, the financial round was still being waited for. The technical assessment had already been conducted, and TCS had won both the rounds. So when it was being awaited,
+[37:43] then in July 2024, it came to be known that this entire tender had been cancelled. This is the copy of that cancellation. Now when people saw all these things,
+[37:52] they noticed a pattern and started questioning it. Earlier, in NTA’s tender – when Eduquity lost, it was cancelled.
+[37:59] Then after changing the rules, the tender was issued again, and Eduquity won that tender. Similarly, in MPTET and MP Patwari’s tenders – the same thing happened. First, Eduquity wasn’t eligible,
+[38:10] then it became eligible, then Eduquity lost. After losing, the tender was cancelled, then rules were changed,
+[38:17] a new tender was issued again, and Eduquity won. Similarly, SSC issued a new tender in which, first rules were changed,
+[38:23] then Eduquity became eligible. But even after that, Eduquity lost in the technical round, and after some time,
+[38:30] this tender was also cancelled. And the same pattern would be followed again. I’ll tell you that rules will be changed here as well. And in the future, Eduquity will defeat TCS too.
+[38:39] How will it happen – I’ll explain that too. So in July 2024, SSC cancelled this tender,
+[38:44] and issued a new tender for the same SSC exam on 28th November 2024. This is its copy, look through it once.
+[38:52] I’ve linked all the copies in the description. Do read them in detail once. Now when SSC issued this tender again, some more changes were applied in it.
+[39:00] If you remember, in the previous tender, Eduquity was qualified in one slab in which the average of 5 years was 30 crores.
+[39:08] It couldn’t qualify in the second slab. TCS was alone in the second slab. Now, when SSC issued the tender again,
+[39:15] then they changed this rule. They said that now there won’t be two different categories. They merged both into one category and said that among the last 5 financial years,
+[39:25] if the average turnover of any 3 years was 30 crores, then the company would be eligible.
+[39:31] Now, there won’t be any Category 1 and Category 2. So earlier, Eduquity was qualified in only one category,
+[39:36] but now that wasn’t a problem anymore. Now, the company that wins the tender will hold both Categories 1 and 2.
+[39:43] After this, one more thing was changed. Earlier, the rule was that if a vendor company wanted to apply for the tender, it had to bring a certification from a government agency stating that it wasn’t blacklisted anywhere.
+[39:52] Even this rule was changed, and now it stated that they didn’t require such a certificate anymore. If the vendor company’s authorized signatory gave a self- declaration, then it wouldn’t be considered blacklisted.
+[40:02] The self-declaration would be accepted as proof. Now, in the previous technical round, the score difference between Eduquity and TCS
+[40:10] was 6.34 marks, but in this new tender that gap was reduced to an extent.
+[40:17] In the old tender, if a company had its own data center and disaster recovery system, it was worth 7 marks.
+[40:23] But in the new tender, this was divided into 2 segments and increased to 10 points. And the ownership clause was removed. Meaning, now even if it was rented, it would be considered.
+[40:34] TCS had its own, so it always got full marks. But when this changed, small-scale companies like Eduquity benefitted too. In the old tender, TCS got 10 out of 10 in presentation.
+[40:45] Eduquity was behind, so in this new tender the weight of the presentation was reduced to 5 marks.
+[40:51] And the entire SSC tender was on hold for a year. During this financial year,
+[40:57] Eduquity won 3 out of 4 major government projects, due to which its annual turnover became ₹134.73 crores,
+[41:06] whereas during Covid it was only ₹7 crores. Eduquity showed huge growth. Due to this,
+[41:12] its average turnover crossed ₹100 crores, which earned it more marks. Eduquity benefitted here too.
+[41:17] So, to put it shortly instead of telling the long story, the rules were changed in such a way that the areas which were plus points for TCS either had their marks reduced or were removed,
+[41:29] and the areas which helped Eduquity, like recent turnover and rented infrastructure, had their weight increased.
+[41:36] So the 6.34-mark difference was reduced. Along with this, a few more things gave Eduquity an advantage.
+[41:42] SSC had a QCBS model – Quality and Cost Based Selection Model.
+[41:48] SSC used this model in its tender so that the vendor conducting SSC exams wouldn’t be selected only on the basis of price. Its technical capability should matter more,
+[41:59] because only then could SSC exams be conducted properly. So, according to this rule, technical round marks were given 70% weightage,
+[42:08] and financial round marks were given 30% weightage. Then the final score was calculated.
+[42:14] But in this new tender, the 70–30% QCBS model was changed to 65–35%.
+[42:24] Meaning, in the new tender the technical weightage was reduced from 70% to 65%,
+[42:30] and the financial weightage was increased from 30% to 35%.
+[42:35] Due to this, a company’s capability to conduct exams was given less importance than how cheaply it could conduct the exam. And this proved to be a game-changer for Eduquity.
+[42:47] And when all these things were changed, then in the same year, on 19th February 2025, in Room No. 414 of SSC’s headquarters, all the vendor companies arrived.
+[42:57] Their technical round was conducted. In this technical round, who got how many marks in which segment wasn’t made public. The old tender’s technical details were available, showing who got what.
+[43:07] But in the new tender’s technical round, what actually happened wasn’t disclosed. If you check the technical summary page on the government website, you’ll find details of the old assessment,
+[43:17] but the new one has been removed.
+[43:21] Only the name of the committee that conducted the technical assessment is mentioned, and it was different from the older team. That’s why in the new SSC tender, who got how many marks in the technical round isn’t known.
+[43:32] And whatever you’re hearing recently about TCS getting this much and Eduquity that much, those are old scores. People are repeating them assuming they are from the new tender.
+[43:41] So what happened in the new technical round, how many marks anyone got – those details aren’t available anywhere.
+[43:47] But after this round, the next day, on 20th February 2025, the financial round was conducted.
+[43:53] Here is its copy. In this financial round, TCS bid ₹311 per student,
+[43:58] NSEIT bid ₹289 per student, but Eduquity, surprisingly, bid very low – ₹171 per student.
+[44:09] So after the technical round, the exact marks weren’t made public. Then the financial round was conducted, bidding took place, and when the final result was published,
+[44:19] it was revealed that Eduquity defeated a giant like TCS and won the entire SSC tender.
+[44:26] From here, Eduquity had to conduct SSC exams. This tender went into Eduquity’s hands because it bid lower financially. But it’s not like SSC couldn’t afford TCS.
+[44:39] SSC earns from application fees, answer key challenge fees, application correction fees, and after depositing this money in banks, the interest income adds to it as well.
+[44:49] On top of that, SSC is allocated a budget every year under the Union Budget, given through DoPT.
+[44:55] For example, this year ₹515.1 crores was given. In the previous year, ₹584.92 crores was given.
+[45:04] And before that, ₹426.72 crores was given. What I mean is, budget wasn’t the problem.
+[45:10] Even after that, Eduquity was given the tender. SSC gave this tender to Eduquity instead of TCS. Due to this, it earned a profit of Rs 224 crores every year.
+[45:19] This tender is for 6 years, so it would have a profit of Rs 1344 crores. Eduquity, which was registered in the year 2000,
+[45:27] took 24 years to reach an annual revenue of Rs 134 crores. And by getting this one tender, it will generate
+[45:34] a revenue of Rs 273 crores per year. That too, Eduquity got such a huge project before this, Eduquity never handled a project of Rs 100 crores. SSC itself saved money by not giving it to TCS,
+[45:43] but the fee for student applications wasn’t reduced. They were charged the same amount.
+[45:48] Be it application fees or question correction fees – everything was the same. What I mean is, it saved its own money but students’ fees weren’t reduced. Students paid the same fee and got low-quality service.
+[46:00] Now see, SSC took Rs 171 per candidate and gave it to Eduquity, but it had to conduct large-scale
+[46:08] exams PAN India with less money. And Eduquity didn’t have TCS-level infrastructure, so it wasn’t easy for
+[46:15] Eduquity to conduct it. If the old rule was there, it was clearly mentioned that sub-contracting or making someone else do your work is not allowed. But as I told you,
+[46:24] when the new tender was brought, then along with sub-contracting, a line was added – ancillary services.
+[46:30] Networking and hardware support meant supporting work could be done. By doing this, let me explain what happened. It looks very simple but by doing this, a confusion was created.
+[46:40] In SSC’s tender, one can see on paper that Eduquity can’t do sub-contracting but if Eduquity makes other companies do its work,
+[46:48] then you cannot do anything about it. You cannot take it to court because no boundary has been set, that for conducting the exam, which are ancillary services and which are supporting work,
+[46:58] and which is the main core work. And Eduquity had this benefit. Why am I saying this?
+[47:04] I’ll tell you that as well. Now after winning SSC’s tender of February 2025,
+[47:08] Eduquity had to conduct SSC’s Selection Post Phase 13 exam this year from 24th July 2025 to 1st Aug 2025 PAN India.
+[47:19] When the date for this exam came near, just a month before, some companies on LinkedIn started uploading posts regarding the equipment required for computer-based exams.
+[47:32] There isn’t any problem in uploading such posts. In that, they were tagging SSC and Eduquity as well.
+[47:37] So there was a company, Vamika Consultancy Services, which uploaded a post on LinkedIn that had a sample of a security uniform and then uploaded another post in which they posted about a signal jammer.
+[47:49] There wasn’t any problem in this post either, but in it, they had tagged two companies along with Eduquity: Vensysco and another company, Innovatiview.
+[47:58] Now, tagging SSC and Eduquity can be understood – it is SSC’s tender, Eduquity is conducting it.
+[48:03] But Vensysco and Innovatiview, which were tagged, aren’t small companies. These are huge companies. Innovatiview has even filed an IPO. So the question arises,
+[48:13] what is the role of these two companies in SSC’s exam along with Eduquity? Are they involved in supporting work? Because what supporting work are such huge companies doing? Or,
+[48:23] as in the past, Sai Educare took up Eduquity’s entire work – is it the same situation? This Innovatiview company has a DRHP document, which is available in open source.
+[48:33] This is an official public document submitted to SEBI before IPO. In this document, Innovatiview has
+[48:40] shown Eduquity as its client, saying they provide them IT infrastructure. Now when a company
+[48:46] is showing Eduquity as a client in its DRHP document, then SSC’s tender evaluation committee should check how much dependency Eduquity has on companies like Innovatiview.
+[48:57] Now if Eduquity took the tender from SSC and Innovatiview is putting all its IT infrastructure on the ground for conducting the exam,
+[49:02] this situation can be possible as well. And why am I saying all these things? I’ll tell you that too. When SSC’s exam was to be conducted by Eduquity, just 7 days before it,
+[49:12] the one who has to conduct the exam wasn’t posting – let alone Eduquity – but instead,
+[49:17] 7 days before, in Bangalore, local Facebook groups and consulting companies that used to hire many consulting companies among them started posting about hiring for computer-based exams.
+[49:30] These posts were enormous just before the exam. Among these posts, one consulting company made a mistake – I’m calling it a mistake because generally, when sub-contracting has to be hidden,
+[49:40] consulting companies are instructed not to mention the name of the end-client in their roles and responsibilities.
+[49:46] So this consulting company mentioned the name. One consulting company made a mistake – it posted about the CCTV Job Operator role in a Bangalore Facebook Job Group. Pause this job post and read it.
+[49:58] In this, the consulting company directly mentioned the names of Eduquity, Innovatiview, and SSC. Now just read its responsibility once.
+[50:08] Coordination with Innovatiview’s execution team to ensure information is shared with SSC officials.
+[50:14] Serve as a primary liaison with SSC authorities. Manage SSC-related records, end-to-end project delivery plans,
+[50:22] implement strategies to resolve SSC-related escalations. See, this isn’t Eduquity’s supporting work – this is the core work of SSC,
+[50:31] whose tender was given to Eduquity. SSC conducted Eduquity’s technical assessment,
+[50:37] not Innovatiview’s. So why is Innovatiview named in postings, and why is its name taken directly along with SSC? There are many employees of Innovatiview. If you visit LinkedIn and check their profiles, they’ve clearly written that they’ve conducted SSC’s exams.
+[50:51] Now, SSC, Eduquity, Vensysco, Innovatiview – even under them, Vamika Consulting and many other consulting firms – when there are so many layers in any government project for conducting exams,
+[51:04] then the company involved at every level gets its work done by putting up a margin. Due to this, the quality of the exam center, which is the end point, gets compromised.
+[51:14] Ultimately, students suffer, and this is the reason sub-contracting was banned in the old SSC tender.
+[51:22] But by adding a small line of ancillary services and supporting work, this became entirely open-ended.
+[51:28] Similarly, Vensysco posted a job on Glassdoor on 16th July 2025, just 8 days before the SSC exam,
+[51:36] and there it mentioned that they required a center in-charge for conducting a government exam.
+[51:40] And if you look at its responsibilities as well, the core activity of conducting the exam is mentioned, not supporting work. But here, you can give it the benefit of doubt since it only mentioned a government exam,
+[51:53] and didn’t mention the names of either SSC or Eduquity. But when exactly 7 days before the exam, by writing the same responsibilities, you post exactly about that job,
+[52:03] then doubts arise. Now students, parents, and teachers were questioning daily about the mismanagement of the exam.
+[52:11] If you talk to SSC students and teachers, they directly say in front of the camera, third-grade equipment was being used in exam centers, somewhere staff wasn’t trained,
+[52:21] somewhere computer labs weren’t working, question papers weren’t being loaded. Servers were down, some exam centers were in remote areas near a buffalo stable.
+[52:30] Exam centers for students from Rajasthan were given in Andaman Nicobar because good exam centers refused to conduct exams for such little money. So they give exam centers wherever they get across India.
+[52:41] In the admit card, you’ll see one location, but the actual exam center is different. YouTube is filled with such complaints. 55,000 such complaints were filed. For conducting SSC exams,
+[52:52] the problems that arose were already highlighted by students, teachers, and parents – which you might already know. If you make one search on YouTube, you’ll know about it. So I won’t repeat it.
+[53:01] My purpose in creating this video was to tell you what students have been wanting to say and explain for so long.
+[53:07] And along with that, you have to understand one more thing: SSC exams are conducted for Group B and Group C categories. Children of farmers and laborers of the country also appear for them.
+[53:16] They don’t have any other option apart from this exam to take their families out of poverty. It seems easy to say that even if a UP student is far away, it’s not a problem.
+[53:25] But such students also appear for this exam who don’t even have slippers.
+[53:28] When you take these students far away and conduct the exam late in the day, they aren’t rich kids who can take out a 500-rupee note and buy a burger to eat.
+[53:36] They won’t even take out Rs 10 and will remain hungry the whole day. You yourself gave wrong questions in the exam center, it is your mistake, and if the student challenges that mistake, you’re taking money from him.
+[53:46] Even when it is proved to be true, you aren’t returning the money. There isn’t a place to keep bags in exam centers. A student travels so far to give exams, so he brings a bag,
+[53:56] but he doesn’t even have a place to keep it. He cannot take the bag inside the exam center, and if he keeps it outside,
+[54:01] there’s fear of it being stolen. By using this situation, local people have made a business model where they charge Rs 30-40 for guarding the bag. Many girls have given exams at night,
+[54:11] which raises serious security concerns. And when they went to protest in Delhi, with permission,
+[54:18] they were beaten with sticks. The way there’s discrimination in society between rich and poor, that discrimination is now in exams as well.
+[54:26] If poor students have emailed me so much and mentioned their stories, then I’m sure after the exam,
+[54:32] they must have reached out to government officials. So I hope the government at least does something about this, so these students can give exams properly. At last, let me tell you again,
+[54:41] do try DermaTouch Bright and Even Skin Tone Facewash. Link is given in the description. Thank you!

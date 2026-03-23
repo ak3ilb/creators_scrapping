@@ -1,0 +1,11 @@
+[00:00] A Bengaluru startup just beat Chat GPT and Google Gemini. Server AI released two [music] models Serum Vision and Bulbull V3. Servision achieved 84.3%
+[00:10] accuracy on OM OCR bench beating Gemini 3 Pro Chat GPT and Deep Seek OCR V2. On Omnidok Bench, it hit 93.28%.
+[00:21] It handles complex
+[00:22] [music]
+[00:22] layouts, technical tables, mathematical formulas, and mixed language content that global models struggle with. Bulbal V3 is a textto-spech [music] model
+[00:31] supporting 35 voices across all 22 official Indian languages. DDas a former Google employee and tech commentator
+[00:39] publicly admitted that he was wrong about server. Serb's larger goal is sovereign AI models built in India trained on local data run on local
+[00:47] infrastructure without full dependence on foreign systems. [music] But the gap between best for India specific tasks and globally competitive across all AI
+[00:56] capabilities is real. Selvin wins where global models don't prioritize [music]
+[01:00] indic languages, scanned government documents, regional accents, and English content. Do you think that sovereign AI models would challenge global giants?
+[01:10] Let me know in the comments.

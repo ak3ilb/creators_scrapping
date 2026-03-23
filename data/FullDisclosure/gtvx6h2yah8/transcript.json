@@ -1,0 +1,77 @@
+{
+  "video_id": "gtvx6h2yah8",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 7,
+      "text": "There is a field where freshers are earning up to 10 lakhs, but 70% of applicants are still not getting hired."
+    },
+    {
+      "start": 7,
+      "duration": 7,
+      "text": "Most people think that AI or ML engineering means being able to prompt Chad GPT. Well, but that's also like thinking that if you know how to use"
+    },
+    {
+      "start": 14,
+      "duration": 9,
+      "text": "Google, it qualifies you to build Google. So, here is what an AI ML engineer actually does. They build the systems that learn. So, they decide how"
+    },
+    {
+      "start": 23,
+      "duration": 8,
+      "text": "raw data can become intelligent models to solve real world problems. For example, Netflix's recommendation feature, fraud detection in banking"
+    },
+    {
+      "start": 31,
+      "duration": 9,
+      "text": "apps, or your voice recognition in Alexa. All of those don't exist without ML engineers designing how the system learns from millions of data points. So,"
+    },
+    {
+      "start": 40,
+      "duration": 8,
+      "text": "chat GPD is just the base product. ML engineers design how the product will learn and you too can learn this skill"
+    },
+    {
+      "start": 48,
+      "duration": 6,
+      "text": "completely free of cost. First is begin with your Python basics, but do not skip your linear algebra and statistics."
+    },
+    {
+      "start": 54,
+      "duration": 7,
+      "text": "Search for Andrew Neng machine learning free code camp on YouTube. Google's ML crash course is also completely free."
+    },
+    {
+      "start": 61,
+      "duration": 2,
+      "text": "Then move to building real models."
+    },
+    {
+      "start": 63,
+      "duration": 5,
+      "text": "Practice classification and regression on actual data sets using scikitlearn."
+    },
+    {
+      "start": 68,
+      "duration": 7,
+      "text": "Anyone can train a model on a clean data set. But the real skill is ML ops. Only after that do you touch deep learning,"
+    },
+    {
+      "start": 75,
+      "duration": 7,
+      "text": "TensorFlow or PyTorch, neural networks and training models at scale. In this role, freshers start around 5 to 10"
+    },
+    {
+      "start": 82,
+      "duration": 7,
+      "text": "lakhs perom. But with experience that can jump to 18 to 35 lakhs per anomo. The world does not need more prompters."
+    },
+    {
+      "start": 89,
+      "duration": 3.0,
+      "text": "It needs more builders. Follow full disclosure for more such gone debt."
+    }
+  ]
+}
