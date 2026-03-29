@@ -1,0 +1,149 @@
+{
+  "video_id": "UCZrh6nAeks",
+  "duration_seconds": 1684,
+  "wps": 3.79,
+  "total_words": 6384,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 28472
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, have you"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 231
+    },
+    {
+      "word": "to",
+      "count": 208
+    },
+    {
+      "word": "the",
+      "count": 188
+    },
+    {
+      "word": "and",
+      "count": 160
+    },
+    {
+      "word": "it",
+      "count": 135
+    },
+    {
+      "word": "is",
+      "count": 83
+    },
+    {
+      "word": "this",
+      "count": 75
+    },
+    {
+      "word": "do",
+      "count": 74
+    },
+    {
+      "word": "that",
+      "count": 73
+    },
+    {
+      "word": "will",
+      "count": 73
+    },
+    {
+      "word": "in",
+      "count": 72
+    },
+    {
+      "word": "for",
+      "count": 71
+    },
+    {
+      "word": "if",
+      "count": 68
+    },
+    {
+      "word": "of",
+      "count": 67
+    },
+    {
+      "word": "your",
+      "count": 65
+    },
+    {
+      "word": "habits",
+      "count": 64
+    },
+    {
+      "word": "we",
+      "count": 63
+    },
+    {
+      "word": "habit",
+      "count": 54
+    },
+    {
+      "word": "good",
+      "count": 53
+    },
+    {
+      "word": "what",
+      "count": 44
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 49
+    },
+    {
+      "phrase": "want to",
+      "count": 31
+    },
+    {
+      "phrase": "bad habits",
+      "count": 25
+    },
+    {
+      "phrase": "good habits",
+      "count": 23
+    },
+    {
+      "phrase": "you want",
+      "count": 22
+    },
+    {
+      "phrase": "on the",
+      "count": 17
+    },
+    {
+      "phrase": "in the",
+      "count": 17
+    },
+    {
+      "phrase": "you will",
+      "count": 17
+    },
+    {
+      "phrase": "to the",
+      "count": 17
+    },
+    {
+      "phrase": "you can",
+      "count": 16
+    }
+  ],
+  "segment_count": 576
+}

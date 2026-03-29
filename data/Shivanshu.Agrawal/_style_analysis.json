@@ -1,0 +1,34 @@
+{
+  "creator": "Shivanshu.Agrawal",
+  "total_videos_analyzed": 16,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 16,
+      "avg_wps": 2.754759379308996,
+      "avg_duration": 975.4375,
+      "common_hook_patterns": [
+        "in the",
+        "the year",
+        "is the",
+        "from a",
+        "a 12-year-old",
+        "12-year-old boy",
+        "boy was",
+        "₹2 crore",
+        "crore every",
+        "every minute",
+        "to his",
+        "के कारण",
+        "एकदम से",
+        "it is",
+        "the kailāśa"
+      ],
+      "sample_hooks": [
+        "Groww is India’s number one stockbroker today. Out of every three new SIPs, one is created through G",
+        "9 दिसंबर 2022 सुबह के 3:00 कुछ 300 से 400 चाइनीस सोल्जर्स बिना किसी वार्निंग",
+        "Year 1984 — While other kids were playing video games, a 12-year-old boy was coding and creating his"
+      ]
+    }
+  },
+  "overall_avg_wps": 2.754759379308996
+}

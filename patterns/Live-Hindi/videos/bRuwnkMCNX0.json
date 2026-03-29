@@ -1,0 +1,149 @@
+{
+  "video_id": "bRuwnkMCNX0",
+  "duration_seconds": 926,
+  "wps": 3.01,
+  "total_words": 2784,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10413
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या हो अगर कोई आपको और आपके परिवार को 420 फैमिली बोले सुनते ही गुस्से से आपका पारा हाई हो जाएगा क्योंकि यह नंबर फ्रॉड,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के तौर पर बताया जाता है ताकि लोग इस बिजनेस ग्रुप से इंस्पायर होकर कुछ बड़ा करने की हिम्मत जुटा सकें।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "की",
+      "count": 70
+    },
+    {
+      "word": "पापड़",
+      "count": 62
+    },
+    {
+      "word": "के",
+      "count": 49
+    },
+    {
+      "word": "420",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 39
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "था",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "नाम",
+      "count": 27
+    },
+    {
+      "word": "अग्रवाल",
+      "count": 26
+    },
+    {
+      "word": "इस",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अग्रवाल 420",
+      "count": 20
+    },
+    {
+      "phrase": "था कि",
+      "count": 12
+    },
+    {
+      "phrase": "हुकुमचंद जी",
+      "count": 11
+    },
+    {
+      "phrase": "420 पापड़",
+      "count": 10
+    },
+    {
+      "phrase": "और फिर",
+      "count": 10
+    },
+    {
+      "phrase": "पापड़ का",
+      "count": 10
+    },
+    {
+      "phrase": "और दोस्तों",
+      "count": 7
+    },
+    {
+      "phrase": "चुका है",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "में अपनी",
+      "count": 6
+    }
+  ],
+  "segment_count": 116
+}

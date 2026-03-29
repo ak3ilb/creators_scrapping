@@ -1,0 +1,150 @@
+{
+  "video_id": "yKyh9z5TrIE",
+  "duration_seconds": 754,
+  "wps": 3.53,
+  "total_words": 2664,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 9044
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एकदम बिलिंग काउंटर के बगल में ना महंगी कंडम्स रखी होती है अभी बिलिंग काउंटर के ऊपर कंडम सिर्फ इसलिए रखी हुई है क्योंकि लोग खरीदने में शर्माते बहुत है अभी कोई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "परफ्यूम लेना था फुगी का ले आया बाय"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 118
+    },
+    {
+      "word": "के",
+      "count": 83
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "हैं",
+      "count": 52
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "ये",
+      "count": 45
+    },
+    {
+      "word": "तो",
+      "count": 39
+    },
+    {
+      "word": "लोग",
+      "count": 38
+    },
+    {
+      "word": "अंदर",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "भी",
+      "count": 34
+    },
+    {
+      "word": "में",
+      "count": 33
+    },
+    {
+      "word": "ना",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "आपको",
+      "count": 25
+    },
+    {
+      "word": "हो",
+      "count": 24
+    },
+    {
+      "word": "सामान",
+      "count": 24
+    },
+    {
+      "word": "आप",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 22
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 19
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 14
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 12
+    },
+    {
+      "phrase": "रहा है",
+      "count": 12
+    },
+    {
+      "phrase": "या फिर",
+      "count": 12
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 11
+    }
+  ],
+  "segment_count": 82
+}

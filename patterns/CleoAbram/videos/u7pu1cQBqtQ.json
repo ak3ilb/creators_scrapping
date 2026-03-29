@@ -1,0 +1,149 @@
+{
+  "video_id": "u7pu1cQBqtQ",
+  "duration_seconds": 961,
+  "wps": 3.16,
+  "total_words": 3032,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12577
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "\"OHHHH\" \"That's insane!!\" Today I'm testing out some insane tech and  seeing how movies really get made. But hold on,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Coming soon, our next collab..."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 136
+    },
+    {
+      "word": "you",
+      "count": 70
+    },
+    {
+      "word": "to",
+      "count": 67
+    },
+    {
+      "word": "and",
+      "count": 65
+    },
+    {
+      "word": "that",
+      "count": 56
+    },
+    {
+      "word": "of",
+      "count": 52
+    },
+    {
+      "word": "in",
+      "count": 50
+    },
+    {
+      "word": "is",
+      "count": 49
+    },
+    {
+      "word": "this",
+      "count": 41
+    },
+    {
+      "word": "it",
+      "count": 38
+    },
+    {
+      "word": "like",
+      "count": 38
+    },
+    {
+      "word": "we",
+      "count": 34
+    },
+    {
+      "word": "but",
+      "count": 28
+    },
+    {
+      "word": "just",
+      "count": 26
+    },
+    {
+      "word": "so",
+      "count": 26
+    },
+    {
+      "word": "on",
+      "count": 24
+    },
+    {
+      "word": "if",
+      "count": 21
+    },
+    {
+      "word": "have",
+      "count": 20
+    },
+    {
+      "word": "it's",
+      "count": 19
+    },
+    {
+      "word": "or",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 11
+    },
+    {
+      "phrase": "to the",
+      "count": 9
+    },
+    {
+      "phrase": "this is",
+      "count": 9
+    },
+    {
+      "phrase": "xr stage",
+      "count": 8
+    },
+    {
+      "phrase": "right now",
+      "count": 7
+    },
+    {
+      "phrase": "you can",
+      "count": 7
+    },
+    {
+      "phrase": "at the",
+      "count": 7
+    },
+    {
+      "phrase": "the camera",
+      "count": 7
+    },
+    {
+      "phrase": "on the",
+      "count": 7
+    }
+  ],
+  "segment_count": 125
+}

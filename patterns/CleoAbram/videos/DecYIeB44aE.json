@@ -1,0 +1,149 @@
+{
+  "video_id": "DecYIeB44aE",
+  "duration_seconds": 671,
+  "wps": 2.87,
+  "total_words": 1926,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 8350
+  },
+  "hook": {
+    "type": "question",
+    "text": "\"Spot, can you come over here and say hi?\" \"Oh my god\""
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "show about technology and the future. If you like this kind of video and you want to support us, the  best thing that you can do is to subscribe, and if you want to see our episode with  Boston Dynami"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 73
+    },
+    {
+      "word": "the",
+      "count": 56
+    },
+    {
+      "word": "spot",
+      "count": 45
+    },
+    {
+      "word": "of",
+      "count": 44
+    },
+    {
+      "word": "and",
+      "count": 43
+    },
+    {
+      "word": "it",
+      "count": 38
+    },
+    {
+      "word": "that",
+      "count": 36
+    },
+    {
+      "word": "robot",
+      "count": 33
+    },
+    {
+      "word": "is",
+      "count": 30
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "this",
+      "count": 24
+    },
+    {
+      "word": "it's",
+      "count": 24
+    },
+    {
+      "word": "you",
+      "count": 23
+    },
+    {
+      "word": "for",
+      "count": 23
+    },
+    {
+      "word": "are",
+      "count": 20
+    },
+    {
+      "word": "can",
+      "count": 18
+    },
+    {
+      "word": "on",
+      "count": 18
+    },
+    {
+      "word": "but",
+      "count": 14
+    },
+    {
+      "word": "what",
+      "count": 14
+    },
+    {
+      "word": "our",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "robot dogs",
+      "count": 10
+    },
+    {
+      "phrase": "spot is",
+      "count": 10
+    },
+    {
+      "phrase": "in the",
+      "count": 9
+    },
+    {
+      "phrase": "boston dynamics",
+      "count": 8
+    },
+    {
+      "phrase": "robot dog",
+      "count": 6
+    },
+    {
+      "phrase": "to see",
+      "count": 6
+    },
+    {
+      "phrase": "nah nah",
+      "count": 6
+    },
+    {
+      "phrase": "of the",
+      "count": 5
+    },
+    {
+      "phrase": "going to",
+      "count": 5
+    },
+    {
+      "phrase": "inspector spot",
+      "count": 5
+    }
+  ],
+  "segment_count": 75
+}

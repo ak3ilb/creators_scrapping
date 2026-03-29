@@ -1,0 +1,149 @@
+{
+  "video_id": "i0BjSD4XDx4",
+  "duration_seconds": 975,
+  "wps": 3.71,
+  "total_words": 3616,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15468
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, meet him — his name is Arjun. Arjun is a truly great graphic"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "For now, that’s it — see you in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 174
+    },
+    {
+      "word": "to",
+      "count": 88
+    },
+    {
+      "word": "he",
+      "count": 88
+    },
+    {
+      "word": "and",
+      "count": 86
+    },
+    {
+      "word": "you",
+      "count": 63
+    },
+    {
+      "word": "this",
+      "count": 61
+    },
+    {
+      "word": "that",
+      "count": 59
+    },
+    {
+      "word": "in",
+      "count": 55
+    },
+    {
+      "word": "of",
+      "count": 50
+    },
+    {
+      "word": "business",
+      "count": 45
+    },
+    {
+      "word": "is",
+      "count": 38
+    },
+    {
+      "word": "for",
+      "count": 38
+    },
+    {
+      "word": "was",
+      "count": 35
+    },
+    {
+      "word": "his",
+      "count": 31
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "book",
+      "count": 30
+    },
+    {
+      "word": "if",
+      "count": 28
+    },
+    {
+      "word": "work",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 27
+    },
+    {
+      "word": "all",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "is the",
+      "count": 13
+    },
+    {
+      "phrase": "this book",
+      "count": 13
+    },
+    {
+      "phrase": "he was",
+      "count": 13
+    },
+    {
+      "phrase": "a business",
+      "count": 12
+    },
+    {
+      "phrase": "the first",
+      "count": 12
+    },
+    {
+      "phrase": "if you",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "all the",
+      "count": 10
+    },
+    {
+      "phrase": "you can",
+      "count": 10
+    }
+  ],
+  "segment_count": 329
+}

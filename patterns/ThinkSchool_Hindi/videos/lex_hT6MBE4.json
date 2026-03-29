@@ -1,0 +1,149 @@
+{
+  "video_id": "lex_hT6MBE4",
+  "duration_seconds": 3854,
+  "wps": 3.28,
+  "total_words": 12650,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 47098
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज आपके पास 40 से ज्यादा स्टोर्स हैं भाई। दुबई में जाके हम लोग यह परफ्यूम बेच रहे हैं। आज मैं आपके सामने लेकर आया हूं अपना ब्रांड आदिल कादिल। हाउ डू यू चूज़ वेयर टू ओपन द स्टोर?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फ्रॉम इट। थैंक यू सो मच। दिस इज वंडरफुल।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 606
+    },
+    {
+      "word": "तो",
+      "count": 328
+    },
+    {
+      "word": "हैं",
+      "count": 288
+    },
+    {
+      "word": "में",
+      "count": 235
+    },
+    {
+      "word": "वो",
+      "count": 218
+    },
+    {
+      "word": "कि",
+      "count": 177
+    },
+    {
+      "word": "नहीं",
+      "count": 167
+    },
+    {
+      "word": "के",
+      "count": 150
+    },
+    {
+      "word": "और",
+      "count": 149
+    },
+    {
+      "word": "बहुत",
+      "count": 129
+    },
+    {
+      "word": "भी",
+      "count": 118
+    },
+    {
+      "word": "से",
+      "count": 115
+    },
+    {
+      "word": "हो",
+      "count": 114
+    },
+    {
+      "word": "हम",
+      "count": 110
+    },
+    {
+      "word": "परफ्यूम",
+      "count": 108
+    },
+    {
+      "word": "ये",
+      "count": 103
+    },
+    {
+      "word": "आप",
+      "count": 103
+    },
+    {
+      "word": "होता",
+      "count": 102
+    },
+    {
+      "word": "पे",
+      "count": 99
+    },
+    {
+      "word": "एक",
+      "count": 89
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 93
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 64
+    },
+    {
+      "phrase": "है तो",
+      "count": 63
+    },
+    {
+      "phrase": "जाता है",
+      "count": 42
+    },
+    {
+      "phrase": "है कि",
+      "count": 40
+    },
+    {
+      "phrase": "है और",
+      "count": 38
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 33
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 33
+    },
+    {
+      "phrase": "के लिए",
+      "count": 32
+    },
+    {
+      "phrase": "रहा है",
+      "count": 31
+    }
+  ],
+  "segment_count": 489
+}

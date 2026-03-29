@@ -1,0 +1,148 @@
+{
+  "video_id": "omqHIuq8j2o",
+  "duration_seconds": 50,
+  "wps": 2.5,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 633
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आईआईटी मद्रास जस्ट लॉन्च्ड बीएस इन मैनेजमेंट एंड डेटा साइंस एंड देयर इज नो जेईई ओर एज लिमिट। फर्स्ट फॉलो फुल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मेकिंग बॉडीज। फर्स्ट बैच स्टार्ट्स जून 2026, एप्लीकेशन्स आर ओपन।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 10
+    },
+    {
+      "word": "इन",
+      "count": 4
+    },
+    {
+      "word": "एनालिस्ट",
+      "count": 3
+    },
+    {
+      "word": "मैनेजमेंट",
+      "count": 2
+    },
+    {
+      "word": "डेटा",
+      "count": 2
+    },
+    {
+      "word": "साइंस",
+      "count": 2
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "बिज़नेस",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "एनालिटिक्स",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "क्लास",
+      "count": 2
+    },
+    {
+      "word": "इंग्लिश",
+      "count": 2
+    },
+    {
+      "word": "ऑपरेशंस",
+      "count": 2
+    },
+    {
+      "word": "सप्लाई",
+      "count": 2
+    },
+    {
+      "word": "चेन",
+      "count": 2
+    },
+    {
+      "word": "डाटा",
+      "count": 2
+    },
+    {
+      "word": "इंक्लूड",
+      "count": 2
+    },
+    {
+      "word": "फाइनेंसियल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सप्लाई चेन",
+      "count": 2
+    },
+    {
+      "phrase": "आईआईटी मद्रास",
+      "count": 1
+    },
+    {
+      "phrase": "मद्रास जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट लॉन्च्ड",
+      "count": 1
+    },
+    {
+      "phrase": "लॉन्च्ड बीएस",
+      "count": 1
+    },
+    {
+      "phrase": "बीएस इन",
+      "count": 1
+    },
+    {
+      "phrase": "इन मैनेजमेंट",
+      "count": 1
+    },
+    {
+      "phrase": "मैनेजमेंट एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड डेटा",
+      "count": 1
+    },
+    {
+      "phrase": "डेटा साइंस",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

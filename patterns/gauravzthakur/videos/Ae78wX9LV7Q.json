@@ -1,0 +1,148 @@
+{
+  "video_id": "Ae78wX9LV7Q",
+  "duration_seconds": 90,
+  "wps": 3.08,
+  "total_words": 277,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1094
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सैटर्न के रिंग्स गायब हो रहे हैं। यस। नासा की एक रिपोर्ट के अकॉर्डिंग सैटर्न कुछ हजारों सालों में ऐसा दिखने वाला है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "साथ सैटर्न के सभी रिंग्स के अंश एक-एक करके गायब हो रहे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 14
+    },
+    {
+      "word": "सैटर्न",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "पर",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "रिंग्स",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "आयन्स",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "नासा",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "वाटर",
+      "count": 3
+    },
+    {
+      "word": "पानी",
+      "count": 3
+    },
+    {
+      "word": "हाइड्रोनियम",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सैटर्न के",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "के रिंग्स",
+      "count": 3
+    },
+    {
+      "phrase": "हाइड्रोनियम आयन्स",
+      "count": 3
+    },
+    {
+      "phrase": "सैटर्न पर",
+      "count": 3
+    },
+    {
+      "phrase": "गायब हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "कि सैटर्न",
+      "count": 2
+    },
+    {
+      "phrase": "में मौजूद",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

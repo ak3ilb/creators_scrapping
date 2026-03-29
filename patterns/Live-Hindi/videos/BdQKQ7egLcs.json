@@ -1,0 +1,148 @@
+{
+  "video_id": "BdQKQ7egLcs",
+  "duration_seconds": 957,
+  "wps": 3.03,
+  "total_words": 2896,
+  "language_mix": {
+    "hindi": 92.6,
+    "english": 7.4,
+    "total_chars": 11081
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों वो साल था 1984 का जब Maruti Suzuki पहली बार हिंदुस्तान एंबेसडर और प्रीमियर पद्मिनी जैसे प्लेयर्स को पीछे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ब्लूप्रिंट है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 85
+    },
+    {
+      "word": "और",
+      "count": 82
+    },
+    {
+      "word": "maruti",
+      "count": 65
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "से",
+      "count": 62
+    },
+    {
+      "word": "की",
+      "count": 52
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "है",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "था",
+      "count": 45
+    },
+    {
+      "word": "थी",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "nexa",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "यह",
+      "count": 33
+    },
+    {
+      "word": "भी",
+      "count": 32
+    },
+    {
+      "word": "ही",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 25
+    },
+    {
+      "word": "प्रीमियम",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "maruti की",
+      "count": 13
+    },
+    {
+      "phrase": "maruti ने",
+      "count": 11
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "maruti के",
+      "count": 9
+    },
+    {
+      "phrase": "maruti का",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "nexa में",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "maruti को",
+      "count": 7
+    }
+  ],
+  "segment_count": 121
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "e3fz3dqhN44",
+  "duration_seconds": 1023,
+  "wps": 2.89,
+  "total_words": 2954,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13297
+  },
+  "hook": {
+    "type": "statement",
+    "text": "So, this is it!"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "(thank you <3)"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 94
+    },
+    {
+      "word": "the",
+      "count": 88
+    },
+    {
+      "word": "is",
+      "count": 78
+    },
+    {
+      "word": "and",
+      "count": 77
+    },
+    {
+      "word": "that",
+      "count": 75
+    },
+    {
+      "word": "quantum",
+      "count": 69
+    },
+    {
+      "word": "of",
+      "count": 56
+    },
+    {
+      "word": "this",
+      "count": 53
+    },
+    {
+      "word": "we",
+      "count": 47
+    },
+    {
+      "word": "you",
+      "count": 45
+    },
+    {
+      "word": "it",
+      "count": 42
+    },
+    {
+      "word": "like",
+      "count": 42
+    },
+    {
+      "word": "computer",
+      "count": 37
+    },
+    {
+      "word": "computers",
+      "count": 35
+    },
+    {
+      "word": "so",
+      "count": 31
+    },
+    {
+      "word": "are",
+      "count": 25
+    },
+    {
+      "word": "it's",
+      "count": 25
+    },
+    {
+      "word": "at",
+      "count": 23
+    },
+    {
+      "word": "but",
+      "count": 23
+    },
+    {
+      "word": "really",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "quantum computer",
+      "count": 28
+    },
+    {
+      "phrase": "quantum computers",
+      "count": 23
+    },
+    {
+      "phrase": "this is",
+      "count": 22
+    },
+    {
+      "phrase": "a quantum",
+      "count": 19
+    },
+    {
+      "phrase": "is a",
+      "count": 14
+    },
+    {
+      "phrase": "going to",
+      "count": 14
+    },
+    {
+      "phrase": "and i",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "we can",
+      "count": 7
+    },
+    {
+      "phrase": "like a",
+      "count": 7
+    }
+  ],
+  "segment_count": 255
+}

@@ -15,17 +15,6 @@ from youtube_transcript_api._errors import (
     TranscriptsDisabled,
 )
 import yt_dlp
-import os
-
-COOKIES_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'cookies.txt')
-
-class YDLLogger:
-    """Silences yt-dlp output while allowing us to catch errors if we want."""
-    def debug(self, msg): pass
-    def warning(self, msg): pass
-    def error(self, msg): pass
-
-YDL_LOGS = YDLLogger()
 
 logger = logging.getLogger(__name__)
 
@@ -65,7 +54,6 @@ def fetch_transcript(video_id: str, languages: list[str] = None) -> TranscriptRe
     # Fetch metadata first via yt-dlp (lightweight, always works)
     _fetch_metadata(result)
 
-    # If metadata failed, we still proceed to extraction levels
     # Level 1: youtube-transcript-api
     if _try_level1(result, languages):
         return result
@@ -90,17 +78,7 @@ def _fetch_metadata(result: TranscriptResult):
             'quiet': True,
             'skip_download': True,
             'no_warnings': True,
-            'logger': YDL_LOGS,  # Suppress direct stderr/stdout
-            'socket_timeout': 10,
-            'extractor_args': {
-                'youtube': {
-                    'player_client': ['tvhtml5', 'web_creator', 'android', 'ios']
-                }
-            }
         }
-        if os.path.exists(COOKIES_FILE):
-            ydl_opts['cookiefile'] = COOKIES_FILE
-            logger.info(f"[{result.video_id}] Using cookies.txt for metadata fetch")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(
                 f'https://www.youtube.com/watch?v={result.video_id}',
@@ -119,9 +97,7 @@ def _fetch_metadata(result: TranscriptResult):
                 result.error = 'No captions available on YouTube'
                 logger.info(f"[{result.video_id}] No captions at all — NO_SPEECH")
     except Exception as e:
-        # On GitHub, this is expected if we don't have cookies.
-        # We log as INFO to avoid alarm, since we have Level 3 fallback.
-        logger.info(f"[{result.video_id}] Metadata fetch via yt-dlp skipped/blocked: {str(e)[:100]}...")
+        logger.warning(f"[{result.video_id}] Metadata fetch failed: {e}")
 
 
 def _try_level1(result: TranscriptResult, languages: list[str]) -> bool:
@@ -130,12 +106,7 @@ def _try_level1(result: TranscriptResult, languages: list[str]) -> bool:
         return False
 
     try:
-        # Pass cookies to Level 1 if available
-        cookie_path = COOKIES_FILE if os.path.exists(COOKIES_FILE) else None
         ytt = YouTubeTranscriptApi()
-        # NOTE: youtube-transcript-api doesn't have a direct 'cookies' param in .fetch() 
-        # but some versions support it via .list_transcripts or session.
-        # For now, we rely on Level 2/3 for cookie-heavy bypasses.
         transcript = ytt.fetch(result.video_id, languages=languages)
 
         segments = []
@@ -181,16 +152,7 @@ def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
             'subtitleslangs': languages,
             'subtitlesformat': 'json3',
             'no_warnings': True,
-            'logger': YDL_LOGS,  # Suppress direct stderr/stdout
-            'extractor_args': {
-                'youtube': {
-                    'player_client': ['tvhtml5', 'web_creator', 'android', 'ios']
-                }
-            }
         }
-        if os.path.exists(COOKIES_FILE):
-            ydl_opts['cookiefile'] = COOKIES_FILE
-            logger.info(f"[{result.video_id}] Using cookies.txt for Level 2")
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(
@@ -262,22 +224,13 @@ def _try_level3(result: TranscriptResult, languages: list[str]) -> bool:
 
     try:
         from lib.chrome_fallback import fetch_transcript_via_chrome
-        # Chrome now returns (segments, language, metadata)
-        segments, language, meta = fetch_transcript_via_chrome(result.video_id, languages)
+        segments, language = fetch_transcript_via_chrome(result.video_id, languages)
 
         if segments:
             result.segments = segments
             result.language = language
             result.source = 'chrome-headless'
             result.status = 'OK'
-            
-            # Fill in metadata if missing
-            if meta:
-                if not result.title or result.title == 'Unknown':
-                    result.title = meta.get('title')
-                if not result.description:
-                    result.description = meta.get('description')
-            
             logger.info(
                 f"[{result.video_id}] Level 3 OK: "
                 f"{len(segments)} segments, lang={language}"
@@ -286,7 +239,7 @@ def _try_level3(result: TranscriptResult, languages: list[str]) -> bool:
     except ImportError:
         logger.info(f"[{result.video_id}] Level 3: chrome_fallback not available")
     except Exception as e:
-        logger.info(f"[{result.video_id}] Level 3 failed: {str(e)[:150]}")
+        logger.info(f"[{result.video_id}] Level 3 failed: {str(e)[:80]}")
 
     return False
 

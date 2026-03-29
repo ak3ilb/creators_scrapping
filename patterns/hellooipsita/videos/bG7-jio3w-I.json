@@ -1,0 +1,148 @@
+{
+  "video_id": "bG7-jio3w-I",
+  "duration_seconds": 1452,
+  "wps": 3.16,
+  "total_words": 4583,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 17432
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हाय एवरीवन। आय एम इब््सता एंड आय मीन ऑफ़"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एंड आई विल सी यू इन द नेक्स्ट वीडियो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 131
+    },
+    {
+      "word": "टू",
+      "count": 121
+    },
+    {
+      "word": "एंड",
+      "count": 114
+    },
+    {
+      "word": "आई",
+      "count": 77
+    },
+    {
+      "word": "दैट",
+      "count": 67
+    },
+    {
+      "word": "आर",
+      "count": 66
+    },
+    {
+      "word": "इन",
+      "count": 62
+    },
+    {
+      "word": "है",
+      "count": 61
+    },
+    {
+      "word": "ऑफ़",
+      "count": 51
+    },
+    {
+      "word": "वी",
+      "count": 50
+    },
+    {
+      "word": "इज़",
+      "count": 45
+    },
+    {
+      "word": "इज",
+      "count": 41
+    },
+    {
+      "word": "सो",
+      "count": 41
+    },
+    {
+      "word": "फॉर",
+      "count": 38
+    },
+    {
+      "word": "इट",
+      "count": 38
+    },
+    {
+      "word": "दिस",
+      "count": 37
+    },
+    {
+      "word": "हैव",
+      "count": 35
+    },
+    {
+      "word": "योर",
+      "count": 35
+    },
+    {
+      "word": "एम",
+      "count": 31
+    },
+    {
+      "word": "व्हाट",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वी आर",
+      "count": 21
+    },
+    {
+      "phrase": "आई एम",
+      "count": 21
+    },
+    {
+      "phrase": "यू आर",
+      "count": 20
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 13
+    },
+    {
+      "phrase": "हैव टू",
+      "count": 12
+    },
+    {
+      "phrase": "मैस्कुलिन एनर्जी",
+      "count": 11
+    },
+    {
+      "phrase": "आई हैव",
+      "count": 10
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "दैट यू",
+      "count": 10
+    },
+    {
+      "phrase": "इन माय",
+      "count": 10
+    }
+  ],
+  "segment_count": 573
+}

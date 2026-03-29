@@ -1,0 +1,148 @@
+{
+  "video_id": "5ujWnUEgoOE",
+  "duration_seconds": 653,
+  "wps": 3.78,
+  "total_words": 2470,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 9686
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कुछ लोग सोच रहे हैं कि ईरान वॉर का असर सिर्फ एलपीजी तक लिमिटेड है। अभी तक हम लोग सिर्फ ऑयल की बात कर रहे थे, गैस की बात कर रहे थे, पेट्रोल डीजल की बात कर ले"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 150
+    },
+    {
+      "word": "और",
+      "count": 84
+    },
+    {
+      "word": "के",
+      "count": 58
+    },
+    {
+      "word": "हैं",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "में",
+      "count": 47
+    },
+    {
+      "word": "की",
+      "count": 33
+    },
+    {
+      "word": "हो",
+      "count": 31
+    },
+    {
+      "word": "यूरिया",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "फर्टिलाइजर",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "यह",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "रहे",
+      "count": 20
+    },
+    {
+      "word": "रहा",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 28
+    },
+    {
+      "phrase": "रहा है",
+      "count": 17
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "हैं और",
+      "count": 13
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "रही है",
+      "count": 8
+    },
+    {
+      "phrase": "और यह",
+      "count": 7
+    },
+    {
+      "phrase": "के प्राइसेस",
+      "count": 7
+    },
+    {
+      "phrase": "की बात",
+      "count": 6
+    }
+  ],
+  "segment_count": 82
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "Q089i8RQPB0",
+  "duration_seconds": 916,
+  "wps": 2.89,
+  "total_words": 2645,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11705
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "“T-3…” [STOVE TURNS ON]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "But it’s not finished."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 115
+    },
+    {
+      "word": "to",
+      "count": 86
+    },
+    {
+      "word": "is",
+      "count": 68
+    },
+    {
+      "word": "and",
+      "count": 65
+    },
+    {
+      "word": "of",
+      "count": 53
+    },
+    {
+      "word": "this",
+      "count": 47
+    },
+    {
+      "word": "internet",
+      "count": 44
+    },
+    {
+      "word": "in",
+      "count": 42
+    },
+    {
+      "word": "that",
+      "count": 31
+    },
+    {
+      "word": "it",
+      "count": 26
+    },
+    {
+      "word": "they",
+      "count": 24
+    },
+    {
+      "word": "people",
+      "count": 21
+    },
+    {
+      "word": "like",
+      "count": 20
+    },
+    {
+      "word": "these",
+      "count": 19
+    },
+    {
+      "word": "we",
+      "count": 18
+    },
+    {
+      "word": "you",
+      "count": 18
+    },
+    {
+      "word": "so",
+      "count": 18
+    },
+    {
+      "word": "if",
+      "count": 17
+    },
+    {
+      "word": "on",
+      "count": 16
+    },
+    {
+      "word": "are",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "is a",
+      "count": 14
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "the internet",
+      "count": 12
+    },
+    {
+      "phrase": "to the",
+      "count": 7
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "elon musk",
+      "count": 6
+    },
+    {
+      "phrase": "access to",
+      "count": 6
+    },
+    {
+      "phrase": "internet access",
+      "count": 5
+    },
+    {
+      "phrase": "right now",
+      "count": 5
+    }
+  ],
+  "segment_count": 243
+}

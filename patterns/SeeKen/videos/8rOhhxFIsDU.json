@@ -1,0 +1,149 @@
+{
+  "video_id": "8rOhhxFIsDU",
+  "duration_seconds": 871,
+  "wps": 3.28,
+  "total_words": 2859,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12422
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, Gaur Gopal Das ji is one of those few people whose content I really enjoy watching. His words are very simple yet extremely powerful."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s it for now—see you in the next summary. Till then, bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 112
+    },
+    {
+      "word": "and",
+      "count": 85
+    },
+    {
+      "word": "to",
+      "count": 78
+    },
+    {
+      "word": "in",
+      "count": 64
+    },
+    {
+      "word": "you",
+      "count": 58
+    },
+    {
+      "word": "that",
+      "count": 51
+    },
+    {
+      "word": "is",
+      "count": 41
+    },
+    {
+      "word": "of",
+      "count": 37
+    },
+    {
+      "word": "for",
+      "count": 29
+    },
+    {
+      "word": "it",
+      "count": 27
+    },
+    {
+      "word": "this",
+      "count": 26
+    },
+    {
+      "word": "was",
+      "count": 24
+    },
+    {
+      "word": "ji",
+      "count": 23
+    },
+    {
+      "word": "he",
+      "count": 23
+    },
+    {
+      "word": "they",
+      "count": 23
+    },
+    {
+      "word": "gaur",
+      "count": 22
+    },
+    {
+      "word": "gopal",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "life",
+      "count": 22
+    },
+    {
+      "word": "on",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "gaur gopal",
+      "count": 22
+    },
+    {
+      "phrase": "gopal ji",
+      "count": 19
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "ji says",
+      "count": 8
+    },
+    {
+      "phrase": "if you",
+      "count": 8
+    },
+    {
+      "phrase": "he was",
+      "count": 7
+    },
+    {
+      "phrase": "is that",
+      "count": 7
+    },
+    {
+      "phrase": "you can",
+      "count": 6
+    },
+    {
+      "phrase": "need to",
+      "count": 6
+    },
+    {
+      "phrase": "traffic jam",
+      "count": 6
+    }
+  ],
+  "segment_count": 127
+}

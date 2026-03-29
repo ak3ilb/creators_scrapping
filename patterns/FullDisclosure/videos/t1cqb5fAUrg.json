@@ -1,0 +1,148 @@
+{
+  "video_id": "t1cqb5fAUrg",
+  "duration_seconds": 52,
+  "wps": 2.9,
+  "total_words": 151,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 819
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Indian creators just entered prime time television. Quietly something [music]"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "This isn't the government chasing trends. It's the government acknowledging where [music] influence actually lives. What do you think about this? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 8
+    },
+    {
+      "word": "creators",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "time",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "isn't",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "prime",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "india's",
+      "count": 2
+    },
+    {
+      "word": "public",
+      "count": 2
+    },
+    {
+      "word": "state",
+      "count": 2
+    },
+    {
+      "word": "anymore",
+      "count": 2
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "government",
+      "count": 2
+    },
+    {
+      "word": "indian",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "prime time",
+      "count": 2
+    },
+    {
+      "phrase": "anymore it's",
+      "count": 2
+    },
+    {
+      "phrase": "the government",
+      "count": 2
+    },
+    {
+      "phrase": "indian creators",
+      "count": 1
+    },
+    {
+      "phrase": "creators just",
+      "count": 1
+    },
+    {
+      "phrase": "just entered",
+      "count": 1
+    },
+    {
+      "phrase": "entered prime",
+      "count": 1
+    },
+    {
+      "phrase": "time television",
+      "count": 1
+    },
+    {
+      "phrase": "television quietly",
+      "count": 1
+    },
+    {
+      "phrase": "quietly something",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

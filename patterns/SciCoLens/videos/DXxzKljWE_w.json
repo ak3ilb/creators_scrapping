@@ -1,0 +1,148 @@
+{
+  "video_id": "DXxzKljWE_w",
+  "duration_seconds": 635,
+  "wps": 2.92,
+  "total_words": 1853,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7171
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आज यूएस जितना अमीर है ना 1700 में हम उससे भी ज्यादा अमीर हुआ करते थे। भारत तब एक सोने की चिड़िया नहीं बल्कि सोने का"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "पूरी वीडियो चेक करना मत भूलना। लिंक नीचे डिस्क्रिप्शन में"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 62
+    },
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "और",
+      "count": 28
+    },
+    {
+      "word": "की",
+      "count": 27
+    },
+    {
+      "word": "था",
+      "count": 26
+    },
+    {
+      "word": "है",
+      "count": 24
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "को",
+      "count": 21
+    },
+    {
+      "word": "कि",
+      "count": 21
+    },
+    {
+      "word": "भारत",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 17
+    },
+    {
+      "word": "कर",
+      "count": 17
+    },
+    {
+      "word": "हमारे",
+      "count": 16
+    },
+    {
+      "word": "तक",
+      "count": 15
+    },
+    {
+      "word": "आज",
+      "count": 14
+    },
+    {
+      "word": "यह",
+      "count": 14
+    },
+    {
+      "word": "तो",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की वैल्यू",
+      "count": 8
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 6
+    },
+    {
+      "phrase": "करते थे",
+      "count": 5
+    },
+    {
+      "phrase": "में एक",
+      "count": 5
+    },
+    {
+      "phrase": "भारत से",
+      "count": 5
+    },
+    {
+      "phrase": "सालों तक",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "ब्रिटेन ने",
+      "count": 5
+    },
+    {
+      "phrase": "दुनिया में",
+      "count": 4
+    },
+    {
+      "phrase": "करता था",
+      "count": 4
+    }
+  ],
+  "segment_count": 79
+}

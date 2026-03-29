@@ -1,0 +1,149 @@
+{
+  "video_id": "451V-lBLfuo",
+  "duration_seconds": 691,
+  "wps": 3.03,
+  "total_words": 2091,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 8745
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "\"N-F-T!\""
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Cool? Great."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 88
+    },
+    {
+      "word": "of",
+      "count": 59
+    },
+    {
+      "word": "that",
+      "count": 55
+    },
+    {
+      "word": "and",
+      "count": 48
+    },
+    {
+      "word": "is",
+      "count": 40
+    },
+    {
+      "word": "to",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 33
+    },
+    {
+      "word": "art",
+      "count": 30
+    },
+    {
+      "word": "this",
+      "count": 26
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "an",
+      "count": 24
+    },
+    {
+      "word": "they",
+      "count": 20
+    },
+    {
+      "word": "so",
+      "count": 18
+    },
+    {
+      "word": "you",
+      "count": 18
+    },
+    {
+      "word": "but",
+      "count": 16
+    },
+    {
+      "word": "or",
+      "count": 16
+    },
+    {
+      "word": "about",
+      "count": 15
+    },
+    {
+      "word": "with",
+      "count": 15
+    },
+    {
+      "word": "people",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "the art",
+      "count": 9
+    },
+    {
+      "phrase": "an ad",
+      "count": 8
+    },
+    {
+      "phrase": "this is",
+      "count": 7
+    },
+    {
+      "phrase": "is a",
+      "count": 6
+    },
+    {
+      "phrase": "art world",
+      "count": 5
+    },
+    {
+      "phrase": "the same",
+      "count": 5
+    },
+    {
+      "phrase": "of a",
+      "count": 5
+    },
+    {
+      "phrase": "of art",
+      "count": 5
+    },
+    {
+      "phrase": "of people",
+      "count": 5
+    }
+  ],
+  "segment_count": 228
+}

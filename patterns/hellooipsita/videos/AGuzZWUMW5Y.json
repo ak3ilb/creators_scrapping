@@ -1,0 +1,149 @@
+{
+  "video_id": "AGuzZWUMW5Y",
+  "duration_seconds": 560,
+  "wps": 3.08,
+  "total_words": 1727,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6916
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So, I was about to go to bed one night"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 84
+    },
+    {
+      "word": "to",
+      "count": 69
+    },
+    {
+      "word": "is",
+      "count": 57
+    },
+    {
+      "word": "you",
+      "count": 48
+    },
+    {
+      "word": "and",
+      "count": 38
+    },
+    {
+      "word": "of",
+      "count": 32
+    },
+    {
+      "word": "so",
+      "count": 23
+    },
+    {
+      "word": "that",
+      "count": 23
+    },
+    {
+      "word": "in",
+      "count": 23
+    },
+    {
+      "word": "for",
+      "count": 22
+    },
+    {
+      "word": "three",
+      "count": 21
+    },
+    {
+      "word": "we",
+      "count": 21
+    },
+    {
+      "word": "what",
+      "count": 20
+    },
+    {
+      "word": "now",
+      "count": 19
+    },
+    {
+      "word": "this",
+      "count": 19
+    },
+    {
+      "word": "tasks",
+      "count": 18
+    },
+    {
+      "word": "going",
+      "count": 17
+    },
+    {
+      "word": "do",
+      "count": 17
+    },
+    {
+      "word": "have",
+      "count": 16
+    },
+    {
+      "word": "let's",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "the gym",
+      "count": 12
+    },
+    {
+      "phrase": "let's say",
+      "count": 11
+    },
+    {
+      "phrase": "to the",
+      "count": 10
+    },
+    {
+      "phrase": "these three",
+      "count": 10
+    },
+    {
+      "phrase": "which is",
+      "count": 10
+    },
+    {
+      "phrase": "is the",
+      "count": 9
+    },
+    {
+      "phrase": "the next",
+      "count": 9
+    },
+    {
+      "phrase": "all of",
+      "count": 9
+    }
+  ],
+  "segment_count": 235
+}

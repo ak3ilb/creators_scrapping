@@ -1,0 +1,149 @@
+{
+  "video_id": "pghsnkq1w5o",
+  "duration_seconds": 383,
+  "wps": 2.89,
+  "total_words": 1105,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 5112
+  },
+  "hook": {
+    "type": "statement",
+    "text": "so in this video we're going to talk"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "see you in the next video"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 49
+    },
+    {
+      "word": "is",
+      "count": 43
+    },
+    {
+      "word": "of",
+      "count": 41
+    },
+    {
+      "word": "and",
+      "count": 40
+    },
+    {
+      "word": "that",
+      "count": 39
+    },
+    {
+      "word": "to",
+      "count": 30
+    },
+    {
+      "word": "you",
+      "count": 30
+    },
+    {
+      "word": "thinking",
+      "count": 28
+    },
+    {
+      "word": "this",
+      "count": 18
+    },
+    {
+      "word": "your",
+      "count": 15
+    },
+    {
+      "word": "these",
+      "count": 14
+    },
+    {
+      "word": "in",
+      "count": 12
+    },
+    {
+      "word": "now",
+      "count": 12
+    },
+    {
+      "word": "what",
+      "count": 12
+    },
+    {
+      "word": "at",
+      "count": 12
+    },
+    {
+      "word": "all",
+      "count": 10
+    },
+    {
+      "word": "my",
+      "count": 10
+    },
+    {
+      "word": "can",
+      "count": 10
+    },
+    {
+      "word": "negative",
+      "count": 9
+    },
+    {
+      "word": "it",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of thinking",
+      "count": 10
+    },
+    {
+      "phrase": "type of",
+      "count": 9
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "negative thinking",
+      "count": 8
+    },
+    {
+      "phrase": "that you",
+      "count": 8
+    },
+    {
+      "phrase": "and the",
+      "count": 7
+    },
+    {
+      "phrase": "is the",
+      "count": 7
+    },
+    {
+      "phrase": "what is",
+      "count": 7
+    },
+    {
+      "phrase": "of negative",
+      "count": 6
+    },
+    {
+      "phrase": "to be",
+      "count": 5
+    }
+  ],
+  "segment_count": 164
+}

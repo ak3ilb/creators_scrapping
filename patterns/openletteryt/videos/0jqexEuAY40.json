@@ -1,0 +1,149 @@
+{
+  "video_id": "0jqexEuAY40",
+  "duration_seconds": 1028,
+  "wps": 3.73,
+  "total_words": 3832,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 14605
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अबकी बार 400 पार, इसी नारे के साथ 2024 के लोकसभा इलेक्शन में बीजेपी उतरी थी। अबकी बार"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 146
+    },
+    {
+      "word": "में",
+      "count": 108
+    },
+    {
+      "word": "के",
+      "count": 103
+    },
+    {
+      "word": "हैं",
+      "count": 77
+    },
+    {
+      "word": "की",
+      "count": 61
+    },
+    {
+      "word": "और",
+      "count": 61
+    },
+    {
+      "word": "को",
+      "count": 52
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "हो",
+      "count": 41
+    },
+    {
+      "word": "यह",
+      "count": 40
+    },
+    {
+      "word": "कर",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 37
+    },
+    {
+      "word": "नहीं",
+      "count": 37
+    },
+    {
+      "word": "बीजेपी",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 31
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 29
+    },
+    {
+      "word": "लेकिन",
+      "count": 27
+    },
+    {
+      "word": "था",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रही है",
+      "count": 18
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 8
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 8
+    },
+    {
+      "phrase": "और यह",
+      "count": 8
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    }
+  ],
+  "segment_count": 130
+}

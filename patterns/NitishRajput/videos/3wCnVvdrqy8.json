@@ -1,0 +1,149 @@
+{
+  "video_id": "3wCnVvdrqy8",
+  "duration_seconds": 2496,
+  "wps": 2.95,
+  "total_words": 7373,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 32666
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "At midnight, PM Modi arrives at the President house in a secret vehicle."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 291
+    },
+    {
+      "word": "and",
+      "count": 188
+    },
+    {
+      "word": "in",
+      "count": 171
+    },
+    {
+      "word": "of",
+      "count": 171
+    },
+    {
+      "word": "to",
+      "count": 161
+    },
+    {
+      "word": "that",
+      "count": 160
+    },
+    {
+      "word": "was",
+      "count": 158
+    },
+    {
+      "word": "it",
+      "count": 120
+    },
+    {
+      "word": "this",
+      "count": 111
+    },
+    {
+      "word": "so",
+      "count": 102
+    },
+    {
+      "word": "is",
+      "count": 84
+    },
+    {
+      "word": "be",
+      "count": 81
+    },
+    {
+      "word": "india",
+      "count": 80
+    },
+    {
+      "word": "kashmir",
+      "count": 68
+    },
+    {
+      "word": "j&k",
+      "count": 68
+    },
+    {
+      "word": "which",
+      "count": 66
+    },
+    {
+      "word": "on",
+      "count": 66
+    },
+    {
+      "word": "then",
+      "count": 65
+    },
+    {
+      "word": "were",
+      "count": 63
+    },
+    {
+      "word": "article",
+      "count": 61
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "jammu &",
+      "count": 42
+    },
+    {
+      "phrase": "article 370",
+      "count": 39
+    },
+    {
+      "phrase": "& kashmir",
+      "count": 39
+    },
+    {
+      "phrase": "it was",
+      "count": 35
+    },
+    {
+      "phrase": "will be",
+      "count": 26
+    },
+    {
+      "phrase": "of india",
+      "count": 22
+    },
+    {
+      "phrase": "of j&k",
+      "count": 22
+    },
+    {
+      "phrase": "particular time",
+      "count": 20
+    },
+    {
+      "phrase": "at that",
+      "count": 20
+    },
+    {
+      "phrase": "sheikh abdullah",
+      "count": 20
+    }
+  ],
+  "segment_count": 335
+}

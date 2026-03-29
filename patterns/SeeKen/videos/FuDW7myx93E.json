@@ -1,0 +1,149 @@
+{
+  "video_id": "FuDW7myx93E",
+  "duration_seconds": 1146,
+  "wps": 3.53,
+  "total_words": 4044,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 17633
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, I took the 21-day challenge and it turned out to be one of the best, best, best decisions of my life. Why?"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Make sure to subscribe. I’ll keep bringing such interesting videos for you. That’s all for now. See you, bye bye, take care."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 159
+    },
+    {
+      "word": "and",
+      "count": 116
+    },
+    {
+      "word": "the",
+      "count": 110
+    },
+    {
+      "word": "to",
+      "count": 94
+    },
+    {
+      "word": "your",
+      "count": 86
+    },
+    {
+      "word": "is",
+      "count": 70
+    },
+    {
+      "word": "that",
+      "count": 68
+    },
+    {
+      "word": "this",
+      "count": 64
+    },
+    {
+      "word": "will",
+      "count": 62
+    },
+    {
+      "word": "it",
+      "count": 53
+    },
+    {
+      "word": "in",
+      "count": 51
+    },
+    {
+      "word": "if",
+      "count": 43
+    },
+    {
+      "word": "of",
+      "count": 41
+    },
+    {
+      "word": "they",
+      "count": 36
+    },
+    {
+      "word": "routine",
+      "count": 31
+    },
+    {
+      "word": "for",
+      "count": 30
+    },
+    {
+      "word": "on",
+      "count": 27
+    },
+    {
+      "word": "very",
+      "count": 26
+    },
+    {
+      "word": "their",
+      "count": 26
+    },
+    {
+      "word": "be",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 21
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "when you",
+      "count": 11
+    },
+    {
+      "phrase": "your brain",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "you say",
+      "count": 10
+    },
+    {
+      "phrase": "a routine",
+      "count": 9
+    },
+    {
+      "phrase": "want to",
+      "count": 9
+    },
+    {
+      "phrase": "you should",
+      "count": 9
+    },
+    {
+      "phrase": "you can",
+      "count": 9
+    }
+  ],
+  "segment_count": 166
+}

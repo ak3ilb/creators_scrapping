@@ -1,0 +1,148 @@
+{
+  "video_id": "kWD9YXwUqGE",
+  "duration_seconds": 66,
+  "wps": 3.41,
+  "total_words": 225,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 836
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "श्रद्धा कपूर ने अभी Lamborghini बाय की थी एंड कार्तिक आर्यन ने उरूस। आपको पता है आप भी कोई भी छोटी बड़ी गाड़ी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देना सबके साथ, ताकि सबकी सेविंग्स हो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कर",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "इंश्योरेंस",
+      "count": 6
+    },
+    {
+      "word": "बाय",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "कार",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "सेव",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "डायरेक्टली",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर सकते",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "बाय करते",
+      "count": 3
+    },
+    {
+      "phrase": "सेव कर",
+      "count": 2
+    },
+    {
+      "phrase": "बताती हूं",
+      "count": 2
+    },
+    {
+      "phrase": "वीडियो को",
+      "count": 2
+    },
+    {
+      "phrase": "मैं आपको",
+      "count": 2
+    },
+    {
+      "phrase": "डायरेक्टली बाय",
+      "count": 2
+    },
+    {
+      "phrase": "करते हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

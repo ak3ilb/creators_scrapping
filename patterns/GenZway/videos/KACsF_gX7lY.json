@@ -1,0 +1,150 @@
+{
+  "video_id": "KACsF_gX7lY",
+  "duration_seconds": 1621,
+  "wps": 4.4,
+  "total_words": 7131,
+  "language_mix": {
+    "hindi": 98.0,
+    "english": 2.0,
+    "total_chars": 25931
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यार अंबानी जिस भी इंडस्ट्री के अंदर जाता है ना उस इंडस्ट्री के अंदर श्राप बन जाता है। Jio इज अ टेक इनेबल्ड पार्टनरशिप एंड विल रिड्यूस इनएफिशिएंसी फॉर एवरीवन इन द"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 246
+    },
+    {
+      "word": "के",
+      "count": 242
+    },
+    {
+      "word": "और",
+      "count": 170
+    },
+    {
+      "word": "अंदर",
+      "count": 117
+    },
+    {
+      "word": "भी",
+      "count": 111
+    },
+    {
+      "word": "से",
+      "count": 107
+    },
+    {
+      "word": "को",
+      "count": 106
+    },
+    {
+      "word": "तो",
+      "count": 102
+    },
+    {
+      "word": "हो",
+      "count": 92
+    },
+    {
+      "word": "लोग",
+      "count": 91
+    },
+    {
+      "word": "कि",
+      "count": 88
+    },
+    {
+      "word": "ना",
+      "count": 84
+    },
+    {
+      "word": "हैं",
+      "count": 84
+    },
+    {
+      "word": "कर",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 76
+    },
+    {
+      "word": "एक",
+      "count": 76
+    },
+    {
+      "word": "का",
+      "count": 70
+    },
+    {
+      "word": "सामान",
+      "count": 68
+    },
+    {
+      "word": "ये",
+      "count": 62
+    },
+    {
+      "word": "ही",
+      "count": 53
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 88
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 37
+    },
+    {
+      "phrase": "है और",
+      "count": 35
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 32
+    },
+    {
+      "phrase": "रहा है",
+      "count": 29
+    },
+    {
+      "phrase": "के लिए",
+      "count": 22
+    },
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "है तो",
+      "count": 18
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 18
+    },
+    {
+      "phrase": "फुलफिलमेंट सेंटर",
+      "count": 18
+    }
+  ],
+  "segment_count": 207
+}

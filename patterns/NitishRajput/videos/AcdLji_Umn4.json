@@ -1,0 +1,149 @@
+{
+  "video_id": "AcdLji_Umn4",
+  "duration_seconds": 1329,
+  "wps": 3.22,
+  "total_words": 4282,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 18300
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "But when partition was happening, at that time Jinnah made such a mistake"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 230
+    },
+    {
+      "word": "that",
+      "count": 126
+    },
+    {
+      "word": "and",
+      "count": 122
+    },
+    {
+      "word": "of",
+      "count": 113
+    },
+    {
+      "word": "this",
+      "count": 95
+    },
+    {
+      "word": "to",
+      "count": 84
+    },
+    {
+      "word": "india",
+      "count": 84
+    },
+    {
+      "word": "in",
+      "count": 81
+    },
+    {
+      "word": "name",
+      "count": 75
+    },
+    {
+      "word": "was",
+      "count": 74
+    },
+    {
+      "word": "is",
+      "count": 72
+    },
+    {
+      "word": "be",
+      "count": 61
+    },
+    {
+      "word": "it",
+      "count": 57
+    },
+    {
+      "word": "bharat",
+      "count": 49
+    },
+    {
+      "word": "so",
+      "count": 49
+    },
+    {
+      "word": "then",
+      "count": 34
+    },
+    {
+      "word": "but",
+      "count": 33
+    },
+    {
+      "word": "country",
+      "count": 29
+    },
+    {
+      "word": "from",
+      "count": 28
+    },
+    {
+      "word": "as",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the name",
+      "count": 47
+    },
+    {
+      "phrase": "in the",
+      "count": 25
+    },
+    {
+      "phrase": "that -",
+      "count": 23
+    },
+    {
+      "phrase": "that is",
+      "count": 22
+    },
+    {
+      "phrase": "of the",
+      "count": 18
+    },
+    {
+      "phrase": "of india",
+      "count": 17
+    },
+    {
+      "phrase": "name of",
+      "count": 17
+    },
+    {
+      "phrase": "should be",
+      "count": 16
+    },
+    {
+      "phrase": "would be",
+      "count": 13
+    },
+    {
+      "phrase": "sapta sindhu",
+      "count": 12
+    }
+  ],
+  "segment_count": 344
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "FpLI9GDZHn8",
+  "duration_seconds": 75,
+  "wps": 2.85,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 960
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This tier three college student earns 24 lakhs without any IIIT degree. Recently,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "What do you think about it? Let me know in the comments below."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "he",
+      "count": 12
+    },
+    {
+      "word": "music",
+      "count": 8
+    },
+    {
+      "word": "rupees",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "his",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "24",
+      "count": 3
+    },
+    {
+      "word": "lakhs",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "didn't",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "year",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "college",
+      "count": 2
+    },
+    {
+      "word": "recently",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "went",
+      "count": 2
+    },
+    {
+      "word": "25,000",
+      "count": 2
+    },
+    {
+      "word": "here's",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "he didn't",
+      "count": 3
+    },
+    {
+      "phrase": "year he",
+      "count": 3
+    },
+    {
+      "phrase": "24 lakhs",
+      "count": 2
+    },
+    {
+      "phrase": "25,000 rupees",
+      "count": 2
+    },
+    {
+      "phrase": "to 24",
+      "count": 2
+    },
+    {
+      "phrase": "in his",
+      "count": 2
+    },
+    {
+      "phrase": "per month",
+      "count": 2
+    },
+    {
+      "phrase": "he music",
+      "count": 2
+    },
+    {
+      "phrase": "this tier",
+      "count": 1
+    },
+    {
+      "phrase": "tier three",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

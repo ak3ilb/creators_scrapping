@@ -1,0 +1,149 @@
+{
+  "video_id": "i1xSpX52vjk",
+  "duration_seconds": 980,
+  "wps": 3.27,
+  "total_words": 3205,
+  "language_mix": {
+    "hindi": 95.8,
+    "english": 4.2,
+    "total_chars": 13102
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इमेजिन करो कि आपके पास एक आईडिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं। टॉप फोर बिनेसेस तो राइट वाली वीडियो पे क्लिक कर देना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 108
+    },
+    {
+      "word": "और",
+      "count": 92
+    },
+    {
+      "word": "zomato",
+      "count": 80
+    },
+    {
+      "word": "को",
+      "count": 70
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "एक",
+      "count": 61
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 56
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "हैं",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "से",
+      "count": 34
+    },
+    {
+      "word": "था",
+      "count": 32
+    },
+    {
+      "word": "कि",
+      "count": 31
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "ने",
+      "count": 28
+    },
+    {
+      "word": "बहुत",
+      "count": 27
+    },
+    {
+      "word": "कर",
+      "count": 26
+    },
+    {
+      "word": "मार्केटिंग",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "zomato ने",
+      "count": 19
+    },
+    {
+      "phrase": "zomato की",
+      "count": 15
+    },
+    {
+      "phrase": "के साथ",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    },
+    {
+      "phrase": "होता है",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 8
+    },
+    {
+      "phrase": "करता है",
+      "count": 8
+    },
+    {
+      "phrase": "है zomato",
+      "count": 7
+    }
+  ],
+  "segment_count": 120
+}

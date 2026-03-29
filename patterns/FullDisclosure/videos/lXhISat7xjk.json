@@ -1,0 +1,148 @@
+{
+  "video_id": "lXhISat7xjk",
+  "duration_seconds": 61,
+  "wps": 2.62,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 90.9,
+    "english": 9.1,
+    "total_chars": 790
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Apple जस्ट गव अ डोबी अ नाइट मेयर विथ द [संगीत] लॉन्च ऑफ़ Apple क्रिएटर स्टूडियो। Apple क्वाइटली चेंज्ड हाउ क्रिएटिव सॉफ्टवेयर इज बोट। वन सब्सक्रिप्शन फाइनल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिएटर स्टूडियो इज इन जस्ट अ बंडल। इट्स अ स्ट्रक्चरल प्रेशर टेस्ट ऑन अ डोबीस एंटायर बिजनेस मॉडल।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "pro",
+      "count": 7
+    },
+    {
+      "word": "संगीत",
+      "count": 6
+    },
+    {
+      "word": "apple",
+      "count": 5
+    },
+    {
+      "word": "क्रिएटर",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "इट्स",
+      "count": 3
+    },
+    {
+      "word": "अगेंस्ट",
+      "count": 3
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "स्टूडियो",
+      "count": 2
+    },
+    {
+      "word": "सॉफ्टवेयर",
+      "count": 2
+    },
+    {
+      "word": "वन",
+      "count": 2
+    },
+    {
+      "word": "फाइनल",
+      "count": 2
+    },
+    {
+      "word": "कट",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 2
+    },
+    {
+      "word": "मॉडल",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "लो",
+      "count": 2
+    },
+    {
+      "word": "गव",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "apple क्रिएटर",
+      "count": 2
+    },
+    {
+      "phrase": "क्रिएटर स्टूडियो",
+      "count": 2
+    },
+    {
+      "phrase": "फाइनल कट",
+      "count": 2
+    },
+    {
+      "phrase": "इट्स अ",
+      "count": 2
+    },
+    {
+      "phrase": "pro अगेंस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "apple जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट गव",
+      "count": 1
+    },
+    {
+      "phrase": "गव अ",
+      "count": 1
+    },
+    {
+      "phrase": "अ डोबी",
+      "count": 1
+    },
+    {
+      "phrase": "डोबी अ",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

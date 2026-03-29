@@ -1,0 +1,150 @@
+{
+  "video_id": "0V7sIIiPz84",
+  "duration_seconds": 822,
+  "wps": 3.84,
+  "total_words": 3158,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 11037
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये क्रिएटर्स को जो कंपनी है स्पंस परशिप करने के करोड़ रुपए देती है ना ये इनके लिए एक स्लो पॉइजन की तरह है और इनके जहर के अंदर 90 पर ऑफ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "शायद यह वाली वीडियो उनको याद आएगी"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 134
+    },
+    {
+      "word": "के",
+      "count": 76
+    },
+    {
+      "word": "और",
+      "count": 69
+    },
+    {
+      "word": "नहीं",
+      "count": 60
+    },
+    {
+      "word": "तो",
+      "count": 56
+    },
+    {
+      "word": "को",
+      "count": 53
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "ये",
+      "count": 42
+    },
+    {
+      "word": "लोग",
+      "count": 41
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "रहे",
+      "count": 37
+    },
+    {
+      "word": "वो",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "आप",
+      "count": 32
+    },
+    {
+      "word": "की",
+      "count": 29
+    },
+    {
+      "word": "ना",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 23
+    },
+    {
+      "phrase": "है कि",
+      "count": 20
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 19
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 17
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    },
+    {
+      "phrase": "या फिर",
+      "count": 13
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 13
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 11
+    }
+  ],
+  "segment_count": 96
+}

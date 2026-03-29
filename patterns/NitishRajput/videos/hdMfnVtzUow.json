@@ -1,0 +1,149 @@
+{
+  "video_id": "hdMfnVtzUow",
+  "duration_seconds": 3562,
+  "wps": 2.96,
+  "total_words": 10547,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 45888
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Waqf property's permanent ownership belongs to 'Allah' so it was forbidden to talk about humans."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "value is Rs 1. And you can use pop coins to have up to 80% discount on pop shop. Link is in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 497
+    },
+    {
+      "word": "waqf",
+      "count": 365
+    },
+    {
+      "word": "in",
+      "count": 295
+    },
+    {
+      "word": "of",
+      "count": 260
+    },
+    {
+      "word": "that",
+      "count": 217
+    },
+    {
+      "word": "to",
+      "count": 203
+    },
+    {
+      "word": "and",
+      "count": 202
+    },
+    {
+      "word": "was",
+      "count": 201
+    },
+    {
+      "word": "this",
+      "count": 190
+    },
+    {
+      "word": "it",
+      "count": 175
+    },
+    {
+      "word": "property",
+      "count": 161
+    },
+    {
+      "word": "so",
+      "count": 131
+    },
+    {
+      "word": "is",
+      "count": 112
+    },
+    {
+      "word": "be",
+      "count": 95
+    },
+    {
+      "word": "which",
+      "count": 94
+    },
+    {
+      "word": "were",
+      "count": 91
+    },
+    {
+      "word": "then",
+      "count": 87
+    },
+    {
+      "word": "on",
+      "count": 82
+    },
+    {
+      "word": "for",
+      "count": 72
+    },
+    {
+      "word": "they",
+      "count": 71
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "waqf property",
+      "count": 75
+    },
+    {
+      "phrase": "waqf board",
+      "count": 63
+    },
+    {
+      "phrase": "the waqf",
+      "count": 48
+    },
+    {
+      "phrase": "in the",
+      "count": 41
+    },
+    {
+      "phrase": "of waqf",
+      "count": 35
+    },
+    {
+      "phrase": "in india",
+      "count": 35
+    },
+    {
+      "phrase": "this act",
+      "count": 27
+    },
+    {
+      "phrase": "it was",
+      "count": 25
+    },
+    {
+      "phrase": "and the",
+      "count": 25
+    },
+    {
+      "phrase": "of the",
+      "count": 24
+    }
+  ],
+  "segment_count": 433
+}

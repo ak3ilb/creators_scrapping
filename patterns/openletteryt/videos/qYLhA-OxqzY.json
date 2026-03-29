@@ -1,0 +1,149 @@
+{
+  "video_id": "qYLhA-OxqzY",
+  "duration_seconds": 757,
+  "wps": 4.01,
+  "total_words": 3037,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 11545
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सोशल मीडिया पर आपने ऐसी क्लिप्स जरूर देखी होंगी। यह लोग खुद को कमांडो ट्रेनर कहते हैं। इन्होंने ट्रेनिंग एकेडमी खोली हुई है जिसमें यह एनडीए, एसएसबी जैसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 155
+    },
+    {
+      "word": "हैं",
+      "count": 92
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "तो",
+      "count": 56
+    },
+    {
+      "word": "ये",
+      "count": 56
+    },
+    {
+      "word": "में",
+      "count": 56
+    },
+    {
+      "word": "भी",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 40
+    },
+    {
+      "word": "ट्रेनिंग",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "रहे",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "लोग",
+      "count": 23
+    },
+    {
+      "word": "लेकिन",
+      "count": 23
+    },
+    {
+      "word": "कुछ",
+      "count": 23
+    },
+    {
+      "word": "आर्मी",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "होता है",
+      "count": 16
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "रहा है",
+      "count": 12
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 10
+    }
+  ],
+  "segment_count": 96
+}

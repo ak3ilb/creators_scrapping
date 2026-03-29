@@ -1,0 +1,149 @@
+{
+  "video_id": "ouWRmHwqeEk",
+  "duration_seconds": 510,
+  "wps": 3.03,
+  "total_words": 1545,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6421
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So today I'm going to talk about the three most important lessons I have learned in my 20ies that have helped me grow in my career exponentially. Lesson"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I hope this video was helpful. I hope these three lessons were as helpful to you as they they were for me. And I'll see you in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 65
+    },
+    {
+      "word": "and",
+      "count": 55
+    },
+    {
+      "word": "the",
+      "count": 54
+    },
+    {
+      "word": "you",
+      "count": 38
+    },
+    {
+      "word": "that",
+      "count": 35
+    },
+    {
+      "word": "of",
+      "count": 28
+    },
+    {
+      "word": "was",
+      "count": 25
+    },
+    {
+      "word": "my",
+      "count": 24
+    },
+    {
+      "word": "in",
+      "count": 23
+    },
+    {
+      "word": "this",
+      "count": 19
+    },
+    {
+      "word": "it",
+      "count": 19
+    },
+    {
+      "word": "have",
+      "count": 14
+    },
+    {
+      "word": "is",
+      "count": 14
+    },
+    {
+      "word": "going",
+      "count": 12
+    },
+    {
+      "word": "one",
+      "count": 12
+    },
+    {
+      "word": "so",
+      "count": 11
+    },
+    {
+      "word": "now",
+      "count": 11
+    },
+    {
+      "word": "at",
+      "count": 11
+    },
+    {
+      "word": "what",
+      "count": 11
+    },
+    {
+      "word": "me",
+      "count": 10
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and i",
+      "count": 12
+    },
+    {
+      "phrase": "going to",
+      "count": 11
+    },
+    {
+      "phrase": "i was",
+      "count": 7
+    },
+    {
+      "phrase": "one of",
+      "count": 6
+    },
+    {
+      "phrase": "you have",
+      "count": 6
+    },
+    {
+      "phrase": "in my",
+      "count": 5
+    },
+    {
+      "phrase": "lesson number",
+      "count": 5
+    },
+    {
+      "phrase": "say yes",
+      "count": 5
+    },
+    {
+      "phrase": "i had",
+      "count": 5
+    },
+    {
+      "phrase": "as a",
+      "count": 5
+    }
+  ],
+  "segment_count": 65
+}

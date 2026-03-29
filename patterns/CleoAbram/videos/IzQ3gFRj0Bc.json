@@ -1,0 +1,149 @@
+{
+  "video_id": "IzQ3gFRj0Bc",
+  "duration_seconds": 785,
+  "wps": 3.33,
+  "total_words": 2613,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11296
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "\"Nuclear power!\""
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "you do subscribe, let me know I'd love to meet you  in the comments. See you for the next one!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 128
+    },
+    {
+      "word": "to",
+      "count": 80
+    },
+    {
+      "word": "that",
+      "count": 77
+    },
+    {
+      "word": "of",
+      "count": 72
+    },
+    {
+      "word": "and",
+      "count": 71
+    },
+    {
+      "word": "nuclear",
+      "count": 66
+    },
+    {
+      "word": "we",
+      "count": 45
+    },
+    {
+      "word": "is",
+      "count": 43
+    },
+    {
+      "word": "waste",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 39
+    },
+    {
+      "word": "you",
+      "count": 34
+    },
+    {
+      "word": "it",
+      "count": 34
+    },
+    {
+      "word": "in",
+      "count": 32
+    },
+    {
+      "word": "but",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 21
+    },
+    {
+      "word": "power",
+      "count": 20
+    },
+    {
+      "word": "are",
+      "count": 19
+    },
+    {
+      "word": "fuel",
+      "count": 18
+    },
+    {
+      "word": "on",
+      "count": 18
+    },
+    {
+      "word": "so",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "nuclear waste",
+      "count": 35
+    },
+    {
+      "phrase": "of the",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 16
+    },
+    {
+      "phrase": "that we",
+      "count": 11
+    },
+    {
+      "phrase": "nuclear power",
+      "count": 10
+    },
+    {
+      "phrase": "you can",
+      "count": 10
+    },
+    {
+      "phrase": "of nuclear",
+      "count": 9
+    },
+    {
+      "phrase": "is a",
+      "count": 8
+    },
+    {
+      "phrase": "the us",
+      "count": 8
+    },
+    {
+      "phrase": "this is",
+      "count": 7
+    }
+  ],
+  "segment_count": 204
+}

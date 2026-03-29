@@ -1,0 +1,150 @@
+{
+  "video_id": "yZFzVIBuCdM",
+  "duration_seconds": 959,
+  "wps": 3.98,
+  "total_words": 3821,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 14282
+  },
+  "hook": {
+    "type": "statement",
+    "text": "देखो हमारे देश में बेरोजगारी बहुत ज्यादा है। इसीलिए आज के इस वीडियो में मैं आपको एक ऐसा ऑनलाइन बिजनेस आईडिया बताने वाला हूं जिससे आप घर बैठे महीने के लाखों रुपए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक्सेस मिल जाएगा। अभी जाओ और इन्हें साइन अप कर लो। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 147
+    },
+    {
+      "word": "हैं",
+      "count": 94
+    },
+    {
+      "word": "और",
+      "count": 93
+    },
+    {
+      "word": "में",
+      "count": 86
+    },
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "से",
+      "count": 55
+    },
+    {
+      "word": "तो",
+      "count": 50
+    },
+    {
+      "word": "एक",
+      "count": 48
+    },
+    {
+      "word": "हो",
+      "count": 47
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 40
+    },
+    {
+      "word": "ये",
+      "count": 38
+    },
+    {
+      "word": "आपको",
+      "count": 36
+    },
+    {
+      "word": "प्रोडक्ट",
+      "count": 34
+    },
+    {
+      "word": "आप",
+      "count": 32
+    },
+    {
+      "word": "जो",
+      "count": 31
+    },
+    {
+      "word": "लोग",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 14
+    },
+    {
+      "phrase": "हैं और",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 11
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 11
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 9
+    }
+  ],
+  "segment_count": 122
+}

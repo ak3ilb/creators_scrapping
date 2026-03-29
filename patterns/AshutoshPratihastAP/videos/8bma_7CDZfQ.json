@@ -1,0 +1,149 @@
+{
+  "video_id": "8bma_7CDZfQ",
+  "duration_seconds": 1593,
+  "wps": 3.5,
+  "total_words": 5568,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 19870
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पीछे आपके ये पूरा डस्टबिन तो है ये जो मक्खियां आ रही हैं तो ये मक्खियां बैठती होंगी थोड़ा बहुत तो आपके प्याज पे भी और जब यह खुले में बनता है तो इसमें थोड़ा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है उसमें यह भी बताया था कि कैसे मार्क जुकरबर्ग ने"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 239
+    },
+    {
+      "word": "के",
+      "count": 137
+    },
+    {
+      "word": "और",
+      "count": 128
+    },
+    {
+      "word": "में",
+      "count": 102
+    },
+    {
+      "word": "ये",
+      "count": 99
+    },
+    {
+      "word": "को",
+      "count": 97
+    },
+    {
+      "word": "तो",
+      "count": 96
+    },
+    {
+      "word": "से",
+      "count": 90
+    },
+    {
+      "word": "भी",
+      "count": 87
+    },
+    {
+      "word": "कि",
+      "count": 82
+    },
+    {
+      "word": "की",
+      "count": 81
+    },
+    {
+      "word": "हैं",
+      "count": 63
+    },
+    {
+      "word": "हो",
+      "count": 61
+    },
+    {
+      "word": "फूड",
+      "count": 58
+    },
+    {
+      "word": "ही",
+      "count": 48
+    },
+    {
+      "word": "नहीं",
+      "count": 47
+    },
+    {
+      "word": "बहुत",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "लिए",
+      "count": 38
+    },
+    {
+      "word": "आप",
+      "count": 38
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "के लिए",
+      "count": 35
+    },
+    {
+      "phrase": "जंक फूड",
+      "count": 30
+    },
+    {
+      "phrase": "है कि",
+      "count": 20
+    },
+    {
+      "phrase": "है तो",
+      "count": 17
+    },
+    {
+      "phrase": "होता है",
+      "count": 17
+    },
+    {
+      "phrase": "वजह से",
+      "count": 15
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 14
+    },
+    {
+      "phrase": "है ये",
+      "count": 12
+    }
+  ],
+  "segment_count": 190
+}

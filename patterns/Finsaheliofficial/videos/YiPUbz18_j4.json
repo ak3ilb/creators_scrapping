@@ -1,0 +1,148 @@
+{
+  "video_id": "YiPUbz18_j4",
+  "duration_seconds": 63,
+  "wps": 3.51,
+  "total_words": 221,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 808
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "तूने लड़की के साथ वीडियो कॉल बनाया है ना वीडियो कॉल पे जो हरकत की है पूरा वीडियो मैं अभी YouTube पे वायरल कर दूंगा मुझे ₹00 और इंतजाम करके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "पे",
+      "count": 8
+    },
+    {
+      "word": "वीडियो",
+      "count": 7
+    },
+    {
+      "word": "आपको",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "इस",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "या",
+      "count": 4
+    },
+    {
+      "word": "इंटरनेट",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "आपकी",
+      "count": 3
+    },
+    {
+      "word": "नंबर",
+      "count": 3
+    },
+    {
+      "word": "डिटेल्स",
+      "count": 3
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस वेबसाइट",
+      "count": 3
+    },
+    {
+      "phrase": "वेबसाइट पे",
+      "count": 3
+    },
+    {
+      "phrase": "वीडियो कॉल",
+      "count": 2
+    },
+    {
+      "phrase": "तो इस",
+      "count": 2
+    },
+    {
+      "phrase": "वीडियो या",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरनेट पे",
+      "count": 2
+    },
+    {
+      "phrase": "पे अपलोड",
+      "count": 2
+    },
+    {
+      "phrase": "तो आपको",
+      "count": 2
+    },
+    {
+      "phrase": "की जरूरत",
+      "count": 2
+    },
+    {
+      "phrase": "स्टेप नंबर",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

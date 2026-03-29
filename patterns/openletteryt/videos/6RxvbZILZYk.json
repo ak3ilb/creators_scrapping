@@ -1,0 +1,150 @@
+{
+  "video_id": "6RxvbZILZYk",
+  "duration_seconds": 947,
+  "wps": 3.91,
+  "total_words": 3701,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 13655
+  },
+  "hook": {
+    "type": "question",
+    "text": "इंडिया को अगर दुनिया के शो ऑफ का कैपिटल कहा जाए तो गलत नहीं होगा हमारे यहां एक कहावत है कि जितनी चादर हो उतने पैर पसारने चाहिए लेकिन आजकल लोगों की सैलरी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिस्क्रिप्शन में है"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 132
+    },
+    {
+      "word": "में",
+      "count": 109
+    },
+    {
+      "word": "के",
+      "count": 76
+    },
+    {
+      "word": "हैं",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 61
+    },
+    {
+      "word": "कि",
+      "count": 58
+    },
+    {
+      "word": "की",
+      "count": 54
+    },
+    {
+      "word": "से",
+      "count": 52
+    },
+    {
+      "word": "भी",
+      "count": 47
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "हो",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "लोग",
+      "count": 29
+    },
+    {
+      "word": "यह",
+      "count": 28
+    },
+    {
+      "word": "लिए",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 23
+    },
+    {
+      "phrase": "है कि",
+      "count": 20
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "शो ऑफ",
+      "count": 12
+    },
+    {
+      "phrase": "हैं और",
+      "count": 11
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 11
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "होता है",
+      "count": 10
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 9
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    }
+  ],
+  "segment_count": 116
+}

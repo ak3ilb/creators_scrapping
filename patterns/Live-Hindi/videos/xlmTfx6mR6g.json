@@ -1,0 +1,148 @@
+{
+  "video_id": "xlmTfx6mR6g",
+  "duration_seconds": 1029,
+  "wps": 3.0,
+  "total_words": 3083,
+  "language_mix": {
+    "hindi": 94.4,
+    "english": 5.6,
+    "total_chars": 11862
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कार्स में ब्लॉकबस्टर लेकिन बाइक्स में डिजास्टर। यही है Suzuki की कहानी इंडिया के अंदर। वैसे तो Suzuki ने ही Maruti 800"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कर पाएगा? आप अपना ओपिनियन भी हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 107
+    },
+    {
+      "word": "और",
+      "count": 80
+    },
+    {
+      "word": "के",
+      "count": 72
+    },
+    {
+      "word": "थी",
+      "count": 66
+    },
+    {
+      "word": "की",
+      "count": 62
+    },
+    {
+      "word": "suzuki",
+      "count": 59
+    },
+    {
+      "word": "था",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 55
+    },
+    {
+      "word": "ने",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "यह",
+      "count": 40
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "कंपनी",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "मार्केट",
+      "count": 27
+    },
+    {
+      "word": "लिए",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "suzuki ने",
+      "count": 22
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 17
+    },
+    {
+      "phrase": "जो कि",
+      "count": 12
+    },
+    {
+      "phrase": "रही थी",
+      "count": 11
+    },
+    {
+      "phrase": "था और",
+      "count": 11
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 10
+    },
+    {
+      "phrase": "गया था",
+      "count": 9
+    },
+    {
+      "phrase": "गई थी",
+      "count": 9
+    },
+    {
+      "phrase": "में भी",
+      "count": 8
+    }
+  ],
+  "segment_count": 131
+}

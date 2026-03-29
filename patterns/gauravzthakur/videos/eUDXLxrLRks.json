@@ -1,0 +1,148 @@
+{
+  "video_id": "eUDXLxrLRks",
+  "duration_seconds": 61,
+  "wps": 3.15,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 776
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सुप्रीम कोर्ट का यह स्टेटमेंट था कि पिछले कुछ सालों में हम ऐसे केसेस को बढ़ते हुए देख रहे हैं जहां पर औरतें एक कॉकटेल ऑफ केसेस लगा देती है कंबाइंड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्या बिजनेस मॉडल है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "केसेस",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "एलुमिनी",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "केस",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कोर्ट",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "ज्यादा",
+      "count": 2
+    },
+    {
+      "word": "क्लेम",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "केसेस को",
+      "count": 2
+    },
+    {
+      "phrase": "चार बार",
+      "count": 2
+    },
+    {
+      "phrase": "टू गेट",
+      "count": 2
+    },
+    {
+      "phrase": "सुप्रीम कोर्ट",
+      "count": 1
+    },
+    {
+      "phrase": "कोर्ट का",
+      "count": 1
+    },
+    {
+      "phrase": "का यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह स्टेटमेंट",
+      "count": 1
+    },
+    {
+      "phrase": "स्टेटमेंट था",
+      "count": 1
+    },
+    {
+      "phrase": "था कि",
+      "count": 1
+    },
+    {
+      "phrase": "कि पिछले",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

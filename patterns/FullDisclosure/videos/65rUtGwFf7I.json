@@ -1,0 +1,148 @@
+{
+  "video_id": "65rUtGwFf7I",
+  "duration_seconds": 32,
+  "wps": 3.22,
+  "total_words": 103,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 544
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This AI tool just made motion design agencies obsolete. [music] Hicksfield launched Vibe Motion, an AI platform that generates professional motion"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "movement with technical accuracy. The output is a controllable asset, not a flat video file. Will [music] this replace motion design agencies?"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "motion",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "music",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "agencies",
+      "count": 2
+    },
+    {
+      "word": "vibe",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "from",
+      "count": 2
+    },
+    {
+      "word": "text",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "video",
+      "count": 2
+    },
+    {
+      "word": "tool",
+      "count": 1
+    },
+    {
+      "word": "just",
+      "count": 1
+    },
+    {
+      "word": "made",
+      "count": 1
+    },
+    {
+      "word": "obsolete",
+      "count": 1
+    },
+    {
+      "word": "hicksfield",
+      "count": 1
+    },
+    {
+      "word": "launched",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "motion design",
+      "count": 2
+    },
+    {
+      "phrase": "design agencies",
+      "count": 2
+    },
+    {
+      "phrase": "vibe motion",
+      "count": 2
+    },
+    {
+      "phrase": "this ai",
+      "count": 1
+    },
+    {
+      "phrase": "ai tool",
+      "count": 1
+    },
+    {
+      "phrase": "tool just",
+      "count": 1
+    },
+    {
+      "phrase": "just made",
+      "count": 1
+    },
+    {
+      "phrase": "made motion",
+      "count": 1
+    },
+    {
+      "phrase": "agencies obsolete",
+      "count": 1
+    },
+    {
+      "phrase": "obsolete music",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

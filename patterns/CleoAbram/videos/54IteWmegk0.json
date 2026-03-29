@@ -1,0 +1,148 @@
+{
+  "video_id": "54IteWmegk0",
+  "duration_seconds": 373,
+  "wps": 3.09,
+  "total_words": 1151,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 4775
+  },
+  "hook": {
+    "type": "statement",
+    "text": "I’m officially a YouTuber, is I  think what I’m feeling right now. JOHNNY HARRIS: You are, this is it! ALEXIS OHANIAN: Hi Cleo!"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Should they subscribe? Kiss  if they should subscribe. Oh, thank you! Yeah! Thor says subscribe!"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 34
+    },
+    {
+      "word": "to",
+      "count": 34
+    },
+    {
+      "word": "and",
+      "count": 31
+    },
+    {
+      "word": "we",
+      "count": 17
+    },
+    {
+      "word": "it",
+      "count": 16
+    },
+    {
+      "word": "that",
+      "count": 16
+    },
+    {
+      "word": "you",
+      "count": 13
+    },
+    {
+      "word": "is",
+      "count": 12
+    },
+    {
+      "word": "do",
+      "count": 12
+    },
+    {
+      "word": "of",
+      "count": 12
+    },
+    {
+      "word": "in",
+      "count": 11
+    },
+    {
+      "word": "me",
+      "count": 11
+    },
+    {
+      "word": "what",
+      "count": 10
+    },
+    {
+      "word": "this",
+      "count": 10
+    },
+    {
+      "word": "be",
+      "count": 10
+    },
+    {
+      "word": "could",
+      "count": 9
+    },
+    {
+      "word": "for",
+      "count": 9
+    },
+    {
+      "word": "my",
+      "count": 9
+    },
+    {
+      "word": "i’m",
+      "count": 8
+    },
+    {
+      "word": "are",
+      "count": 8
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a lot",
+      "count": 5
+    },
+    {
+      "phrase": "lot of",
+      "count": 5
+    },
+    {
+      "phrase": "this is",
+      "count": 4
+    },
+    {
+      "phrase": "-- beep",
+      "count": 4
+    },
+    {
+      "phrase": "in the",
+      "count": 4
+    },
+    {
+      "phrase": "and i’m",
+      "count": 4
+    },
+    {
+      "phrase": "that we",
+      "count": 4
+    },
+    {
+      "phrase": "i think",
+      "count": 3
+    },
+    {
+      "phrase": "beep --",
+      "count": 3
+    },
+    {
+      "phrase": "the world",
+      "count": 3
+    }
+  ],
+  "segment_count": 48
+}

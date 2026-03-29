@@ -1,0 +1,150 @@
+{
+  "video_id": "iNQUrch1U_A",
+  "duration_seconds": 78,
+  "wps": 3.83,
+  "total_words": 299,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1057
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पता है अमीर हर कोई नहीं बनता। अमीर सिर्फ वो बनता है जिसे यह सीक्रेट पता है। अरे ऐसा कौन सा सीक्रेट है मुझे भी बताओ। लोग ना आजकल लगे होते हैं पैसा बचाने में।"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "आपको डीएम शेयर कर दूंगी। बट मेक श्योर आपने हमें फॉलो किया"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "बुक",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "संगीत",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "अमीर",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "पैसे",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "माइंडसेट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पता है",
+      "count": 2
+    },
+    {
+      "phrase": "पैसे का",
+      "count": 2
+    },
+    {
+      "phrase": "का फ्लो",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "पढ़ने के",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "वेल्थ क्रिएशन",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

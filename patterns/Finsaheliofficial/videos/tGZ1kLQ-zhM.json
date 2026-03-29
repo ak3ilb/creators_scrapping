@@ -1,0 +1,149 @@
+{
+  "video_id": "tGZ1kLQ-zhM",
+  "duration_seconds": 91,
+  "wps": 3.75,
+  "total_words": 341,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1298
+  },
+  "hook": {
+    "type": "question",
+    "text": "शाहरुख खान का बेटा हो या हो अमिताभ बच्चन की ग्रैंड डॉटर या फिर करण जौहर के बच्चे। यह लोग आखिर पढ़ते कहां हैं? ऑफ कोर्स"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लिमिटेड हो। क्योंकि वो करके तो आपको लाइफ में कुछ नहीं मिलने वाला। तो वीडियो अच्छी लगी तो लाइक कर देना, शेयर करना और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हैं",
+      "count": 17
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "स्कूल",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "बच्चे",
+      "count": 5
+    },
+    {
+      "word": "लोग",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "अमीर",
+      "count": 5
+    },
+    {
+      "word": "करते",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "उनके",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "बच्चों",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "स्कूल की",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "स्कूल में",
+      "count": 3
+    },
+    {
+      "phrase": "अमीर लोग",
+      "count": 3
+    },
+    {
+      "phrase": "हैं स्कूल",
+      "count": 3
+    },
+    {
+      "phrase": "शाहरुख खान",
+      "count": 2
+    },
+    {
+      "phrase": "अमिताभ बच्चन",
+      "count": 2
+    },
+    {
+      "phrase": "या फिर",
+      "count": 2
+    },
+    {
+      "phrase": "धीरूभाई अंबानी",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

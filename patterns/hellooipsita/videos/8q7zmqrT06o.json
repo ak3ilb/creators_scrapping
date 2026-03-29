@@ -1,0 +1,149 @@
+{
+  "video_id": "8q7zmqrT06o",
+  "duration_seconds": 973,
+  "wps": 2.61,
+  "total_words": 2539,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 10094
+  },
+  "hook": {
+    "type": "statement",
+    "text": "So, I'm doing this for the first time."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "for the rest of your life."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 110
+    },
+    {
+      "word": "that",
+      "count": 75
+    },
+    {
+      "word": "the",
+      "count": 73
+    },
+    {
+      "word": "to",
+      "count": 68
+    },
+    {
+      "word": "you",
+      "count": 61
+    },
+    {
+      "word": "i'm",
+      "count": 46
+    },
+    {
+      "word": "is",
+      "count": 42
+    },
+    {
+      "word": "this",
+      "count": 38
+    },
+    {
+      "word": "in",
+      "count": 38
+    },
+    {
+      "word": "right",
+      "count": 37
+    },
+    {
+      "word": "of",
+      "count": 36
+    },
+    {
+      "word": "just",
+      "count": 30
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "like",
+      "count": 29
+    },
+    {
+      "word": "so",
+      "count": 28
+    },
+    {
+      "word": "me",
+      "count": 27
+    },
+    {
+      "word": "my",
+      "count": 26
+    },
+    {
+      "word": "we",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 23
+    },
+    {
+      "word": "at",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 16
+    },
+    {
+      "phrase": "that you",
+      "count": 12
+    },
+    {
+      "phrase": "and i",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "you know",
+      "count": 10
+    },
+    {
+      "phrase": "in a",
+      "count": 10
+    },
+    {
+      "phrase": "right and",
+      "count": 10
+    },
+    {
+      "phrase": "that is",
+      "count": 10
+    },
+    {
+      "phrase": "if you",
+      "count": 10
+    },
+    {
+      "phrase": "and i'm",
+      "count": 9
+    }
+  ],
+  "segment_count": 370
+}

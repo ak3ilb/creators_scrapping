@@ -1,0 +1,148 @@
+{
+  "video_id": "vKcr7ujlgD8",
+  "duration_seconds": 1110,
+  "wps": 1.79,
+  "total_words": 1989,
+  "language_mix": {
+    "hindi": 97.7,
+    "english": 2.3,
+    "total_chars": 7878
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों अगर मैं आपसे पूछूं कि इंडियन टेलीकॉम इंडस्ट्री का सबसे बड़ा गेम चेंजिंग मोमेंट कब आया होगा तो ज्यादातर लोग कहेंगे 2016 जब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बायन नो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "है",
+      "count": 50
+    },
+    {
+      "word": "के",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 29
+    },
+    {
+      "word": "कंपनी",
+      "count": 23
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "बीएसएनएल",
+      "count": 21
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "तो",
+      "count": 20
+    },
+    {
+      "word": "कर",
+      "count": 18
+    },
+    {
+      "word": "को",
+      "count": 18
+    },
+    {
+      "word": "दोस्तों",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 17
+    },
+    {
+      "word": "की",
+      "count": 17
+    },
+    {
+      "word": "करोड़",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 16
+    },
+    {
+      "word": "था",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करोड़ के",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 6
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 6
+    },
+    {
+      "phrase": "यह है",
+      "count": 6
+    },
+    {
+      "phrase": "होता है",
+      "count": 6
+    },
+    {
+      "phrase": "10000 करोड़",
+      "count": 5
+    },
+    {
+      "phrase": "लॉस में",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "का एक",
+      "count": 4
+    }
+  ],
+  "segment_count": 101
+}

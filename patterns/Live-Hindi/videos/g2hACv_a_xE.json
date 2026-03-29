@@ -1,0 +1,150 @@
+{
+  "video_id": "g2hACv_a_xE",
+  "duration_seconds": 978,
+  "wps": 3.18,
+  "total_words": 3106,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11523
+  },
+  "hook": {
+    "type": "statement",
+    "text": "रात के 3:00 बजे जब पूरी दुनिया सो रही होती है तब किसी कोने में एक बच्चा अपने सपनों को साकार करने के लिए पढ़ाई कर रहा"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "मिलिए और हमें कमेंट करके बताइएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 83
+    },
+    {
+      "word": "के",
+      "count": 80
+    },
+    {
+      "word": "में",
+      "count": 76
+    },
+    {
+      "word": "से",
+      "count": 71
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "सर",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 49
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 41
+    },
+    {
+      "word": "एनवी",
+      "count": 38
+    },
+    {
+      "word": "वह",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "थे",
+      "count": 36
+    },
+    {
+      "word": "ही",
+      "count": 35
+    },
+    {
+      "word": "है",
+      "count": 34
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "उनके",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एनवी सर",
+      "count": 38
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "सर ने",
+      "count": 14
+    },
+    {
+      "phrase": "और फिर",
+      "count": 11
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    },
+    {
+      "phrase": "नितिन सर",
+      "count": 8
+    },
+    {
+      "phrase": "उनके पिता",
+      "count": 7
+    },
+    {
+      "phrase": "थे लेकिन",
+      "count": 7
+    },
+    {
+      "phrase": "थी कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 126
+}

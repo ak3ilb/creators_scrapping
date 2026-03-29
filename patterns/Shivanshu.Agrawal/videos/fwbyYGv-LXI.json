@@ -1,0 +1,149 @@
+{
+  "video_id": "fwbyYGv-LXI",
+  "duration_seconds": 1384,
+  "wps": 3.01,
+  "total_words": 4165,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 18727
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Yuvraj Singh slipped and narrowly escaped coming under a moving train. That day, Yograj Singh took a loaded pistol and went out intending to kill Kapil Dev."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked the video, I would recommend that you watch this video next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 220
+    },
+    {
+      "word": "he",
+      "count": 110
+    },
+    {
+      "word": "in",
+      "count": 108
+    },
+    {
+      "word": "and",
+      "count": 95
+    },
+    {
+      "word": "was",
+      "count": 94
+    },
+    {
+      "word": "to",
+      "count": 91
+    },
+    {
+      "word": "his",
+      "count": 82
+    },
+    {
+      "word": "that",
+      "count": 76
+    },
+    {
+      "word": "yuvraj",
+      "count": 70
+    },
+    {
+      "word": "of",
+      "count": 63
+    },
+    {
+      "word": "this",
+      "count": 43
+    },
+    {
+      "word": "for",
+      "count": 39
+    },
+    {
+      "word": "but",
+      "count": 37
+    },
+    {
+      "word": "cricket",
+      "count": 29
+    },
+    {
+      "word": "world",
+      "count": 28
+    },
+    {
+      "word": "at",
+      "count": 28
+    },
+    {
+      "word": "with",
+      "count": 28
+    },
+    {
+      "word": "india",
+      "count": 27
+    },
+    {
+      "word": "match",
+      "count": 24
+    },
+    {
+      "word": "had",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 32
+    },
+    {
+      "phrase": "world cup",
+      "count": 22
+    },
+    {
+      "phrase": "he was",
+      "count": 21
+    },
+    {
+      "phrase": "he scored",
+      "count": 12
+    },
+    {
+      "phrase": "to the",
+      "count": 12
+    },
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "yuvraj singh",
+      "count": 10
+    },
+    {
+      "phrase": "as a",
+      "count": 10
+    },
+    {
+      "phrase": "the world",
+      "count": 9
+    },
+    {
+      "phrase": "for the",
+      "count": 9
+    }
+  ],
+  "segment_count": 182
+}

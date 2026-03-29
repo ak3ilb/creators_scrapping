@@ -1,0 +1,149 @@
+{
+  "video_id": "q8kFcpGgqZ0",
+  "duration_seconds": 1840,
+  "wps": 2.56,
+  "total_words": 4706,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 21174
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "All the people who are alive, they give permission to each other that after their de*th, anyone can eat their dead body."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "So, let me remind you that Odoo is hosting India’s biggest tech and business event, Odoo Community Days, on the 23rd and 24th of August. Don’t miss it. Thank you."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 343
+    },
+    {
+      "word": "to",
+      "count": 155
+    },
+    {
+      "word": "and",
+      "count": 155
+    },
+    {
+      "word": "they",
+      "count": 147
+    },
+    {
+      "word": "was",
+      "count": 102
+    },
+    {
+      "word": "of",
+      "count": 89
+    },
+    {
+      "word": "in",
+      "count": 83
+    },
+    {
+      "word": "their",
+      "count": 65
+    },
+    {
+      "word": "were",
+      "count": 65
+    },
+    {
+      "word": "that",
+      "count": 62
+    },
+    {
+      "word": "had",
+      "count": 62
+    },
+    {
+      "word": "plane",
+      "count": 58
+    },
+    {
+      "word": "it",
+      "count": 53
+    },
+    {
+      "word": "this",
+      "count": 49
+    },
+    {
+      "word": "for",
+      "count": 40
+    },
+    {
+      "word": "on",
+      "count": 34
+    },
+    {
+      "word": "with",
+      "count": 32
+    },
+    {
+      "word": "people",
+      "count": 28
+    },
+    {
+      "word": "would",
+      "count": 28
+    },
+    {
+      "word": "as",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the plane",
+      "count": 41
+    },
+    {
+      "phrase": "in the",
+      "count": 25
+    },
+    {
+      "phrase": "they had",
+      "count": 24
+    },
+    {
+      "phrase": "on the",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 22
+    },
+    {
+      "phrase": "they were",
+      "count": 22
+    },
+    {
+      "phrase": "it was",
+      "count": 17
+    },
+    {
+      "phrase": "to the",
+      "count": 16
+    },
+    {
+      "phrase": "the co-pilot",
+      "count": 12
+    },
+    {
+      "phrase": "with the",
+      "count": 11
+    }
+  ],
+  "segment_count": 228
+}

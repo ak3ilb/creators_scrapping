@@ -1,0 +1,149 @@
+{
+  "video_id": "qAD0KJgdCjM",
+  "duration_seconds": 917,
+  "wps": 2.77,
+  "total_words": 2537,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 9692
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक मिडिल क्लास फैमिलीज़ के लिए जो ज्वेलरी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 87
+    },
+    {
+      "word": "गोल्ड",
+      "count": 74
+    },
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 54
+    },
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 26
+    },
+    {
+      "word": "ने",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "भी",
+      "count": 20
+    },
+    {
+      "word": "दुनिया",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 18
+    },
+    {
+      "word": "हो",
+      "count": 18
+    },
+    {
+      "word": "इन",
+      "count": 16
+    },
+    {
+      "word": "था",
+      "count": 15
+    },
+    {
+      "word": "नहीं",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "का रिटर्न",
+      "count": 9
+    },
+    {
+      "phrase": "रिटर्न दिया",
+      "count": 9
+    },
+    {
+      "phrase": "दिया है",
+      "count": 9
+    },
+    {
+      "phrase": "है दोस्तों",
+      "count": 8
+    },
+    {
+      "phrase": "यह है",
+      "count": 8
+    },
+    {
+      "phrase": "सालों में",
+      "count": 8
+    },
+    {
+      "phrase": "गोल्ड रैली",
+      "count": 7
+    },
+    {
+      "phrase": "में गोल्ड",
+      "count": 6
+    },
+    {
+      "phrase": "गोल्ड प्राइसेस",
+      "count": 6
+    }
+  ],
+  "segment_count": 344
+}

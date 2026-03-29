@@ -1,0 +1,148 @@
+{
+  "video_id": "64sDTlhHdYg",
+  "duration_seconds": 59,
+  "wps": 2.66,
+  "total_words": 157,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 763
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एंथ्रोपिक जस्ट पब्लिश्ड अ लेबर मार्केट स्टडी एंड इट हैस सम शॉकिंग रिवील। सब्सक्राइब फुल डिस्क्लोज़र एंड आई विल शो यू व्हाट एंथ्रोपिक्स न्यू स्टडी फाउंड।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ह्यूमन ओवरसाइट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "वर्क",
+      "count": 4
+    },
+    {
+      "word": "लेबर",
+      "count": 3
+    },
+    {
+      "word": "मार्केट",
+      "count": 3
+    },
+    {
+      "word": "स्टडी",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "एट",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "एक्सपोज्ड",
+      "count": 3
+    },
+    {
+      "word": "जॉब्स",
+      "count": 3
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "एंथ्रोपिक",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "न्यू",
+      "count": 2
+    },
+    {
+      "word": "रियल",
+      "count": 2
+    },
+    {
+      "word": "एआई",
+      "count": 2
+    },
+    {
+      "word": "यूसेज",
+      "count": 2
+    },
+    {
+      "word": "वर्कर्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एक्सपोज्ड जॉब्स",
+      "count": 3
+    },
+    {
+      "phrase": "एंथ्रोपिक जस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "अ लेबर",
+      "count": 2
+    },
+    {
+      "phrase": "लेबर मार्केट",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केट स्टडी",
+      "count": 2
+    },
+    {
+      "phrase": "एट वर्क",
+      "count": 2
+    },
+    {
+      "phrase": "आर एंटरिंग",
+      "count": 2
+    },
+    {
+      "phrase": "जस्ट पब्लिश्ड",
+      "count": 1
+    },
+    {
+      "phrase": "पब्लिश्ड अ",
+      "count": 1
+    },
+    {
+      "phrase": "स्टडी एंड",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

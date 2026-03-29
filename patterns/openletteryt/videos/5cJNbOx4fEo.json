@@ -1,0 +1,149 @@
+{
+  "video_id": "5cJNbOx4fEo",
+  "duration_seconds": 1126,
+  "wps": 3.56,
+  "total_words": 4011,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 15764
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दुनिया में इस टाइम पर एक ऐसा लीडर है जो अपनी पावर फ्लेक्स करने के लिए कंट्रीज इनवेट कर देता है। रशिया हैज़ अगेन लॉन्च्ड लार्ज स्केल मिसल अटैक्स ऑन सेवरल रीजंस अक्रॉस यूक्रेन।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पर लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 124
+    },
+    {
+      "word": "के",
+      "count": 118
+    },
+    {
+      "word": "और",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "ट्रंप",
+      "count": 77
+    },
+    {
+      "word": "को",
+      "count": 72
+    },
+    {
+      "word": "हैं",
+      "count": 64
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "तो",
+      "count": 44
+    },
+    {
+      "word": "था",
+      "count": 43
+    },
+    {
+      "word": "कर",
+      "count": 39
+    },
+    {
+      "word": "पर",
+      "count": 38
+    },
+    {
+      "word": "लिए",
+      "count": 38
+    },
+    {
+      "word": "नहीं",
+      "count": 37
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 33
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 35
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "ट्रंप ने",
+      "count": 13
+    },
+    {
+      "phrase": "हैं और",
+      "count": 12
+    },
+    {
+      "phrase": "चुके हैं",
+      "count": 11
+    },
+    {
+      "phrase": "ट्रंप के",
+      "count": 11
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "यूएस के",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "ट्रंप को",
+      "count": 8
+    }
+  ],
+  "segment_count": 139
+}

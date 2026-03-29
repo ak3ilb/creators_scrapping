@@ -1,0 +1,149 @@
+{
+  "video_id": "UIDVHdJcZnc",
+  "duration_seconds": 537,
+  "wps": 2.96,
+  "total_words": 1592,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6841
+  },
+  "hook": {
+    "type": "question",
+    "text": "so if you've had a bad 2024 you know that you have been repeating the same behavior habits and beliefs that have"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "rituals that you can have as an adult as a fully functioning adult see you in the next video"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 63
+    },
+    {
+      "word": "that",
+      "count": 55
+    },
+    {
+      "word": "you",
+      "count": 48
+    },
+    {
+      "word": "is",
+      "count": 44
+    },
+    {
+      "word": "and",
+      "count": 41
+    },
+    {
+      "word": "to",
+      "count": 40
+    },
+    {
+      "word": "of",
+      "count": 35
+    },
+    {
+      "word": "your",
+      "count": 32
+    },
+    {
+      "word": "in",
+      "count": 24
+    },
+    {
+      "word": "work",
+      "count": 21
+    },
+    {
+      "word": "by",
+      "count": 18
+    },
+    {
+      "word": "this",
+      "count": 17
+    },
+    {
+      "word": "more",
+      "count": 17
+    },
+    {
+      "word": "or",
+      "count": 16
+    },
+    {
+      "word": "have",
+      "count": 15
+    },
+    {
+      "word": "are",
+      "count": 15
+    },
+    {
+      "word": "now",
+      "count": 14
+    },
+    {
+      "word": "one",
+      "count": 13
+    },
+    {
+      "word": "my",
+      "count": 12
+    },
+    {
+      "word": "with",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "that you",
+      "count": 12
+    },
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "who are",
+      "count": 8
+    },
+    {
+      "phrase": "this is",
+      "count": 8
+    },
+    {
+      "phrase": "a lot",
+      "count": 8
+    },
+    {
+      "phrase": "deep work",
+      "count": 8
+    },
+    {
+      "phrase": "lot of",
+      "count": 7
+    },
+    {
+      "phrase": "people who",
+      "count": 6
+    },
+    {
+      "phrase": "your space",
+      "count": 6
+    },
+    {
+      "phrase": "you have",
+      "count": 5
+    }
+  ],
+  "segment_count": 67
+}

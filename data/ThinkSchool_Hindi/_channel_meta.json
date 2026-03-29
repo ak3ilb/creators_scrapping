@@ -5,17 +5,47 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:30:52.494127+00:00",
-  "total_discovered": 99,
+  "last_updated": "2026-03-29T16:26:04.511050+00:00",
+  "total_discovered": 105,
   "ingestion_stats": {
-    "total": 44,
-    "ok": 43,
+    "total": 48,
+    "ok": 47,
     "low_quality": 0,
     "no_transcript": 1,
     "no_speech": 0
   },
-  "completion_percentage": "44.4%",
+  "completion_percentage": "45.7%",
   "videos": [
+    {
+      "video_id": "ovgxRWny9ts",
+      "title": "How BroCode CHEATED India's Tax System LEGALLY? | Business Case Study",
+      "status": "OK"
+    },
+    {
+      "video_id": "IqA-q6fbEPQ",
+      "title": "3 Hidden Goldmines to Invest in Mumbai Real estate ft. Vishal Bhargava",
+      "status": "OK"
+    },
+    {
+      "video_id": "r8-s2GxO--o",
+      "title": "How SULA Built INDIA’s Wine MONOPOLY |  Business Case Study",
+      "status": "OK"
+    },
+    {
+      "video_id": "eXWrhsS2G-8",
+      "title": "How Naturals Ice Cream Won Amitabh Bachchan’s Heart And Built a ₹400 Cr Empire",
+      "status": "OK"
+    },
+    {
+      "video_id": "HsuiJoEj4fU",
+      "title": "Ultimate Masterclass on How to Build AI agents? | ft. Ansh Mehra",
+      "status": "pending"
+    },
+    {
+      "video_id": "RN7RjaeV8f0",
+      "title": "Ambani & Adani's Data Centers: India's BIGGEST Opportunity or DISASTER?",
+      "status": "pending"
+    },
     {
       "video_id": "-eEGwmjDZI8",
       "title": "Land Investing MASTERCLASS: 3 Hidden Treasures in INDIA| From Unknown Plots to 50X Returns|",

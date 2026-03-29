@@ -1,0 +1,149 @@
+{
+  "video_id": "IqA-q6fbEPQ",
+  "duration_seconds": 4443,
+  "wps": 2.68,
+  "total_words": 11902,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 49153
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why are we hearing headlines about the luxury market just picking up like crazy? Luxury is selling, luxury is selling,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you, Ganesh. No, no, no."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 473
+    },
+    {
+      "word": "you",
+      "count": 367
+    },
+    {
+      "word": "to",
+      "count": 355
+    },
+    {
+      "word": "is",
+      "count": 284
+    },
+    {
+      "word": "in",
+      "count": 223
+    },
+    {
+      "word": "that",
+      "count": 220
+    },
+    {
+      "word": "of",
+      "count": 208
+    },
+    {
+      "word": "and",
+      "count": 197
+    },
+    {
+      "word": "it",
+      "count": 181
+    },
+    {
+      "word": "so",
+      "count": 139
+    },
+    {
+      "word": "will",
+      "count": 129
+    },
+    {
+      "word": "okay",
+      "count": 125
+    },
+    {
+      "word": "mumbai",
+      "count": 116
+    },
+    {
+      "word": "have",
+      "count": 98
+    },
+    {
+      "word": "it's",
+      "count": 98
+    },
+    {
+      "word": "this",
+      "count": 95
+    },
+    {
+      "word": "at",
+      "count": 89
+    },
+    {
+      "word": "but",
+      "count": 85
+    },
+    {
+      "word": "now",
+      "count": 84
+    },
+    {
+      "word": "because",
+      "count": 83
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 50
+    },
+    {
+      "phrase": "you know",
+      "count": 47
+    },
+    {
+      "phrase": "you have",
+      "count": 40
+    },
+    {
+      "phrase": "in a",
+      "count": 38
+    },
+    {
+      "phrase": "in mumbai",
+      "count": 34
+    },
+    {
+      "phrase": "want to",
+      "count": 31
+    },
+    {
+      "phrase": "of the",
+      "count": 30
+    },
+    {
+      "phrase": "this is",
+      "count": 29
+    },
+    {
+      "phrase": "to the",
+      "count": 27
+    },
+    {
+      "phrase": "look at",
+      "count": 26
+    }
+  ],
+  "segment_count": 603
+}

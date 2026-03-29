@@ -1,0 +1,149 @@
+{
+  "video_id": "xGBJ3QMOPY8",
+  "duration_seconds": 1050,
+  "wps": 3.0,
+  "total_words": 3146,
+  "language_mix": {
+    "hindi": 97.9,
+    "english": 2.1,
+    "total_chars": 12128
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "HDFC मार्केट कैप के हिसाब से भारत का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 86
+    },
+    {
+      "word": "और",
+      "count": 82
+    },
+    {
+      "word": "के",
+      "count": 71
+    },
+    {
+      "word": "से",
+      "count": 58
+    },
+    {
+      "word": "बैंक",
+      "count": 55
+    },
+    {
+      "word": "hdfc",
+      "count": 51
+    },
+    {
+      "word": "को",
+      "count": 51
+    },
+    {
+      "word": "कि",
+      "count": 49
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "था",
+      "count": 44
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "लेकिन",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "थी",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "थे",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "hdfc बैंक",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "सबसे बड़ा",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 9
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "तो फिर",
+      "count": 9
+    },
+    {
+      "phrase": "का सबसे",
+      "count": 8
+    },
+    {
+      "phrase": "हसमुख भाई",
+      "count": 8
+    },
+    {
+      "phrase": "असल में",
+      "count": 8
+    }
+  ],
+  "segment_count": 402
+}

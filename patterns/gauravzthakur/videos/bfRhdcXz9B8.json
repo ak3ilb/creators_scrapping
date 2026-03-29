@@ -1,0 +1,148 @@
+{
+  "video_id": "bfRhdcXz9B8",
+  "duration_seconds": 62,
+  "wps": 3.45,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 828
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रिपोर्ट्स के हिसाब से इंडियन बॉर्डर के आसपास चाइना ऐसे 600 गांव बना चुका है जिन्हें वो शाहकांग बॉर्डर डिफेंस विलेजेस"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "हाउ कैन यू ओपन एन एम्बेसी विथाउट डिप्लोमेटिक रिलेशन्स? अब आप ही सोचो किस रफ्तार से चाइना हमारे हिमालयन रीजन पर एक्टिव हो रहा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "पर",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "चाइना",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "बॉर्डर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "जिसमें",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "डिप्लोमेटिक",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "गांव",
+      "count": 2
+    },
+    {
+      "word": "चुका",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है जिसमें",
+      "count": 3
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 3
+    },
+    {
+      "phrase": "चाइना ने",
+      "count": 3
+    },
+    {
+      "phrase": "बॉर्डर के",
+      "count": 2
+    },
+    {
+      "phrase": "चुका है",
+      "count": 2
+    },
+    {
+      "phrase": "पर एक",
+      "count": 2
+    },
+    {
+      "phrase": "सिर्फ एक",
+      "count": 2
+    },
+    {
+      "phrase": "आज के",
+      "count": 2
+    },
+    {
+      "phrase": "के तारीख",
+      "count": 2
+    },
+    {
+      "phrase": "तो चाइना",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

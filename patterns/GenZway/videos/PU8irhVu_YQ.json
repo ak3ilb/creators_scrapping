@@ -1,0 +1,150 @@
+{
+  "video_id": "PU8irhVu_YQ",
+  "duration_seconds": 899,
+  "wps": 4.48,
+  "total_words": 4031,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 14514
+  },
+  "hook": {
+    "type": "question",
+    "text": "अपने मां-बाप की सुनना बंद कर दो अगर वो आज भी तुम्हें डिग्री या फिर गवर्नमेंट एग्जाम की तैयारी करने के लिए फोर्स करते हैं तो। क्योंकि मार्केट की उनको ज्यादा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "और जो जो बच्चे भी अप्लाई कर रहे हैं इसके अंदर ऑल द बेस्ट।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 201
+    },
+    {
+      "word": "के",
+      "count": 118
+    },
+    {
+      "word": "और",
+      "count": 98
+    },
+    {
+      "word": "हैं",
+      "count": 76
+    },
+    {
+      "word": "तो",
+      "count": 66
+    },
+    {
+      "word": "में",
+      "count": 63
+    },
+    {
+      "word": "नहीं",
+      "count": 61
+    },
+    {
+      "word": "को",
+      "count": 58
+    },
+    {
+      "word": "अंदर",
+      "count": 54
+    },
+    {
+      "word": "हो",
+      "count": 53
+    },
+    {
+      "word": "लोग",
+      "count": 52
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "ना",
+      "count": 51
+    },
+    {
+      "word": "भी",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "जो",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 44
+    },
+    {
+      "word": "कि",
+      "count": 40
+    },
+    {
+      "word": "कर",
+      "count": 35
+    },
+    {
+      "word": "ये",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 42
+    },
+    {
+      "phrase": "के लिए",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 21
+    },
+    {
+      "phrase": "हैं और",
+      "count": 20
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 19
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 18
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 18
+    },
+    {
+      "phrase": "या फिर",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "एक्चुअल में",
+      "count": 12
+    }
+  ],
+  "segment_count": 114
+}

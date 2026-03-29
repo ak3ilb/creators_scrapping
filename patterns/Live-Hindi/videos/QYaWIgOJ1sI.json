@@ -1,0 +1,148 @@
+{
+  "video_id": "QYaWIgOJ1sI",
+  "duration_seconds": 1043,
+  "wps": 2.94,
+  "total_words": 3066,
+  "language_mix": {
+    "hindi": 92.8,
+    "english": 7.2,
+    "total_chars": 12145
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "PhonePe भारत में यूपीआई पेमेंट्स के लिए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यूज करते हैं?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "phonepe",
+      "count": 79
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "के",
+      "count": 71
+    },
+    {
+      "word": "में",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 56
+    },
+    {
+      "word": "था",
+      "count": 45
+    },
+    {
+      "word": "ही",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "ने",
+      "count": 36
+    },
+    {
+      "word": "पर",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 33
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 31
+    },
+    {
+      "word": "थे",
+      "count": 29
+    },
+    {
+      "word": "यूपीआई",
+      "count": 28
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "पेमेंट",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "phonepe ने",
+      "count": 12
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 11
+    },
+    {
+      "phrase": "में phonepe",
+      "count": 9
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 8
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 8
+    },
+    {
+      "phrase": "phonepe को",
+      "count": 8
+    },
+    {
+      "phrase": "phonepe की",
+      "count": 8
+    },
+    {
+      "phrase": "flipkart के",
+      "count": 7
+    }
+  ],
+  "segment_count": 405
+}

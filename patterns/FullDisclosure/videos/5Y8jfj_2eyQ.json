@@ -1,0 +1,148 @@
+{
+  "video_id": "5Y8jfj_2eyQ",
+  "duration_seconds": 57,
+  "wps": 2.61,
+  "total_words": 149,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 819
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "NCRT is hiring for roles most people don't even associate with government jobs. Production officers, script"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "written tests, skill tests for technical or media roles and interviews with document verification. Official notification link is in the pinned comment."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "roles",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "government",
+      "count": 3
+    },
+    {
+      "word": "ncrt",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "jobs",
+      "count": 2
+    },
+    {
+      "word": "officers",
+      "count": 2
+    },
+    {
+      "word": "notification",
+      "count": 2
+    },
+    {
+      "word": "these",
+      "count": 2
+    },
+    {
+      "word": "across",
+      "count": 2
+    },
+    {
+      "word": "technical",
+      "count": 2
+    },
+    {
+      "word": "there",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "pay",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "government jobs",
+      "count": 2
+    },
+    {
+      "phrase": "these are",
+      "count": 2
+    },
+    {
+      "phrase": "on the",
+      "count": 2
+    },
+    {
+      "phrase": "ncrt is",
+      "count": 1
+    },
+    {
+      "phrase": "is hiring",
+      "count": 1
+    },
+    {
+      "phrase": "hiring for",
+      "count": 1
+    },
+    {
+      "phrase": "for roles",
+      "count": 1
+    },
+    {
+      "phrase": "roles most",
+      "count": 1
+    },
+    {
+      "phrase": "most people",
+      "count": 1
+    },
+    {
+      "phrase": "people don't",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

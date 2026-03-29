@@ -1,0 +1,149 @@
+{
+  "video_id": "JZg1AVR0FIg",
+  "duration_seconds": 3635,
+  "wps": 2.85,
+  "total_words": 10359,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 37538
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सर मेक इन इंडिया का टारगेट ही यह था कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मीन्स अ लॉट सर।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 501
+    },
+    {
+      "word": "में",
+      "count": 257
+    },
+    {
+      "word": "तो",
+      "count": 222
+    },
+    {
+      "word": "हम",
+      "count": 188
+    },
+    {
+      "word": "हैं",
+      "count": 163
+    },
+    {
+      "word": "नहीं",
+      "count": 162
+    },
+    {
+      "word": "वो",
+      "count": 155
+    },
+    {
+      "word": "भी",
+      "count": 147
+    },
+    {
+      "word": "कि",
+      "count": 142
+    },
+    {
+      "word": "को",
+      "count": 142
+    },
+    {
+      "word": "जो",
+      "count": 141
+    },
+    {
+      "word": "से",
+      "count": 129
+    },
+    {
+      "word": "आप",
+      "count": 126
+    },
+    {
+      "word": "ये",
+      "count": 117
+    },
+    {
+      "word": "और",
+      "count": 111
+    },
+    {
+      "word": "के",
+      "count": 107
+    },
+    {
+      "word": "एक",
+      "count": 91
+    },
+    {
+      "word": "था",
+      "count": 88
+    },
+    {
+      "word": "हो",
+      "count": 86
+    },
+    {
+      "word": "सर",
+      "count": 78
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 48
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 40
+    },
+    {
+      "phrase": "है हम",
+      "count": 39
+    },
+    {
+      "phrase": "मेरे को",
+      "count": 27
+    },
+    {
+      "phrase": "है तो",
+      "count": 27
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 24
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 24
+    },
+    {
+      "phrase": "है वो",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 22
+    },
+    {
+      "phrase": "जो है",
+      "count": 20
+    }
+  ],
+  "segment_count": 1543
+}

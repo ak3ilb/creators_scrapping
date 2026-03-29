@@ -1,0 +1,148 @@
+{
+  "video_id": "a_Kcyy_gsnY",
+  "duration_seconds": 1134,
+  "wps": 4.16,
+  "total_words": 4722,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 17030
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, YouTube एल्गोरिदम ने चूज़"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टेक केयर। शब्बा खैर।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 209
+    },
+    {
+      "word": "आप",
+      "count": 94
+    },
+    {
+      "word": "हो",
+      "count": 85
+    },
+    {
+      "word": "और",
+      "count": 77
+    },
+    {
+      "word": "वो",
+      "count": 75
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "से",
+      "count": 69
+    },
+    {
+      "word": "नहीं",
+      "count": 69
+    },
+    {
+      "word": "को",
+      "count": 69
+    },
+    {
+      "word": "हैं",
+      "count": 68
+    },
+    {
+      "word": "के",
+      "count": 68
+    },
+    {
+      "word": "तो",
+      "count": 67
+    },
+    {
+      "word": "ही",
+      "count": 60
+    },
+    {
+      "word": "भी",
+      "count": 60
+    },
+    {
+      "word": "बहुत",
+      "count": 55
+    },
+    {
+      "word": "कर",
+      "count": 53
+    },
+    {
+      "word": "एक",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "आपको",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 45
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लेट गो",
+      "count": 21
+    },
+    {
+      "phrase": "कई बार",
+      "count": 21
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 20
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 16
+    },
+    {
+      "phrase": "की कोशिश",
+      "count": 15
+    },
+    {
+      "phrase": "नहीं कर",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 14
+    },
+    {
+      "phrase": "वो लोग",
+      "count": 14
+    }
+  ],
+  "segment_count": 562
+}

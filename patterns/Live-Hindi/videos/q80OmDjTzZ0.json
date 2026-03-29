@@ -1,0 +1,148 @@
+{
+  "video_id": "q80OmDjTzZ0",
+  "duration_seconds": 925,
+  "wps": 3.16,
+  "total_words": 2921,
+  "language_mix": {
+    "hindi": 92.5,
+    "english": 7.5,
+    "total_chars": 11011
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Renult एक ऐसा नाम जो कुछ साल पहले तक इंडिया की कार मार्केट में धूम मचा रहा था। 2016-17 के टाइम इसने इंडिया में"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "आपका क्या ओपिनियन है? हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 92
+    },
+    {
+      "word": "और",
+      "count": 80
+    },
+    {
+      "word": "के",
+      "count": 75
+    },
+    {
+      "word": "है",
+      "count": 60
+    },
+    {
+      "word": "भी",
+      "count": 57
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "था",
+      "count": 48
+    },
+    {
+      "word": "renult",
+      "count": 43
+    },
+    {
+      "word": "ही",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "थी",
+      "count": 38
+    },
+    {
+      "word": "नहीं",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 34
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "इंडिया",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "लेकिन",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "ने",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया में",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "के बाद",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 10
+    },
+    {
+      "phrase": "renult ने",
+      "count": 9
+    },
+    {
+      "phrase": "थी और",
+      "count": 9
+    },
+    {
+      "phrase": "और फिर",
+      "count": 8
+    },
+    {
+      "phrase": "सेगमेंट में",
+      "count": 8
+    },
+    {
+      "phrase": "renult की",
+      "count": 8
+    }
+  ],
+  "segment_count": 117
+}

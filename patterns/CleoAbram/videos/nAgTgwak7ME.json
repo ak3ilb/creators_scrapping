@@ -1,0 +1,149 @@
+{
+  "video_id": "nAgTgwak7ME",
+  "duration_seconds": 968,
+  "wps": 3.16,
+  "total_words": 3060,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12921
+  },
+  "hook": {
+    "type": "question",
+    "text": "\"Go even harder!\" \"Seriously?\" \"Yeah!\""
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Hold on... I have one more thing... For this whole video we were  talking about robots that look like humans but   what about robots that look... like dogs? Oh thank  you! I got to hang out with Bosto"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 109
+    },
+    {
+      "word": "the",
+      "count": 102
+    },
+    {
+      "word": "that",
+      "count": 79
+    },
+    {
+      "word": "and",
+      "count": 77
+    },
+    {
+      "word": "of",
+      "count": 53
+    },
+    {
+      "word": "is",
+      "count": 47
+    },
+    {
+      "word": "in",
+      "count": 46
+    },
+    {
+      "word": "this",
+      "count": 40
+    },
+    {
+      "word": "do",
+      "count": 38
+    },
+    {
+      "word": "you",
+      "count": 38
+    },
+    {
+      "word": "atlas",
+      "count": 37
+    },
+    {
+      "word": "robot",
+      "count": 34
+    },
+    {
+      "word": "robots",
+      "count": 34
+    },
+    {
+      "word": "we",
+      "count": 32
+    },
+    {
+      "word": "it",
+      "count": 31
+    },
+    {
+      "word": "for",
+      "count": 31
+    },
+    {
+      "word": "can",
+      "count": 27
+    },
+    {
+      "word": "are",
+      "count": 27
+    },
+    {
+      "word": "like",
+      "count": 27
+    },
+    {
+      "word": "so",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 11
+    },
+    {
+      "phrase": "things that",
+      "count": 11
+    },
+    {
+      "phrase": "to be",
+      "count": 10
+    },
+    {
+      "phrase": "the robot",
+      "count": 10
+    },
+    {
+      "phrase": "that we",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "and then",
+      "count": 8
+    },
+    {
+      "phrase": "humanoid robots",
+      "count": 8
+    },
+    {
+      "phrase": "a robot",
+      "count": 8
+    },
+    {
+      "phrase": "boston dynamics",
+      "count": 7
+    }
+  ],
+  "segment_count": 121
+}

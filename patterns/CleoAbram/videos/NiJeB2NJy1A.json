@@ -1,0 +1,149 @@
+{
+  "video_id": "NiJeB2NJy1A",
+  "duration_seconds": 840,
+  "wps": 3.09,
+  "total_words": 2593,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 10600
+  },
+  "hook": {
+    "type": "question",
+    "text": "Ready? And... [CLAP] Think of something you want to see -  something that doesn’t exist. Like... \"a portrait of King Louis IV... as a beagle.\""
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And like this kind of leaps us into this other realm of like, anybody can create art and can be really cool art.” So, what will you make?"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "of",
+      "count": 88
+    },
+    {
+      "word": "the",
+      "count": 87
+    },
+    {
+      "word": "and",
+      "count": 70
+    },
+    {
+      "word": "to",
+      "count": 56
+    },
+    {
+      "word": "this",
+      "count": 48
+    },
+    {
+      "word": "like",
+      "count": 42
+    },
+    {
+      "word": "you",
+      "count": 38
+    },
+    {
+      "word": "that",
+      "count": 37
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 36
+    },
+    {
+      "word": "what",
+      "count": 31
+    },
+    {
+      "word": "in",
+      "count": 28
+    },
+    {
+      "word": "we",
+      "count": 22
+    },
+    {
+      "word": "so",
+      "count": 22
+    },
+    {
+      "word": "ai",
+      "count": 20
+    },
+    {
+      "word": "with",
+      "count": 19
+    },
+    {
+      "word": "for",
+      "count": 17
+    },
+    {
+      "word": "but",
+      "count": 17
+    },
+    {
+      "word": "do",
+      "count": 17
+    },
+    {
+      "word": "an",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and i",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "i was",
+      "count": 9
+    },
+    {
+      "phrase": "this is",
+      "count": 8
+    },
+    {
+      "phrase": "an image",
+      "count": 8
+    },
+    {
+      "phrase": "justin and",
+      "count": 7
+    },
+    {
+      "phrase": "kind of",
+      "count": 7
+    },
+    {
+      "phrase": "then i",
+      "count": 7
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "these tools",
+      "count": 6
+    }
+  ],
+  "segment_count": 106
+}

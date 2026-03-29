@@ -1,0 +1,148 @@
+{
+  "video_id": "XO5IB6iU4TI",
+  "duration_seconds": 53,
+  "wps": 2.62,
+  "total_words": 139,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 703
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रिसर्चरर्स जस्ट फाउंड इंडियन नेम्स क्राफ्ट इंटू इजिप्शन टू्स डेटिंग बैक टू 2,000 इयर्स। सब्सक्राइब फुल डिस्क्लोज़र एंड आई विल एक्सप्लेन दिस टु यू। इन 2024"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देन मियोअर विजिटर्स।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "इन",
+      "count": 8
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "टू",
+      "count": 4
+    },
+    {
+      "word": "रिसर्चरर्स",
+      "count": 2
+    },
+    {
+      "word": "टू्स",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "तमिल",
+      "count": 2
+    },
+    {
+      "word": "संस्कृत",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "मींस",
+      "count": 2
+    },
+    {
+      "word": "इंडियंस",
+      "count": 2
+    },
+    {
+      "word": "वर",
+      "count": 2
+    },
+    {
+      "word": "इट्स",
+      "count": 2
+    },
+    {
+      "word": "दे",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 1
+    },
+    {
+      "word": "फाउंड",
+      "count": 1
+    },
+    {
+      "word": "इंडियन",
+      "count": 1
+    },
+    {
+      "word": "नेम्स",
+      "count": 1
+    },
+    {
+      "word": "क्राफ्ट",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दैट मींस",
+      "count": 2
+    },
+    {
+      "phrase": "मींस इंडियंस",
+      "count": 2
+    },
+    {
+      "phrase": "रिसर्चरर्स जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट फाउंड",
+      "count": 1
+    },
+    {
+      "phrase": "फाउंड इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियन नेम्स",
+      "count": 1
+    },
+    {
+      "phrase": "नेम्स क्राफ्ट",
+      "count": 1
+    },
+    {
+      "phrase": "क्राफ्ट इंटू",
+      "count": 1
+    },
+    {
+      "phrase": "इंटू इजिप्शन",
+      "count": 1
+    },
+    {
+      "phrase": "इजिप्शन टू्स",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

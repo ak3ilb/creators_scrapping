@@ -1,0 +1,149 @@
+{
+  "video_id": "yLt6KKTftXE",
+  "duration_seconds": 1519,
+  "wps": 3.33,
+  "total_words": 5061,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 21628
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "That these 25 lakh rupees were offered by Kapil Dev, who is also known as Michael Jordan of India."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "But our police doesn't know."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 294
+    },
+    {
+      "word": "and",
+      "count": 180
+    },
+    {
+      "word": "in",
+      "count": 141
+    },
+    {
+      "word": "to",
+      "count": 138
+    },
+    {
+      "word": "was",
+      "count": 128
+    },
+    {
+      "word": "that",
+      "count": 122
+    },
+    {
+      "word": "of",
+      "count": 111
+    },
+    {
+      "word": "this",
+      "count": 83
+    },
+    {
+      "word": "is",
+      "count": 77
+    },
+    {
+      "word": "they",
+      "count": 51
+    },
+    {
+      "word": "he",
+      "count": 50
+    },
+    {
+      "word": "but",
+      "count": 44
+    },
+    {
+      "word": "police",
+      "count": 43
+    },
+    {
+      "word": "on",
+      "count": 43
+    },
+    {
+      "word": "match",
+      "count": 42
+    },
+    {
+      "word": "so",
+      "count": 38
+    },
+    {
+      "word": "were",
+      "count": 36
+    },
+    {
+      "word": "there",
+      "count": 35
+    },
+    {
+      "word": "after",
+      "count": 35
+    },
+    {
+      "word": "from",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 48
+    },
+    {
+      "phrase": "said that",
+      "count": 23
+    },
+    {
+      "phrase": "the police",
+      "count": 21
+    },
+    {
+      "phrase": "mk gupta",
+      "count": 18
+    },
+    {
+      "phrase": "used to",
+      "count": 18
+    },
+    {
+      "phrase": "the match",
+      "count": 17
+    },
+    {
+      "phrase": "of the",
+      "count": 16
+    },
+    {
+      "phrase": "to the",
+      "count": 15
+    },
+    {
+      "phrase": "that the",
+      "count": 13
+    },
+    {
+      "phrase": "and the",
+      "count": 13
+    }
+  ],
+  "segment_count": 228
+}

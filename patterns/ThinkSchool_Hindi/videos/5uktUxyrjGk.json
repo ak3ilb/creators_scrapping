@@ -1,0 +1,149 @@
+{
+  "video_id": "5uktUxyrjGk",
+  "duration_seconds": 4892,
+  "wps": 3.69,
+  "total_words": 18058,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 63762
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "यू सेड दैट यू विल पे ₹1 लाख। एनीबडी हु क्लेम्स कि आपके प्रोटीन में वो नहीं है जो बॉक्स के लेबल पे लिखा हुआ है। जस्ट कम इन एंड टेक ₹1 लाख। हाउ मेनी पीपल ट्राइड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 712
+    },
+    {
+      "word": "तो",
+      "count": 415
+    },
+    {
+      "word": "हैं",
+      "count": 279
+    },
+    {
+      "word": "वो",
+      "count": 269
+    },
+    {
+      "word": "कि",
+      "count": 254
+    },
+    {
+      "word": "में",
+      "count": 247
+    },
+    {
+      "word": "नहीं",
+      "count": 223
+    },
+    {
+      "word": "हम",
+      "count": 178
+    },
+    {
+      "word": "भी",
+      "count": 170
+    },
+    {
+      "word": "आप",
+      "count": 166
+    },
+    {
+      "word": "यू",
+      "count": 163
+    },
+    {
+      "word": "प्रोटीन",
+      "count": 161
+    },
+    {
+      "word": "एंड",
+      "count": 159
+    },
+    {
+      "word": "हो",
+      "count": 157
+    },
+    {
+      "word": "और",
+      "count": 152
+    },
+    {
+      "word": "से",
+      "count": 148
+    },
+    {
+      "word": "एक",
+      "count": 148
+    },
+    {
+      "word": "कर",
+      "count": 147
+    },
+    {
+      "word": "के",
+      "count": 140
+    },
+    {
+      "word": "टू",
+      "count": 139
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 70
+    },
+    {
+      "phrase": "है तो",
+      "count": 69
+    },
+    {
+      "phrase": "है कि",
+      "count": 65
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 62
+    },
+    {
+      "phrase": "कि यार",
+      "count": 53
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 46
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 42
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 42
+    },
+    {
+      "phrase": "तो वो",
+      "count": 42
+    },
+    {
+      "phrase": "होता है",
+      "count": 36
+    }
+  ],
+  "segment_count": 613
+}

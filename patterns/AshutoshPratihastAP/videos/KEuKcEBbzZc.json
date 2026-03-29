@@ -1,0 +1,148 @@
+{
+  "video_id": "KEuKcEBbzZc",
+  "duration_seconds": 996,
+  "wps": 3.27,
+  "total_words": 3253,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12360
+  },
+  "hook": {
+    "type": "question",
+    "text": "मोजी सर्फ कहते हैं ना लेकिन करते नहीं है कुछ भी नहीं करते हैं अगर स्कूल बनता वही कोई विद्यालय बनता तो वैज्ञानिक बढ़ते मगर रोजगार कहां से आएगा मंदिर रोजगार थोड़ा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रही है और क्यों हम इस खोखले पन को भर नहीं पा रहे राइट वाली वीडियो देखोगे ना तो जान जाओगे जय हिंद जय भारत"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 84
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "और",
+      "count": 79
+    },
+    {
+      "word": "से",
+      "count": 71
+    },
+    {
+      "word": "भी",
+      "count": 58
+    },
+    {
+      "word": "है",
+      "count": 53
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 44
+    },
+    {
+      "word": "नालंदा",
+      "count": 41
+    },
+    {
+      "word": "था",
+      "count": 37
+    },
+    {
+      "word": "यूनिवर्सिटी",
+      "count": 37
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "तो",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "नहीं",
+      "count": 25
+    },
+    {
+      "word": "हो",
+      "count": 25
+    },
+    {
+      "word": "थी",
+      "count": 25
+    },
+    {
+      "word": "वो",
+      "count": 25
+    },
+    {
+      "word": "इस",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नालंदा यूनिवर्सिटी",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "कि नालंदा",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "गए और",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 5
+    },
+    {
+      "phrase": "भी नहीं",
+      "count": 5
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 5
+    }
+  ],
+  "segment_count": 123
+}

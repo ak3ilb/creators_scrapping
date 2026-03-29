@@ -1,0 +1,148 @@
+{
+  "video_id": "BAhMAP7_5Oc",
+  "duration_seconds": 565,
+  "wps": 3.36,
+  "total_words": 1898,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7422
+  },
+  "hook": {
+    "type": "statement",
+    "text": "टर्की और सऊदी के बीच कैलिफेट को लेकर एक वॉर छिड़ा हुआ है। सऊदी का यह क्लेम है कि ऑटोमेन खलीफ को अल्लाह ने गिराया है ताकि सऊदी को इस्लामिक वर्ल्ड का खलीफ बनने का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कीप लर्निंग एंड कीप ग्लोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 72
+    },
+    {
+      "word": "के",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "और",
+      "count": 48
+    },
+    {
+      "word": "सऊदी",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "में",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "टर्की",
+      "count": 27
+    },
+    {
+      "word": "की",
+      "count": 25
+    },
+    {
+      "word": "से",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 24
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 21
+    },
+    {
+      "word": "ने",
+      "count": 20
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "अपने",
+      "count": 18
+    },
+    {
+      "word": "था",
+      "count": 17
+    },
+    {
+      "word": "इस्लाम",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    },
+    {
+      "phrase": "वहीं पर",
+      "count": 8
+    },
+    {
+      "phrase": "सऊदी के",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 7
+    },
+    {
+      "phrase": "टर्की के",
+      "count": 7
+    },
+    {
+      "phrase": "सऊदी ने",
+      "count": 6
+    },
+    {
+      "phrase": "के साथ",
+      "count": 6
+    }
+  ],
+  "segment_count": 72
+}

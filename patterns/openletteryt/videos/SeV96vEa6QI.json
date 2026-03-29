@@ -1,0 +1,150 @@
+{
+  "video_id": "SeV96vEa6QI",
+  "duration_seconds": 963,
+  "wps": 4.16,
+  "total_words": 4006,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 14590
+  },
+  "hook": {
+    "type": "question",
+    "text": "हम भारतीयों को दान दक्षिणा करना बहुत पसंद है। लेकिन जब अपने आसपास वाले जरूरतमंद लोगों की बात आती है तो उनको लोग कैसे ट्रीट करते हैं? ये देखो अपनी हाउस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 204
+    },
+    {
+      "word": "में",
+      "count": 105
+    },
+    {
+      "word": "हैं",
+      "count": 101
+    },
+    {
+      "word": "के",
+      "count": 99
+    },
+    {
+      "word": "और",
+      "count": 80
+    },
+    {
+      "word": "से",
+      "count": 70
+    },
+    {
+      "word": "को",
+      "count": 64
+    },
+    {
+      "word": "भी",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 57
+    },
+    {
+      "word": "लोग",
+      "count": 53
+    },
+    {
+      "word": "नहीं",
+      "count": 53
+    },
+    {
+      "word": "एक",
+      "count": 50
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "काम",
+      "count": 35
+    },
+    {
+      "word": "पर",
+      "count": 31
+    },
+    {
+      "word": "जो",
+      "count": 31
+    },
+    {
+      "word": "करते",
+      "count": 30
+    },
+    {
+      "word": "हो",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 21
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    },
+    {
+      "phrase": "जाता है",
+      "count": 15
+    },
+    {
+      "phrase": "काम करते",
+      "count": 12
+    },
+    {
+      "phrase": "लोग हैं",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "रही है",
+      "count": 10
+    }
+  ],
+  "segment_count": 125
+}

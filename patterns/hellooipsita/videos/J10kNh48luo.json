@@ -1,0 +1,149 @@
+{
+  "video_id": "J10kNh48luo",
+  "duration_seconds": 555,
+  "wps": 3.27,
+  "total_words": 1816,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 7641
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The art of fight. It took me a bit to"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 66
+    },
+    {
+      "word": "the",
+      "count": 56
+    },
+    {
+      "word": "and",
+      "count": 53
+    },
+    {
+      "word": "that",
+      "count": 42
+    },
+    {
+      "word": "of",
+      "count": 38
+    },
+    {
+      "word": "you",
+      "count": 35
+    },
+    {
+      "word": "is",
+      "count": 32
+    },
+    {
+      "word": "it",
+      "count": 27
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "we",
+      "count": 23
+    },
+    {
+      "word": "like",
+      "count": 21
+    },
+    {
+      "word": "me",
+      "count": 19
+    },
+    {
+      "word": "are",
+      "count": 17
+    },
+    {
+      "word": "so",
+      "count": 17
+    },
+    {
+      "word": "relationships",
+      "count": 16
+    },
+    {
+      "word": "now",
+      "count": 15
+    },
+    {
+      "word": "my",
+      "count": 15
+    },
+    {
+      "word": "an",
+      "count": 15
+    },
+    {
+      "word": "because",
+      "count": 14
+    },
+    {
+      "word": "fight",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "do i",
+      "count": 8
+    },
+    {
+      "phrase": "the art",
+      "count": 6
+    },
+    {
+      "phrase": "that i",
+      "count": 6
+    },
+    {
+      "phrase": "going to",
+      "count": 6
+    },
+    {
+      "phrase": "art of",
+      "count": 5
+    },
+    {
+      "phrase": "of fight",
+      "count": 5
+    },
+    {
+      "phrase": "that we",
+      "count": 5
+    },
+    {
+      "phrase": "what do",
+      "count": 5
+    },
+    {
+      "phrase": "an argument",
+      "count": 5
+    },
+    {
+      "phrase": "to a",
+      "count": 5
+    }
+  ],
+  "segment_count": 256
+}

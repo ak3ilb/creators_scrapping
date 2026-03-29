@@ -1,0 +1,149 @@
+{
+  "video_id": "6uI8X8ovFXo",
+  "duration_seconds": 1021,
+  "wps": 3.62,
+  "total_words": 3701,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 13818
+  },
+  "hook": {
+    "type": "question",
+    "text": "6000 में तो रशियन आ जाती है। भैया 6000 में तो रशियन आ जाती है। क्या बात कर मेरे पास एक सवाल है। आप रशियन लोगों के बारे में क्या सोचते हैं?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 174
+    },
+    {
+      "word": "में",
+      "count": 86
+    },
+    {
+      "word": "के",
+      "count": 77
+    },
+    {
+      "word": "और",
+      "count": 67
+    },
+    {
+      "word": "हैं",
+      "count": 65
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "एक",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 35
+    },
+    {
+      "word": "की",
+      "count": 35
+    },
+    {
+      "word": "रशियन",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 29
+    },
+    {
+      "word": "इस",
+      "count": 27
+    },
+    {
+      "word": "ये",
+      "count": 27
+    },
+    {
+      "word": "हो",
+      "count": 26
+    },
+    {
+      "word": "6000",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 17
+    },
+    {
+      "phrase": "के साथ",
+      "count": 15
+    },
+    {
+      "phrase": "जाता है",
+      "count": 14
+    },
+    {
+      "phrase": "होता है",
+      "count": 14
+    },
+    {
+      "phrase": "6000 आईएआर",
+      "count": 10
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 10
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    }
+  ],
+  "segment_count": 133
+}

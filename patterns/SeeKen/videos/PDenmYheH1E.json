@@ -1,0 +1,149 @@
+{
+  "video_id": "PDenmYheH1E",
+  "duration_seconds": 970,
+  "wps": 3.58,
+  "total_words": 3470,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14886
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, You often **overestimate** what you can achieve in six days, but you"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "**Bye-bye!**"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 101
+    },
+    {
+      "word": "to",
+      "count": 95
+    },
+    {
+      "word": "you",
+      "count": 86
+    },
+    {
+      "word": "the",
+      "count": 83
+    },
+    {
+      "word": "in",
+      "count": 48
+    },
+    {
+      "word": "that",
+      "count": 42
+    },
+    {
+      "word": "it",
+      "count": 40
+    },
+    {
+      "word": "this",
+      "count": 36
+    },
+    {
+      "word": "of",
+      "count": 35
+    },
+    {
+      "word": "for",
+      "count": 31
+    },
+    {
+      "word": "your",
+      "count": 29
+    },
+    {
+      "word": "habit",
+      "count": 29
+    },
+    {
+      "word": "he",
+      "count": 28
+    },
+    {
+      "word": "but",
+      "count": 26
+    },
+    {
+      "word": "just",
+      "count": 26
+    },
+    {
+      "word": "on",
+      "count": 26
+    },
+    {
+      "word": "can",
+      "count": 24
+    },
+    {
+      "word": "if",
+      "count": 24
+    },
+    {
+      "word": "with",
+      "count": 23
+    },
+    {
+      "word": "one",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "six months",
+      "count": 19
+    },
+    {
+      "phrase": "if you",
+      "count": 13
+    },
+    {
+      "phrase": "going to",
+      "count": 12
+    },
+    {
+      "phrase": "you can",
+      "count": 11
+    },
+    {
+      "phrase": "— and",
+      "count": 11
+    },
+    {
+      "phrase": "next habit",
+      "count": 11
+    },
+    {
+      "phrase": "the next",
+      "count": 10
+    },
+    {
+      "phrase": "with you",
+      "count": 9
+    },
+    {
+      "phrase": "your life",
+      "count": 8
+    },
+    {
+      "phrase": "waking up",
+      "count": 8
+    }
+  ],
+  "segment_count": 306
+}

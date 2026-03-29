@@ -1,0 +1,149 @@
+{
+  "video_id": "gtvx6h2yah8",
+  "duration_seconds": 94,
+  "wps": 2.95,
+  "total_words": 277,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1254
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "There is a field where freshers are earning up to 10 lakhs, but 70% of applicants are still not getting hired."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "It needs more builders. Follow full disclosure for more such gone debt."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 9
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "ml",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "but",
+      "count": 5
+    },
+    {
+      "word": "that",
+      "count": 5
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "how",
+      "count": 4
+    },
+    {
+      "word": "data",
+      "count": 4
+    },
+    {
+      "word": "can",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "lakhs",
+      "count": 3
+    },
+    {
+      "word": "not",
+      "count": 3
+    },
+    {
+      "word": "or",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "learn",
+      "count": 3
+    },
+    {
+      "word": "models",
+      "count": 3
+    },
+    {
+      "word": "real",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "to 10",
+      "count": 2
+    },
+    {
+      "phrase": "10 lakhs",
+      "count": 2
+    },
+    {
+      "phrase": "ml engineers",
+      "count": 2
+    },
+    {
+      "phrase": "how the",
+      "count": 2
+    },
+    {
+      "phrase": "completely free",
+      "count": 2
+    },
+    {
+      "phrase": "there is",
+      "count": 1
+    },
+    {
+      "phrase": "is a",
+      "count": 1
+    },
+    {
+      "phrase": "a field",
+      "count": 1
+    },
+    {
+      "phrase": "field where",
+      "count": 1
+    },
+    {
+      "phrase": "where freshers",
+      "count": 1
+    }
+  ],
+  "segment_count": 14
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "pqLMF1W2KxE",
+  "duration_seconds": 2726,
+  "wps": 2.64,
+  "total_words": 7195,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 33280
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The hands which shot guns in the Pahalgam Att*ck they're still roaming around till date."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Lastly, let me remind you again — do try Dermatouch’s Salicylic 2% Face Wash! Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 400
+    },
+    {
+      "word": "and",
+      "count": 205
+    },
+    {
+      "word": "in",
+      "count": 195
+    },
+    {
+      "word": "was",
+      "count": 149
+    },
+    {
+      "word": "to",
+      "count": 123
+    },
+    {
+      "word": "they",
+      "count": 103
+    },
+    {
+      "word": "of",
+      "count": 96
+    },
+    {
+      "word": "this",
+      "count": 94
+    },
+    {
+      "word": "that",
+      "count": 80
+    },
+    {
+      "word": "were",
+      "count": 75
+    },
+    {
+      "word": "he",
+      "count": 58
+    },
+    {
+      "word": "kashmir",
+      "count": 57
+    },
+    {
+      "word": "it",
+      "count": 55
+    },
+    {
+      "word": "from",
+      "count": 55
+    },
+    {
+      "word": "on",
+      "count": 52
+    },
+    {
+      "word": "for",
+      "count": 51
+    },
+    {
+      "word": "att*ck",
+      "count": 44
+    },
+    {
+      "word": "after",
+      "count": 44
+    },
+    {
+      "word": "is",
+      "count": 43
+    },
+    {
+      "word": "pakistan",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 41
+    },
+    {
+      "phrase": "in kashmir",
+      "count": 30
+    },
+    {
+      "phrase": "the pahalgam",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 22
+    },
+    {
+      "phrase": "pahalgam att*ck",
+      "count": 19
+    },
+    {
+      "phrase": "the same",
+      "count": 19
+    },
+    {
+      "phrase": "ali bhai",
+      "count": 17
+    },
+    {
+      "phrase": "on the",
+      "count": 15
+    },
+    {
+      "phrase": "due to",
+      "count": 15
+    },
+    {
+      "phrase": "it was",
+      "count": 14
+    }
+  ],
+  "segment_count": 324
+}

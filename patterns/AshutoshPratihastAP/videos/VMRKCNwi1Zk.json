@@ -1,0 +1,150 @@
+{
+  "video_id": "VMRKCNwi1Zk",
+  "duration_seconds": 1235,
+  "wps": 3.79,
+  "total_words": 4686,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 16485
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "तो आप भी अमीर बनना चाहते हो आपने भी इंटरनेट पर बहुत सारी ऐसी वीडियोस देखी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करता है ताकि वह भी सुधरे और आप तो सुधर ही जाओ"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 211
+    },
+    {
+      "word": "आप",
+      "count": 94
+    },
+    {
+      "word": "में",
+      "count": 93
+    },
+    {
+      "word": "के",
+      "count": 86
+    },
+    {
+      "word": "हो",
+      "count": 85
+    },
+    {
+      "word": "तो",
+      "count": 70
+    },
+    {
+      "word": "भी",
+      "count": 68
+    },
+    {
+      "word": "आपको",
+      "count": 67
+    },
+    {
+      "word": "कि",
+      "count": 64
+    },
+    {
+      "word": "जो",
+      "count": 55
+    },
+    {
+      "word": "की",
+      "count": 54
+    },
+    {
+      "word": "पे",
+      "count": 54
+    },
+    {
+      "word": "नहीं",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 52
+    },
+    {
+      "word": "और",
+      "count": 50
+    },
+    {
+      "word": "ये",
+      "count": 50
+    },
+    {
+      "word": "बहुत",
+      "count": 45
+    },
+    {
+      "word": "अगर",
+      "count": 43
+    },
+    {
+      "word": "कर",
+      "count": 42
+    },
+    {
+      "word": "से",
+      "count": 41
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 23
+    },
+    {
+      "phrase": "सच में",
+      "count": 18
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 17
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "होता है",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "है तो",
+      "count": 12
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 11
+    },
+    {
+      "phrase": "है ना",
+      "count": 11
+    }
+  ],
+  "segment_count": 151
+}

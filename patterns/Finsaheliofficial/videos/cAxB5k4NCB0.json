@@ -1,0 +1,148 @@
+{
+  "video_id": "cAxB5k4NCB0",
+  "duration_seconds": 90,
+  "wps": 2.99,
+  "total_words": 269,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1038
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज आपके पास 13 लाख होते। अगर आपने इस फंड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एडवाइजर से कंसल्ट जरूर करो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "मिड",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "कैप",
+      "count": 6
+    },
+    {
+      "word": "फंड्स",
+      "count": 6
+    },
+    {
+      "word": "फंड",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "पे",
+      "count": 5
+    },
+    {
+      "word": "करो",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "कैटेगरी",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "टॉप",
+      "count": 3
+    },
+    {
+      "word": "आपके",
+      "count": 2
+    },
+    {
+      "word": "होते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिड कैप",
+      "count": 6
+    },
+    {
+      "phrase": "यह फंड",
+      "count": 2
+    },
+    {
+      "phrase": "कैप कैटेगरी",
+      "count": 2
+    },
+    {
+      "phrase": "कैप फंड",
+      "count": 2
+    },
+    {
+      "phrase": "फाइव इयर्स",
+      "count": 2
+    },
+    {
+      "phrase": "सेलेक्ट करो",
+      "count": 2
+    },
+    {
+      "phrase": "टॉप पे",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "स्टॉक्स में",
+      "count": 2
+    },
+    {
+      "phrase": "आज आपके",
+      "count": 1
+    }
+  ],
+  "segment_count": 35
+}

@@ -1,0 +1,34 @@
+{
+  "creator": "hellooipsita",
+  "total_videos_analyzed": 20,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 20,
+      "avg_wps": 2.9772414340387012,
+      "avg_duration": 607.1,
+      "common_hook_patterns": [
+        "going to",
+        "we're going",
+        "to talk",
+        "talk about",
+        "this is",
+        "how to",
+        "i was",
+        "so i",
+        "so in",
+        "in this",
+        "this video",
+        "video we're",
+        "about the",
+        "one night",
+        "i started"
+      ],
+      "sample_hooks": [
+        "so in this video we're going to talk about the five negative thinking",
+        "The art of fight. It took me a bit to come up with this name because art and",
+        "हाय एवरीवन। आय एम इब््सता एंड आय मीन ऑफ़ कोर्स इफ यू आर हियर यू नो मे बट आल्सो"
+      ]
+    }
+  },
+  "overall_avg_wps": 2.9772414340387012
+}

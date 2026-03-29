@@ -1,0 +1,149 @@
+{
+  "video_id": "uPg5793qV0s",
+  "duration_seconds": 49,
+  "wps": 3.12,
+  "total_words": 153,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 567
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "द प्रॉब्लम ऑफ गेटिंग हार्ट अटैक एंड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक्सक्टली।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "ऑफ़",
+      "count": 6
+    },
+    {
+      "word": "लिवर",
+      "count": 6
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "फैटी",
+      "count": 5
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "मच",
+      "count": 3
+    },
+    {
+      "word": "कॉज",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "बिकॉज़",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "कैंसर",
+      "count": 2
+    },
+    {
+      "word": "हर",
+      "count": 2
+    },
+    {
+      "word": "दिन",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "थप्पड़",
+      "count": 2
+    },
+    {
+      "word": "मिल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "फैटी लिवर",
+      "count": 5
+    },
+    {
+      "phrase": "टू मच",
+      "count": 3
+    },
+    {
+      "phrase": "बिकॉज़ ऑफ़",
+      "count": 3
+    },
+    {
+      "phrase": "कैंसर इज",
+      "count": 2
+    },
+    {
+      "phrase": "हर दिन",
+      "count": 2
+    },
+    {
+      "phrase": "मिल रहा",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हो रहा",
+      "count": 2
+    },
+    {
+      "phrase": "कॉज ऑफ़",
+      "count": 2
+    }
+  ],
+  "segment_count": 21
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "jaDokYV5lYw",
+  "duration_seconds": 705,
+  "wps": 2.99,
+  "total_words": 2106,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 8407
+  },
+  "hook": {
+    "type": "statement",
+    "text": "साल 2009 में एक ब्रिटिश न्यूज़पेपर द टाइम्स में ईरानियन गवर्नमेंट की एक सीक्रेट डॉक्यूमेंट लीक हो गई। ईरान का ऑफिशियल फील्ड फॉर द एक्सपेंशन ऑफ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिला एक लाइक जरूर ठोकना और बेल नोटिफिकेशन दबाओ ताकि आगे आने वाली हमारी कोई भी वीडियो की अपडेट आप मिस ना कर सको"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 66
+    },
+    {
+      "word": "और",
+      "count": 43
+    },
+    {
+      "word": "में",
+      "count": 40
+    },
+    {
+      "word": "को",
+      "count": 39
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "था",
+      "count": 34
+    },
+    {
+      "word": "से",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "एंड",
+      "count": 25
+    },
+    {
+      "word": "ने",
+      "count": 25
+    },
+    {
+      "word": "इजराइल",
+      "count": 23
+    },
+    {
+      "word": "ऑफ",
+      "count": 21
+    },
+    {
+      "word": "मोसाड",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "कर",
+      "count": 18
+    },
+    {
+      "word": "गया",
+      "count": 18
+    },
+    {
+      "word": "दिया",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "मोसाड ने",
+      "count": 6
+    },
+    {
+      "phrase": "था और",
+      "count": 5
+    },
+    {
+      "phrase": "के बाद",
+      "count": 5
+    },
+    {
+      "phrase": "मिडिल ईस्ट",
+      "count": 5
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 5
+    },
+    {
+      "phrase": "से एक",
+      "count": 4
+    },
+    {
+      "phrase": "की नजर",
+      "count": 4
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 4
+    },
+    {
+      "phrase": "इंटेलिजेंस एजेंसी",
+      "count": 4
+    }
+  ],
+  "segment_count": 90
+}

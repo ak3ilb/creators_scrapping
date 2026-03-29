@@ -1,0 +1,149 @@
+{
+  "video_id": "ZGFPHRoZUG8",
+  "duration_seconds": 855,
+  "wps": 3.45,
+  "total_words": 2954,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12948
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, there was a young boy named Vishal who dreamed big. His dreams were huge."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s all for today. See you in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "he",
+      "count": 114
+    },
+    {
+      "word": "the",
+      "count": 104
+    },
+    {
+      "word": "and",
+      "count": 77
+    },
+    {
+      "word": "to",
+      "count": 75
+    },
+    {
+      "word": "you",
+      "count": 65
+    },
+    {
+      "word": "this",
+      "count": 50
+    },
+    {
+      "word": "that",
+      "count": 47
+    },
+    {
+      "word": "in",
+      "count": 36
+    },
+    {
+      "word": "it",
+      "count": 32
+    },
+    {
+      "word": "was",
+      "count": 29
+    },
+    {
+      "word": "book",
+      "count": 29
+    },
+    {
+      "word": "of",
+      "count": 27
+    },
+    {
+      "word": "his",
+      "count": 26
+    },
+    {
+      "word": "him",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "your",
+      "count": 23
+    },
+    {
+      "word": "had",
+      "count": 21
+    },
+    {
+      "word": "but",
+      "count": 20
+    },
+    {
+      "word": "is",
+      "count": 20
+    },
+    {
+      "word": "life",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this book",
+      "count": 14
+    },
+    {
+      "phrase": "in the",
+      "count": 11
+    },
+    {
+      "phrase": "he had",
+      "count": 10
+    },
+    {
+      "phrase": "he was",
+      "count": 9
+    },
+    {
+      "phrase": "if you",
+      "count": 9
+    },
+    {
+      "phrase": "that he",
+      "count": 8
+    },
+    {
+      "phrase": "he started",
+      "count": 7
+    },
+    {
+      "phrase": "the book",
+      "count": 7
+    },
+    {
+      "phrase": "how to",
+      "count": 7
+    },
+    {
+      "phrase": "this he",
+      "count": 6
+    }
+  ],
+  "segment_count": 127
+}

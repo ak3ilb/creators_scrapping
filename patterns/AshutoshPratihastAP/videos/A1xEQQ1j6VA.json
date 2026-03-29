@@ -1,0 +1,149 @@
+{
+  "video_id": "A1xEQQ1j6VA",
+  "duration_seconds": 844,
+  "wps": 3.03,
+  "total_words": 2556,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11415
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Elon Musk, Gautam Adani and Jeff Bezos. They are the three most richest people in the world in 2023. Their worth is more than a 100 billion dollars."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Because you can do something which Mansa Musa and Rockefeller could not have even imagined."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 150
+    },
+    {
+      "word": "of",
+      "count": 84
+    },
+    {
+      "word": "and",
+      "count": 80
+    },
+    {
+      "word": "to",
+      "count": 64
+    },
+    {
+      "word": "in",
+      "count": 52
+    },
+    {
+      "word": "was",
+      "count": 47
+    },
+    {
+      "word": "he",
+      "count": 42
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "his",
+      "count": 30
+    },
+    {
+      "word": "is",
+      "count": 28
+    },
+    {
+      "word": "this",
+      "count": 27
+    },
+    {
+      "word": "had",
+      "count": 24
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "oil",
+      "count": 21
+    },
+    {
+      "word": "people",
+      "count": 19
+    },
+    {
+      "word": "mansa",
+      "count": 19
+    },
+    {
+      "word": "rockefeller",
+      "count": 18
+    },
+    {
+      "word": "it",
+      "count": 18
+    },
+    {
+      "word": "not",
+      "count": 17
+    },
+    {
+      "word": "they",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 22
+    },
+    {
+      "phrase": "of the",
+      "count": 19
+    },
+    {
+      "phrase": "the world",
+      "count": 13
+    },
+    {
+      "phrase": "the richest",
+      "count": 11
+    },
+    {
+      "phrase": "mali empire",
+      "count": 11
+    },
+    {
+      "phrase": "more than",
+      "count": 10
+    },
+    {
+      "phrase": "that he",
+      "count": 10
+    },
+    {
+      "phrase": "the mali",
+      "count": 9
+    },
+    {
+      "phrase": "he had",
+      "count": 8
+    },
+    {
+      "phrase": "of his",
+      "count": 8
+    }
+  ],
+  "segment_count": 105
+}

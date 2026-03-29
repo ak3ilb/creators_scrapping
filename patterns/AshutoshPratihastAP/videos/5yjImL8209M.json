@@ -1,0 +1,148 @@
+{
+  "video_id": "5yjImL8209M",
+  "duration_seconds": 340,
+  "wps": 3.54,
+  "total_words": 1204,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 4240
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जो आपने अभी थंबनेल पे देखा है बिल्कुल सही बात है कुछ टाइम पहले मेरे दिमाग में ये सेम थॉट आया था कि मैं अपने चैनल को डिलीट कर दूं ऐसा क्यों"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पड़ेगा एक एक महीने का वेट नहीं करना पड़ेगा वीडियोस देखने के लिए बहुत तेजी से वीडियोस आने वाली है ठीक है थैंक यू सो मच टेक केयर आई विल सी यू ऑल"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 47
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "के",
+      "count": 27
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 24
+    },
+    {
+      "word": "से",
+      "count": 23
+    },
+    {
+      "word": "चैनल",
+      "count": 21
+    },
+    {
+      "word": "और",
+      "count": 20
+    },
+    {
+      "word": "इस",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 16
+    },
+    {
+      "word": "बहुत",
+      "count": 16
+    },
+    {
+      "word": "भी",
+      "count": 16
+    },
+    {
+      "word": "वीडियो",
+      "count": 16
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "यह",
+      "count": 15
+    },
+    {
+      "word": "को",
+      "count": 14
+    },
+    {
+      "word": "कर",
+      "count": 13
+    },
+    {
+      "word": "मैंने",
+      "count": 13
+    },
+    {
+      "word": "जो",
+      "count": 12
+    },
+    {
+      "word": "वीडियोस",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 6
+    },
+    {
+      "phrase": "चैनल के",
+      "count": 6
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 6
+    },
+    {
+      "phrase": "वजह से",
+      "count": 5
+    },
+    {
+      "phrase": "इस चैनल",
+      "count": 5
+    },
+    {
+      "phrase": "जय महाकाल",
+      "count": 5
+    },
+    {
+      "phrase": "इस वीडियो",
+      "count": 5
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 5
+    },
+    {
+      "phrase": "के बारे",
+      "count": 5
+    }
+  ],
+  "segment_count": 43
+}

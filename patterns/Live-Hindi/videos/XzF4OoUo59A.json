@@ -1,0 +1,148 @@
+{
+  "video_id": "XzF4OoUo59A",
+  "duration_seconds": 915,
+  "wps": 3.04,
+  "total_words": 2783,
+  "language_mix": {
+    "hindi": 92.2,
+    "english": 7.8,
+    "total_chars": 10517
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Splender इंडिया की ऐसी बाइक जिसने सिर्फ सड़कों पर नहीं बल्कि लोगों के दिलों पर भी राज किया। यही वजह है कि इसके 4 करोड़"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "है। वैसे आपने कभी यह बाइक चलाई है कि नहीं? हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "था",
+      "count": 63
+    },
+    {
+      "word": "के",
+      "count": 62
+    },
+    {
+      "word": "भी",
+      "count": 56
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "थी",
+      "count": 40
+    },
+    {
+      "word": "splender",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "ही",
+      "count": 37
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "hero",
+      "count": 36
+    },
+    {
+      "word": "honda",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "लेकिन",
+      "count": 30
+    },
+    {
+      "word": "बाइक",
+      "count": 29
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "hero honda",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "था कि",
+      "count": 13
+    },
+    {
+      "phrase": "honda ने",
+      "count": 10
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "में भी",
+      "count": 7
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "और फिर",
+      "count": 7
+    },
+    {
+      "phrase": "थी और",
+      "count": 6
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 6
+    }
+  ],
+  "segment_count": 117
+}

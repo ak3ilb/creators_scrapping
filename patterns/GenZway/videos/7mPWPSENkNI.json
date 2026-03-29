@@ -1,0 +1,150 @@
+{
+  "video_id": "7mPWPSENkNI",
+  "duration_seconds": 766,
+  "wps": 4.51,
+  "total_words": 3456,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12006
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आज रातों-रात अल्कोहल, सिगरेट और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तो नहीं है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 178
+    },
+    {
+      "word": "के",
+      "count": 110
+    },
+    {
+      "word": "और",
+      "count": 81
+    },
+    {
+      "word": "से",
+      "count": 65
+    },
+    {
+      "word": "हैं",
+      "count": 65
+    },
+    {
+      "word": "ना",
+      "count": 62
+    },
+    {
+      "word": "तो",
+      "count": 58
+    },
+    {
+      "word": "भी",
+      "count": 58
+    },
+    {
+      "word": "नहीं",
+      "count": 53
+    },
+    {
+      "word": "को",
+      "count": 52
+    },
+    {
+      "word": "अंदर",
+      "count": 51
+    },
+    {
+      "word": "कर",
+      "count": 46
+    },
+    {
+      "word": "ये",
+      "count": 44
+    },
+    {
+      "word": "लोग",
+      "count": 44
+    },
+    {
+      "word": "एक",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 40
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "जो",
+      "count": 36
+    },
+    {
+      "word": "में",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 44
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 16
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 16
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 15
+    },
+    {
+      "phrase": "है ना",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 13
+    },
+    {
+      "phrase": "होता है",
+      "count": 12
+    }
+  ],
+  "segment_count": 402
+}

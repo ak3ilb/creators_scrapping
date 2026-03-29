@@ -1,0 +1,149 @@
+{
+  "video_id": "qmQ_lQOBdq4",
+  "duration_seconds": 1376,
+  "wps": 2.67,
+  "total_words": 3675,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14774
+  },
+  "hook": {
+    "type": "statement",
+    "text": "We're about to try to beat the lunar speed record in this brand new space truck. Three, two, one..."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I'm so excited to see this truck on the moon  and I can't wait to see what happens next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 188
+    },
+    {
+      "word": "to",
+      "count": 148
+    },
+    {
+      "word": "and",
+      "count": 89
+    },
+    {
+      "word": "this",
+      "count": 78
+    },
+    {
+      "word": "it",
+      "count": 70
+    },
+    {
+      "word": "is",
+      "count": 66
+    },
+    {
+      "word": "you",
+      "count": 64
+    },
+    {
+      "word": "that",
+      "count": 53
+    },
+    {
+      "word": "in",
+      "count": 45
+    },
+    {
+      "word": "so",
+      "count": 45
+    },
+    {
+      "word": "go",
+      "count": 43
+    },
+    {
+      "word": "on",
+      "count": 43
+    },
+    {
+      "word": "truck",
+      "count": 42
+    },
+    {
+      "word": "of",
+      "count": 41
+    },
+    {
+      "word": "moon",
+      "count": 40
+    },
+    {
+      "word": "it's",
+      "count": 29
+    },
+    {
+      "word": "going",
+      "count": 27
+    },
+    {
+      "word": "all",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "what",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the moon",
+      "count": 39
+    },
+    {
+      "phrase": "on the",
+      "count": 31
+    },
+    {
+      "phrase": "to the",
+      "count": 21
+    },
+    {
+      "phrase": "to go",
+      "count": 16
+    },
+    {
+      "phrase": "this truck",
+      "count": 15
+    },
+    {
+      "phrase": "the truck",
+      "count": 14
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "going to",
+      "count": 13
+    },
+    {
+      "phrase": "have to",
+      "count": 11
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    }
+  ],
+  "segment_count": 212
+}

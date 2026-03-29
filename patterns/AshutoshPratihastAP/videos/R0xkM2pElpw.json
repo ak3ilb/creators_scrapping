@@ -1,0 +1,150 @@
+{
+  "video_id": "R0xkM2pElpw",
+  "duration_seconds": 1260,
+  "wps": 3.62,
+  "total_words": 4563,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 16537
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप किसी भी तरह का बिज़नेस करते हैं किसी भी तरह की कंपनी चलाते हैं कोई ऐसा जॉब है जहां पे आपको लोगों को इन्फ्लुएंस करना पड़ता है आपको कोई सामान बेचना पड़ता है आपको सर्विस बेचनी पड़ती है आपको अपनी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ज्यादा इंफॉर्मेशन वीडियो अगली बार कभी भी आपसे मिस ना हो मैं मिलता आपको अग वीडियो के अंदर टिल द टाइम टेक केर"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 200
+    },
+    {
+      "word": "हैं",
+      "count": 107
+    },
+    {
+      "word": "कि",
+      "count": 90
+    },
+    {
+      "word": "को",
+      "count": 81
+    },
+    {
+      "word": "के",
+      "count": 77
+    },
+    {
+      "word": "आप",
+      "count": 74
+    },
+    {
+      "word": "तो",
+      "count": 67
+    },
+    {
+      "word": "भी",
+      "count": 65
+    },
+    {
+      "word": "बहुत",
+      "count": 55
+    },
+    {
+      "word": "आपको",
+      "count": 54
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "हो",
+      "count": 51
+    },
+    {
+      "word": "और",
+      "count": 49
+    },
+    {
+      "word": "में",
+      "count": 46
+    },
+    {
+      "word": "अगर",
+      "count": 45
+    },
+    {
+      "word": "वो",
+      "count": 45
+    },
+    {
+      "word": "ये",
+      "count": 43
+    },
+    {
+      "word": "क्या",
+      "count": 36
+    },
+    {
+      "word": "पे",
+      "count": 35
+    },
+    {
+      "word": "कर",
+      "count": 33
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 22
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 20
+    },
+    {
+      "phrase": "अपने आप",
+      "count": 18
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 18
+    },
+    {
+      "phrase": "है तो",
+      "count": 16
+    },
+    {
+      "phrase": "कई बार",
+      "count": 15
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 15
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 14
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 14
+    },
+    {
+      "phrase": "होता है",
+      "count": 13
+    }
+  ],
+  "segment_count": 149
+}

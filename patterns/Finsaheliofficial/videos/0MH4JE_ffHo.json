@@ -1,0 +1,148 @@
+{
+  "video_id": "0MH4JE_ffHo",
+  "duration_seconds": 54,
+  "wps": 3.67,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 781
+  },
+  "hook": {
+    "type": "question",
+    "text": "बेसिक से ट्रेडिंग सीखने के लिए यह तीन बुक्स आपके बहुत काम आने वाली है। तो इस वीडियो को सेव कर लो और लास्ट तक जरूर देखना। अगर ट्रेडिंग बेसिक से सीखना चाहते"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में लिखना बुक मैं आपको डायरेक्ट लिंक भेज दूंगी। बट मेक शोर इसके लिए आपने मुझे फॉलो किया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ट्रेडिंग",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "बुक",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "बेसिक",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "सीख",
+      "count": 3
+    },
+    {
+      "word": "हेल्प",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "तीन",
+      "count": 2
+    },
+    {
+      "word": "बुक्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बेसिक से",
+      "count": 3
+    },
+    {
+      "phrase": "तीन बुक्स",
+      "count": 2
+    },
+    {
+      "phrase": "बुक्स आपके",
+      "count": 2
+    },
+    {
+      "phrase": "आपके बहुत",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत काम",
+      "count": 2
+    },
+    {
+      "phrase": "काम आने",
+      "count": 2
+    },
+    {
+      "phrase": "आने वाली",
+      "count": 2
+    },
+    {
+      "phrase": "वाली है",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हो",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

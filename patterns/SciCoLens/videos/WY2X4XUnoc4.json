@@ -1,0 +1,148 @@
+{
+  "video_id": "WY2X4XUnoc4",
+  "duration_seconds": 944,
+  "wps": 2.94,
+  "total_words": 2780,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 10817
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पाकिस्तान की तकदीर हमेशा के लिए बदल सकती है क्योंकि पाकिस्तान को अपने समुंदर के तल में पूरे विश्व का चौथा सबसे बड़ा ऑयल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वाचिंग। सी यू अनदर टाइम। टेक केयर। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 80
+    },
+    {
+      "word": "है",
+      "count": 70
+    },
+    {
+      "word": "के",
+      "count": 66
+    },
+    {
+      "word": "से",
+      "count": 53
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 52
+    },
+    {
+      "word": "और",
+      "count": 52
+    },
+    {
+      "word": "को",
+      "count": 41
+    },
+    {
+      "word": "भी",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 40
+    },
+    {
+      "word": "नहीं",
+      "count": 37
+    },
+    {
+      "word": "कि",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "गैस",
+      "count": 29
+    },
+    {
+      "word": "ही",
+      "count": 29
+    },
+    {
+      "word": "हैं",
+      "count": 29
+    },
+    {
+      "word": "ऑयल",
+      "count": 28
+    },
+    {
+      "word": "था",
+      "count": 27
+    },
+    {
+      "word": "ने",
+      "count": 27
+    },
+    {
+      "word": "हो",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पाकिस्तान में",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "और गैस",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "पाकिस्तान की",
+      "count": 9
+    },
+    {
+      "phrase": "पाकिस्तान को",
+      "count": 9
+    },
+    {
+      "phrase": "तेल और",
+      "count": 8
+    },
+    {
+      "phrase": "कि पाकिस्तान",
+      "count": 8
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 8
+    },
+    {
+      "phrase": "इमरान खान",
+      "count": 7
+    }
+  ],
+  "segment_count": 119
+}

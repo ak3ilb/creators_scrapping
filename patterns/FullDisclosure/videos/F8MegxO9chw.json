@@ -1,0 +1,148 @@
+{
+  "video_id": "F8MegxO9chw",
+  "duration_seconds": 51,
+  "wps": 2.82,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 689
+  },
+  "hook": {
+    "type": "question",
+    "text": "There's a major shift happening right now and young people are the most affected by it. Traditional marketing isn't evolving, it's losing relevance"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "real channels and companies. Build attention as a career. Join Jensen's online creator boot camp. It's free. The link is in the pinned comment below."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "by",
+      "count": 5
+    },
+    {
+      "word": "attention",
+      "count": 3
+    },
+    {
+      "word": "creator",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "don't",
+      "count": 2
+    },
+    {
+      "word": "trust",
+      "count": 2
+    },
+    {
+      "word": "creators",
+      "count": 2
+    },
+    {
+      "word": "that's",
+      "count": 2
+    },
+    {
+      "word": "gen",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "learn",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "there's",
+      "count": 1
+    },
+    {
+      "word": "major",
+      "count": 1
+    },
+    {
+      "word": "shift",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "there's a",
+      "count": 1
+    },
+    {
+      "phrase": "a major",
+      "count": 1
+    },
+    {
+      "phrase": "major shift",
+      "count": 1
+    },
+    {
+      "phrase": "shift happening",
+      "count": 1
+    },
+    {
+      "phrase": "happening right",
+      "count": 1
+    },
+    {
+      "phrase": "right now",
+      "count": 1
+    },
+    {
+      "phrase": "now and",
+      "count": 1
+    },
+    {
+      "phrase": "and young",
+      "count": 1
+    },
+    {
+      "phrase": "young people",
+      "count": 1
+    },
+    {
+      "phrase": "people are",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

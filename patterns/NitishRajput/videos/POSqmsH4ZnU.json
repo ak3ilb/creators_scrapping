@@ -1,0 +1,149 @@
+{
+  "video_id": "POSqmsH4ZnU",
+  "duration_seconds": 3286,
+  "wps": 2.74,
+  "total_words": 9013,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 40667
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why did we get this tender in those states where the BJP government was present?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "do try DermaTouch Bright and Even Skin Tone Facewash. Link is given in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 482
+    },
+    {
+      "word": "and",
+      "count": 248
+    },
+    {
+      "word": "in",
+      "count": 239
+    },
+    {
+      "word": "was",
+      "count": 233
+    },
+    {
+      "word": "this",
+      "count": 212
+    },
+    {
+      "word": "it",
+      "count": 156
+    },
+    {
+      "word": "of",
+      "count": 153
+    },
+    {
+      "word": "to",
+      "count": 149
+    },
+    {
+      "word": "eduquity",
+      "count": 137
+    },
+    {
+      "word": "tender",
+      "count": 132
+    },
+    {
+      "word": "that",
+      "count": 118
+    },
+    {
+      "word": "is",
+      "count": 91
+    },
+    {
+      "word": "for",
+      "count": 88
+    },
+    {
+      "word": "ssc",
+      "count": 82
+    },
+    {
+      "word": "were",
+      "count": 78
+    },
+    {
+      "word": "so",
+      "count": 74
+    },
+    {
+      "word": "but",
+      "count": 73
+    },
+    {
+      "word": "on",
+      "count": 72
+    },
+    {
+      "word": "exam",
+      "count": 62
+    },
+    {
+      "word": "when",
+      "count": 61
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 76
+    },
+    {
+      "phrase": "the tender",
+      "count": 31
+    },
+    {
+      "phrase": "of the",
+      "count": 31
+    },
+    {
+      "phrase": "the same",
+      "count": 26
+    },
+    {
+      "phrase": "this is",
+      "count": 24
+    },
+    {
+      "phrase": "new tender",
+      "count": 24
+    },
+    {
+      "phrase": "it was",
+      "count": 23
+    },
+    {
+      "phrase": "the exam",
+      "count": 23
+    },
+    {
+      "phrase": "in this",
+      "count": 23
+    },
+    {
+      "phrase": "this tender",
+      "count": 22
+    }
+  ],
+  "segment_count": 415
+}

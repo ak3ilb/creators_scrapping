@@ -1,0 +1,148 @@
+{
+  "video_id": "eSQrBDXXMZ0",
+  "duration_seconds": 96,
+  "wps": 3.27,
+  "total_words": 314,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1330
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्यों एक डेंजरस न्यूक्लियर पावर प्लांट के नीचे 500 से भी ज्यादा मगरमच्छ अपना घर बना के बैठे हैं? यह है साउथ फ्लोरिडा का टर्की पॉइंट न्यूक्लियर पावर प्लांट। जहां"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करने के लिए यह डील जरूर शेयर करना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "रेडिएशन",
+      "count": 6
+    },
+    {
+      "word": "वाटर",
+      "count": 6
+    },
+    {
+      "word": "प्लांट",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "न्यूक्लियर",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "पानी",
+      "count": 4
+    },
+    {
+      "word": "क्रोकोडाइल्स",
+      "count": 4
+    },
+    {
+      "word": "गुना",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "न्यूक्लियर पावर",
+      "count": 2
+    },
+    {
+      "phrase": "पावर प्लांट",
+      "count": 2
+    },
+    {
+      "phrase": "प्लांट के",
+      "count": 2
+    },
+    {
+      "phrase": "हैं यह",
+      "count": 2
+    },
+    {
+      "phrase": "प्लांट को",
+      "count": 2
+    },
+    {
+      "phrase": "को कूल",
+      "count": 2
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "पानी में",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

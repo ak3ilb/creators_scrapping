@@ -1,0 +1,150 @@
+{
+  "video_id": "uMtH6pthRxU",
+  "duration_seconds": 960,
+  "wps": 3.85,
+  "total_words": 3695,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 12881
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इस वीडियो से पहले जब मैंने यूटर्स के बिजनेस को थोड़ा सा एनालाइज किया था तो छोटा सा लफड़ा हो गया था और जैसी वीडियो ये बनने वाली है मुझे लगता है कि इसके ऊपर"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "बनाने के लिए ओडू बिजनेस मैनेजमेंट सॉफ्टवेयर को तुम लोग फ्री में ट्राई आउट कर सकते तुम्हें लिंक मेरे पिन कमेंट और डिस्क्रिप्शन के अंदर मिल जाएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 157
+    },
+    {
+      "word": "के",
+      "count": 106
+    },
+    {
+      "word": "और",
+      "count": 104
+    },
+    {
+      "word": "भी",
+      "count": 81
+    },
+    {
+      "word": "को",
+      "count": 71
+    },
+    {
+      "word": "तो",
+      "count": 71
+    },
+    {
+      "word": "हैं",
+      "count": 58
+    },
+    {
+      "word": "कि",
+      "count": 57
+    },
+    {
+      "word": "लोग",
+      "count": 54
+    },
+    {
+      "word": "हो",
+      "count": 52
+    },
+    {
+      "word": "ये",
+      "count": 49
+    },
+    {
+      "word": "कर",
+      "count": 49
+    },
+    {
+      "word": "वो",
+      "count": 43
+    },
+    {
+      "word": "आप",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "ना",
+      "count": 41
+    },
+    {
+      "word": "से",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 23
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 21
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 18
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 16
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 16
+    },
+    {
+      "phrase": "रहा है",
+      "count": 15
+    }
+  ],
+  "segment_count": 110
+}

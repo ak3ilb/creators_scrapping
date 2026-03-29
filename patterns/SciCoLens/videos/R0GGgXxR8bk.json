@@ -1,0 +1,149 @@
+{
+  "video_id": "R0GGgXxR8bk",
+  "duration_seconds": 537,
+  "wps": 3.08,
+  "total_words": 1656,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 6651
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और हाल ही में पाकिस्तान के फॉरेन मिनिस्टर ने हमारे प्रधानमंत्री पर यह आरोप लगाया कि ओसामा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "है",
+      "count": 37
+    },
+    {
+      "word": "और",
+      "count": 36
+    },
+    {
+      "word": "में",
+      "count": 36
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "भी",
+      "count": 26
+    },
+    {
+      "word": "की",
+      "count": 26
+    },
+    {
+      "word": "ने",
+      "count": 23
+    },
+    {
+      "word": "इंडिया",
+      "count": 22
+    },
+    {
+      "word": "चाइना",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "से",
+      "count": 19
+    },
+    {
+      "word": "तो",
+      "count": 18
+    },
+    {
+      "word": "ही",
+      "count": 17
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 17
+    },
+    {
+      "word": "कर",
+      "count": 17
+    },
+    {
+      "word": "एक",
+      "count": 17
+    },
+    {
+      "word": "दिया",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 8
+    },
+    {
+      "phrase": "करने के",
+      "count": 7
+    },
+    {
+      "phrase": "परमानेंट सीट",
+      "count": 7
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 6
+    },
+    {
+      "phrase": "की वजह",
+      "count": 5
+    },
+    {
+      "phrase": "चाइना को",
+      "count": 5
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 4
+    },
+    {
+      "phrase": "पाकिस्तान को",
+      "count": 4
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    }
+  ],
+  "segment_count": 69
+}

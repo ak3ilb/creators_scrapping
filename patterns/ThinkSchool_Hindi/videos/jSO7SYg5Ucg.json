@@ -1,0 +1,149 @@
+{
+  "video_id": "jSO7SYg5Ucg",
+  "duration_seconds": 4108,
+  "wps": 3.11,
+  "total_words": 12791,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 45983
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हॉस्टल में जितने भी सारे बच्चे हैं उनको अच्छा खाना नहीं मिलता सारा मेस का जो खाना होता है वो न्यूट्रिशस भी नहीं होता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रहा है कि इसने आपको बहुत कुछ सिखाया तो प्लीज उनको यहां पे इस ईमेल पे रीच आउट कीजिए और उनको बताइए"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 447
+    },
+    {
+      "word": "तो",
+      "count": 359
+    },
+    {
+      "word": "कि",
+      "count": 231
+    },
+    {
+      "word": "में",
+      "count": 210
+    },
+    {
+      "word": "और",
+      "count": 192
+    },
+    {
+      "word": "को",
+      "count": 165
+    },
+    {
+      "word": "वो",
+      "count": 157
+    },
+    {
+      "word": "ही",
+      "count": 143
+    },
+    {
+      "word": "नहीं",
+      "count": 135
+    },
+    {
+      "word": "के",
+      "count": 135
+    },
+    {
+      "word": "भी",
+      "count": 131
+    },
+    {
+      "word": "बहुत",
+      "count": 130
+    },
+    {
+      "word": "यू",
+      "count": 116
+    },
+    {
+      "word": "हैं",
+      "count": 111
+    },
+    {
+      "word": "ये",
+      "count": 101
+    },
+    {
+      "word": "हो",
+      "count": 99
+    },
+    {
+      "word": "का",
+      "count": 93
+    },
+    {
+      "word": "मैं",
+      "count": 92
+    },
+    {
+      "word": "से",
+      "count": 89
+    },
+    {
+      "word": "एक",
+      "count": 87
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बहुत ही",
+      "count": 64
+    },
+    {
+      "phrase": "है तो",
+      "count": 59
+    },
+    {
+      "phrase": "है कि",
+      "count": 50
+    },
+    {
+      "phrase": "होता है",
+      "count": 43
+    },
+    {
+      "phrase": "यू नो",
+      "count": 40
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 31
+    },
+    {
+      "phrase": "के लिए",
+      "count": 30
+    },
+    {
+      "phrase": "योगा बार",
+      "count": 24
+    },
+    {
+      "phrase": "रिटेलर को",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    }
+  ],
+  "segment_count": 631
+}

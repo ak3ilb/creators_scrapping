@@ -1,0 +1,28 @@
+{
+  "creator": "Live-Hindi",
+  "last_updated": "2026-03-29T14:31:24.680245",
+  "pacing": {
+    "avg_wps": 3.0204811103482414,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.0204811103482414,
+        "duration": 962.3870967741935
+      }
+    }
+  },
+  "signature_hooks": [
+    "है लेकिन",
+    "से भी",
+    "एक ऐसा",
+    "पहले तक",
+    "करोड़ से",
+    "लेकिन क्या",
+    "हो या",
+    "है कि",
+    "सड़कों पर",
+    "से ज्यादा"
+  ],
+  "uniqueness_traits": [
+    "Storytelling Specialist"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "jUAMBCK804Q",
+  "duration_seconds": 1562,
+  "wps": 4.57,
+  "total_words": 7145,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 25016
+  },
+  "hook": {
+    "type": "question",
+    "text": "हमारे देश का कानून मर्दों से नफरत बहुत करता है और अगर कोई भी आदमी सोशल मीडिया के ऊपर आके ये चीज बोल दे कि भैया दहेज तो सही है और एलएमएन ही गलत है तो हमारे देश"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "को चेक आउट करना बिल्कुल मत भूलना। मैं तुमसे मिलता हूं एक अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 326
+    },
+    {
+      "word": "के",
+      "count": 215
+    },
+    {
+      "word": "और",
+      "count": 155
+    },
+    {
+      "word": "को",
+      "count": 142
+    },
+    {
+      "word": "नहीं",
+      "count": 131
+    },
+    {
+      "word": "भी",
+      "count": 129
+    },
+    {
+      "word": "तो",
+      "count": 127
+    },
+    {
+      "word": "लोग",
+      "count": 116
+    },
+    {
+      "word": "आप",
+      "count": 106
+    },
+    {
+      "word": "हो",
+      "count": 100
+    },
+    {
+      "word": "कि",
+      "count": 95
+    },
+    {
+      "word": "अगर",
+      "count": 93
+    },
+    {
+      "word": "कर",
+      "count": 85
+    },
+    {
+      "word": "वो",
+      "count": 80
+    },
+    {
+      "word": "अंदर",
+      "count": 78
+    },
+    {
+      "word": "भैया",
+      "count": 77
+    },
+    {
+      "word": "में",
+      "count": 76
+    },
+    {
+      "word": "से",
+      "count": 73
+    },
+    {
+      "word": "ये",
+      "count": 73
+    },
+    {
+      "word": "हैं",
+      "count": 72
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आप लोग",
+      "count": 71
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 63
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 61
+    },
+    {
+      "phrase": "है और",
+      "count": 35
+    },
+    {
+      "phrase": "रही है",
+      "count": 34
+    },
+    {
+      "phrase": "है कि",
+      "count": 30
+    },
+    {
+      "phrase": "है तो",
+      "count": 29
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 28
+    },
+    {
+      "phrase": "आप लोगों",
+      "count": 28
+    },
+    {
+      "phrase": "के लिए",
+      "count": 23
+    }
+  ],
+  "segment_count": 200
+}

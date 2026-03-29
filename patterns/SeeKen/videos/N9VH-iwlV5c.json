@@ -1,0 +1,149 @@
+{
+  "video_id": "N9VH-iwlV5c",
+  "duration_seconds": 881,
+  "wps": 3.21,
+  "total_words": 2831,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12797
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, suppose"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s all for now—see you in the next video. Bye-bye."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 115
+    },
+    {
+      "word": "and",
+      "count": 87
+    },
+    {
+      "word": "you",
+      "count": 81
+    },
+    {
+      "word": "to",
+      "count": 65
+    },
+    {
+      "word": "of",
+      "count": 49
+    },
+    {
+      "word": "in",
+      "count": 42
+    },
+    {
+      "word": "that",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 40
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "is",
+      "count": 27
+    },
+    {
+      "word": "he",
+      "count": 25
+    },
+    {
+      "word": "what",
+      "count": 25
+    },
+    {
+      "word": "are",
+      "count": 24
+    },
+    {
+      "word": "people",
+      "count": 23
+    },
+    {
+      "word": "was",
+      "count": 22
+    },
+    {
+      "word": "they",
+      "count": 22
+    },
+    {
+      "word": "if",
+      "count": 21
+    },
+    {
+      "word": "do",
+      "count": 20
+    },
+    {
+      "word": "them",
+      "count": 19
+    },
+    {
+      "word": "now",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 14
+    },
+    {
+      "phrase": "you should",
+      "count": 8
+    },
+    {
+      "phrase": "you can",
+      "count": 8
+    },
+    {
+      "phrase": "you want",
+      "count": 7
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "instead of",
+      "count": 7
+    },
+    {
+      "phrase": "to him",
+      "count": 5
+    },
+    {
+      "phrase": "communication skills",
+      "count": 5
+    },
+    {
+      "phrase": "of the",
+      "count": 5
+    },
+    {
+      "phrase": "is that",
+      "count": 5
+    }
+  ],
+  "segment_count": 277
+}

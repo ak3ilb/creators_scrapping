@@ -1,0 +1,148 @@
+{
+  "video_id": "NLsbJ5bIr9Q",
+  "duration_seconds": 55,
+  "wps": 4.49,
+  "total_words": 247,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 836
+  },
+  "hook": {
+    "type": "statement",
+    "text": "किसी भी होटल में जाने से पहले अपने साथ ये तीन चीजें जरूर ले जाना वरना बहुत बड़ी प्रॉब्लम में फंस सकते हो। आपको अपने साथ एक टॉर्च लेकर जानी है। एक ब्लैक कलर की"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शेयर करना जो बहुत ज्यादा होटल विजिट करते हैं एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "कोई",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "आपको",
+      "count": 7
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "होल",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "होटल",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कलर की",
+      "count": 3
+    },
+    {
+      "phrase": "करना है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "कोई होल",
+      "count": 3
+    },
+    {
+      "phrase": "अपने साथ",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत बड़ी",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "को अपने",
+      "count": 2
+    },
+    {
+      "phrase": "रूम में",
+      "count": 2
+    },
+    {
+      "phrase": "चेक करना",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

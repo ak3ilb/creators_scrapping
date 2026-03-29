@@ -1,0 +1,148 @@
+{
+  "video_id": "jalR5R5JqME",
+  "duration_seconds": 1481,
+  "wps": 2.8,
+  "total_words": 4140,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 15971
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जापान के इतिहास का सबसे खतरनाक क्राइम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "केयर। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 136
+    },
+    {
+      "word": "में",
+      "count": 130
+    },
+    {
+      "word": "से",
+      "count": 84
+    },
+    {
+      "word": "और",
+      "count": 79
+    },
+    {
+      "word": "एक",
+      "count": 75
+    },
+    {
+      "word": "है",
+      "count": 72
+    },
+    {
+      "word": "की",
+      "count": 68
+    },
+    {
+      "word": "को",
+      "count": 62
+    },
+    {
+      "word": "जापान",
+      "count": 61
+    },
+    {
+      "word": "थे",
+      "count": 61
+    },
+    {
+      "word": "भी",
+      "count": 51
+    },
+    {
+      "word": "ही",
+      "count": 49
+    },
+    {
+      "word": "गैंग",
+      "count": 47
+    },
+    {
+      "word": "कर",
+      "count": 41
+    },
+    {
+      "word": "ने",
+      "count": 40
+    },
+    {
+      "word": "हो",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 38
+    },
+    {
+      "word": "था",
+      "count": 36
+    },
+    {
+      "word": "पर",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जापान में",
+      "count": 29
+    },
+    {
+      "phrase": "जापान के",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "करते थे",
+      "count": 13
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 13
+    },
+    {
+      "phrase": "करने के",
+      "count": 10
+    },
+    {
+      "phrase": "जापान की",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "थे और",
+      "count": 8
+    }
+  ],
+  "segment_count": 535
+}

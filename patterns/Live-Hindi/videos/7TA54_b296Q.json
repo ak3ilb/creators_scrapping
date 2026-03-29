@@ -1,0 +1,150 @@
+{
+  "video_id": "7TA54_b296Q",
+  "duration_seconds": 944,
+  "wps": 3.07,
+  "total_words": 2895,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11024
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अयोध्या का भव्य राम मंदिर हो या दुनिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के डेवलपमेंट के प्रति समर्पित रही है"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 109
+    },
+    {
+      "word": "में",
+      "count": 94
+    },
+    {
+      "word": "को",
+      "count": 77
+    },
+    {
+      "word": "और",
+      "count": 75
+    },
+    {
+      "word": "है",
+      "count": 52
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 44
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "कंपनी",
+      "count": 40
+    },
+    {
+      "word": "से",
+      "count": 40
+    },
+    {
+      "word": "इस",
+      "count": 39
+    },
+    {
+      "word": "एलएनटी",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 33
+    },
+    {
+      "word": "था",
+      "count": 33
+    },
+    {
+      "word": "हैं",
+      "count": 29
+    },
+    {
+      "word": "ने",
+      "count": 28
+    },
+    {
+      "word": "लिए",
+      "count": 27
+    },
+    {
+      "word": "यह",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 22
+    },
+    {
+      "phrase": "एलएनटी के",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "और फिर",
+      "count": 10
+    },
+    {
+      "phrase": "कंपनी को",
+      "count": 9
+    },
+    {
+      "phrase": "के बाद",
+      "count": 9
+    },
+    {
+      "phrase": "एल एनटी",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 8
+    },
+    {
+      "phrase": "इस कंपनी",
+      "count": 7
+    }
+  ],
+  "segment_count": 369
+}

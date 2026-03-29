@@ -1,0 +1,148 @@
+{
+  "video_id": "7XbRkwvARBg",
+  "duration_seconds": 49,
+  "wps": 2.86,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 704
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ईलॉन मस्क एंड निखिल कारमेड सेड समथिंग कंट्रोवर्शियल। ईलॉन मस्क सेस दट वर्किंग विल बी ऑप्शनल इन 20 इयर्स। निखिल कामट"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "रेपटेशन, एंड लीगल रिस्क। डू यू थिंक एआई विल रिप्लेस करियर्स। ओर कंप्लीटली रिडिफाइन देम। शेयर योर थॉट्स अबाउट दिस इन द कमेंट्स।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "विल",
+      "count": 3
+    },
+    {
+      "word": "एआई",
+      "count": 3
+    },
+    {
+      "word": "ईलॉन",
+      "count": 2
+    },
+    {
+      "word": "मस्क",
+      "count": 2
+    },
+    {
+      "word": "निखिल",
+      "count": 2
+    },
+    {
+      "word": "सेस",
+      "count": 2
+    },
+    {
+      "word": "बी",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "थ्री",
+      "count": 2
+    },
+    {
+      "word": "कारमेड",
+      "count": 1
+    },
+    {
+      "word": "सेड",
+      "count": 1
+    },
+    {
+      "word": "समथिंग",
+      "count": 1
+    },
+    {
+      "word": "कंट्रोवर्शियल",
+      "count": 1
+    },
+    {
+      "word": "दट",
+      "count": 1
+    },
+    {
+      "word": "वर्किंग",
+      "count": 1
+    },
+    {
+      "word": "ऑप्शनल",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ईलॉन मस्क",
+      "count": 2
+    },
+    {
+      "phrase": "विल बी",
+      "count": 2
+    },
+    {
+      "phrase": "मस्क एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड निखिल",
+      "count": 1
+    },
+    {
+      "phrase": "निखिल कारमेड",
+      "count": 1
+    },
+    {
+      "phrase": "कारमेड सेड",
+      "count": 1
+    },
+    {
+      "phrase": "सेड समथिंग",
+      "count": 1
+    },
+    {
+      "phrase": "समथिंग कंट्रोवर्शियल",
+      "count": 1
+    },
+    {
+      "phrase": "कंट्रोवर्शियल ईलॉन",
+      "count": 1
+    },
+    {
+      "phrase": "मस्क सेस",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

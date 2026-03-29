@@ -1,0 +1,149 @@
+{
+  "video_id": "Yzej-J4uI6s",
+  "duration_seconds": 810,
+  "wps": 3.35,
+  "total_words": 2711,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10125
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "2020 यह साल भूल पाना इस दुनिया में जी रहे किसी भी इंसान के लिए लगभग नामुमकिन है आज रात 12 बजे से संपूर्ण देश में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाओगे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 95
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "तो",
+      "count": 56
+    },
+    {
+      "word": "भी",
+      "count": 50
+    },
+    {
+      "word": "के",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "और",
+      "count": 45
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "इंश्योरेंस",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "की",
+      "count": 28
+    },
+    {
+      "word": "हैं",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 24
+    },
+    {
+      "word": "आपको",
+      "count": 24
+    },
+    {
+      "word": "आप",
+      "count": 21
+    },
+    {
+      "word": "हो",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "हेल्थ इंश्योरेंस",
+      "count": 14
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "देश में",
+      "count": 7
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 6
+    },
+    {
+      "phrase": "रूम रेंट",
+      "count": 6
+    },
+    {
+      "phrase": "कई लोग",
+      "count": 5
+    }
+  ],
+  "segment_count": 97
+}

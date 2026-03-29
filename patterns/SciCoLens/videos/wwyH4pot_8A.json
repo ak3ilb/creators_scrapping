@@ -1,0 +1,149 @@
+{
+  "video_id": "wwyH4pot_8A",
+  "duration_seconds": 666,
+  "wps": 3.15,
+  "total_words": 2098,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 8304
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पाकिस्तान में सिविल वॉर छिड़ चुका है। बोलो बोलो। जी हां, इमरान खान के अससिनेशन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मुश्किल वक्त का अच्छे से सामना कर लेगा। राइट डाउन योर ओपिनियन डाउन बिलो। और अगर इस वीडियो से आपको कुछ भी नई बात जानने मिली, एक लाइक जरूर ठोकना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 59
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "के",
+      "count": 47
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "की",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "कि",
+      "count": 27
+    },
+    {
+      "word": "यह",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 26
+    },
+    {
+      "word": "था",
+      "count": 23
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "पर",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "हो",
+      "count": 19
+    },
+    {
+      "word": "अब",
+      "count": 17
+    },
+    {
+      "word": "ने",
+      "count": 16
+    },
+    {
+      "word": "कर",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पाकिस्तान में",
+      "count": 16
+    },
+    {
+      "phrase": "इमरान खान",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 9
+    },
+    {
+      "phrase": "सिविल वॉर",
+      "count": 7
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "हो गया",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "में एक",
+      "count": 6
+    }
+  ],
+  "segment_count": 86
+}

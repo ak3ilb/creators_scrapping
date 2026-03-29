@@ -1,0 +1,99 @@
+{
+  "total_videos": 41,
+  "pacing": {
+    "avg_wps": 2.99,
+    "min_wps": 1.72,
+    "max_wps": 3.42
+  },
+  "language": {
+    "avg_hindi_pct": 0.0,
+    "avg_english_pct": 100.0
+  },
+  "hook_types": {
+    "question": 17,
+    "general_statement": 13,
+    "statement": 11
+  },
+  "closing_types": {
+    "punchline_or_open": 31,
+    "direct_cta": 8,
+    "question_to_audience": 2
+  },
+  "structures": {
+    "long_form_story": 41
+  },
+  "audience_addressing": {
+    "you (English)": 41,
+    "conditional address (if you...)": 38
+  },
+  "vocabulary": {
+    "consistent": {
+      "you": 41,
+      "to": 41,
+      "of": 41,
+      "that": 41,
+      "and": 41,
+      "this": 41,
+      "the": 41,
+      "it": 40,
+      "is": 40,
+      "in": 40,
+      "we": 32,
+      "so": 31,
+      "but": 29,
+      "for": 26
+    },
+    "variable": {
+      "on": 21,
+      "it's": 18,
+      "like": 17,
+      "what": 15,
+      "are": 15,
+      "can": 11,
+      "they": 10,
+      "with": 10,
+      "do": 9,
+      "have": 8,
+      "all": 7,
+      "just": 7,
+      "if": 7
+    },
+    "rare": {
+      "about": 6,
+      "at": 5,
+      "people": 5,
+      "be": 5,
+      "or": 4,
+      "my": 4,
+      "ai": 4,
+      "car": 4,
+      "an": 3,
+      "cars": 3,
+      "how": 3,
+      "not": 3,
+      "more": 3,
+      "these": 3,
+      "our": 2
+    }
+  },
+  "sample_hooks": [
+    "Ready? Inside the stomach of a sperm whale,",
+    "[Ticking]",
+    "\"N-F-T!\"",
+    "I’m officially a YouTuber, is I  think what I’m feeling right now. JOHNNY HARRIS: You are, this is it! ALEXIS OHANIAN: Hi Cleo!",
+    "This plane is about to send me into zero gravity  for 10 minutes. And I'm going to try to explain",
+    "At some point, you have to believe something.  We've reinvented computing as we know it. What is the vision for what you see coming next? We  asked ourselves, if it can do this, how far can",
+    "\"The green flag is waved...\" \"All five lights are off...\" \"And we've got green in Mexico City...\" \"Green in London!\" \"Green in Seoul!\"",
+    "\"Spot, can you come over here and say hi?\" \"Oh my god\""
+  ],
+  "sample_closings": [
+    "Heat.",
+    "thank you so much to NASA. If you like optimistic  science and tech stories and you want to support",
+    "Cool? Great.",
+    "Should they subscribe? Kiss  if they should subscribe. Oh, thank you! Yeah! Thor says subscribe!",
+    "proved that gravity has waves. For those and more  optimistic science and tech stories, subscribe.",
+    "I hope for that to be what the next generation learn. Thank you so much for your time. I enjoyed it, thank you! I'm glad!",
+    "You hear that? Watch a race! So now you know more about the future of cars and I really gotta get out of pit lane  because they're gonna start racing!",
+    "show about technology and the future. If you like this kind of video and you want to support us, the  best thing that you can do is to subscribe, and if you want to see our episode with  Boston Dynami"
+  ]
+}

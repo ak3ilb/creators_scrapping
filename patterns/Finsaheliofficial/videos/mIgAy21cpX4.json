@@ -1,0 +1,149 @@
+{
+  "video_id": "mIgAy21cpX4",
+  "duration_seconds": 66,
+  "wps": 3.58,
+  "total_words": 236,
+  "language_mix": {
+    "hindi": 96.9,
+    "english": 3.1,
+    "total_chars": 876
+  },
+  "hook": {
+    "type": "question",
+    "text": "पहले यह कमेंट्स पढ़ो। क्या गुस्सा नहीं आया? कितना इजी होता है सोशल मीडिया पे किसी को भी इस तरीके के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ताकि उन्हें भी पता चले कि अगर इस तरीके की कोई एक्टिविटी हो रही है तो ऐसे केस में क्या कर सकते हैं।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "इस",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "करो",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "कमेंट्स",
+      "count": 6
+    },
+    {
+      "word": "तरीके",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "क्या",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "instagram",
+      "count": 3
+    },
+    {
+      "word": "शेयर",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "ऐसे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस तरीके",
+      "count": 6
+    },
+    {
+      "phrase": "तरीके के",
+      "count": 5
+    },
+    {
+      "phrase": "के कमेंट्स",
+      "count": 4
+    },
+    {
+      "phrase": "शेयर करो",
+      "count": 3
+    },
+    {
+      "phrase": "के साथ",
+      "count": 3
+    },
+    {
+      "phrase": "भी इस",
+      "count": 2
+    },
+    {
+      "phrase": "instagram आईडी",
+      "count": 2
+    },
+    {
+      "phrase": "करो और",
+      "count": 2
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 2
+    },
+    {
+      "phrase": "यह है",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

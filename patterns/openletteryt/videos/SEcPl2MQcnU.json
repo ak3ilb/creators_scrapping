@@ -1,0 +1,149 @@
+{
+  "video_id": "SEcPl2MQcnU",
+  "duration_seconds": 1019,
+  "wps": 3.94,
+  "total_words": 4012,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 14892
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आजकल यंग जनरेशन में कांसेप्ट बड़ा पॉपुलर हो रहा है। वी लव किड्स बट अपने नहीं। दूसरों के बच्चे दूसरे के बच्चे को।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बार इन्हें चेक आउट जरूर करना। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 164
+    },
+    {
+      "word": "में",
+      "count": 105
+    },
+    {
+      "word": "के",
+      "count": 73
+    },
+    {
+      "word": "और",
+      "count": 68
+    },
+    {
+      "word": "हैं",
+      "count": 67
+    },
+    {
+      "word": "तो",
+      "count": 58
+    },
+    {
+      "word": "हो",
+      "count": 54
+    },
+    {
+      "word": "नहीं",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "एक",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "की",
+      "count": 41
+    },
+    {
+      "word": "बच्चे",
+      "count": 40
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 34
+    },
+    {
+      "word": "यह",
+      "count": 33
+    },
+    {
+      "word": "लोग",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 31
+    },
+    {
+      "word": "पर",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "रही है",
+      "count": 13
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    },
+    {
+      "phrase": "आज के",
+      "count": 9
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "बच्चे को",
+      "count": 8
+    }
+  ],
+  "segment_count": 130
+}

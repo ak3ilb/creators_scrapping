@@ -1,0 +1,149 @@
+{
+  "video_id": "2pcFkmOAmUU",
+  "duration_seconds": 878,
+  "wps": 3.56,
+  "total_words": 3126,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11140
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हेलो हां भाई आशुतोष तुझे याद है दो साल पहले मैंने तुझे बोला था कि मुझे कैफे खोलना है और रेस्टोरेंट की पूरी एक चेन बनानी है भाई दो साल बीत चुके हैं उस बात"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पर क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 141
+    },
+    {
+      "word": "आप",
+      "count": 59
+    },
+    {
+      "word": "के",
+      "count": 52
+    },
+    {
+      "word": "में",
+      "count": 49
+    },
+    {
+      "word": "हो",
+      "count": 46
+    },
+    {
+      "word": "को",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 37
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "आपको",
+      "count": 36
+    },
+    {
+      "word": "हैं",
+      "count": 35
+    },
+    {
+      "word": "चीज",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "और",
+      "count": 29
+    },
+    {
+      "word": "ये",
+      "count": 29
+    },
+    {
+      "word": "जो",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 12
+    },
+    {
+      "phrase": "फाइनेंशियल एजुकेशन",
+      "count": 11
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 8
+    },
+    {
+      "phrase": "कभी भी",
+      "count": 8
+    },
+    {
+      "phrase": "करता है",
+      "count": 8
+    },
+    {
+      "phrase": "शुरू कर",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    }
+  ],
+  "segment_count": 105
+}

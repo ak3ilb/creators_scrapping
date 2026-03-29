@@ -1,0 +1,150 @@
+{
+  "video_id": "MnRjwvQJa6I",
+  "duration_seconds": 1400,
+  "wps": 4.52,
+  "total_words": 6331,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 22631
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जो जो बच्चे ये बुलीवाला या पटना के जामसर या फिर कोटा के किसी भी टीचर को पसंद करते हैं ना एक रियलिटी चेक ले जाओ। तुम्हारे फेवरेट टीचर को 10वीं से 12वीं तक का कोई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "खुद के और अपने पेरेंट्स के लिए बीटो का ग्लूकोमीटर चेक आउट करना बिल्कुल मत भूलना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 274
+    },
+    {
+      "word": "के",
+      "count": 199
+    },
+    {
+      "word": "और",
+      "count": 154
+    },
+    {
+      "word": "हैं",
+      "count": 121
+    },
+    {
+      "word": "हो",
+      "count": 103
+    },
+    {
+      "word": "भी",
+      "count": 96
+    },
+    {
+      "word": "तो",
+      "count": 96
+    },
+    {
+      "word": "को",
+      "count": 89
+    },
+    {
+      "word": "ना",
+      "count": 83
+    },
+    {
+      "word": "लोग",
+      "count": 77
+    },
+    {
+      "word": "नहीं",
+      "count": 77
+    },
+    {
+      "word": "एक",
+      "count": 74
+    },
+    {
+      "word": "अंदर",
+      "count": 71
+    },
+    {
+      "word": "से",
+      "count": 69
+    },
+    {
+      "word": "का",
+      "count": 69
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "ये",
+      "count": 64
+    },
+    {
+      "word": "कि",
+      "count": 64
+    },
+    {
+      "word": "भैया",
+      "count": 62
+    },
+    {
+      "word": "कर",
+      "count": 60
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 55
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 35
+    },
+    {
+      "phrase": "है और",
+      "count": 31
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 31
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 27
+    },
+    {
+      "phrase": "होता है",
+      "count": 22
+    },
+    {
+      "phrase": "रहा है",
+      "count": 21
+    },
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 19
+    },
+    {
+      "phrase": "है ना",
+      "count": 18
+    }
+  ],
+  "segment_count": 181
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "OMKelJYcZ4Y",
+  "duration_seconds": 830,
+  "wps": 3.31,
+  "total_words": 2751,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11932
+  },
+  "hook": {
+    "type": "statement",
+    "text": "“So, this is about last month, as you already know."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thanks for watching.”"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "that",
+      "count": 85
+    },
+    {
+      "word": "and",
+      "count": 79
+    },
+    {
+      "word": "the",
+      "count": 76
+    },
+    {
+      "word": "he",
+      "count": 69
+    },
+    {
+      "word": "to",
+      "count": 53
+    },
+    {
+      "word": "of",
+      "count": 50
+    },
+    {
+      "word": "you",
+      "count": 48
+    },
+    {
+      "word": "this",
+      "count": 32
+    },
+    {
+      "word": "it",
+      "count": 26
+    },
+    {
+      "word": "in",
+      "count": 26
+    },
+    {
+      "word": "about",
+      "count": 23
+    },
+    {
+      "word": "his",
+      "count": 23
+    },
+    {
+      "word": "we",
+      "count": 21
+    },
+    {
+      "word": "was",
+      "count": 20
+    },
+    {
+      "word": "had",
+      "count": 20
+    },
+    {
+      "word": "would",
+      "count": 19
+    },
+    {
+      "word": "your",
+      "count": 18
+    },
+    {
+      "word": "so",
+      "count": 18
+    },
+    {
+      "word": "all",
+      "count": 17
+    },
+    {
+      "word": "for",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the same",
+      "count": 11
+    },
+    {
+      "phrase": "that he",
+      "count": 9
+    },
+    {
+      "phrase": "he had",
+      "count": 7
+    },
+    {
+      "phrase": "— and",
+      "count": 6
+    },
+    {
+      "phrase": "in the",
+      "count": 6
+    },
+    {
+      "phrase": "at the",
+      "count": 6
+    },
+    {
+      "phrase": "same time",
+      "count": 6
+    },
+    {
+      "phrase": "because of",
+      "count": 5
+    },
+    {
+      "phrase": "of the",
+      "count": 5
+    },
+    {
+      "phrase": "all the",
+      "count": 5
+    }
+  ],
+  "segment_count": 248
+}

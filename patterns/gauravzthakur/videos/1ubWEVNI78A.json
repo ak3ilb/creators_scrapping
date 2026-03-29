@@ -1,0 +1,148 @@
+{
+  "video_id": "1ubWEVNI78A",
+  "duration_seconds": 45,
+  "wps": 3.93,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 652
+  },
+  "hook": {
+    "type": "question",
+    "text": "व्हाट अबाउट अल्कोहल? जैसे आर्मी कल्चर में डिसिप्लिन तो एक चीज है बट उसके साथ अल्कोहल भी है। लाइक उसका क्या मतलब कैसा सिस्टम है?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फिटनेस। यू कैन हैव अ ऑड ड्रिंक। आई एम नॉट अगेंस्ट दैट बट देन इट शुड नॉट अफेक्ट योर आपकी मिशन अकंप्लिशमेंट और मिशन कंप्लीशन की कैपेबिलिटीज को नहीं अफेक्ट कर। राइट?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "हैव",
+      "count": 4
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "डाल",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "नॉट",
+      "count": 3
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "अल्कोहल",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 2
+    },
+    {
+      "word": "उसका",
+      "count": 2
+    },
+    {
+      "word": "दिन",
+      "count": 2
+    },
+    {
+      "word": "दिए",
+      "count": 2
+    },
+    {
+      "word": "किसी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किसी ने",
+      "count": 2
+    },
+    {
+      "phrase": "डाल दी",
+      "count": 2
+    },
+    {
+      "phrase": "हैव अ",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेशल फोर्सेस",
+      "count": 2
+    },
+    {
+      "phrase": "व्हाट अबाउट",
+      "count": 1
+    },
+    {
+      "phrase": "अबाउट अल्कोहल",
+      "count": 1
+    },
+    {
+      "phrase": "अल्कोहल जैसे",
+      "count": 1
+    },
+    {
+      "phrase": "जैसे आर्मी",
+      "count": 1
+    },
+    {
+      "phrase": "आर्मी कल्चर",
+      "count": 1
+    },
+    {
+      "phrase": "कल्चर में",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

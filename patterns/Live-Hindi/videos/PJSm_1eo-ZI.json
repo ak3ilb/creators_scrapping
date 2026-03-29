@@ -1,0 +1,148 @@
+{
+  "video_id": "PJSm_1eo-ZI",
+  "duration_seconds": 1075,
+  "wps": 3.02,
+  "total_words": 3245,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 12569
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जेप्टो जिसने पूरी दुनिया को बताया कि"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 105
+    },
+    {
+      "word": "में",
+      "count": 104
+    },
+    {
+      "word": "से",
+      "count": 74
+    },
+    {
+      "word": "के",
+      "count": 73
+    },
+    {
+      "word": "की",
+      "count": 53
+    },
+    {
+      "word": "था",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 47
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "कि",
+      "count": 45
+    },
+    {
+      "word": "ने",
+      "count": 42
+    },
+    {
+      "word": "ही",
+      "count": 38
+    },
+    {
+      "word": "है",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "डिलीवरी",
+      "count": 28
+    },
+    {
+      "word": "इस",
+      "count": 28
+    },
+    {
+      "word": "एक",
+      "count": 27
+    },
+    {
+      "word": "कर",
+      "count": 26
+    },
+    {
+      "word": "तो",
+      "count": 24
+    },
+    {
+      "word": "नहीं",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "10 मिनट",
+      "count": 12
+    },
+    {
+      "phrase": "आदित्य और",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "तक पहुंच",
+      "count": 9
+    },
+    {
+      "phrase": "था कि",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    },
+    {
+      "phrase": "तरह से",
+      "count": 8
+    },
+    {
+      "phrase": "और फिर",
+      "count": 7
+    },
+    {
+      "phrase": "मिनट में",
+      "count": 7
+    },
+    {
+      "phrase": "किराना कार्ड",
+      "count": 7
+    }
+  ],
+  "segment_count": 416
+}

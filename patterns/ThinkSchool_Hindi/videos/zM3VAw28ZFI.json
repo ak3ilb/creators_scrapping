@@ -1,0 +1,149 @@
+{
+  "video_id": "zM3VAw28ZFI",
+  "duration_seconds": 656,
+  "wps": 2.83,
+  "total_words": 1858,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 7444
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों, भारत से एक ऐसा विस्की ब्रांड उभर कर आया है जिसने जैक डनियल्स और ग्लैन फडिक जैसे 100-100 साल पुराने ब्रांड्स को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 93
+    },
+    {
+      "word": "और",
+      "count": 63
+    },
+    {
+      "word": "में",
+      "count": 56
+    },
+    {
+      "word": "को",
+      "count": 43
+    },
+    {
+      "word": "के",
+      "count": 35
+    },
+    {
+      "word": "हैं",
+      "count": 35
+    },
+    {
+      "word": "से",
+      "count": 30
+    },
+    {
+      "word": "इंद्री",
+      "count": 30
+    },
+    {
+      "word": "विस्की",
+      "count": 29
+    },
+    {
+      "word": "तो",
+      "count": 21
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "एक",
+      "count": 18
+    },
+    {
+      "word": "इंडियन",
+      "count": 18
+    },
+    {
+      "word": "जाता",
+      "count": 18
+    },
+    {
+      "word": "यह",
+      "count": 17
+    },
+    {
+      "word": "का",
+      "count": 17
+    },
+    {
+      "word": "इस",
+      "count": 17
+    },
+    {
+      "word": "साल",
+      "count": 15
+    },
+    {
+      "word": "कि",
+      "count": 15
+    },
+    {
+      "word": "ने",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 19
+    },
+    {
+      "phrase": "जाता है",
+      "count": 18
+    },
+    {
+      "phrase": "इंद्री ने",
+      "count": 12
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "होता है",
+      "count": 8
+    },
+    {
+      "phrase": "इंडियन विस्की",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "हैं और",
+      "count": 6
+    },
+    {
+      "phrase": "विस्की में",
+      "count": 6
+    }
+  ],
+  "segment_count": 83
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "PqdmKQYSizA",
+  "duration_seconds": 1426,
+  "wps": 3.08,
+  "total_words": 4396,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 19944
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Political parties are buying these polling agencies with money."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 169
+    },
+    {
+      "word": "in",
+      "count": 115
+    },
+    {
+      "word": "of",
+      "count": 104
+    },
+    {
+      "word": "to",
+      "count": 101
+    },
+    {
+      "word": "and",
+      "count": 91
+    },
+    {
+      "word": "that",
+      "count": 81
+    },
+    {
+      "word": "these",
+      "count": 59
+    },
+    {
+      "word": "this",
+      "count": 55
+    },
+    {
+      "word": "polls",
+      "count": 55
+    },
+    {
+      "word": "so",
+      "count": 54
+    },
+    {
+      "word": "they",
+      "count": 49
+    },
+    {
+      "word": "it",
+      "count": 49
+    },
+    {
+      "word": "election",
+      "count": 49
+    },
+    {
+      "word": "is",
+      "count": 45
+    },
+    {
+      "word": "then",
+      "count": 44
+    },
+    {
+      "word": "be",
+      "count": 42
+    },
+    {
+      "word": "exit",
+      "count": 41
+    },
+    {
+      "word": "but",
+      "count": 40
+    },
+    {
+      "word": "are",
+      "count": 36
+    },
+    {
+      "word": "poll",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "exit polls",
+      "count": 27
+    },
+    {
+      "phrase": "election commission",
+      "count": 21
+    },
+    {
+      "phrase": "polling agencies",
+      "count": 20
+    },
+    {
+      "phrase": "political parties",
+      "count": 17
+    },
+    {
+      "phrase": "in the",
+      "count": 17
+    },
+    {
+      "phrase": "results of",
+      "count": 15
+    },
+    {
+      "phrase": "of exit",
+      "count": 15
+    },
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "exit poll",
+      "count": 14
+    },
+    {
+      "phrase": "due to",
+      "count": 13
+    }
+  ],
+  "segment_count": 277
+}

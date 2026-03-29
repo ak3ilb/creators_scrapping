@@ -1,0 +1,148 @@
+{
+  "video_id": "UP6lNn_5bYs",
+  "duration_seconds": 39,
+  "wps": 2.56,
+  "total_words": 100,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 404
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "द विंग स्केल्स टुडे कैन मेजर योर बॉडी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इज अ पर्संस मेटा एज।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एज",
+      "count": 6
+    },
+    {
+      "word": "कैन",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 3
+    },
+    {
+      "word": "आपका",
+      "count": 3
+    },
+    {
+      "word": "बर्थ",
+      "count": 3
+    },
+    {
+      "word": "सर्टिफिकेट",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "फैट",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "पास",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "मेजर",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "विसरल",
+      "count": 2
+    },
+    {
+      "word": "मतलब",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "टेस्टिंग",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बर्थ सर्टिफिकेट",
+      "count": 3
+    },
+    {
+      "phrase": "के पास",
+      "count": 3
+    },
+    {
+      "phrase": "कैन मेजर",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आपका",
+      "count": 2
+    },
+    {
+      "phrase": "सर्टिफिकेट एज",
+      "count": 2
+    },
+    {
+      "phrase": "विसरल फैट",
+      "count": 2
+    },
+    {
+      "phrase": "का मतलब",
+      "count": 2
+    },
+    {
+      "phrase": "व्हाट इज",
+      "count": 2
+    },
+    {
+      "phrase": "द विंग",
+      "count": 1
+    },
+    {
+      "phrase": "विंग स्केल्स",
+      "count": 1
+    }
+  ],
+  "segment_count": 14
+}

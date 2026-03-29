@@ -1,0 +1,149 @@
+{
+  "video_id": "LOn-mmezykQ",
+  "duration_seconds": 1304,
+  "wps": 2.94,
+  "total_words": 3839,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16003
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Look at this. This real asteroid is the"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "in Mark's new video. Huge if true."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 174
+    },
+    {
+      "word": "and",
+      "count": 130
+    },
+    {
+      "word": "to",
+      "count": 93
+    },
+    {
+      "word": "it",
+      "count": 85
+    },
+    {
+      "word": "that",
+      "count": 81
+    },
+    {
+      "word": "of",
+      "count": 74
+    },
+    {
+      "word": "is",
+      "count": 67
+    },
+    {
+      "word": "asteroid",
+      "count": 47
+    },
+    {
+      "word": "this",
+      "count": 46
+    },
+    {
+      "word": "in",
+      "count": 44
+    },
+    {
+      "word": "you",
+      "count": 43
+    },
+    {
+      "word": "but",
+      "count": 35
+    },
+    {
+      "word": "we",
+      "count": 35
+    },
+    {
+      "word": "so",
+      "count": 32
+    },
+    {
+      "word": "it's",
+      "count": 30
+    },
+    {
+      "word": "if",
+      "count": 26
+    },
+    {
+      "word": "on",
+      "count": 25
+    },
+    {
+      "word": "an",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "all",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "an asteroid",
+      "count": 14
+    },
+    {
+      "phrase": "the world",
+      "count": 13
+    },
+    {
+      "phrase": "the asteroid",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 12
+    },
+    {
+      "phrase": "is that",
+      "count": 11
+    },
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "around the",
+      "count": 11
+    },
+    {
+      "phrase": "of a",
+      "count": 10
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "a new",
+      "count": 9
+    }
+  ],
+  "segment_count": 586
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "Ru4K717BxC0",
+  "duration_seconds": 1338,
+  "wps": 4.43,
+  "total_words": 5923,
+  "language_mix": {
+    "hindi": 96.1,
+    "english": 3.9,
+    "total_chars": 20961
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अब ये हो की आइसक्रीम का ना रीसेंट डेज के अंदर काफी ट्रेंड चल रहा था और हम सारे के सारे लोग ऑफिस के अंदर बैठे हुए थे। तो हमने सोचा चलो यार मंगा के देख लेते हैं। हमने सबके लिए आइसक्रीम मंगाई, सब ने खाई,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्कूल ऑफ टेक्नोलॉजीस को चेक आउट करना बिल्कुल भी मत भूलना। और मैं तुमसे मिलता हूं अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 194
+    },
+    {
+      "word": "और",
+      "count": 181
+    },
+    {
+      "word": "है",
+      "count": 168
+    },
+    {
+      "word": "था",
+      "count": 107
+    },
+    {
+      "word": "को",
+      "count": 107
+    },
+    {
+      "word": "अंदर",
+      "count": 95
+    },
+    {
+      "word": "भी",
+      "count": 92
+    },
+    {
+      "word": "तो",
+      "count": 89
+    },
+    {
+      "word": "ना",
+      "count": 88
+    },
+    {
+      "word": "नहीं",
+      "count": 86
+    },
+    {
+      "word": "की",
+      "count": 80
+    },
+    {
+      "word": "हैं",
+      "count": 76
+    },
+    {
+      "word": "थे",
+      "count": 73
+    },
+    {
+      "word": "वो",
+      "count": 72
+    },
+    {
+      "word": "का",
+      "count": 67
+    },
+    {
+      "word": "कि",
+      "count": 66
+    },
+    {
+      "word": "लोग",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 61
+    },
+    {
+      "word": "ये",
+      "count": 60
+    },
+    {
+      "word": "थी",
+      "count": 57
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 82
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 38
+    },
+    {
+      "phrase": "है और",
+      "count": 27
+    },
+    {
+      "phrase": "रहा है",
+      "count": 21
+    },
+    {
+      "phrase": "थे और",
+      "count": 19
+    },
+    {
+      "phrase": "था और",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 17
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 16
+    },
+    {
+      "phrase": "टाइम पे",
+      "count": 16
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 15
+    }
+  ],
+  "segment_count": 170
+}

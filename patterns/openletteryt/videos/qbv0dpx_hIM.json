@@ -1,0 +1,148 @@
+{
+  "video_id": "qbv0dpx_hIM",
+  "duration_seconds": 1087,
+  "wps": 3.61,
+  "total_words": 3929,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 15963
+  },
+  "hook": {
+    "type": "question",
+    "text": "पिछले दिनों आपने सोशल मीडिया पर कहीं ना कहीं ये क्लिप जरूर देखी है। तो पर्ल विलियम व्हाट्स योर पॉलिटिकल लीनिंग?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सलूशन की तरफ हम एक कदम बढ़ा सकें। जय हिंद। वंदे मातरम।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 155
+    },
+    {
+      "word": "के",
+      "count": 107
+    },
+    {
+      "word": "में",
+      "count": 89
+    },
+    {
+      "word": "केरला",
+      "count": 81
+    },
+    {
+      "word": "और",
+      "count": 80
+    },
+    {
+      "word": "को",
+      "count": 62
+    },
+    {
+      "word": "से",
+      "count": 61
+    },
+    {
+      "word": "की",
+      "count": 58
+    },
+    {
+      "word": "हैं",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 34
+    },
+    {
+      "word": "एक",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "जो",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 29
+    },
+    {
+      "word": "था",
+      "count": 25
+    },
+    {
+      "word": "इस",
+      "count": 22
+    },
+    {
+      "word": "बहुत",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "वजह से",
+      "count": 18
+    },
+    {
+      "phrase": "केरला की",
+      "count": 15
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "केरला में",
+      "count": 13
+    },
+    {
+      "phrase": "की वजह",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "आज के",
+      "count": 9
+    },
+    {
+      "phrase": "केरला को",
+      "count": 8
+    }
+  ],
+  "segment_count": 139
+}

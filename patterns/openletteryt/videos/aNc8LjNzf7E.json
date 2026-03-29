@@ -1,0 +1,149 @@
+{
+  "video_id": "aNc8LjNzf7E",
+  "duration_seconds": 719,
+  "wps": 3.96,
+  "total_words": 2846,
+  "language_mix": {
+    "hindi": 97.6,
+    "english": 2.4,
+    "total_chars": 10776
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "आप में से 99% लोग ऐसे हैं जिन्होंने अपनी लाइफ में कभी ना कभी किसी ना किसी फॉर्म में पाइरेसी जरूर करी है। पाइरेसी मतलब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 98
+    },
+    {
+      "word": "हैं",
+      "count": 67
+    },
+    {
+      "word": "में",
+      "count": 61
+    },
+    {
+      "word": "के",
+      "count": 51
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "और",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "हो",
+      "count": 33
+    },
+    {
+      "word": "लोग",
+      "count": 28
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "की",
+      "count": 28
+    },
+    {
+      "word": "से",
+      "count": 27
+    },
+    {
+      "word": "कर",
+      "count": 27
+    },
+    {
+      "word": "नहीं",
+      "count": 27
+    },
+    {
+      "word": "जो",
+      "count": 24
+    },
+    {
+      "word": "लिए",
+      "count": 24
+    },
+    {
+      "word": "पे",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 20
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 15
+    },
+    {
+      "phrase": "फ्री में",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 9
+    },
+    {
+      "phrase": "जाता है",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "बाद में",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 7
+    }
+  ],
+  "segment_count": 91
+}

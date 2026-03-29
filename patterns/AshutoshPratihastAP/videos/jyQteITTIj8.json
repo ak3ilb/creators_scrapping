@@ -1,0 +1,150 @@
+{
+  "video_id": "jyQteITTIj8",
+  "duration_seconds": 1671,
+  "wps": 4.22,
+  "total_words": 7050,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 26020
+  },
+  "hook": {
+    "type": "question",
+    "text": "3 साल के अंदर ₹1 करोड़। क्या यह सच में प्रैक्टिकली पॉसिबल है? वेल, आज की इस वीडियो के अंदर मैं आपको बिल्कुल क्रिस्टल क्लियर तरीके से स्टेप बाय स्टेप कैसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बिग बड़ा खेलते हैं।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 298
+    },
+    {
+      "word": "हो",
+      "count": 158
+    },
+    {
+      "word": "के",
+      "count": 155
+    },
+    {
+      "word": "आप",
+      "count": 144
+    },
+    {
+      "word": "हैं",
+      "count": 141
+    },
+    {
+      "word": "तो",
+      "count": 140
+    },
+    {
+      "word": "कि",
+      "count": 115
+    },
+    {
+      "word": "बहुत",
+      "count": 102
+    },
+    {
+      "word": "में",
+      "count": 97
+    },
+    {
+      "word": "भी",
+      "count": 90
+    },
+    {
+      "word": "आपको",
+      "count": 82
+    },
+    {
+      "word": "से",
+      "count": 78
+    },
+    {
+      "word": "नहीं",
+      "count": 78
+    },
+    {
+      "word": "को",
+      "count": 77
+    },
+    {
+      "word": "एक",
+      "count": 75
+    },
+    {
+      "word": "अंदर",
+      "count": 73
+    },
+    {
+      "word": "कर",
+      "count": 72
+    },
+    {
+      "word": "पे",
+      "count": 64
+    },
+    {
+      "word": "अगर",
+      "count": 64
+    },
+    {
+      "word": "सकते",
+      "count": 60
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 55
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 44
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 40
+    },
+    {
+      "phrase": "है तो",
+      "count": 30
+    },
+    {
+      "phrase": "है कि",
+      "count": 30
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 25
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 24
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 23
+    },
+    {
+      "phrase": "होता है",
+      "count": 19
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 19
+    }
+  ],
+  "segment_count": 214
+}

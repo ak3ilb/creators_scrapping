@@ -1,0 +1,149 @@
+{
+  "video_id": "5zWXFrcQrvs",
+  "duration_seconds": 887,
+  "wps": 3.89,
+  "total_words": 3449,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12959
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "2025 काफी इवेंटफुल ईयर था। अब हर 15 दिन में हमारा मंत्री जाकर कूड़े के पहाड़ पे जाता है और उसको बोलता है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 165
+    },
+    {
+      "word": "में",
+      "count": 102
+    },
+    {
+      "word": "के",
+      "count": 87
+    },
+    {
+      "word": "हैं",
+      "count": 72
+    },
+    {
+      "word": "और",
+      "count": 69
+    },
+    {
+      "word": "से",
+      "count": 57
+    },
+    {
+      "word": "की",
+      "count": 55
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "तो",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 40
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "रहे",
+      "count": 31
+    },
+    {
+      "word": "हो",
+      "count": 29
+    },
+    {
+      "word": "ये",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "हम",
+      "count": 22
+    },
+    {
+      "word": "पर",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 25
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 23
+    },
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "रही है",
+      "count": 12
+    },
+    {
+      "phrase": "हमारे देश",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 10
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 10
+    },
+    {
+      "phrase": "हैं और",
+      "count": 10
+    }
+  ],
+  "segment_count": 113
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "pArpMaE-pIM",
+  "duration_seconds": 67,
+  "wps": 2.63,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 713
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह जो क्लरियन क्लिपरटन ज़ोन है ना, यह लिटरली अरबपतियों के पैसे छापने की मशीन है। क्योंकि रिसर्च के हिसाब से सिर्फ इस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करोड़ टन"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "मेटल्स",
+      "count": 4
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "डॉलर्स",
+      "count": 3
+    },
+    {
+      "word": "मिनरल्स",
+      "count": 3
+    },
+    {
+      "word": "पत्थर",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "ट्रिलियंस",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "मौजूद",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ट्रिलियंस ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ डॉलर्स",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ मेटल्स",
+      "count": 2
+    },
+    {
+      "phrase": "मेटल्स एंड",
+      "count": 2
+    },
+    {
+      "phrase": "एंड मिनरल्स",
+      "count": 2
+    },
+    {
+      "phrase": "मौजूद है",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "यह जो",
+      "count": 1
+    },
+    {
+      "phrase": "जो क्लरियन",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

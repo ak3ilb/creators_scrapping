@@ -1,0 +1,150 @@
+{
+  "video_id": "aUgJ1QMl8vY",
+  "duration_seconds": 1068,
+  "wps": 4.24,
+  "total_words": 4533,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 15767
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हमारे देश के अंदर धर्म और डर का धंधा कभी भी मंदा नहीं हो सकता है और ये वीडियो तुम में से आधे लोगों को समझ भी नहीं आने वाली है क्योंकि तुम लोग इन्फ्लुएंस हो तुम लोग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "काम आने वाली है"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 236
+    },
+    {
+      "word": "के",
+      "count": 119
+    },
+    {
+      "word": "और",
+      "count": 109
+    },
+    {
+      "word": "ये",
+      "count": 82
+    },
+    {
+      "word": "तो",
+      "count": 79
+    },
+    {
+      "word": "भी",
+      "count": 73
+    },
+    {
+      "word": "को",
+      "count": 73
+    },
+    {
+      "word": "नहीं",
+      "count": 71
+    },
+    {
+      "word": "कि",
+      "count": 71
+    },
+    {
+      "word": "हो",
+      "count": 69
+    },
+    {
+      "word": "लोग",
+      "count": 62
+    },
+    {
+      "word": "आप",
+      "count": 60
+    },
+    {
+      "word": "अंदर",
+      "count": 57
+    },
+    {
+      "word": "हैं",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 55
+    },
+    {
+      "word": "कर",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 47
+    },
+    {
+      "word": "एक",
+      "count": 45
+    },
+    {
+      "word": "में",
+      "count": 41
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 41
+    },
+    {
+      "phrase": "है और",
+      "count": 40
+    },
+    {
+      "phrase": "है कि",
+      "count": 32
+    },
+    {
+      "phrase": "रहा है",
+      "count": 26
+    },
+    {
+      "phrase": "है तो",
+      "count": 24
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 20
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 19
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 17
+    },
+    {
+      "phrase": "और ये",
+      "count": 15
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 15
+    }
+  ],
+  "segment_count": 136
+}

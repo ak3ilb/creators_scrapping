@@ -1,0 +1,149 @@
+{
+  "video_id": "qvQzW3oQByQ",
+  "duration_seconds": 2052,
+  "wps": 2.76,
+  "total_words": 5668,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 21956
+  },
+  "hook": {
+    "type": "statement",
+    "text": "4 मार्च की एक शांत सी रात मेरठ उत्तर प्रदेश में एक 29 साल का एक्स मर्चेंट नेवी ऑफिसर सौरभ राजपूत अपनी वाइफ मुस्कान"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ठाकुर साइनिंग ऑफ जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 151
+    },
+    {
+      "word": "है",
+      "count": 150
+    },
+    {
+      "word": "में",
+      "count": 146
+    },
+    {
+      "word": "के",
+      "count": 145
+    },
+    {
+      "word": "हैं",
+      "count": 100
+    },
+    {
+      "word": "से",
+      "count": 89
+    },
+    {
+      "word": "को",
+      "count": 78
+    },
+    {
+      "word": "एक",
+      "count": 70
+    },
+    {
+      "word": "कि",
+      "count": 66
+    },
+    {
+      "word": "तो",
+      "count": 64
+    },
+    {
+      "word": "यह",
+      "count": 61
+    },
+    {
+      "word": "पर",
+      "count": 57
+    },
+    {
+      "word": "भी",
+      "count": 54
+    },
+    {
+      "word": "ही",
+      "count": 53
+    },
+    {
+      "word": "की",
+      "count": 50
+    },
+    {
+      "word": "नहीं",
+      "count": 47
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "करते",
+      "count": 40
+    },
+    {
+      "word": "हो",
+      "count": 38
+    },
+    {
+      "word": "वो",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 25
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "बिलीव करते",
+      "count": 15
+    },
+    {
+      "phrase": "हैं और",
+      "count": 13
+    },
+    {
+      "phrase": "में बिलीव",
+      "count": 12
+    },
+    {
+      "phrase": "होता है",
+      "count": 12
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 9
+    }
+  ],
+  "segment_count": 251
+}

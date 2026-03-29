@@ -1,0 +1,149 @@
+{
+  "video_id": "fTGBVthAofI",
+  "duration_seconds": 632,
+  "wps": 3.81,
+  "total_words": 2406,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9868
+  },
+  "hook": {
+    "type": "statement",
+    "text": "“Hey friends, since you’ve clicked on this video and are watching it, first of all, believe that this didn’t happen randomly. It was meant to be — the higher power wanted you to watch this video."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s it for now. See you in the next video. Bye bye!”"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 80
+    },
+    {
+      "word": "the",
+      "count": 71
+    },
+    {
+      "word": "to",
+      "count": 61
+    },
+    {
+      "word": "and",
+      "count": 59
+    },
+    {
+      "word": "of",
+      "count": 46
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "it",
+      "count": 39
+    },
+    {
+      "word": "in",
+      "count": 37
+    },
+    {
+      "word": "this",
+      "count": 36
+    },
+    {
+      "word": "he",
+      "count": 36
+    },
+    {
+      "word": "your",
+      "count": 31
+    },
+    {
+      "word": "with",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 25
+    },
+    {
+      "word": "them",
+      "count": 23
+    },
+    {
+      "word": "is",
+      "count": 22
+    },
+    {
+      "word": "ali",
+      "count": 22
+    },
+    {
+      "word": "him",
+      "count": 20
+    },
+    {
+      "word": "things",
+      "count": 20
+    },
+    {
+      "word": "go",
+      "count": 20
+    },
+    {
+      "word": "have",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "go of",
+      "count": 13
+    },
+    {
+      "phrase": "let go",
+      "count": 12
+    },
+    {
+      "phrase": "teddy bear",
+      "count": 11
+    },
+    {
+      "phrase": "this video",
+      "count": 8
+    },
+    {
+      "phrase": "in the",
+      "count": 8
+    },
+    {
+      "phrase": "with them",
+      "count": 8
+    },
+    {
+      "phrase": "want to",
+      "count": 7
+    },
+    {
+      "phrase": "higher power",
+      "count": 6
+    },
+    {
+      "phrase": "a very",
+      "count": 6
+    },
+    {
+      "phrase": "playing with",
+      "count": 6
+    }
+  ],
+  "segment_count": 82
+}

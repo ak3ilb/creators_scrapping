@@ -1,0 +1,148 @@
+{
+  "video_id": "zf_nL733uJI",
+  "duration_seconds": 1611,
+  "wps": 2.89,
+  "total_words": 4658,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 19157
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "क्यों लड़कियों को अनअट्रैक्टिव लड़के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सी यू सून।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 182
+    },
+    {
+      "word": "और",
+      "count": 136
+    },
+    {
+      "word": "के",
+      "count": 130
+    },
+    {
+      "word": "में",
+      "count": 86
+    },
+    {
+      "word": "को",
+      "count": 80
+    },
+    {
+      "word": "एक",
+      "count": 74
+    },
+    {
+      "word": "भी",
+      "count": 59
+    },
+    {
+      "word": "ही",
+      "count": 56
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "कि",
+      "count": 52
+    },
+    {
+      "word": "तो",
+      "count": 48
+    },
+    {
+      "word": "हैं",
+      "count": 46
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "नहीं",
+      "count": 43
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "होता",
+      "count": 35
+    },
+    {
+      "word": "लड़की",
+      "count": 34
+    },
+    {
+      "word": "लिए",
+      "count": 34
+    },
+    {
+      "word": "की",
+      "count": 34
+    },
+    {
+      "word": "यह",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 29
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "और इसीलिए",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "लड़की के",
+      "count": 12
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 12
+    },
+    {
+      "phrase": "के साथ",
+      "count": 11
+    },
+    {
+      "phrase": "है जो",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    }
+  ],
+  "segment_count": 645
+}

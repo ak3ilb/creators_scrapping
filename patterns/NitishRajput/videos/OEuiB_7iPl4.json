@@ -1,0 +1,149 @@
+{
+  "video_id": "OEuiB_7iPl4",
+  "duration_seconds": 2784,
+  "wps": 2.74,
+  "total_words": 7642,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 34699
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The sound of the blast was heard up to 10 km away, and the pieces went flying up to 400 m. Because the sniper was shooting by looking at the light."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "To book your free teeth scan, don't forget to click on the link in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 439
+    },
+    {
+      "word": "and",
+      "count": 225
+    },
+    {
+      "word": "was",
+      "count": 178
+    },
+    {
+      "word": "to",
+      "count": 157
+    },
+    {
+      "word": "in",
+      "count": 149
+    },
+    {
+      "word": "this",
+      "count": 127
+    },
+    {
+      "word": "of",
+      "count": 122
+    },
+    {
+      "word": "they",
+      "count": 119
+    },
+    {
+      "word": "he",
+      "count": 101
+    },
+    {
+      "word": "that",
+      "count": 92
+    },
+    {
+      "word": "on",
+      "count": 80
+    },
+    {
+      "word": "were",
+      "count": 80
+    },
+    {
+      "word": "had",
+      "count": 76
+    },
+    {
+      "word": "at",
+      "count": 58
+    },
+    {
+      "word": "as",
+      "count": 57
+    },
+    {
+      "word": "umar",
+      "count": 55
+    },
+    {
+      "word": "it",
+      "count": 54
+    },
+    {
+      "word": "from",
+      "count": 53
+    },
+    {
+      "word": "for",
+      "count": 53
+    },
+    {
+      "word": "adil",
+      "count": 49
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 42
+    },
+    {
+      "phrase": "of the",
+      "count": 28
+    },
+    {
+      "phrase": "on the",
+      "count": 22
+    },
+    {
+      "phrase": "the convoy",
+      "count": 20
+    },
+    {
+      "phrase": "he was",
+      "count": 19
+    },
+    {
+      "phrase": "all the",
+      "count": 19
+    },
+    {
+      "phrase": "had to",
+      "count": 17
+    },
+    {
+      "phrase": "at the",
+      "count": 16
+    },
+    {
+      "phrase": "indian forces",
+      "count": 16
+    },
+    {
+      "phrase": "they were",
+      "count": 16
+    }
+  ],
+  "segment_count": 350
+}

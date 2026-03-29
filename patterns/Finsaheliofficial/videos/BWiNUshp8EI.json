@@ -1,0 +1,148 @@
+{
+  "video_id": "BWiNUshp8EI",
+  "duration_seconds": 38,
+  "wps": 3.82,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 584
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अब गवर्नमेंट की तरफ से दिए जा रहे हैं ₹50,000 आपके गर्ल चाइल्ड को। [संगीत]"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "कर दी है। तो इस वीडियो को ज्यादा से ज्यादा लोगों के साथ शेयर करना मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "अप्लाई",
+      "count": 3
+    },
+    {
+      "word": "पेरेंट्स",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "जा",
+      "count": 2
+    },
+    {
+      "word": "आपके",
+      "count": 2
+    },
+    {
+      "word": "गर्ल",
+      "count": 2
+    },
+    {
+      "word": "चाइल्ड",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "संगीत",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "इसके",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गवर्नमेंट की",
+      "count": 2
+    },
+    {
+      "phrase": "गर्ल चाइल्ड",
+      "count": 2
+    },
+    {
+      "phrase": "इसके लिए",
+      "count": 2
+    },
+    {
+      "phrase": "इस स्कीम",
+      "count": 2
+    },
+    {
+      "phrase": "स्कीम में",
+      "count": 2
+    },
+    {
+      "phrase": "में अप्लाई",
+      "count": 2
+    },
+    {
+      "phrase": "अप्लाई करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "की डिटेल्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

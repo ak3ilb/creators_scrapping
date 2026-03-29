@@ -1,0 +1,150 @@
+{
+  "video_id": "d7H5Ie7XLA4",
+  "duration_seconds": 778,
+  "wps": 4.17,
+  "total_words": 3246,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 10968
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "फ्लाइंग बी शार्क टेंक के अंदर लिटरली अपना तमाशा बनवाने के लिए गया था मुझे पहले से पता था कि कुछ-कुछ रीजंस की वजह से ना इनको फंडिंग मिलने के चांसेस बहुत"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अपने ऊपर काम करना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 171
+    },
+    {
+      "word": "के",
+      "count": 113
+    },
+    {
+      "word": "और",
+      "count": 76
+    },
+    {
+      "word": "कि",
+      "count": 74
+    },
+    {
+      "word": "तो",
+      "count": 59
+    },
+    {
+      "word": "भी",
+      "count": 57
+    },
+    {
+      "word": "नहीं",
+      "count": 51
+    },
+    {
+      "word": "ना",
+      "count": 50
+    },
+    {
+      "word": "ये",
+      "count": 47
+    },
+    {
+      "word": "अंदर",
+      "count": 46
+    },
+    {
+      "word": "जो",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 42
+    },
+    {
+      "word": "हो",
+      "count": 42
+    },
+    {
+      "word": "हैं",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 32
+    },
+    {
+      "word": "में",
+      "count": 31
+    },
+    {
+      "word": "लोग",
+      "count": 31
+    },
+    {
+      "word": "मैं",
+      "count": 28
+    },
+    {
+      "word": "वो",
+      "count": 27
+    },
+    {
+      "word": "ने",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 36
+    },
+    {
+      "phrase": "है और",
+      "count": 25
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 17
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "है ना",
+      "count": 14
+    },
+    {
+      "phrase": "था कि",
+      "count": 12
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "गौरव भाई",
+      "count": 11
+    }
+  ],
+  "segment_count": 92
+}

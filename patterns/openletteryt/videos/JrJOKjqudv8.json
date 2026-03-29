@@ -1,0 +1,149 @@
+{
+  "video_id": "JrJOKjqudv8",
+  "duration_seconds": 1162,
+  "wps": 3.54,
+  "total_words": 4118,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 16145
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह है गुरुग्राम बड़ी-बड़ी चमचमाती हाई राइज बिल्डिंग्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं यहां पर जबकि किसी भी आर्किटेक्चर स्कूल में चले जाओ वहां पता है क्या पढ़ाते हैं गुरुग्राम का एग्जांपल देके कहते हैं हाउ नॉट टू बिल्ड अ सिटी"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 170
+    },
+    {
+      "word": "में",
+      "count": 121
+    },
+    {
+      "word": "के",
+      "count": 114
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "हैं",
+      "count": 91
+    },
+    {
+      "word": "पर",
+      "count": 71
+    },
+    {
+      "word": "की",
+      "count": 66
+    },
+    {
+      "word": "को",
+      "count": 58
+    },
+    {
+      "word": "भी",
+      "count": 57
+    },
+    {
+      "word": "नोएडा",
+      "count": 51
+    },
+    {
+      "word": "यहां",
+      "count": 50
+    },
+    {
+      "word": "गुरुग्राम",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "यह",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "जो",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यहां पर",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "संजय गांधी",
+      "count": 14
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 13
+    },
+    {
+      "phrase": "गुरुग्राम में",
+      "count": 12
+    },
+    {
+      "phrase": "नोएडा के",
+      "count": 11
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 10
+    }
+  ],
+  "segment_count": 137
+}

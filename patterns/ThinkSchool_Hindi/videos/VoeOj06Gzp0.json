@@ -1,0 +1,148 @@
+{
+  "video_id": "VoeOj06Gzp0",
+  "duration_seconds": 898,
+  "wps": 2.95,
+  "total_words": 2645,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9645
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों इस महीने हमारे इंडियन करेंसी ने अपना ऑल टाइम लो हिट किया और इससे पूरे इंडियन मार्केट में तहलका मच गया और इसका"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होप यू लर्न समथिंग वैलूल फ्रॉम दिस केस स्टडी"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 133
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "तो",
+      "count": 68
+    },
+    {
+      "word": "में",
+      "count": 57
+    },
+    {
+      "word": "के",
+      "count": 57
+    },
+    {
+      "word": "हैं",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "डॉलर",
+      "count": 36
+    },
+    {
+      "word": "की",
+      "count": 35
+    },
+    {
+      "word": "जो",
+      "count": 33
+    },
+    {
+      "word": "रुपी",
+      "count": 29
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "अगर",
+      "count": 21
+    },
+    {
+      "word": "हो",
+      "count": 19
+    },
+    {
+      "word": "अब",
+      "count": 18
+    },
+    {
+      "word": "बिलियन",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "की वैल्यू",
+      "count": 10
+    },
+    {
+      "phrase": "वजह से",
+      "count": 10
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 10
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 9
+    },
+    {
+      "phrase": "इंडियन रुपी",
+      "count": 8
+    },
+    {
+      "phrase": "रुपी की",
+      "count": 8
+    }
+  ],
+  "segment_count": 112
+}

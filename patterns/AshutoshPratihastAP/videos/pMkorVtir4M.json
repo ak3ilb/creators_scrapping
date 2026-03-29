@@ -1,0 +1,149 @@
+{
+  "video_id": "pMkorVtir4M",
+  "duration_seconds": 921,
+  "wps": 3.29,
+  "total_words": 3029,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11164
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एंगेजमेंट में उसके बाप को बोला गया था और बोला जो आपने मेरे को कपड़े दिए थे उसमें से आपने लेबल टैग क्यों हटाया आपने कोट पहने के लिए दिया है लड़की तो हमारे देश"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो प क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 103
+    },
+    {
+      "word": "के",
+      "count": 90
+    },
+    {
+      "word": "में",
+      "count": 76
+    },
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "नहीं",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "दहेज",
+      "count": 34
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "था",
+      "count": 29
+    },
+    {
+      "word": "ये",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 23
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "एंड",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "दहेज प्रथा",
+      "count": 11
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 10
+    },
+    {
+      "phrase": "समाज में",
+      "count": 9
+    },
+    {
+      "phrase": "जाता है",
+      "count": 6
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "देश में",
+      "count": 5
+    }
+  ],
+  "segment_count": 107
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "AP7fizsEs8E",
+  "duration_seconds": 69,
+  "wps": 3.81,
+  "total_words": 263,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 999
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अमिताभ बच्चन जो खुद बड़ी-बड़ी लग्जरी कार्स में घूमते हैं, वह हमें बताते हैं कि हमारे लिए स्कूटर कौन सा अच्छा है। विराट कोहली जो इतने हेल्थ कॉन्शियस है"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "करो और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हैं",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "करो",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "हमें",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "खुद",
+      "count": 4
+    },
+    {
+      "word": "कभी",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "जिन्होंने",
+      "count": 3
+    },
+    {
+      "word": "संगीत",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "बता",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "पैसा",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैं कि",
+      "count": 5
+    },
+    {
+      "phrase": "जिन्होंने कभी",
+      "count": 3
+    },
+    {
+      "phrase": "बता रहे",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    },
+    {
+      "phrase": "करो और",
+      "count": 3
+    },
+    {
+      "phrase": "कौन सा",
+      "count": 2
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "वो हमें",
+      "count": 2
+    },
+    {
+      "phrase": "हमें बता",
+      "count": 2
+    },
+    {
+      "phrase": "खाना चाहिए",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

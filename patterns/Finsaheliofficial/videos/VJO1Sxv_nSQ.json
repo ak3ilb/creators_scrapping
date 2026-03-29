@@ -1,0 +1,148 @@
+{
+  "video_id": "VJO1Sxv_nSQ",
+  "duration_seconds": 99,
+  "wps": 3.91,
+  "total_words": 387,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1338
+  },
+  "hook": {
+    "type": "question",
+    "text": "20 साल का होम लोन आप सिर्फ 13 साल में खत्म कर सकते हो। जानना चाहते हो कैसे? तो वीडियो को एंड तक देखना। यह तो सबको पता ही है कि अगर होम लोन को आपको जल्दी खत्म"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "शेयर कर"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "पे",
+      "count": 15
+    },
+    {
+      "word": "कर",
+      "count": 12
+    },
+    {
+      "word": "हैं",
+      "count": 10
+    },
+    {
+      "word": "हम",
+      "count": 9
+    },
+    {
+      "word": "लोन",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "साल",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "अगर",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "इंटरेस्ट",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "होम",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होम लोन",
+      "count": 5
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 4
+    },
+    {
+      "phrase": "अगर हम",
+      "count": 3
+    },
+    {
+      "phrase": "लेते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "लोन के",
+      "count": 3
+    },
+    {
+      "phrase": "पे कर",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    },
+    {
+      "phrase": "से ही",
+      "count": 3
+    },
+    {
+      "phrase": "एक्स्ट्रा पे",
+      "count": 3
+    }
+  ],
+  "segment_count": 13
+}

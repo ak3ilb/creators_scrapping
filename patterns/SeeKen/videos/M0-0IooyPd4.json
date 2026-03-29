@@ -1,0 +1,149 @@
+{
+  "video_id": "M0-0IooyPd4",
+  "duration_seconds": 1660,
+  "wps": 3.51,
+  "total_words": 5828,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 25695
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, do you know one big reason why you might"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "🚀 See you in the next amazing book summary next week! Till then, bye-bye! 👋"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 194
+    },
+    {
+      "word": "and",
+      "count": 178
+    },
+    {
+      "word": "to",
+      "count": 145
+    },
+    {
+      "word": "you",
+      "count": 143
+    },
+    {
+      "word": "he",
+      "count": 119
+    },
+    {
+      "word": "that",
+      "count": 80
+    },
+    {
+      "word": "in",
+      "count": 78
+    },
+    {
+      "word": "this",
+      "count": 77
+    },
+    {
+      "word": "of",
+      "count": 72
+    },
+    {
+      "word": "was",
+      "count": 65
+    },
+    {
+      "word": "practicing",
+      "count": 63
+    },
+    {
+      "word": "is",
+      "count": 62
+    },
+    {
+      "word": "on",
+      "count": 57
+    },
+    {
+      "word": "it",
+      "count": 51
+    },
+    {
+      "word": "for",
+      "count": 48
+    },
+    {
+      "word": "would",
+      "count": 47
+    },
+    {
+      "word": "his",
+      "count": 46
+    },
+    {
+      "word": "will",
+      "count": 45
+    },
+    {
+      "word": "if",
+      "count": 43
+    },
+    {
+      "word": "practice",
+      "count": 43
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "practicing mind",
+      "count": 27
+    },
+    {
+      "phrase": "if you",
+      "count": 24
+    },
+    {
+      "phrase": "he would",
+      "count": 24
+    },
+    {
+      "phrase": "in the",
+      "count": 23
+    },
+    {
+      "phrase": "he was",
+      "count": 19
+    },
+    {
+      "phrase": "want to",
+      "count": 18
+    },
+    {
+      "phrase": "a practicing",
+      "count": 18
+    },
+    {
+      "phrase": "shah rukh",
+      "count": 18
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "your life",
+      "count": 12
+    }
+  ],
+  "segment_count": 504
+}

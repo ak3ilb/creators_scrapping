@@ -1,0 +1,149 @@
+{
+  "video_id": "NhzY6jGNNP4",
+  "duration_seconds": 760,
+  "wps": 3.08,
+  "total_words": 2344,
+  "language_mix": {
+    "hindi": 96.0,
+    "english": 4.0,
+    "total_chars": 9477
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों, आज आप यह वीडियो शायद iPhone पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आप बेटर डिसीजंस ले सकें।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 126
+    },
+    {
+      "word": "और",
+      "count": 71
+    },
+    {
+      "word": "में",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "हैं",
+      "count": 48
+    },
+    {
+      "word": "से",
+      "count": 40
+    },
+    {
+      "word": "के",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 29
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "यह",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 26
+    },
+    {
+      "word": "ही",
+      "count": 26
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 25
+    },
+    {
+      "word": "यूएस",
+      "count": 23
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "amazon",
+      "count": 19
+    },
+    {
+      "word": "फिर",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "यूएस मार्केट",
+      "count": 11
+    },
+    {
+      "phrase": "हैं और",
+      "count": 11
+    },
+    {
+      "phrase": "में इन्वेस्ट",
+      "count": 10
+    },
+    {
+      "phrase": "है तो",
+      "count": 9
+    },
+    {
+      "phrase": "इन्वेस्ट करना",
+      "count": 9
+    },
+    {
+      "phrase": "आता है",
+      "count": 9
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 8
+    },
+    {
+      "phrase": "और amazon",
+      "count": 7
+    }
+  ],
+  "segment_count": 312
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "n_Icft1x8ZA",
+  "duration_seconds": 959,
+  "wps": 2.95,
+  "total_words": 2826,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10940
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया में शायद ही कोई ऐसा घर होगा जहां प डेलाइट के प्रोडक्ट्स यूज ना किए जाते हो कारपेंटर का फेवरेट फेविकोल हो या फिर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दिलों में अपनी जगह बना सकता है हम"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 92
+    },
+    {
+      "word": "और",
+      "count": 91
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "को",
+      "count": 68
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 47
+    },
+    {
+      "word": "की",
+      "count": 47
+    },
+    {
+      "word": "था",
+      "count": 43
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 37
+    },
+    {
+      "word": "ने",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "फिर",
+      "count": 26
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    },
+    {
+      "word": "किया",
+      "count": 25
+    },
+    {
+      "word": "उन्होंने",
+      "count": 25
+    },
+    {
+      "word": "है",
+      "count": 24
+    },
+    {
+      "word": "नहीं",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "और फिर",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "बलवंत पारेख",
+      "count": 15
+    },
+    {
+      "phrase": "जो कि",
+      "count": 11
+    },
+    {
+      "phrase": "पारेख ने",
+      "count": 10
+    },
+    {
+      "phrase": "लेकिन दोस्तों",
+      "count": 10
+    },
+    {
+      "phrase": "करने के",
+      "count": 8
+    },
+    {
+      "phrase": "के साथ",
+      "count": 7
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 5
+    },
+    {
+      "phrase": "लोगों के",
+      "count": 5
+    }
+  ],
+  "segment_count": 123
+}

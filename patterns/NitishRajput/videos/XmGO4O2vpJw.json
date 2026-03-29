@@ -1,0 +1,149 @@
+{
+  "video_id": "XmGO4O2vpJw",
+  "duration_seconds": 2043,
+  "wps": 3.47,
+  "total_words": 7083,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 30522
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So next time when you watch a Hollywood movie and clap your hands, in which a great Britisher is fighting with Hitler like a hero,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 482
+    },
+    {
+      "word": "and",
+      "count": 269
+    },
+    {
+      "word": "of",
+      "count": 185
+    },
+    {
+      "word": "to",
+      "count": 161
+    },
+    {
+      "word": "in",
+      "count": 153
+    },
+    {
+      "word": "was",
+      "count": 153
+    },
+    {
+      "word": "india",
+      "count": 152
+    },
+    {
+      "word": "they",
+      "count": 152
+    },
+    {
+      "word": "that",
+      "count": 142
+    },
+    {
+      "word": "this",
+      "count": 134
+    },
+    {
+      "word": "company",
+      "count": 118
+    },
+    {
+      "word": "east",
+      "count": 102
+    },
+    {
+      "word": "so",
+      "count": 80
+    },
+    {
+      "word": "it",
+      "count": 64
+    },
+    {
+      "word": "you",
+      "count": 58
+    },
+    {
+      "word": "were",
+      "count": 57
+    },
+    {
+      "word": "from",
+      "count": 53
+    },
+    {
+      "word": "is",
+      "count": 48
+    },
+    {
+      "word": "all",
+      "count": 48
+    },
+    {
+      "word": "time",
+      "count": 45
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "east india",
+      "count": 99
+    },
+    {
+      "phrase": "india company",
+      "count": 95
+    },
+    {
+      "phrase": "the east",
+      "count": 51
+    },
+    {
+      "phrase": "of the",
+      "count": 48
+    },
+    {
+      "phrase": "in the",
+      "count": 45
+    },
+    {
+      "phrase": "and the",
+      "count": 35
+    },
+    {
+      "phrase": "that the",
+      "count": 28
+    },
+    {
+      "phrase": "that time",
+      "count": 26
+    },
+    {
+      "phrase": "at that",
+      "count": 25
+    },
+    {
+      "phrase": "a lot",
+      "count": 20
+    }
+  ],
+  "segment_count": 325
+}

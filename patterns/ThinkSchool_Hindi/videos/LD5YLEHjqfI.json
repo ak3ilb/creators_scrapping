@@ -1,0 +1,148 @@
+{
+  "video_id": "LD5YLEHjqfI",
+  "duration_seconds": 689,
+  "wps": 3.02,
+  "total_words": 2084,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 8201
+  },
+  "hook": {
+    "type": "question",
+    "text": "किया क्या किया बोल गोवास फॉरेन टूरिज्म इन 2023 इट्स 1.5"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 92
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "गोवा",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 57
+    },
+    {
+      "word": "के",
+      "count": 42
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 37
+    },
+    {
+      "word": "हैं",
+      "count": 33
+    },
+    {
+      "word": "कि",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "को",
+      "count": 30
+    },
+    {
+      "word": "टूरिस्ट",
+      "count": 27
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "नहीं",
+      "count": 21
+    },
+    {
+      "word": "का",
+      "count": 18
+    },
+    {
+      "word": "आपको",
+      "count": 16
+    },
+    {
+      "word": "रहे",
+      "count": 15
+    },
+    {
+      "word": "एक",
+      "count": 15
+    },
+    {
+      "word": "वियतनाम",
+      "count": 15
+    },
+    {
+      "word": "थाईलैंड",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गोवा में",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 13
+    },
+    {
+      "phrase": "रहा है",
+      "count": 11
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    },
+    {
+      "phrase": "यह है",
+      "count": 8
+    },
+    {
+      "phrase": "गोवा के",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 8
+    },
+    {
+      "phrase": "है गोवा",
+      "count": 7
+    }
+  ],
+  "segment_count": 85
+}

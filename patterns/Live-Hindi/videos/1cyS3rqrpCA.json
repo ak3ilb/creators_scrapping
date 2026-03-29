@@ -1,0 +1,148 @@
+{
+  "video_id": "1cyS3rqrpCA",
+  "duration_seconds": 993,
+  "wps": 3.31,
+  "total_words": 3286,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12217
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों इंडियन गवर्नमेंट ने गुटका सिगरेट और अल्कोहल जैसे प्रोडक्ट्स के ऐड को 2003 में ही बैन कर दिया था लेकिन जरा इस"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "टीम के साथ कॉल या चैट शेड्यूल करना ना भूलिए लिंक डिस्क्रिप्शन में मिल जाएगा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 105
+    },
+    {
+      "word": "में",
+      "count": 99
+    },
+    {
+      "word": "के",
+      "count": 91
+    },
+    {
+      "word": "कि",
+      "count": 72
+    },
+    {
+      "word": "और",
+      "count": 69
+    },
+    {
+      "word": "हैं",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 53
+    },
+    {
+      "word": "नहीं",
+      "count": 49
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "यह",
+      "count": 47
+    },
+    {
+      "word": "तो",
+      "count": 46
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "ही",
+      "count": 40
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "लिए",
+      "count": 28
+    },
+    {
+      "word": "गुटका",
+      "count": 26
+    },
+    {
+      "word": "कर",
+      "count": 26
+    },
+    {
+      "word": "लेकिन",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 23
+    },
+    {
+      "phrase": "के लिए",
+      "count": 22
+    },
+    {
+      "phrase": "पान मसाला",
+      "count": 15
+    },
+    {
+      "phrase": "तो फिर",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "का ऐड",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 10
+    }
+  ],
+  "segment_count": 128
+}

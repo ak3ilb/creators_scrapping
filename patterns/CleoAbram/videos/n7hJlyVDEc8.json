@@ -1,0 +1,149 @@
+{
+  "video_id": "n7hJlyVDEc8",
+  "duration_seconds": 1015,
+  "wps": 3.4,
+  "total_words": 3446,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14128
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "It looks like there's a Formula 1 car in front of  me! Wait, I'm going to turn it on... MARQUES: Definitely do that. ME: YES!"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "helps to solve that. I really do think that that's  possible. And that is a future worth rooting for."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 125
+    },
+    {
+      "word": "and",
+      "count": 107
+    },
+    {
+      "word": "to",
+      "count": 90
+    },
+    {
+      "word": "that",
+      "count": 81
+    },
+    {
+      "word": "like",
+      "count": 74
+    },
+    {
+      "word": "is",
+      "count": 74
+    },
+    {
+      "word": "this",
+      "count": 72
+    },
+    {
+      "word": "it",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 60
+    },
+    {
+      "word": "of",
+      "count": 59
+    },
+    {
+      "word": "you",
+      "count": 56
+    },
+    {
+      "word": "can",
+      "count": 40
+    },
+    {
+      "word": "but",
+      "count": 32
+    },
+    {
+      "word": "we",
+      "count": 31
+    },
+    {
+      "word": "for",
+      "count": 30
+    },
+    {
+      "word": "my",
+      "count": 28
+    },
+    {
+      "word": "with",
+      "count": 27
+    },
+    {
+      "word": "so",
+      "count": 24
+    },
+    {
+      "word": "what",
+      "count": 24
+    },
+    {
+      "word": "real",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "vision pro",
+      "count": 10
+    },
+    {
+      "phrase": "that i",
+      "count": 10
+    },
+    {
+      "phrase": "is a",
+      "count": 9
+    },
+    {
+      "phrase": "want to",
+      "count": 9
+    },
+    {
+      "phrase": "and i",
+      "count": 9
+    },
+    {
+      "phrase": "to the",
+      "count": 9
+    },
+    {
+      "phrase": "feel like",
+      "count": 9
+    },
+    {
+      "phrase": "i can",
+      "count": 9
+    }
+  ],
+  "segment_count": 124
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "39DCrExhinY",
+  "duration_seconds": 1247,
+  "wps": 4.42,
+  "total_words": 5512,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 19509
+  },
+  "hook": {
+    "type": "question",
+    "text": "एक आदमी तो खुद को बाबा बोलता है और अपनी पावर का यूज करके उस आदमी को सिर्फ दंगे भड़काने आते हैं। उनकी स्टेटमेंट सुन लो कि भैया रात के 1:00 बजे अगर वृंदावन के अंदर भजन नहीं चलेंगे तो कहां चलेंगे?"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में मिल जाएगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 271
+    },
+    {
+      "word": "के",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 112
+    },
+    {
+      "word": "को",
+      "count": 109
+    },
+    {
+      "word": "कि",
+      "count": 93
+    },
+    {
+      "word": "लोग",
+      "count": 89
+    },
+    {
+      "word": "नहीं",
+      "count": 83
+    },
+    {
+      "word": "तो",
+      "count": 80
+    },
+    {
+      "word": "हैं",
+      "count": 79
+    },
+    {
+      "word": "हो",
+      "count": 78
+    },
+    {
+      "word": "ना",
+      "count": 73
+    },
+    {
+      "word": "की",
+      "count": 61
+    },
+    {
+      "word": "में",
+      "count": 60
+    },
+    {
+      "word": "एक",
+      "count": 59
+    },
+    {
+      "word": "भी",
+      "count": 59
+    },
+    {
+      "word": "अंदर",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "ही",
+      "count": 52
+    },
+    {
+      "word": "ये",
+      "count": 48
+    },
+    {
+      "word": "आप",
+      "count": 46
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 48
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 36
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 31
+    },
+    {
+      "phrase": "है कि",
+      "count": 30
+    },
+    {
+      "phrase": "है और",
+      "count": 29
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 24
+    },
+    {
+      "phrase": "रहा है",
+      "count": 19
+    },
+    {
+      "phrase": "पता है",
+      "count": 19
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    }
+  ],
+  "segment_count": 159
+}

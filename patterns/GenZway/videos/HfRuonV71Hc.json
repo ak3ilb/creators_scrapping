@@ -1,0 +1,150 @@
+{
+  "video_id": "HfRuonV71Hc",
+  "duration_seconds": 1518,
+  "wps": 3.96,
+  "total_words": 6017,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 21235
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह कहानियां भी रोज की और गलती भी हमारी है बस फर्क सिर्फ इतना है कि हमारी जात इस चीज को मान के राजी नहीं है किसी भी एक रैंडम मॉडल को ए ग्रेड शूट के लिए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "थोड़ा बुखार हो चुके है और थोड़ी सी बाजार की हवा लग चुकी है उसको थोड़ी सी ग्राउंड रियलिटी दिखेगी तो थोड़ी बुद्धि आएगी उसका भला कर दो ये वीडियो भेज के"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 350
+    },
+    {
+      "word": "के",
+      "count": 187
+    },
+    {
+      "word": "और",
+      "count": 152
+    },
+    {
+      "word": "तो",
+      "count": 105
+    },
+    {
+      "word": "को",
+      "count": 101
+    },
+    {
+      "word": "भी",
+      "count": 99
+    },
+    {
+      "word": "हैं",
+      "count": 99
+    },
+    {
+      "word": "कर",
+      "count": 98
+    },
+    {
+      "word": "ये",
+      "count": 88
+    },
+    {
+      "word": "नहीं",
+      "count": 85
+    },
+    {
+      "word": "अंदर",
+      "count": 74
+    },
+    {
+      "word": "कि",
+      "count": 69
+    },
+    {
+      "word": "लोग",
+      "count": 69
+    },
+    {
+      "word": "हो",
+      "count": 67
+    },
+    {
+      "word": "की",
+      "count": 61
+    },
+    {
+      "word": "जो",
+      "count": 61
+    },
+    {
+      "word": "ना",
+      "count": 61
+    },
+    {
+      "word": "वो",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "ऊपर",
+      "count": 49
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 60
+    },
+    {
+      "phrase": "है और",
+      "count": 56
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 38
+    },
+    {
+      "phrase": "जाता है",
+      "count": 25
+    },
+    {
+      "phrase": "या फिर",
+      "count": 21
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 19
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 19
+    },
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "हैं और",
+      "count": 18
+    },
+    {
+      "phrase": "होती है",
+      "count": 18
+    }
+  ],
+  "segment_count": 179
+}

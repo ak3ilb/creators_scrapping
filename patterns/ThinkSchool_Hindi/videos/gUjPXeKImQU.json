@@ -1,0 +1,148 @@
+{
+  "video_id": "gUjPXeKImQU",
+  "duration_seconds": 645,
+  "wps": 2.73,
+  "total_words": 1760,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 6740
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या चल रहा है? आल्सो हैज़ ओनली वन आंसर। व्हाट इज द आंसर?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "के",
+      "count": 36
+    },
+    {
+      "word": "है",
+      "count": 35
+    },
+    {
+      "word": "फॉग",
+      "count": 32
+    },
+    {
+      "word": "एक्स",
+      "count": 31
+    },
+    {
+      "word": "से",
+      "count": 30
+    },
+    {
+      "word": "ने",
+      "count": 29
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "मार्केट",
+      "count": 21
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "था",
+      "count": 20
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "परफ्यूम",
+      "count": 18
+    },
+    {
+      "word": "हो",
+      "count": 17
+    },
+    {
+      "word": "लिए",
+      "count": 15
+    },
+    {
+      "word": "किया",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फॉग ने",
+      "count": 15
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 9
+    },
+    {
+      "phrase": "दर्शन पटेल",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "कि एक्स",
+      "count": 6
+    },
+    {
+      "phrase": "एक्स की",
+      "count": 6
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "मार्केट शेयर",
+      "count": 5
+    },
+    {
+      "phrase": "यह है",
+      "count": 5
+    }
+  ],
+  "segment_count": 81
+}

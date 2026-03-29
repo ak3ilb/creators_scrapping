@@ -1,0 +1,28 @@
+{
+  "creator": "AshutoshPratihastAP",
+  "last_updated": "2026-03-29T14:31:24.421948",
+  "pacing": {
+    "avg_wps": 3.1056131429728815,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.1056131429728815,
+        "duration": 1327.03125
+      }
+    }
+  },
+  "signature_hooks": [
+    "जा रहा",
+    "होता है",
+    "में एक",
+    "more than",
+    "हैं और",
+    "करते हैं",
+    "था कि",
+    "दुनिया में",
+    "रहा है",
+    "के अंदर"
+  ],
+  "uniqueness_traits": [
+    "Storytelling Specialist"
+  ]
+}

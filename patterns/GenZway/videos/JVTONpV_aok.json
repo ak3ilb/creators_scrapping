@@ -1,0 +1,150 @@
+{
+  "video_id": "JVTONpV_aok",
+  "duration_seconds": 692,
+  "wps": 4.32,
+  "total_words": 2992,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10663
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जो के राज के अंदर कोलकाता को इंडिया का कैपिटल बना रखा था और आज की डेट में गुंदा राज और खराब पॉलिटिक्स की वजह से उन्होंने अपनी सारी की सारी प्रेजेंस खो दी है और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोग देखना चाहते हो तो देख सकते दे"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 130
+    },
+    {
+      "word": "के",
+      "count": 118
+    },
+    {
+      "word": "और",
+      "count": 89
+    },
+    {
+      "word": "अंदर",
+      "count": 63
+    },
+    {
+      "word": "की",
+      "count": 52
+    },
+    {
+      "word": "को",
+      "count": 49
+    },
+    {
+      "word": "हैं",
+      "count": 42
+    },
+    {
+      "word": "भी",
+      "count": 42
+    },
+    {
+      "word": "में",
+      "count": 38
+    },
+    {
+      "word": "ये",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 29
+    },
+    {
+      "word": "बंगाल",
+      "count": 28
+    },
+    {
+      "word": "लोगों",
+      "count": 27
+    },
+    {
+      "word": "थी",
+      "count": 27
+    },
+    {
+      "word": "वो",
+      "count": 27
+    },
+    {
+      "word": "लोग",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 51
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "है कि",
+      "count": 19
+    },
+    {
+      "phrase": "आज की",
+      "count": 17
+    },
+    {
+      "phrase": "की डेट",
+      "count": 17
+    },
+    {
+      "phrase": "डेट में",
+      "count": 16
+    },
+    {
+      "phrase": "वेस्ट बंगाल",
+      "count": 16
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 15
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "बंगाल के",
+      "count": 11
+    }
+  ],
+  "segment_count": 87
+}

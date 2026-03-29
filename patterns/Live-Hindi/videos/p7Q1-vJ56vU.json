@@ -1,0 +1,148 @@
+{
+  "video_id": "p7Q1-vJ56vU",
+  "duration_seconds": 1034,
+  "wps": 3.13,
+  "total_words": 3235,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12572
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों आप जो फोटोज अपनी स्क्रीन पर स्लाइड होते हुए देख रहे हैं पता है वह क्या है यह है आईबीए 1401 एक कंप्यूटर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टीसीएस को ही प्रेफरेंस देती है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 119
+    },
+    {
+      "word": "में",
+      "count": 75
+    },
+    {
+      "word": "और",
+      "count": 71
+    },
+    {
+      "word": "टीसीएस",
+      "count": 69
+    },
+    {
+      "word": "कि",
+      "count": 66
+    },
+    {
+      "word": "को",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 62
+    },
+    {
+      "word": "था",
+      "count": 60
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "का",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "लिए",
+      "count": 42
+    },
+    {
+      "word": "कंप्यूटर",
+      "count": 39
+    },
+    {
+      "word": "ही",
+      "count": 37
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "है",
+      "count": 29
+    },
+    {
+      "word": "टाटा",
+      "count": 29
+    },
+    {
+      "word": "थी",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 36
+    },
+    {
+      "phrase": "कि टीसीएस",
+      "count": 13
+    },
+    {
+      "phrase": "टीसीएस को",
+      "count": 13
+    },
+    {
+      "phrase": "में टीसीएस",
+      "count": 12
+    },
+    {
+      "phrase": "टीसीएस ने",
+      "count": 12
+    },
+    {
+      "phrase": "एफसी कोहली",
+      "count": 12
+    },
+    {
+      "phrase": "टीसीएस के",
+      "count": 12
+    },
+    {
+      "phrase": "यानी कि",
+      "count": 10
+    },
+    {
+      "phrase": "के बाद",
+      "count": 10
+    },
+    {
+      "phrase": "असल में",
+      "count": 9
+    }
+  ],
+  "segment_count": 135
+}

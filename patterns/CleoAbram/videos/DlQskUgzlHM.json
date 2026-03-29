@@ -1,0 +1,149 @@
+{
+  "video_id": "DlQskUgzlHM",
+  "duration_seconds": 583,
+  "wps": 3.36,
+  "total_words": 1960,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 8373
+  },
+  "hook": {
+    "type": "question",
+    "text": "So if for whatever reason... we're not going to have to jump out of the plane but"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I bet you we can't either."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 65
+    },
+    {
+      "word": "the",
+      "count": 65
+    },
+    {
+      "word": "and",
+      "count": 50
+    },
+    {
+      "word": "you",
+      "count": 50
+    },
+    {
+      "word": "of",
+      "count": 46
+    },
+    {
+      "word": "is",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 35
+    },
+    {
+      "word": "that",
+      "count": 35
+    },
+    {
+      "word": "in",
+      "count": 35
+    },
+    {
+      "word": "electric",
+      "count": 25
+    },
+    {
+      "word": "but",
+      "count": 24
+    },
+    {
+      "word": "so",
+      "count": 19
+    },
+    {
+      "word": "have",
+      "count": 19
+    },
+    {
+      "word": "plane",
+      "count": 18
+    },
+    {
+      "word": "we",
+      "count": 18
+    },
+    {
+      "word": "are",
+      "count": 18
+    },
+    {
+      "word": "just",
+      "count": 16
+    },
+    {
+      "word": "planes",
+      "count": 16
+    },
+    {
+      "word": "it",
+      "count": 16
+    },
+    {
+      "word": "how",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 9
+    },
+    {
+      "phrase": "all of",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 7
+    },
+    {
+      "phrase": "have to",
+      "count": 6
+    },
+    {
+      "phrase": "of those",
+      "count": 6
+    },
+    {
+      "phrase": "the future",
+      "count": 6
+    },
+    {
+      "phrase": "electric planes",
+      "count": 6
+    },
+    {
+      "phrase": "you can",
+      "count": 6
+    },
+    {
+      "phrase": "in your",
+      "count": 6
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    }
+  ],
+  "segment_count": 165
+}

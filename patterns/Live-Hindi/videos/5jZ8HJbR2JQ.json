@@ -1,0 +1,148 @@
+{
+  "video_id": "5jZ8HJbR2JQ",
+  "duration_seconds": 762,
+  "wps": 1.85,
+  "total_words": 1410,
+  "language_mix": {
+    "hindi": 96.4,
+    "english": 3.6,
+    "total_chars": 5347
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों अभी कुछ दिनों पहले जैसे ही jio-tele-verification"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चाहिए क्योंकि इससे j और airtel.tv"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 44
+    },
+    {
+      "word": "में",
+      "count": 39
+    },
+    {
+      "word": "के",
+      "count": 37
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "और",
+      "count": 30
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "टेलीकॉम",
+      "count": 23
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "पर",
+      "count": 21
+    },
+    {
+      "word": "की",
+      "count": 21
+    },
+    {
+      "word": "कंपनीज",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 16
+    },
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "दोस्तों",
+      "count": 13
+    },
+    {
+      "word": "था",
+      "count": 13
+    },
+    {
+      "word": "ही",
+      "count": 12
+    },
+    {
+      "word": "नहीं",
+      "count": 12
+    },
+    {
+      "word": "गया",
+      "count": 12
+    },
+    {
+      "word": "स्पेक्ट्रम",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टेलीकॉम कंपनीज",
+      "count": 10
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "कंपनीज को",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "टेलीकॉम सेक्टर",
+      "count": 6
+    },
+    {
+      "phrase": "वजह से",
+      "count": 6
+    },
+    {
+      "phrase": "बाद से",
+      "count": 6
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 5
+    }
+  ],
+  "segment_count": 71
+}

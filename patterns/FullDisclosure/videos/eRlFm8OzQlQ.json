@@ -1,0 +1,148 @@
+{
+  "video_id": "eRlFm8OzQlQ",
+  "duration_seconds": 48,
+  "wps": 2.69,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 608
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Google just picked India's Rupe over Visa and Mastercard. It launched a new credit card called Flex with Access Bank"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Visa and Mastercard globally? Tell me in the comments and follow full disclosure."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 9
+    },
+    {
+      "word": "rupe",
+      "count": 4
+    },
+    {
+      "word": "credit",
+      "count": 4
+    },
+    {
+      "word": "upi",
+      "count": 4
+    },
+    {
+      "word": "visa",
+      "count": 3
+    },
+    {
+      "word": "mastercard",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "over",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "card",
+      "count": 2
+    },
+    {
+      "word": "opportunity",
+      "count": 2
+    },
+    {
+      "word": "india",
+      "count": 2
+    },
+    {
+      "word": "million",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "every",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 1
+    },
+    {
+      "word": "just",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "visa and",
+      "count": 3
+    },
+    {
+      "phrase": "and mastercard",
+      "count": 3
+    },
+    {
+      "phrase": "rupe and",
+      "count": 3
+    },
+    {
+      "phrase": "and upi",
+      "count": 3
+    },
+    {
+      "phrase": "credit card",
+      "count": 2
+    },
+    {
+      "phrase": "the opportunity",
+      "count": 2
+    },
+    {
+      "phrase": "google just",
+      "count": 1
+    },
+    {
+      "phrase": "just picked",
+      "count": 1
+    },
+    {
+      "phrase": "picked india's",
+      "count": 1
+    },
+    {
+      "phrase": "india's rupe",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

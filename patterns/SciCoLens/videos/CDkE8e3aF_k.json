@@ -1,0 +1,149 @@
+{
+  "video_id": "CDkE8e3aF_k",
+  "duration_seconds": 951,
+  "wps": 3.0,
+  "total_words": 2852,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11220
+  },
+  "hook": {
+    "type": "question",
+    "text": "ओसामा बिन लादेन के हार्ड ड्राइव से आखिर सीआईए को ऐसा क्या मिला कि उन्होंने उन फाइल्स को दुनिया से हमेशा के लिए छुपाने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गौरव ठाकुर साइनिंग ऑफ। जय हिंद।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 95
+    },
+    {
+      "word": "और",
+      "count": 70
+    },
+    {
+      "word": "को",
+      "count": 68
+    },
+    {
+      "word": "था",
+      "count": 58
+    },
+    {
+      "word": "एक",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 56
+    },
+    {
+      "word": "की",
+      "count": 56
+    },
+    {
+      "word": "ओसामा",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "है",
+      "count": 36
+    },
+    {
+      "word": "ने",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "बिन",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 23
+    },
+    {
+      "word": "लादेन",
+      "count": 22
+    },
+    {
+      "word": "लिए",
+      "count": 22
+    },
+    {
+      "word": "ही",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 21
+    },
+    {
+      "phrase": "बिन लादेन",
+      "count": 19
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 13
+    },
+    {
+      "phrase": "ओसामा के",
+      "count": 10
+    },
+    {
+      "phrase": "रहा था",
+      "count": 10
+    },
+    {
+      "phrase": "था कि",
+      "count": 10
+    },
+    {
+      "phrase": "ओसामा बिन",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "ओसामा की",
+      "count": 9
+    },
+    {
+      "phrase": "था और",
+      "count": 6
+    }
+  ],
+  "segment_count": 119
+}

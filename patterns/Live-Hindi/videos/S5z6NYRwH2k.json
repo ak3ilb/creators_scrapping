@@ -1,0 +1,149 @@
+{
+  "video_id": "S5z6NYRwH2k",
+  "duration_seconds": 807,
+  "wps": 3.19,
+  "total_words": 2576,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10076
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "घड़ी डिटर्जेंट पाउडर और केक पहले इस्तेमाल करें फिर विश्वास करें दोस्तों घड़ी डिटर्जेंट के इस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दोस्तों अगर घड़न स्ट्रेटेजी को अडॉप्ट करता है तो फिर वह अपनी करंट सक्सेस वल लेगे स को लंबे समय तक कायम र रख सकता है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 77
+    },
+    {
+      "word": "और",
+      "count": 70
+    },
+    {
+      "word": "को",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "घड़ी",
+      "count": 36
+    },
+    {
+      "word": "था",
+      "count": 33
+    },
+    {
+      "word": "ही",
+      "count": 33
+    },
+    {
+      "word": "भी",
+      "count": 31
+    },
+    {
+      "word": "ने",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 29
+    },
+    {
+      "word": "डिटर्जेंट",
+      "count": 28
+    },
+    {
+      "word": "पर",
+      "count": 27
+    },
+    {
+      "word": "है",
+      "count": 26
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "फिर",
+      "count": 21
+    },
+    {
+      "word": "इस",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "घड़ी ने",
+      "count": 10
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "घड़ी को",
+      "count": 9
+    },
+    {
+      "phrase": "जो कि",
+      "count": 8
+    },
+    {
+      "phrase": "में भी",
+      "count": 8
+    },
+    {
+      "phrase": "घड़ी डिटर्जेंट",
+      "count": 7
+    },
+    {
+      "phrase": "के साथ",
+      "count": 7
+    },
+    {
+      "phrase": "कई सारे",
+      "count": 7
+    },
+    {
+      "phrase": "ऐसे में",
+      "count": 7
+    }
+  ],
+  "segment_count": 104
+}

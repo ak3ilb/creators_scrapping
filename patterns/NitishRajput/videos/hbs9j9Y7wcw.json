@@ -1,0 +1,149 @@
+{
+  "video_id": "hbs9j9Y7wcw",
+  "duration_seconds": 3293,
+  "wps": 2.77,
+  "total_words": 9121,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 40907
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "When the 22-year-old Saddam surrounded the Prime Minister of Iraq and shot him When Saddam's goons reached Kuwait to blow up the U.S. Prime Minister Bush in a car b*mb"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 456
+    },
+    {
+      "word": "and",
+      "count": 273
+    },
+    {
+      "word": "saddam",
+      "count": 235
+    },
+    {
+      "word": "in",
+      "count": 203
+    },
+    {
+      "word": "to",
+      "count": 185
+    },
+    {
+      "word": "was",
+      "count": 180
+    },
+    {
+      "word": "of",
+      "count": 157
+    },
+    {
+      "word": "this",
+      "count": 114
+    },
+    {
+      "word": "that",
+      "count": 113
+    },
+    {
+      "word": "he",
+      "count": 105
+    },
+    {
+      "word": "iraq",
+      "count": 91
+    },
+    {
+      "word": "on",
+      "count": 81
+    },
+    {
+      "word": "but",
+      "count": 74
+    },
+    {
+      "word": "us",
+      "count": 73
+    },
+    {
+      "word": "with",
+      "count": 65
+    },
+    {
+      "word": "it",
+      "count": 65
+    },
+    {
+      "word": "so",
+      "count": 65
+    },
+    {
+      "word": "had",
+      "count": 64
+    },
+    {
+      "word": "from",
+      "count": 63
+    },
+    {
+      "word": "were",
+      "count": 60
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 51
+    },
+    {
+      "phrase": "ba'ath party",
+      "count": 48
+    },
+    {
+      "phrase": "the ba'ath",
+      "count": 43
+    },
+    {
+      "phrase": "saddam was",
+      "count": 28
+    },
+    {
+      "phrase": "in iraq",
+      "count": 28
+    },
+    {
+      "phrase": "of the",
+      "count": 28
+    },
+    {
+      "phrase": "the same",
+      "count": 25
+    },
+    {
+      "phrase": "all the",
+      "count": 20
+    },
+    {
+      "phrase": "and then",
+      "count": 18
+    },
+    {
+      "phrase": "at the",
+      "count": 17
+    }
+  ],
+  "segment_count": 383
+}

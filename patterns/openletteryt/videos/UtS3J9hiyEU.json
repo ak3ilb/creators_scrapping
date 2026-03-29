@@ -1,0 +1,149 @@
+{
+  "video_id": "UtS3J9hiyEU",
+  "duration_seconds": 793,
+  "wps": 3.99,
+  "total_words": 3167,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11915
+  },
+  "hook": {
+    "type": "question",
+    "text": "आप लोगों के हिसाब से भारत का सबसे करप्ट और इनकंपटेंट डिपार्टमेंट कौन सा है? इसका जवाब आप मुझे कमेंट में बताओ। और इसके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बचा सको। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 135
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "और",
+      "count": 82
+    },
+    {
+      "word": "के",
+      "count": 75
+    },
+    {
+      "word": "हैं",
+      "count": 60
+    },
+    {
+      "word": "से",
+      "count": 45
+    },
+    {
+      "word": "कि",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 43
+    },
+    {
+      "word": "तो",
+      "count": 43
+    },
+    {
+      "word": "यह",
+      "count": 40
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "नहीं",
+      "count": 33
+    },
+    {
+      "word": "हो",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 31
+    },
+    {
+      "word": "रहा",
+      "count": 27
+    },
+    {
+      "word": "पनीर",
+      "count": 26
+    },
+    {
+      "word": "आप",
+      "count": 25
+    },
+    {
+      "word": "फूड",
+      "count": 21
+    },
+    {
+      "word": "आपको",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 19
+    },
+    {
+      "phrase": "है कि",
+      "count": 16
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "जा रहा",
+      "count": 15
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "भारत में",
+      "count": 10
+    },
+    {
+      "phrase": "होता है",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    },
+    {
+      "phrase": "फूड सेफ्टी",
+      "count": 7
+    }
+  ],
+  "segment_count": 98
+}

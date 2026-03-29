@@ -1,0 +1,28 @@
+{
+  "creator": "CleoAbram",
+  "last_updated": "2026-03-29T14:31:24.637204",
+  "pacing": {
+    "avg_wps": 2.997286189471932,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 2.997286189471932,
+        "duration": 1112.0487804878048
+      }
+    }
+  },
+  "signature_hooks": [
+    "to the",
+    "of a",
+    "about to",
+    "going to",
+    "have to",
+    "in this",
+    "look at",
+    "the world's",
+    "of the",
+    "on the"
+  ],
+  "uniqueness_traits": [
+    "Storytelling Specialist"
+  ]
+}

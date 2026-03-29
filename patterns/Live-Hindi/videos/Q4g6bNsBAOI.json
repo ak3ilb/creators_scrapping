@@ -1,0 +1,149 @@
+{
+  "video_id": "Q4g6bNsBAOI",
+  "duration_seconds": 876,
+  "wps": 2.97,
+  "total_words": 2601,
+  "language_mix": {
+    "hindi": 97.6,
+    "english": 2.4,
+    "total_chars": 10259
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आपको पता है? हमारे भारत में एक ऐसी कंपनी भी है जो ना सिर्फ Google और Microsoft जैसे जॉइंट्स को टक्कर दे रही"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सुनहरा होने वाला है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 85
+    },
+    {
+      "word": "है",
+      "count": 75
+    },
+    {
+      "word": "में",
+      "count": 74
+    },
+    {
+      "word": "के",
+      "count": 60
+    },
+    {
+      "word": "भी",
+      "count": 47
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "ही",
+      "count": 31
+    },
+    {
+      "word": "की",
+      "count": 29
+    },
+    {
+      "word": "हैं",
+      "count": 28
+    },
+    {
+      "word": "ने",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "श्रीधर",
+      "count": 24
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "जो",
+      "count": 23
+    },
+    {
+      "word": "कर",
+      "count": 23
+    },
+    {
+      "word": "का",
+      "count": 23
+    },
+    {
+      "word": "तो",
+      "count": 20
+    },
+    {
+      "word": "यह",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "z जोo",
+      "count": 9
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "और फिर",
+      "count": 7
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 7
+    },
+    {
+      "phrase": "है जो",
+      "count": 6
+    },
+    {
+      "phrase": "से भी",
+      "count": 6
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    }
+  ],
+  "segment_count": 114
+}

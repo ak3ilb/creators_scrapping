@@ -1,0 +1,150 @@
+{
+  "video_id": "NZJmR13tzqs",
+  "duration_seconds": 979,
+  "wps": 4.55,
+  "total_words": 4456,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 16600
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर तुम्हें एक दिन के लिए शाहरुख खान का बेटा बनने का मौका मिले तो उस एक दिन के अंदर तुम ऐसा क्या करोगे जिससे तुम्हारी पूरी लाइफ सिक्योर हो जाए। ये चीज मुझे"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "और तुम्हें एडमिशन मिल जाएगा। बाकी लिंक डिस्क्रिप्शन और पिंक कमेंट में मिल जाएगा और मैं तुमसे मिलता हूं एक अगली वीडियो में।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 197
+    },
+    {
+      "word": "और",
+      "count": 125
+    },
+    {
+      "word": "के",
+      "count": 124
+    },
+    {
+      "word": "अंदर",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "तो",
+      "count": 66
+    },
+    {
+      "word": "भी",
+      "count": 66
+    },
+    {
+      "word": "ना",
+      "count": 65
+    },
+    {
+      "word": "लोग",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 63
+    },
+    {
+      "word": "हैं",
+      "count": 62
+    },
+    {
+      "word": "हो",
+      "count": 55
+    },
+    {
+      "word": "नहीं",
+      "count": 49
+    },
+    {
+      "word": "एक",
+      "count": 47
+    },
+    {
+      "word": "कर",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 44
+    },
+    {
+      "word": "बहुत",
+      "count": 42
+    },
+    {
+      "word": "था",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "की",
+      "count": 40
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 57
+    },
+    {
+      "phrase": "एक्चुअल में",
+      "count": 31
+    },
+    {
+      "phrase": "है और",
+      "count": 31
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 19
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 16
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 15
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 14
+    }
+  ],
+  "segment_count": 125
+}

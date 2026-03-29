@@ -1,0 +1,148 @@
+{
+  "video_id": "JBqaOCXSojY",
+  "duration_seconds": 81,
+  "wps": 3.35,
+  "total_words": 271,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1025
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यू एट 40 लुकिंग लाइक 30 सो व्हाट आर द स्टेप्स दैट यू आर टेकिंग व्हाट इज योर पर्सनल रूटीन काइंड ऑफ पहले तो आपने स्किन को इंटरनल बायोहेक कर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "उसके बाद पिगमेंटेशन इज द बिगेस्ट प्रॉब्लम आई सी इट कमिंग।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "किया",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "क्या",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "सो",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "आपने",
+      "count": 3
+    },
+    {
+      "word": "स्किन",
+      "count": 3
+    },
+    {
+      "word": "इंटरनल",
+      "count": 3
+    },
+    {
+      "word": "ऐड",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "कुछ",
+      "count": 3
+    },
+    {
+      "word": "मैंने",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंटरनल बायोहेक",
+      "count": 2
+    },
+    {
+      "phrase": "पे काम",
+      "count": 2
+    },
+    {
+      "phrase": "काम किया",
+      "count": 2
+    },
+    {
+      "phrase": "ऐड किया",
+      "count": 2
+    },
+    {
+      "phrase": "जब हम",
+      "count": 2
+    },
+    {
+      "phrase": "हम कुछ",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "शुरू किया",
+      "count": 2
+    },
+    {
+      "phrase": "क्रीम्स के",
+      "count": 2
+    },
+    {
+      "phrase": "वो आपको",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

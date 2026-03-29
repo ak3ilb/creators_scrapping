@@ -1,0 +1,33 @@
+{
+  "creator": "gauravzthakur",
+  "last_updated": "2026-03-29T14:31:24.769820",
+  "pacing": {
+    "avg_wps": 3.2731581236034994,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.3147285524891275,
+        "duration": 75.56896551724138
+      },
+      "other": {
+        "wps": 2.6703869047619047,
+        "duration": 36.5
+      }
+    }
+  },
+  "signature_hooks": [
+    "एक ग्रुप",
+    "रहा है",
+    "हैव सीन",
+    "रहा है।",
+    "हिसाब से",
+    "केसेस को",
+    "कर रहा",
+    "का एक",
+    "रहे हैं",
+    "है सर"
+  ],
+  "uniqueness_traits": [
+    "High Energy / Fast Paced",
+    "Storytelling Specialist"
+  ]
+}

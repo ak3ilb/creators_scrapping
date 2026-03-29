@@ -1,0 +1,149 @@
+{
+  "video_id": "AOsgHYVdxxM",
+  "duration_seconds": 2541,
+  "wps": 3.1,
+  "total_words": 7879,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 32924
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So, Gautam Adani who was moving towards the lobby exactly at that time he stops and moves to have a coffee...."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 371
+    },
+    {
+      "word": "and",
+      "count": 268
+    },
+    {
+      "word": "they",
+      "count": 199
+    },
+    {
+      "word": "in",
+      "count": 189
+    },
+    {
+      "word": "was",
+      "count": 165
+    },
+    {
+      "word": "to",
+      "count": 162
+    },
+    {
+      "word": "that",
+      "count": 148
+    },
+    {
+      "word": "of",
+      "count": 123
+    },
+    {
+      "word": "this",
+      "count": 98
+    },
+    {
+      "word": "he",
+      "count": 90
+    },
+    {
+      "word": "it",
+      "count": 80
+    },
+    {
+      "word": "so",
+      "count": 79
+    },
+    {
+      "word": "were",
+      "count": 77
+    },
+    {
+      "word": "at",
+      "count": 68
+    },
+    {
+      "word": "after",
+      "count": 67
+    },
+    {
+      "word": "on",
+      "count": 65
+    },
+    {
+      "word": "is",
+      "count": 64
+    },
+    {
+      "word": "but",
+      "count": 61
+    },
+    {
+      "word": "as",
+      "count": 60
+    },
+    {
+      "word": "there",
+      "count": 54
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 42
+    },
+    {
+      "phrase": "of the",
+      "count": 24
+    },
+    {
+      "phrase": "they were",
+      "count": 24
+    },
+    {
+      "phrase": "after that",
+      "count": 23
+    },
+    {
+      "phrase": "at the",
+      "count": 22
+    },
+    {
+      "phrase": "all the",
+      "count": 22
+    },
+    {
+      "phrase": "as well",
+      "count": 21
+    },
+    {
+      "phrase": "it was",
+      "count": 20
+    },
+    {
+      "phrase": "so they",
+      "count": 19
+    },
+    {
+      "phrase": "he was",
+      "count": 18
+    }
+  ],
+  "segment_count": 310
+}

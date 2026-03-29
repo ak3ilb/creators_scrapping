@@ -1,0 +1,150 @@
+{
+  "video_id": "w34cbic0fLs",
+  "duration_seconds": 1142,
+  "wps": 3.95,
+  "total_words": 4512,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 15953
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जैसे ही आप लोग एयरपोर्ट की ये इनविजिबल लाइन को क्रॉस कर लोगे आपके अकाउंट से डायरेक्टली ₹ कट जाएंगे और आपको पता भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्कैम के अंदर नहीं आता के अंदर आती है बैटिंग जिसके ऊपर मैंने एक डेडिकेटेड वीडियो बना रखी है जो तुम्हें यहां पर मिल जाएगी"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 195
+    },
+    {
+      "word": "के",
+      "count": 155
+    },
+    {
+      "word": "और",
+      "count": 111
+    },
+    {
+      "word": "आप",
+      "count": 92
+    },
+    {
+      "word": "हैं",
+      "count": 92
+    },
+    {
+      "word": "को",
+      "count": 91
+    },
+    {
+      "word": "तो",
+      "count": 87
+    },
+    {
+      "word": "लोग",
+      "count": 75
+    },
+    {
+      "word": "से",
+      "count": 74
+    },
+    {
+      "word": "भी",
+      "count": 68
+    },
+    {
+      "word": "हो",
+      "count": 64
+    },
+    {
+      "word": "अंदर",
+      "count": 63
+    },
+    {
+      "word": "एयरपोर्ट",
+      "count": 52
+    },
+    {
+      "word": "नहीं",
+      "count": 51
+    },
+    {
+      "word": "ये",
+      "count": 49
+    },
+    {
+      "word": "की",
+      "count": 47
+    },
+    {
+      "word": "कर",
+      "count": 46
+    },
+    {
+      "word": "वो",
+      "count": 45
+    },
+    {
+      "word": "का",
+      "count": 42
+    },
+    {
+      "word": "लोगों",
+      "count": 36
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 55
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 52
+    },
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "आप लोगों",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 23
+    },
+    {
+      "phrase": "है तो",
+      "count": 21
+    },
+    {
+      "phrase": "जाता है",
+      "count": 20
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 19
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    }
+  ],
+  "segment_count": 139
+}

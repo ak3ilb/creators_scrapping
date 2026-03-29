@@ -1,0 +1,150 @@
+{
+  "video_id": "rxyUFF-wD3Q",
+  "duration_seconds": 4493,
+  "wps": 2.85,
+  "total_words": 12816,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 46165
+  },
+  "hook": {
+    "type": "question",
+    "text": "है अमरुद हाथों अगर आप यह पौन इंच एक्स्ट्रा व्यक्ति अंदर ठीक है इस"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शुरू हुई अज्जू ऑलरेडी सब्सक्राइब पिछले वाला भेज दूंगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 510
+    },
+    {
+      "word": "तो",
+      "count": 236
+    },
+    {
+      "word": "और",
+      "count": 225
+    },
+    {
+      "word": "कि",
+      "count": 201
+    },
+    {
+      "word": "के",
+      "count": 187
+    },
+    {
+      "word": "आप",
+      "count": 185
+    },
+    {
+      "word": "को",
+      "count": 178
+    },
+    {
+      "word": "में",
+      "count": 163
+    },
+    {
+      "word": "यह",
+      "count": 161
+    },
+    {
+      "word": "से",
+      "count": 151
+    },
+    {
+      "word": "हो",
+      "count": 146
+    },
+    {
+      "word": "नहीं",
+      "count": 145
+    },
+    {
+      "word": "हैं",
+      "count": 142
+    },
+    {
+      "word": "कर",
+      "count": 137
+    },
+    {
+      "word": "वह",
+      "count": 134
+    },
+    {
+      "word": "भी",
+      "count": 127
+    },
+    {
+      "word": "पर",
+      "count": 120
+    },
+    {
+      "word": "एक",
+      "count": 115
+    },
+    {
+      "word": "आपको",
+      "count": 104
+    },
+    {
+      "word": "का",
+      "count": 102
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 45
+    },
+    {
+      "phrase": "है कि",
+      "count": 43
+    },
+    {
+      "phrase": "है तो",
+      "count": 38
+    },
+    {
+      "phrase": "रहा है",
+      "count": 32
+    },
+    {
+      "phrase": "होता है",
+      "count": 30
+    },
+    {
+      "phrase": "है और",
+      "count": 29
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 29
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 28
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 27
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 27
+    }
+  ],
+  "segment_count": 555
+}

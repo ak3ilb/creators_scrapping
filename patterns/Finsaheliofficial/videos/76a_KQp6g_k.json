@@ -1,0 +1,148 @@
+{
+  "video_id": "76a_KQp6g_k",
+  "duration_seconds": 58,
+  "wps": 3.48,
+  "total_words": 202,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 734
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आपको ये पता है कि फीमेल के नाम पे कार लेने के कितने फायदे हैं? अगर आप भी गाड़ी लेने का प्लान कर रहे हो तो ये रील पहले जरूर देख लेना। क्योंकि लड़कियों को"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "यह वीडियो तो जरूर शेयर करना और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "गाड़ी",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "नाम",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "फीमेल",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "जरूर",
+      "count": 3
+    },
+    {
+      "word": "लड़कियों",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "सारे",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 2
+    },
+    {
+      "word": "लेने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के नाम",
+      "count": 4
+    },
+    {
+      "phrase": "नाम पे",
+      "count": 3
+    },
+    {
+      "phrase": "लड़कियों को",
+      "count": 3
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 3
+    },
+    {
+      "phrase": "फीमेल के",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "लो इंटरेस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "सारे बैंक्स",
+      "count": 2
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

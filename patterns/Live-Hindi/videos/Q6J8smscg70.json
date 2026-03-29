@@ -1,0 +1,149 @@
+{
+  "video_id": "Q6J8smscg70",
+  "duration_seconds": 1024,
+  "wps": 2.97,
+  "total_words": 3046,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11737
+  },
+  "hook": {
+    "type": "question",
+    "text": "डबर एक ऐसा ब्रांड जो 138 सालों से भारत के हर घर में मौजूद है लेकिन क्या आप जानते हैं जब एस के बर्मन जी ने इस ब्रांड"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "सा प्रोडक्ट यूज होता है हमें कमेंट करके जरूर बताइएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 86
+    },
+    {
+      "word": "और",
+      "count": 78
+    },
+    {
+      "word": "को",
+      "count": 65
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "था",
+      "count": 50
+    },
+    {
+      "word": "का",
+      "count": 48
+    },
+    {
+      "word": "ने",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 41
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "भी",
+      "count": 37
+    },
+    {
+      "word": "ही",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 33
+    },
+    {
+      "word": "डाबर",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 26
+    },
+    {
+      "word": "थी",
+      "count": 25
+    },
+    {
+      "word": "थे",
+      "count": 25
+    },
+    {
+      "word": "लेकिन",
+      "count": 24
+    },
+    {
+      "word": "कंपनी",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "डाबर ने",
+      "count": 12
+    },
+    {
+      "phrase": "और फिर",
+      "count": 11
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 10
+    },
+    {
+      "phrase": "एस के",
+      "count": 8
+    },
+    {
+      "phrase": "के बर्मन",
+      "count": 8
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 8
+    },
+    {
+      "phrase": "था कि",
+      "count": 7
+    },
+    {
+      "phrase": "थे और",
+      "count": 7
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 7
+    }
+  ],
+  "segment_count": 130
+}

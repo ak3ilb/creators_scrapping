@@ -1,0 +1,150 @@
+{
+  "video_id": "XC6ojFVEgwc",
+  "duration_seconds": 1558,
+  "wps": 4.53,
+  "total_words": 7053,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 25244
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पहले मुझे ये चाय वाले से दिक्कत थी और आज की डेट में हर दूसरी रेडी से दिक्कत है क्योंकि जिसको देख लो 50-50 लाख की फ्रेंचाइजी निकाल रहे हो और हर कोई ले भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 328
+    },
+    {
+      "word": "के",
+      "count": 225
+    },
+    {
+      "word": "और",
+      "count": 193
+    },
+    {
+      "word": "हैं",
+      "count": 131
+    },
+    {
+      "word": "लोग",
+      "count": 112
+    },
+    {
+      "word": "नहीं",
+      "count": 95
+    },
+    {
+      "word": "तो",
+      "count": 94
+    },
+    {
+      "word": "हो",
+      "count": 92
+    },
+    {
+      "word": "भी",
+      "count": 88
+    },
+    {
+      "word": "की",
+      "count": 83
+    },
+    {
+      "word": "अंदर",
+      "count": 81
+    },
+    {
+      "word": "को",
+      "count": 74
+    },
+    {
+      "word": "एक",
+      "count": 72
+    },
+    {
+      "word": "ये",
+      "count": 71
+    },
+    {
+      "word": "का",
+      "count": 71
+    },
+    {
+      "word": "से",
+      "count": 70
+    },
+    {
+      "word": "कि",
+      "count": 65
+    },
+    {
+      "word": "वो",
+      "count": 65
+    },
+    {
+      "word": "रहे",
+      "count": 64
+    },
+    {
+      "word": "भैया",
+      "count": 61
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 65
+    },
+    {
+      "phrase": "है और",
+      "count": 46
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 40
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 34
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 33
+    },
+    {
+      "phrase": "रहा है",
+      "count": 29
+    },
+    {
+      "phrase": "हैं और",
+      "count": 28
+    },
+    {
+      "phrase": "के लिए",
+      "count": 27
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 27
+    },
+    {
+      "phrase": "है कि",
+      "count": 24
+    }
+  ],
+  "segment_count": 198
+}

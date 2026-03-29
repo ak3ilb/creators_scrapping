@@ -1,0 +1,149 @@
+{
+  "video_id": "FFT81hNH2Lg",
+  "duration_seconds": 937,
+  "wps": 3.43,
+  "total_words": 3211,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13980
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In childhood, all of us have definitely dreamed of becoming a scientist at some point of time. You may"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "drain that happens on a large level in the US, UK and outside countries."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 158
+    },
+    {
+      "word": "in",
+      "count": 135
+    },
+    {
+      "word": "and",
+      "count": 86
+    },
+    {
+      "word": "to",
+      "count": 86
+    },
+    {
+      "word": "is",
+      "count": 83
+    },
+    {
+      "word": "of",
+      "count": 80
+    },
+    {
+      "word": "this",
+      "count": 49
+    },
+    {
+      "word": "are",
+      "count": 48
+    },
+    {
+      "word": "that",
+      "count": 46
+    },
+    {
+      "word": "research",
+      "count": 44
+    },
+    {
+      "word": "phd",
+      "count": 43
+    },
+    {
+      "word": "india",
+      "count": 34
+    },
+    {
+      "word": "there",
+      "count": 34
+    },
+    {
+      "word": "do",
+      "count": 31
+    },
+    {
+      "word": "for",
+      "count": 30
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "but",
+      "count": 27
+    },
+    {
+      "word": "from",
+      "count": 27
+    },
+    {
+      "word": "have",
+      "count": 26
+    },
+    {
+      "word": "you",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in india",
+      "count": 23
+    },
+    {
+      "phrase": "research and",
+      "count": 19
+    },
+    {
+      "phrase": "and development",
+      "count": 18
+    },
+    {
+      "phrase": "there is",
+      "count": 17
+    },
+    {
+      "phrase": "to do",
+      "count": 16
+    },
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "there are",
+      "count": 13
+    },
+    {
+      "phrase": "the government",
+      "count": 12
+    },
+    {
+      "phrase": "is the",
+      "count": 12
+    }
+  ],
+  "segment_count": 223
+}

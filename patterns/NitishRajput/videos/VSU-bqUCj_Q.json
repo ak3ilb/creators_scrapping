@@ -1,0 +1,149 @@
+{
+  "video_id": "VSU-bqUCj_Q",
+  "duration_seconds": 2118,
+  "wps": 3.18,
+  "total_words": 6726,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 28452
+  },
+  "hook": {
+    "type": "question",
+    "text": "LK Advani and Pramod Mahajan were watching these things live. If that wire hand't broken at that time, then they had brought so much stuff"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "audio shows. Check out the link in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 304
+    },
+    {
+      "word": "and",
+      "count": 227
+    },
+    {
+      "word": "to",
+      "count": 159
+    },
+    {
+      "word": "in",
+      "count": 157
+    },
+    {
+      "word": "of",
+      "count": 122
+    },
+    {
+      "word": "was",
+      "count": 116
+    },
+    {
+      "word": "they",
+      "count": 114
+    },
+    {
+      "word": "so",
+      "count": 109
+    },
+    {
+      "word": "that",
+      "count": 103
+    },
+    {
+      "word": "this",
+      "count": 99
+    },
+    {
+      "word": "afzal",
+      "count": 77
+    },
+    {
+      "word": "at",
+      "count": 73
+    },
+    {
+      "word": "all",
+      "count": 64
+    },
+    {
+      "word": "these",
+      "count": 62
+    },
+    {
+      "word": "he",
+      "count": 55
+    },
+    {
+      "word": "were",
+      "count": 54
+    },
+    {
+      "word": "as",
+      "count": 54
+    },
+    {
+      "word": "after",
+      "count": 54
+    },
+    {
+      "word": "on",
+      "count": 54
+    },
+    {
+      "word": "from",
+      "count": 52
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 32
+    },
+    {
+      "phrase": "all the",
+      "count": 29
+    },
+    {
+      "phrase": "of the",
+      "count": 26
+    },
+    {
+      "phrase": "all these",
+      "count": 25
+    },
+    {
+      "phrase": "the parliament",
+      "count": 22
+    },
+    {
+      "phrase": "as soon",
+      "count": 18
+    },
+    {
+      "phrase": "soon as",
+      "count": 18
+    },
+    {
+      "phrase": "afzal guru",
+      "count": 17
+    },
+    {
+      "phrase": "at that",
+      "count": 15
+    },
+    {
+      "phrase": "to the",
+      "count": 15
+    }
+  ],
+  "segment_count": 266
+}

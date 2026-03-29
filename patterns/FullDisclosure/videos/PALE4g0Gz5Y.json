@@ -1,0 +1,149 @@
+{
+  "video_id": "PALE4g0Gz5Y",
+  "duration_seconds": 71,
+  "wps": 2.77,
+  "total_words": 197,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 883
+  },
+  "hook": {
+    "type": "question",
+    "text": "What if you could make crores without a"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "choosing and follow full disclosure for"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 9
+    },
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "gen",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "hit",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "side",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "doing",
+      "count": 2
+    },
+    {
+      "word": "annual",
+      "count": 2
+    },
+    {
+      "word": "someone",
+      "count": 2
+    },
+    {
+      "word": "solo",
+      "count": 2
+    },
+    {
+      "word": "cr",
+      "count": 2
+    },
+    {
+      "word": "rupees",
+      "count": 2
+    },
+    {
+      "word": "revenue",
+      "count": 2
+    },
+    {
+      "word": "sneakers",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "gen z",
+      "count": 3
+    },
+    {
+      "phrase": "1 cr",
+      "count": 2
+    },
+    {
+      "phrase": "cr rupees",
+      "count": 2
+    },
+    {
+      "phrase": "rupees in",
+      "count": 2
+    },
+    {
+      "phrase": "creator economy",
+      "count": 2
+    },
+    {
+      "phrase": "will hit",
+      "count": 2
+    },
+    {
+      "phrase": "billion by",
+      "count": 2
+    },
+    {
+      "phrase": "what if",
+      "count": 1
+    },
+    {
+      "phrase": "if you",
+      "count": 1
+    },
+    {
+      "phrase": "you could",
+      "count": 1
+    }
+  ],
+  "segment_count": 30
+}

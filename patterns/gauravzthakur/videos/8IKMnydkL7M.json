@@ -1,0 +1,148 @@
+{
+  "video_id": "8IKMnydkL7M",
+  "duration_seconds": 77,
+  "wps": 3.38,
+  "total_words": 260,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 971
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या कम सोने की वजह से किसी को हार्ट अटैक भी आ सकता है? दुनिया के सभी स्लीप साइंटिस्ट का एक ग्रुप है कॉल्ड एसोसिएशन ऑफ प्रोफेशनल स्लीप सोसाइटीज। उनकी एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "समझे और अपने हेल्थ को एमावर कर सके।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "से",
+      "count": 11
+    },
+    {
+      "word": "एक",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "कम",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "स्लीप",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "होते",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "वजह",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "कम सोने",
+      "count": 2
+    },
+    {
+      "phrase": "की वजह",
+      "count": 2
+    },
+    {
+      "phrase": "वजह से",
+      "count": 2
+    },
+    {
+      "phrase": "हार्ट अटैक",
+      "count": 2
+    },
+    {
+      "phrase": "2 से",
+      "count": 2
+    },
+    {
+      "phrase": "के बीच",
+      "count": 2
+    },
+    {
+      "phrase": "में ही",
+      "count": 2
+    },
+    {
+      "phrase": "रोड एक्सीडेंट्स",
+      "count": 2
+    },
+    {
+      "phrase": "एक रिसर्च",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

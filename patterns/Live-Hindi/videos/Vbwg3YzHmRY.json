@@ -1,0 +1,148 @@
+{
+  "video_id": "Vbwg3YzHmRY",
+  "duration_seconds": 980,
+  "wps": 3.15,
+  "total_words": 3087,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 11387
+  },
+  "hook": {
+    "type": "statement",
+    "text": "टेंपल रन अपने टाइम के सबसे एडिक्टिव मोबाइल गेम्स में से एक क्लासरूम, मेट्रो या कॉलेज कैंटीन में हर जगह एक ही सीन था।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "थोड़ा और दौड़ते रहने में है। लेकिन इत्तेफाक तो देखिए कि खुद वही गेम दुनिया की इस दौड़ में पीछे रह गया। वैसे टेंपल रन से आपकी क्या यादें जोड़ी हैं?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "और",
+      "count": 74
+    },
+    {
+      "word": "था",
+      "count": 70
+    },
+    {
+      "word": "कि",
+      "count": 64
+    },
+    {
+      "word": "के",
+      "count": 53
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "गेम",
+      "count": 50
+    },
+    {
+      "word": "एक",
+      "count": 47
+    },
+    {
+      "word": "ही",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 43
+    },
+    {
+      "word": "टेंपल",
+      "count": 39
+    },
+    {
+      "word": "रन",
+      "count": 39
+    },
+    {
+      "word": "को",
+      "count": 39
+    },
+    {
+      "word": "यह",
+      "count": 37
+    },
+    {
+      "word": "है",
+      "count": 35
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "थे",
+      "count": 32
+    },
+    {
+      "word": "लेकिन",
+      "count": 31
+    },
+    {
+      "word": "ने",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टेंपल रन",
+      "count": 36
+    },
+    {
+      "phrase": "था कि",
+      "count": 11
+    },
+    {
+      "phrase": "और दोस्तों",
+      "count": 9
+    },
+    {
+      "phrase": "गया था",
+      "count": 9
+    },
+    {
+      "phrase": "और नतालिया",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "कि वह",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    },
+    {
+      "phrase": "में टेंपल",
+      "count": 7
+    }
+  ],
+  "segment_count": 126
+}

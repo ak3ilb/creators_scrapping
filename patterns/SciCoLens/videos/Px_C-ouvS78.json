@@ -1,0 +1,149 @@
+{
+  "video_id": "Px_C-ouvS78",
+  "duration_seconds": 681,
+  "wps": 2.74,
+  "total_words": 1865,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 7219
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया इज एट वॉर। आज जब आप यह वीडियो देख रहे हो तो भारत के 28 राज्यों में से कम से कम 15 राज्यों में जंग जारी है। एट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक बाप का दिल तो दुख होता है ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 73
+    },
+    {
+      "word": "के",
+      "count": 61
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 36
+    },
+    {
+      "word": "हैं",
+      "count": 32
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "और",
+      "count": 22
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "देश",
+      "count": 18
+    },
+    {
+      "word": "तक",
+      "count": 18
+    },
+    {
+      "word": "अलग",
+      "count": 18
+    },
+    {
+      "word": "इंडिया",
+      "count": 17
+    },
+    {
+      "word": "इन",
+      "count": 17
+    },
+    {
+      "word": "का",
+      "count": 17
+    },
+    {
+      "word": "नहीं",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया के",
+      "count": 7
+    },
+    {
+      "phrase": "रहा है",
+      "count": 7
+    },
+    {
+      "phrase": "खुद की",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "गांव के",
+      "count": 6
+    },
+    {
+      "phrase": "इलाकों में",
+      "count": 5
+    },
+    {
+      "phrase": "देश बनाना",
+      "count": 5
+    },
+    {
+      "phrase": "हमारे ही",
+      "count": 4
+    },
+    {
+      "phrase": "का एक",
+      "count": 4
+    },
+    {
+      "phrase": "की एक",
+      "count": 4
+    }
+  ],
+  "segment_count": 82
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "jHOREVtSjQY",
+  "duration_seconds": 627,
+  "wps": 3.03,
+  "total_words": 1902,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 7711
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और पाकिस्तान का सबसे बड़ा नाइट मेयर अब शायद सच होने जा रहा है। डीसा एयरफील्ड का निर्माण"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 56
+    },
+    {
+      "word": "और",
+      "count": 50
+    },
+    {
+      "word": "के",
+      "count": 45
+    },
+    {
+      "word": "में",
+      "count": 41
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 27
+    },
+    {
+      "word": "की",
+      "count": 24
+    },
+    {
+      "word": "का",
+      "count": 23
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "इंडिया",
+      "count": 22
+    },
+    {
+      "word": "ऑफ",
+      "count": 20
+    },
+    {
+      "word": "से",
+      "count": 20
+    },
+    {
+      "word": "पर",
+      "count": 18
+    },
+    {
+      "word": "भी",
+      "count": 17
+    },
+    {
+      "word": "एक",
+      "count": 16
+    },
+    {
+      "word": "एंड",
+      "count": 16
+    },
+    {
+      "word": "ही",
+      "count": 16
+    },
+    {
+      "word": "एयरबेस",
+      "count": 15
+    },
+    {
+      "word": "इज",
+      "count": 15
+    },
+    {
+      "word": "अब",
+      "count": 13
+    },
+    {
+      "word": "कि",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 6
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 5
+    },
+    {
+      "phrase": "इन द",
+      "count": 5
+    },
+    {
+      "phrase": "गया है",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "है एंड",
+      "count": 4
+    }
+  ],
+  "segment_count": 79
+}

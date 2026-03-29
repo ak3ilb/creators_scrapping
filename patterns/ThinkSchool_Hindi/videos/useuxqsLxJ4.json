@@ -1,0 +1,148 @@
+{
+  "video_id": "useuxqsLxJ4",
+  "duration_seconds": 643,
+  "wps": 2.95,
+  "total_words": 1900,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 7334
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों जब अमेरिका ने ईरान पर एयर स्पेक्स किए, ईरान ने कुछ ऐसा किया जिससे पूरी दुनिया के स्टॉक मार्केट्स हिलने लगे। क्यों? क्योंकि ईरान स्ट्रेट ऑफ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 105
+    },
+    {
+      "word": "और",
+      "count": 61
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 45
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "के",
+      "count": 34
+    },
+    {
+      "word": "ऑफ",
+      "count": 32
+    },
+    {
+      "word": "स्ट्रेट",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 27
+    },
+    {
+      "word": "हो",
+      "count": 26
+    },
+    {
+      "word": "में",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "दुनिया",
+      "count": 22
+    },
+    {
+      "word": "सिर्फ",
+      "count": 21
+    },
+    {
+      "word": "हॉर्मोस",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 19
+    },
+    {
+      "word": "अगर",
+      "count": 19
+    },
+    {
+      "word": "नहीं",
+      "count": 19
+    },
+    {
+      "word": "ईरान",
+      "count": 17
+    },
+    {
+      "word": "तेल",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्ट्रेट ऑफ",
+      "count": 22
+    },
+    {
+      "phrase": "है तो",
+      "count": 21
+    },
+    {
+      "phrase": "ऑफ हॉर्मोस",
+      "count": 20
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "बंद हो",
+      "count": 9
+    },
+    {
+      "phrase": "के पास",
+      "count": 8
+    },
+    {
+      "phrase": "जाता है",
+      "count": 8
+    },
+    {
+      "phrase": "स्टेट ऑफ",
+      "count": 7
+    },
+    {
+      "phrase": "दुनिया का",
+      "count": 7
+    }
+  ],
+  "segment_count": 79
+}

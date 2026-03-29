@@ -1,0 +1,149 @@
+{
+  "video_id": "Lf2sL4yw3nc",
+  "duration_seconds": 805,
+  "wps": 2.56,
+  "total_words": 2063,
+  "language_mix": {
+    "hindi": 98.2,
+    "english": 1.8,
+    "total_chars": 8026
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एंड नाउ लेट्स सेलिब्रेट द चैंपियंस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन द नेक्स्ट वन। बाय-बाय।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 49
+    },
+    {
+      "word": "क्रिकेट",
+      "count": 35
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "और",
+      "count": 34
+    },
+    {
+      "word": "है",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 29
+    },
+    {
+      "word": "में",
+      "count": 27
+    },
+    {
+      "word": "bcci",
+      "count": 26
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "तो",
+      "count": 23
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "लिए",
+      "count": 21
+    },
+    {
+      "word": "थे",
+      "count": 19
+    },
+    {
+      "word": "कि",
+      "count": 19
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 18
+    },
+    {
+      "word": "ने",
+      "count": 18
+    },
+    {
+      "word": "एक",
+      "count": 16
+    },
+    {
+      "word": "इंडियन",
+      "count": 16
+    },
+    {
+      "word": "इंडिया",
+      "count": 15
+    },
+    {
+      "word": "था",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "वर्ल्ड क्रिकेट",
+      "count": 8
+    },
+    {
+      "phrase": "इंडियन क्रिकेट",
+      "count": 8
+    },
+    {
+      "phrase": "इन द",
+      "count": 6
+    },
+    {
+      "phrase": "वर्ल्ड कप",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "क्रिकेट का",
+      "count": 5
+    },
+    {
+      "phrase": "bcci ने",
+      "count": 5
+    },
+    {
+      "phrase": "वास द",
+      "count": 5
+    },
+    {
+      "phrase": "bcci को",
+      "count": 5
+    }
+  ],
+  "segment_count": 99
+}

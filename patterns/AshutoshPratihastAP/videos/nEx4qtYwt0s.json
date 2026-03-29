@@ -1,0 +1,150 @@
+{
+  "video_id": "nEx4qtYwt0s",
+  "duration_seconds": 965,
+  "wps": 3.78,
+  "total_words": 3647,
+  "language_mix": {
+    "hindi": 97.4,
+    "english": 2.6,
+    "total_chars": 14116
+  },
+  "hook": {
+    "type": "question",
+    "text": "सोचो अगर तुम अभी किसी ऑफिस में बैठे हो,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बहुत ग्रो कर सकता है। राइट वाली वीडियो पर क्लिक कर देना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 104
+    },
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "से",
+      "count": 79
+    },
+    {
+      "word": "एक",
+      "count": 61
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "नहीं",
+      "count": 57
+    },
+    {
+      "word": "और",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 49
+    },
+    {
+      "word": "तो",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "बिजनेस",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "उन्होंने",
+      "count": 40
+    },
+    {
+      "word": "कर",
+      "count": 35
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "लेकिन",
+      "count": 34
+    },
+    {
+      "word": "अगर",
+      "count": 32
+    },
+    {
+      "word": "शुरू",
+      "count": 32
+    },
+    {
+      "word": "था",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "उनके पास",
+      "count": 12
+    },
+    {
+      "phrase": "सबसे बड़ी",
+      "count": 9
+    },
+    {
+      "phrase": "शुरू कर",
+      "count": 9
+    },
+    {
+      "phrase": "होता है",
+      "count": 9
+    },
+    {
+      "phrase": "भारत में",
+      "count": 9
+    },
+    {
+      "phrase": "है तो",
+      "count": 8
+    },
+    {
+      "phrase": "तो आप",
+      "count": 8
+    },
+    {
+      "phrase": "धीरूभाई अंबानी",
+      "count": 8
+    }
+  ],
+  "segment_count": 122
+}

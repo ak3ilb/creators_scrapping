@@ -1,0 +1,148 @@
+{
+  "video_id": "HOh_JilT3VQ",
+  "duration_seconds": 891,
+  "wps": 3.76,
+  "total_words": 3348,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 12365
+  },
+  "hook": {
+    "type": "question",
+    "text": "भारत में एक्स्ट्रा मैरिटल अफेयर्स का नंबर दिन पर दिन बढ़ता जा रहा है। क्या कर रही है तू यहां पे?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिलेशनशिप्स पर काम करने की जरूरत है। क्योंकि रियलिटी अब सामने आ रही है। अब वो जमाने गए जब लोग कॉम्प्रोमाइज करते थे।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 139
+    },
+    {
+      "word": "के",
+      "count": 85
+    },
+    {
+      "word": "में",
+      "count": 75
+    },
+    {
+      "word": "और",
+      "count": 73
+    },
+    {
+      "word": "भी",
+      "count": 62
+    },
+    {
+      "word": "हैं",
+      "count": 62
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "तो",
+      "count": 45
+    },
+    {
+      "word": "नहीं",
+      "count": 40
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 35
+    },
+    {
+      "word": "को",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "पर",
+      "count": 27
+    },
+    {
+      "word": "साथ",
+      "count": 25
+    },
+    {
+      "word": "अपने",
+      "count": 25
+    },
+    {
+      "word": "कर",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "के साथ",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 16
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "रहा है",
+      "count": 12
+    },
+    {
+      "phrase": "एक्स्ट्रा मैरिटल",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "सकता है",
+      "count": 10
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    }
+  ],
+  "segment_count": 113
+}

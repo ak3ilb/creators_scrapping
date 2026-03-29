@@ -1,0 +1,148 @@
+{
+  "video_id": "cQIE15pAT4w",
+  "duration_seconds": 717,
+  "wps": 3.12,
+  "total_words": 2239,
+  "language_mix": {
+    "hindi": 96.5,
+    "english": 3.5,
+    "total_chars": 8196
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों, जरा याद करिए वह 2003 का टाइम। उस टाइम मार्केट में जो भी फोंस मिलते थे,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाते"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 68
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "था",
+      "count": 56
+    },
+    {
+      "word": "में",
+      "count": 48
+    },
+    {
+      "word": "फोन",
+      "count": 47
+    },
+    {
+      "word": "nokia",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 37
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "ही",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 27
+    },
+    {
+      "word": "थे",
+      "count": 26
+    },
+    {
+      "word": "6600",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "है",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "थी",
+      "count": 24
+    },
+    {
+      "word": "जो",
+      "count": 20
+    },
+    {
+      "word": "लेकिन",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "nokia 6600",
+      "count": 23
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "था कि",
+      "count": 11
+    },
+    {
+      "phrase": "के साथ",
+      "count": 9
+    },
+    {
+      "phrase": "उस टाइम",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 8
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "यह फोन",
+      "count": 7
+    },
+    {
+      "phrase": "nokia ने",
+      "count": 7
+    },
+    {
+      "phrase": "और फिर",
+      "count": 7
+    }
+  ],
+  "segment_count": 93
+}

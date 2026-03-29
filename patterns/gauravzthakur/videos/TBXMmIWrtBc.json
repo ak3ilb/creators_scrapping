@@ -1,0 +1,148 @@
+{
+  "video_id": "TBXMmIWrtBc",
+  "duration_seconds": 44,
+  "wps": 3.98,
+  "total_words": 175,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 666
+  },
+  "hook": {
+    "type": "question",
+    "text": "स्पेशल यूनिट टीम्स का हैप्पीनेस इंडेक्स आप कितना रेट करेंगे? इट्स वेरी हाई। इट्स वैरी-वेरी मतलब व्हेन यू आर इन आर्मी वो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोग इकट्ठे हैं। सो यू फाइंड योर पीस एंड हैप्पीनेस दे आर वैरी वैरी हैप्पी इन देयर बुक। हम्म।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 8
+    },
+    {
+      "word": "आर",
+      "count": 8
+    },
+    {
+      "word": "हैप्पी",
+      "count": 6
+    },
+    {
+      "word": "लाइक",
+      "count": 5
+    },
+    {
+      "word": "सो",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "वैरी",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "स्पेशल",
+      "count": 2
+    },
+    {
+      "word": "हैप्पीनेस",
+      "count": 2
+    },
+    {
+      "word": "इट्स",
+      "count": 2
+    },
+    {
+      "word": "वेरी",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "एम",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 6
+    },
+    {
+      "phrase": "वैरी हैप्पी",
+      "count": 3
+    },
+    {
+      "phrase": "सो यू",
+      "count": 3
+    },
+    {
+      "phrase": "आर वैरी",
+      "count": 2
+    },
+    {
+      "phrase": "हैप्पी आई",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "हैप्पी इन",
+      "count": 2
+    },
+    {
+      "phrase": "तो आपको",
+      "count": 2
+    },
+    {
+      "phrase": "हैं सो",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेशल यूनिट",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

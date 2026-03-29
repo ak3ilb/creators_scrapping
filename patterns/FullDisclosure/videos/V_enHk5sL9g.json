@@ -1,0 +1,148 @@
+{
+  "video_id": "V_enHk5sL9g",
+  "duration_seconds": 72,
+  "wps": 2.25,
+  "total_words": 162,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 923
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "IIT Madras just announced something no Indian university [music] has ever done before. They're going multinational. Some of India's most cuttingedge [music]"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Comments below."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 8
+    },
+    {
+      "word": "global",
+      "count": 5
+    },
+    {
+      "word": "iit",
+      "count": 4
+    },
+    {
+      "word": "india's",
+      "count": 4
+    },
+    {
+      "word": "madras",
+      "count": 3
+    },
+    {
+      "word": "indian",
+      "count": 3
+    },
+    {
+      "word": "they're",
+      "count": 3
+    },
+    {
+      "word": "startups",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "tech",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "first",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "iitm",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "iit madras",
+      "count": 3
+    },
+    {
+      "phrase": "of india's",
+      "count": 2
+    },
+    {
+      "phrase": "india's most",
+      "count": 2
+    },
+    {
+      "phrase": "music and",
+      "count": 2
+    },
+    {
+      "phrase": "madras just",
+      "count": 1
+    },
+    {
+      "phrase": "just announced",
+      "count": 1
+    },
+    {
+      "phrase": "announced something",
+      "count": 1
+    },
+    {
+      "phrase": "something no",
+      "count": 1
+    },
+    {
+      "phrase": "no indian",
+      "count": 1
+    },
+    {
+      "phrase": "indian university",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

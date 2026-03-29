@@ -1,0 +1,150 @@
+{
+  "video_id": "AO7SK5oqQIs",
+  "duration_seconds": 7176,
+  "wps": 2.96,
+  "total_words": 21222,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 81497
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडिया में 80% ज्यादा फैमिली बिज़नेसेस हैं। लेकिन ओनली 30% ऑफ़ फैमिली बिज़नेसेस मेक इट टू द सेकंड जनरेशन एंड बेयरली 10"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 655
+    },
+    {
+      "word": "कि",
+      "count": 314
+    },
+    {
+      "word": "तो",
+      "count": 290
+    },
+    {
+      "word": "टू",
+      "count": 282
+    },
+    {
+      "word": "में",
+      "count": 261
+    },
+    {
+      "word": "यू",
+      "count": 256
+    },
+    {
+      "word": "के",
+      "count": 228
+    },
+    {
+      "word": "और",
+      "count": 227
+    },
+    {
+      "word": "हैं",
+      "count": 222
+    },
+    {
+      "word": "एंड",
+      "count": 222
+    },
+    {
+      "word": "नहीं",
+      "count": 211
+    },
+    {
+      "word": "हो",
+      "count": 168
+    },
+    {
+      "word": "से",
+      "count": 159
+    },
+    {
+      "word": "एक",
+      "count": 155
+    },
+    {
+      "word": "मैं",
+      "count": 153
+    },
+    {
+      "word": "आई",
+      "count": 151
+    },
+    {
+      "word": "को",
+      "count": 146
+    },
+    {
+      "word": "वो",
+      "count": 141
+    },
+    {
+      "word": "हैव",
+      "count": 140
+    },
+    {
+      "word": "का",
+      "count": 131
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 63
+    },
+    {
+      "phrase": "हैव टू",
+      "count": 60
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 60
+    },
+    {
+      "phrase": "के लिए",
+      "count": 58
+    },
+    {
+      "phrase": "रहा है",
+      "count": 56
+    },
+    {
+      "phrase": "है तो",
+      "count": 46
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 45
+    },
+    {
+      "phrase": "यू हैव",
+      "count": 42
+    },
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 34
+    }
+  ],
+  "segment_count": 1118
+}

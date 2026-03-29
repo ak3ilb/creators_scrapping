@@ -1,0 +1,148 @@
+{
+  "video_id": "rPWBcnANkCM",
+  "duration_seconds": 1266,
+  "wps": 3.03,
+  "total_words": 3837,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 15437
+  },
+  "hook": {
+    "type": "statement",
+    "text": "चंद्रयान 3 के सक्सेस और आदित्य एल वन के लॉन्च के बाद से सारे वेस्टर्न नेशंस एकदम से दोगले हो गए हैं। एक तरफ तो कुछ नेशंस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिशनंस को भी अंजाम दे रहा है। सो, आज के वीडियो के लिए बस इतना ही। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 156
+    },
+    {
+      "word": "को",
+      "count": 96
+    },
+    {
+      "word": "और",
+      "count": 94
+    },
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "ने",
+      "count": 69
+    },
+    {
+      "word": "है",
+      "count": 62
+    },
+    {
+      "word": "इंडिया",
+      "count": 60
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "पर",
+      "count": 39
+    },
+    {
+      "word": "था",
+      "count": 38
+    },
+    {
+      "word": "लिए",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "थे",
+      "count": 26
+    },
+    {
+      "word": "ही",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 33
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "के बाद",
+      "count": 11
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 10
+    },
+    {
+      "phrase": "क्रायोजेनिक इंजन",
+      "count": 9
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 9
+    },
+    {
+      "phrase": "रहा था",
+      "count": 9
+    },
+    {
+      "phrase": "करने के",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 8
+    }
+  ],
+  "segment_count": 160
+}

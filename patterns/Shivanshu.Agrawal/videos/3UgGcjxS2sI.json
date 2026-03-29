@@ -1,0 +1,149 @@
+{
+  "video_id": "3UgGcjxS2sI",
+  "duration_seconds": 906,
+  "wps": 2.8,
+  "total_words": 2538,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11690
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "On 26 January 2001, at 5:00 am,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Also, the link to Stable Money is below in the description and pinned comment."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 107
+    },
+    {
+      "word": "and",
+      "count": 89
+    },
+    {
+      "word": "to",
+      "count": 75
+    },
+    {
+      "word": "of",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 63
+    },
+    {
+      "word": "he",
+      "count": 40
+    },
+    {
+      "word": "was",
+      "count": 39
+    },
+    {
+      "word": "that",
+      "count": 36
+    },
+    {
+      "word": "this",
+      "count": 33
+    },
+    {
+      "word": "big",
+      "count": 27
+    },
+    {
+      "word": "kishore",
+      "count": 25
+    },
+    {
+      "word": "had",
+      "count": 25
+    },
+    {
+      "word": "his",
+      "count": 24
+    },
+    {
+      "word": "bazaar",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "biyani",
+      "count": 22
+    },
+    {
+      "word": "by",
+      "count": 20
+    },
+    {
+      "word": "store",
+      "count": 18
+    },
+    {
+      "word": "started",
+      "count": 18
+    },
+    {
+      "word": "also",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "big bazaar",
+      "count": 20
+    },
+    {
+      "phrase": "kishore biyani",
+      "count": 19
+    },
+    {
+      "phrase": "of the",
+      "count": 12
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "future group",
+      "count": 9
+    },
+    {
+      "phrase": "stable money",
+      "count": 9
+    },
+    {
+      "phrase": "to sell",
+      "count": 8
+    },
+    {
+      "phrase": "he started",
+      "count": 8
+    },
+    {
+      "phrase": "due to",
+      "count": 8
+    },
+    {
+      "phrase": "did not",
+      "count": 7
+    }
+  ],
+  "segment_count": 160
+}

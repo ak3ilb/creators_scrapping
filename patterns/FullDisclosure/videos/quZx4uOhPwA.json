@@ -1,0 +1,148 @@
+{
+  "video_id": "quZx4uOhPwA",
+  "duration_seconds": 57,
+  "wps": 2.93,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 729
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "72% of Indian professionals want to change jobs in 2026 and only 16% are prepared to find one. According to a"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "process itself is broken. The gap between having skills and demonstrating skills in a way AI systems recognize is massive. What do you think about it?"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "because",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "say",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "professionals",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "find",
+      "count": 2
+    },
+    {
+      "word": "role",
+      "count": 2
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "harder",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "to find",
+      "count": 2
+    },
+    {
+      "phrase": "not because",
+      "count": 2
+    },
+    {
+      "phrase": "because the",
+      "count": 2
+    },
+    {
+      "phrase": "your resume",
+      "count": 2
+    },
+    {
+      "phrase": "72% of",
+      "count": 1
+    },
+    {
+      "phrase": "of indian",
+      "count": 1
+    },
+    {
+      "phrase": "indian professionals",
+      "count": 1
+    },
+    {
+      "phrase": "professionals want",
+      "count": 1
+    },
+    {
+      "phrase": "want to",
+      "count": 1
+    },
+    {
+      "phrase": "to change",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

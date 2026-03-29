@@ -1,0 +1,150 @@
+{
+  "video_id": "VT7i23YJRHM",
+  "duration_seconds": 1175,
+  "wps": 4.31,
+  "total_words": 5070,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 17875
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या हमारे माही भाई इस साल आईपीएल खेलेंगे ये सवाल हर साल आ जाता है और जवाब एक ही है कि भाई खेलना ही पड़ेगा बीसीसीआई या फिर सीएसके का जो ओनर है वो उनको आईएल"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "ने डाउनलोड कर रखा है तुम्हें लिंक मेरे डिस्क्रिप्शन और पिन कमेंट में मिल जाएगा और मैं मिलता हूं तुमसे अगले हफ्ते किसी और वीडियो के अंदर"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 221
+    },
+    {
+      "word": "के",
+      "count": 165
+    },
+    {
+      "word": "और",
+      "count": 125
+    },
+    {
+      "word": "को",
+      "count": 104
+    },
+    {
+      "word": "भी",
+      "count": 98
+    },
+    {
+      "word": "हैं",
+      "count": 94
+    },
+    {
+      "word": "तो",
+      "count": 83
+    },
+    {
+      "word": "अंदर",
+      "count": 76
+    },
+    {
+      "word": "लोग",
+      "count": 70
+    },
+    {
+      "word": "ये",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 64
+    },
+    {
+      "word": "वो",
+      "count": 57
+    },
+    {
+      "word": "नहीं",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 54
+    },
+    {
+      "word": "कर",
+      "count": 51
+    },
+    {
+      "word": "हो",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 47
+    },
+    {
+      "word": "जो",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 43
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 65
+    },
+    {
+      "phrase": "या फिर",
+      "count": 34
+    },
+    {
+      "phrase": "है और",
+      "count": 29
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 21
+    },
+    {
+      "phrase": "है तो",
+      "count": 18
+    },
+    {
+      "phrase": "जाता है",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "होता है",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 17
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 16
+    }
+  ],
+  "segment_count": 144
+}

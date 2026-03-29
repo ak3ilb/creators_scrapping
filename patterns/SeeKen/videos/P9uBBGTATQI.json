@@ -1,0 +1,148 @@
+{
+  "video_id": "P9uBBGTATQI",
+  "duration_seconds": 940,
+  "wps": 4.1,
+  "total_words": 3850,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 14401
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हे दोस्तों, 1980 के टाइम पे एक बड़ी सी फाइट चल रही थी दो बड़ी कंट्रीज के बीच में। अमेरिका और सोवियत यूनियन जिसे आप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हिंद एंड रेस्ट इन पीसेस टू ऑल द सोल्स जिन्होंने इन अनफॉर्चूनेट डर्टी पॉलिटिक्स की वजह से अपनी जाने को गवाई"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 125
+    },
+    {
+      "word": "के",
+      "count": 80
+    },
+    {
+      "word": "ये",
+      "count": 76
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "भी",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 62
+    },
+    {
+      "word": "लोग",
+      "count": 58
+    },
+    {
+      "word": "और",
+      "count": 57
+    },
+    {
+      "word": "तो",
+      "count": 54
+    },
+    {
+      "word": "जो",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "हो",
+      "count": 45
+    },
+    {
+      "word": "आप",
+      "count": 42
+    },
+    {
+      "word": "वो",
+      "count": 42
+    },
+    {
+      "word": "था",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "ना",
+      "count": 39
+    },
+    {
+      "word": "थे",
+      "count": 39
+    },
+    {
+      "word": "कि",
+      "count": 38
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 29
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 17
+    },
+    {
+      "phrase": "कई बार",
+      "count": 16
+    },
+    {
+      "phrase": "वो लोग",
+      "count": 14
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 13
+    },
+    {
+      "phrase": "बोल सकते",
+      "count": 12
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 12
+    },
+    {
+      "phrase": "है ना",
+      "count": 11
+    },
+    {
+      "phrase": "ये सारी",
+      "count": 11
+    },
+    {
+      "phrase": "आप बोल",
+      "count": 11
+    }
+  ],
+  "segment_count": 121
+}

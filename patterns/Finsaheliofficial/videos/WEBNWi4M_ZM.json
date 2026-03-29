@@ -1,0 +1,149 @@
+{
+  "video_id": "WEBNWi4M_ZM",
+  "duration_seconds": 52,
+  "wps": 4.23,
+  "total_words": 220,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 823
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पैसा इतना कमाओ सो [संगीत] दैट यू कैन ईज़ली कम आउट फ्रॉम एनी सिचुएशन यू डोंट लाइक। जब तुम्हारे पास अपना कमाया हुआ बहुत पैसा होता है। देन योर पर्सनालिटी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चाहिए। तो हां दुनिया मतलबी है और ऐसी मतलबी दुनिया में जिसके पास पैसा है वही आज का राजा है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "पैसा",
+      "count": 9
+    },
+    {
+      "word": "पास",
+      "count": 9
+    },
+    {
+      "word": "जब",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "तुम्हारे",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "होता",
+      "count": 5
+    },
+    {
+      "word": "आपके",
+      "count": 4
+    },
+    {
+      "word": "किसी",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "दुनिया",
+      "count": 3
+    },
+    {
+      "word": "पीछे",
+      "count": 3
+    },
+    {
+      "word": "जाते",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "होते",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पास पैसा",
+      "count": 6
+    },
+    {
+      "phrase": "पैसा होता",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 5
+    },
+    {
+      "phrase": "आपके पास",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 4
+    },
+    {
+      "phrase": "जब आपके",
+      "count": 3
+    },
+    {
+      "phrase": "पैसा है",
+      "count": 3
+    },
+    {
+      "phrase": "जब तुम्हारे",
+      "count": 2
+    },
+    {
+      "phrase": "तुम्हारे पास",
+      "count": 2
+    },
+    {
+      "phrase": "किसी को",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

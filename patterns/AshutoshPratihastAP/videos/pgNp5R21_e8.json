@@ -1,0 +1,149 @@
+{
+  "video_id": "pgNp5R21_e8",
+  "duration_seconds": 499,
+  "wps": 1.81,
+  "total_words": 901,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 3065
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हुआ था पूरे मौज कर दी भाई जी कि 512 MB सिर्फ 2 दिन रहते हैं और गूगल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जने के ऊपर इतना सारा वह लौट आया इतना सारा प्रेशर आया हूं कि वह कभी कंट्रोल ना कर पाएं बिल्कुल व ढाबा हुआ"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 41
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "तो",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 21
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "कर",
+      "count": 20
+    },
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "को",
+      "count": 12
+    },
+    {
+      "word": "एक",
+      "count": 11
+    },
+    {
+      "word": "हम",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "वह",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "लोग",
+      "count": 10
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "नहीं",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "आप",
+      "count": 8
+    },
+    {
+      "word": "सकते",
+      "count": 8
+    },
+    {
+      "word": "जो",
+      "count": 8
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर सकते",
+      "count": 8
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "है तो",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "तो हम",
+      "count": 4
+    },
+    {
+      "phrase": "यह सब",
+      "count": 4
+    },
+    {
+      "phrase": "आता है",
+      "count": 3
+    },
+    {
+      "phrase": "कर दो",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    }
+  ],
+  "segment_count": 58
+}

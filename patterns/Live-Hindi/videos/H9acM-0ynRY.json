@@ -1,0 +1,149 @@
+{
+  "video_id": "H9acM-0ynRY",
+  "duration_seconds": 1114,
+  "wps": 3.07,
+  "total_words": 3423,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 13337
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हीरो एक ऐसा नाम जो रोड पर चल रही टू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 112
+    },
+    {
+      "word": "के",
+      "count": 91
+    },
+    {
+      "word": "और",
+      "count": 74
+    },
+    {
+      "word": "की",
+      "count": 67
+    },
+    {
+      "word": "था",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "से",
+      "count": 52
+    },
+    {
+      "word": "hero",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 49
+    },
+    {
+      "word": "ने",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "थी",
+      "count": 44
+    },
+    {
+      "word": "लेकिन",
+      "count": 41
+    },
+    {
+      "word": "ही",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "honda",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 22
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 15
+    },
+    {
+      "phrase": "hero honda",
+      "count": 15
+    },
+    {
+      "phrase": "जो कि",
+      "count": 13
+    },
+    {
+      "phrase": "के साथ",
+      "count": 12
+    },
+    {
+      "phrase": "honda ने",
+      "count": 11
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "था कि",
+      "count": 10
+    },
+    {
+      "phrase": "hero ने",
+      "count": 10
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    }
+  ],
+  "segment_count": 440
+}

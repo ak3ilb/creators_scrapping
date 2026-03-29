@@ -1,0 +1,148 @@
+{
+  "video_id": "x8srAijVcRo",
+  "duration_seconds": 51,
+  "wps": 2.88,
+  "total_words": 147,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 720
+  },
+  "hook": {
+    "type": "statement",
+    "text": "How you interact with AI tools is about to change. Anthropic just launched co-work in Claude. [music] And this is what Agentic AI actually looks like."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "It's something you delegate to. Share this with your friends and follow full disclosure."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "files",
+      "count": 2
+    },
+    {
+      "word": "screenshots",
+      "count": 2
+    },
+    {
+      "word": "notes",
+      "count": 2
+    },
+    {
+      "word": "receipts",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "from",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 3
+    },
+    {
+      "phrase": "claude music",
+      "count": 2
+    },
+    {
+      "phrase": "music and",
+      "count": 2
+    },
+    {
+      "phrase": "and this",
+      "count": 2
+    },
+    {
+      "phrase": "it can",
+      "count": 2
+    },
+    {
+      "phrase": "something you",
+      "count": 2
+    },
+    {
+      "phrase": "how you",
+      "count": 1
+    },
+    {
+      "phrase": "you interact",
+      "count": 1
+    },
+    {
+      "phrase": "interact with",
+      "count": 1
+    },
+    {
+      "phrase": "with ai",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

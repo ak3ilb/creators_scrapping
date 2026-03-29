@@ -1,0 +1,149 @@
+{
+  "video_id": "Yzb-usSt3II",
+  "duration_seconds": 958,
+  "wps": 3.76,
+  "total_words": 3602,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 13361
+  },
+  "hook": {
+    "type": "statement",
+    "text": "साफ पानी वैसे तो एक फंडामेंटल राइट है। लेकिन हमारे देश में यह बेसिक नीड भी एक बिजनेस बन चुका है। जहां पानी बिकता नहीं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कोशिश कर रहे हैं। तो एक बार उनको चेक आउट जरूर करना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 248
+    },
+    {
+      "word": "में",
+      "count": 99
+    },
+    {
+      "word": "पानी",
+      "count": 92
+    },
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "से",
+      "count": 77
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "हैं",
+      "count": 54
+    },
+    {
+      "word": "यह",
+      "count": 50
+    },
+    {
+      "word": "का",
+      "count": 49
+    },
+    {
+      "word": "भी",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "हो",
+      "count": 41
+    },
+    {
+      "word": "जो",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "वाटर",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "रहा",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 26
+    },
+    {
+      "phrase": "जाता है",
+      "count": 25
+    },
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "है यह",
+      "count": 15
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 14
+    },
+    {
+      "phrase": "होता है",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 12
+    },
+    {
+      "phrase": "का पानी",
+      "count": 12
+    }
+  ],
+  "segment_count": 121
+}

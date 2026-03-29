@@ -1,0 +1,150 @@
+{
+  "video_id": "gNBR61h_FD0",
+  "duration_seconds": 3691,
+  "wps": 3.34,
+  "total_words": 12344,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 43136
+  },
+  "hook": {
+    "type": "question",
+    "text": "गवर्नमेंट एग्जाम्स की भारत में एक अलग ही इंपॉर्टेंस है क्योंकि गवर्नमेंट एग्जाम्स टेक यू टू गवर्नमेंट जॉब्स एंड गवर्नमेंट जॉब्स प्रोवाइड यू सिक्योरिटी पर क्या"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मच जल्दी मिलते हैं भैया"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 623
+    },
+    {
+      "word": "तो",
+      "count": 328
+    },
+    {
+      "word": "नहीं",
+      "count": 208
+    },
+    {
+      "word": "में",
+      "count": 193
+    },
+    {
+      "word": "जो",
+      "count": 164
+    },
+    {
+      "word": "मैं",
+      "count": 163
+    },
+    {
+      "word": "वो",
+      "count": 156
+    },
+    {
+      "word": "हो",
+      "count": 153
+    },
+    {
+      "word": "के",
+      "count": 151
+    },
+    {
+      "word": "भी",
+      "count": 145
+    },
+    {
+      "word": "कि",
+      "count": 145
+    },
+    {
+      "word": "को",
+      "count": 142
+    },
+    {
+      "word": "आप",
+      "count": 139
+    },
+    {
+      "word": "से",
+      "count": 128
+    },
+    {
+      "word": "था",
+      "count": 120
+    },
+    {
+      "word": "ना",
+      "count": 115
+    },
+    {
+      "word": "हैं",
+      "count": 114
+    },
+    {
+      "word": "मुझे",
+      "count": 102
+    },
+    {
+      "word": "का",
+      "count": 101
+    },
+    {
+      "word": "बहुत",
+      "count": 94
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 48
+    },
+    {
+      "phrase": "है ना",
+      "count": 44
+    },
+    {
+      "phrase": "है कि",
+      "count": 39
+    },
+    {
+      "phrase": "है तो",
+      "count": 36
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 33
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 31
+    },
+    {
+      "phrase": "है वो",
+      "count": 29
+    },
+    {
+      "phrase": "रहा है",
+      "count": 28
+    },
+    {
+      "phrase": "लगता है",
+      "count": 27
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    }
+  ],
+  "segment_count": 449
+}

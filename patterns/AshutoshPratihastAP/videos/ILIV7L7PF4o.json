@@ -1,0 +1,148 @@
+{
+  "video_id": "ILIV7L7PF4o",
+  "duration_seconds": 637,
+  "wps": 3.63,
+  "total_words": 2312,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 8688
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दुनिया में हर कोई कभी ना कभी बिजनेस शुरू करने का जरूर सोचता है आपने भी सोचा होगा है ना तो आप मेरे को बताओ कि बिजनेस शुरू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में अभी के टाइम पर नंगा नाच है अगर इसके बारे में डिटेल में आप जानना चाहो तो राइट वाली वीडियो प क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 73
+    },
+    {
+      "word": "है",
+      "count": 70
+    },
+    {
+      "word": "में",
+      "count": 55
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "हैं",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "भी",
+      "count": 31
+    },
+    {
+      "word": "एंड",
+      "count": 31
+    },
+    {
+      "word": "और",
+      "count": 30
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "अर्बन",
+      "count": 23
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "ही",
+      "count": 20
+    },
+    {
+      "word": "पर",
+      "count": 20
+    },
+    {
+      "word": "कंपनी",
+      "count": 19
+    },
+    {
+      "word": "टट्स",
+      "count": 18
+    },
+    {
+      "word": "ने",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अर्बन टट्स",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "करने के",
+      "count": 7
+    },
+    {
+      "phrase": "से भी",
+      "count": 6
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 6
+    },
+    {
+      "phrase": "सच में",
+      "count": 6
+    },
+    {
+      "phrase": "हैं और",
+      "count": 6
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    }
+  ],
+  "segment_count": 79
+}

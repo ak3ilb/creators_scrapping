@@ -5,20 +5,25 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:26:40.307102+00:00",
-  "total_discovered": 617,
+  "last_updated": "2026-03-29T16:20:01.098342+00:00",
+  "total_discovered": 618,
   "ingestion_stats": {
-    "total": 41,
-    "ok": 41,
+    "total": 43,
+    "ok": 43,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "6.6%",
+  "completion_percentage": "7.0%",
   "videos": [
     {
+      "video_id": "1HeFLVV_9lk",
+      "title": "Stop Being An Emotional FOOL - Stroy Summary !",
+      "status": "OK"
+    },
+    {
       "video_id": "zQmUgsvSxQ8",
-      "title": "Give 21 Minutes & Outsmart 90% People !! Story Book Summary",
+      "title": "Watch This for 20 Minutes and You'll Outsmart 90% of People ! Story Summary",
       "status": "OK"
     },
     {
@@ -39,7 +44,7 @@
     {
       "video_id": "AKCvVFkm01k",
       "title": "Stocks Explained for Those Who Want to Be Rich!",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "YXkMHRJ58b8",

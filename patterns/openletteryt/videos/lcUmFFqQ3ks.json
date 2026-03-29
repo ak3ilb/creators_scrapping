@@ -1,0 +1,149 @@
+{
+  "video_id": "lcUmFFqQ3ks",
+  "duration_seconds": 796,
+  "wps": 3.8,
+  "total_words": 3026,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 11427
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ईरान में लगी वॉर की आग अब हमारे घर तक पहुंच चुकी है और इससे हमारे चूल्हों की आग बंद हो सकती है। एलपीजी क्राइसिस एलपीजी क्राइसिस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "में",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 61
+    },
+    {
+      "word": "हैं",
+      "count": 53
+    },
+    {
+      "word": "कर",
+      "count": 46
+    },
+    {
+      "word": "हो",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "ने",
+      "count": 35
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "भी",
+      "count": 27
+    },
+    {
+      "word": "रहा",
+      "count": 25
+    },
+    {
+      "word": "नहीं",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "पे",
+      "count": 23
+    },
+    {
+      "word": "बंद",
+      "count": 22
+    },
+    {
+      "word": "रहे",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 26
+    },
+    {
+      "phrase": "रहा है",
+      "count": 20
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 18
+    },
+    {
+      "phrase": "रही है",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "बंद हो",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 12
+    },
+    {
+      "phrase": "दिया है",
+      "count": 12
+    },
+    {
+      "phrase": "हैं और",
+      "count": 10
+    }
+  ],
+  "segment_count": 99
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "OSBkUjh1Un4",
+  "duration_seconds": 69,
+  "wps": 3.77,
+  "total_words": 260,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 958
+  },
+  "hook": {
+    "type": "question",
+    "text": "ईलॉन मस्क बायोनिक आइज की टेक्नोलॉजी यह भी बहुत टेक्नोलॉजी आने वाली है। तो यह बायोनिक आइज कैसे चेंज करेगी? यह जो ऑ्थलमोलॉजी है उसको ईलॉन मस्क जिस पे काम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "शायद मिली है उनको। एफडीए ने ह्यूमन ट्रायल्स के लिए अप्रूवल तक दे दिया है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 22
+    },
+    {
+      "word": "काम",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "आई",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "उसको",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "बायोनिक",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "कैसे",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "काम कर",
+      "count": 4
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "रही है",
+      "count": 3
+    },
+    {
+      "phrase": "ईलॉन मस्क",
+      "count": 2
+    },
+    {
+      "phrase": "बायोनिक आइज",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "कर रही",
+      "count": 2
+    },
+    {
+      "phrase": "है इस",
+      "count": 2
+    },
+    {
+      "phrase": "करती है",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

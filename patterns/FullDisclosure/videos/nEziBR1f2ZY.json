@@ -1,0 +1,148 @@
+{
+  "video_id": "nEziBR1f2ZY",
+  "duration_seconds": 56,
+  "wps": 2.45,
+  "total_words": 137,
+  "language_mix": {
+    "hindi": 96.3,
+    "english": 3.7,
+    "total_chars": 699
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "एंथ्रोपिक जस्ट मेड फ्री एआई कोर्सेज विथ ऑफिशियल सर्टिफिकेशंस विथ [संगीत] ₹10 लाख। फर्स्ट सब्सक्राइब फुल डिस्क्लोज़र"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिएट फ्री skiljar अकाउंट ब्राउज़ कोर्सेस स्टार्ट लर्निंग ने"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "विथ",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 7
+    },
+    {
+      "word": "क्लाउड",
+      "count": 7
+    },
+    {
+      "word": "एआई",
+      "count": 5
+    },
+    {
+      "word": "संगीत",
+      "count": 5
+    },
+    {
+      "word": "एंथ्रोपिक",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "हाउ",
+      "count": 3
+    },
+    {
+      "word": "इफ",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "यूज़",
+      "count": 2
+    },
+    {
+      "word": "वांट",
+      "count": 2
+    },
+    {
+      "word": "क्लॉड",
+      "count": 2
+    },
+    {
+      "word": "बिल्ड",
+      "count": 2
+    },
+    {
+      "word": "वर्क",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 1
+    },
+    {
+      "word": "मेड",
+      "count": 1
+    },
+    {
+      "word": "कोर्सेज",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हाउ टू",
+      "count": 3
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 3
+    },
+    {
+      "phrase": "टू यूज़",
+      "count": 2
+    },
+    {
+      "phrase": "वांट टू",
+      "count": 2
+    },
+    {
+      "phrase": "एंथ्रोपिक जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट मेड",
+      "count": 1
+    },
+    {
+      "phrase": "मेड फ्री",
+      "count": 1
+    },
+    {
+      "phrase": "फ्री एआई",
+      "count": 1
+    },
+    {
+      "phrase": "एआई कोर्सेज",
+      "count": 1
+    },
+    {
+      "phrase": "कोर्सेज विथ",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

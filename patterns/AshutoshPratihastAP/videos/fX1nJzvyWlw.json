@@ -1,0 +1,149 @@
+{
+  "video_id": "fX1nJzvyWlw",
+  "duration_seconds": 1017,
+  "wps": 3.37,
+  "total_words": 3429,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12637
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "फेसबुक को 10 मिलियन यूजर्स तक पहुंचने में 852 देश का टाइम लगा ट्विटर को 10 मिलियन यूजर्स तक पहुंचने में 70080 रेस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कोहली सब की कामयाबी के पीछे सबसे बड़ा करण क्या है राइट वाली वीडियो देखोगे ना समझ जाओगे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 98
+    },
+    {
+      "word": "के",
+      "count": 97
+    },
+    {
+      "word": "की",
+      "count": 84
+    },
+    {
+      "word": "और",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 71
+    },
+    {
+      "word": "को",
+      "count": 67
+    },
+    {
+      "word": "भी",
+      "count": 55
+    },
+    {
+      "word": "कर",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 47
+    },
+    {
+      "word": "ही",
+      "count": 44
+    },
+    {
+      "word": "तो",
+      "count": 37
+    },
+    {
+      "word": "हैं",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "नहीं",
+      "count": 34
+    },
+    {
+      "word": "था",
+      "count": 31
+    },
+    {
+      "word": "ये",
+      "count": 28
+    },
+    {
+      "word": "पे",
+      "count": 27
+    },
+    {
+      "word": "हो",
+      "count": 25
+    },
+    {
+      "word": "आप",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 13
+    },
+    {
+      "phrase": "रहा है",
+      "count": 13
+    },
+    {
+      "phrase": "जो की",
+      "count": 12
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 11
+    },
+    {
+      "phrase": "है की",
+      "count": 11
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 7
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    }
+  ],
+  "segment_count": 125
+}

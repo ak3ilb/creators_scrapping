@@ -1,0 +1,149 @@
+{
+  "video_id": "5zJbE7J3X8I",
+  "duration_seconds": 1334,
+  "wps": 2.87,
+  "total_words": 3826,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16658
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This plane is about to send me into zero gravity  for 10 minutes. And I'm going to try to explain"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "proved that gravity has waves. For those and more  optimistic science and tech stories, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 161
+    },
+    {
+      "word": "and",
+      "count": 105
+    },
+    {
+      "word": "to",
+      "count": 97
+    },
+    {
+      "word": "that",
+      "count": 88
+    },
+    {
+      "word": "is",
+      "count": 85
+    },
+    {
+      "word": "this",
+      "count": 78
+    },
+    {
+      "word": "of",
+      "count": 64
+    },
+    {
+      "word": "you",
+      "count": 62
+    },
+    {
+      "word": "in",
+      "count": 60
+    },
+    {
+      "word": "it",
+      "count": 58
+    },
+    {
+      "word": "gravity",
+      "count": 57
+    },
+    {
+      "word": "so",
+      "count": 40
+    },
+    {
+      "word": "we",
+      "count": 38
+    },
+    {
+      "word": "it's",
+      "count": 35
+    },
+    {
+      "word": "but",
+      "count": 35
+    },
+    {
+      "word": "what",
+      "count": 31
+    },
+    {
+      "word": "just",
+      "count": 31
+    },
+    {
+      "word": "like",
+      "count": 29
+    },
+    {
+      "word": "i'm",
+      "count": 28
+    },
+    {
+      "word": "about",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 19
+    },
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "the earth",
+      "count": 12
+    },
+    {
+      "phrase": "the same",
+      "count": 11
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "and the",
+      "count": 10
+    },
+    {
+      "phrase": "going to",
+      "count": 9
+    },
+    {
+      "phrase": "gravity is",
+      "count": 9
+    },
+    {
+      "phrase": "it's not",
+      "count": 9
+    },
+    {
+      "phrase": "all of",
+      "count": 8
+    }
+  ],
+  "segment_count": 225
+}

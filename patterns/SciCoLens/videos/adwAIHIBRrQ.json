@@ -1,0 +1,148 @@
+{
+  "video_id": "adwAIHIBRrQ",
+  "duration_seconds": 1066,
+  "wps": 2.91,
+  "total_words": 3105,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12338
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आज से करीब 66 मिलियन सालों पहले प्रेजेंट या मेक्सिको की जमीन पर अब तक के सभी जीवों में से दो सबसे विशाल जीव एक तरफ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्यूरियस, कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 100
+    },
+    {
+      "word": "और",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "से",
+      "count": 74
+    },
+    {
+      "word": "को",
+      "count": 58
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "पर",
+      "count": 48
+    },
+    {
+      "word": "अपने",
+      "count": 43
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "था",
+      "count": 34
+    },
+    {
+      "word": "लिए",
+      "count": 33
+    },
+    {
+      "word": "थे",
+      "count": 30
+    },
+    {
+      "word": "है",
+      "count": 29
+    },
+    {
+      "word": "भी",
+      "count": 28
+    },
+    {
+      "word": "इस",
+      "count": 27
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "हो",
+      "count": 25
+    },
+    {
+      "word": "अब",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 29
+    },
+    {
+      "phrase": "वजह से",
+      "count": 15
+    },
+    {
+      "phrase": "की वजह",
+      "count": 10
+    },
+    {
+      "phrase": "और इसीलिए",
+      "count": 10
+    },
+    {
+      "phrase": "उन्होंने अपने",
+      "count": 9
+    },
+    {
+      "phrase": "जमीन पर",
+      "count": 8
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 8
+    },
+    {
+      "phrase": "पानी में",
+      "count": 8
+    },
+    {
+      "phrase": "अपने अंदर",
+      "count": 7
+    },
+    {
+      "phrase": "रहा था",
+      "count": 7
+    }
+  ],
+  "segment_count": 134
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "hN_T1KokoGQ",
+  "duration_seconds": 1382,
+  "wps": 2.71,
+  "total_words": 3742,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 17230
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Year 1984 — While other kids were playing video games,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked this video, I recommend that you watch this next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 189
+    },
+    {
+      "word": "and",
+      "count": 117
+    },
+    {
+      "word": "to",
+      "count": 112
+    },
+    {
+      "word": "was",
+      "count": 82
+    },
+    {
+      "word": "in",
+      "count": 79
+    },
+    {
+      "word": "of",
+      "count": 76
+    },
+    {
+      "word": "elon",
+      "count": 67
+    },
+    {
+      "word": "he",
+      "count": 56
+    },
+    {
+      "word": "that",
+      "count": 54
+    },
+    {
+      "word": "this",
+      "count": 42
+    },
+    {
+      "word": "for",
+      "count": 39
+    },
+    {
+      "word": "his",
+      "count": 37
+    },
+    {
+      "word": "but",
+      "count": 35
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "had",
+      "count": 28
+    },
+    {
+      "word": "with",
+      "count": 25
+    },
+    {
+      "word": "on",
+      "count": 25
+    },
+    {
+      "word": "be",
+      "count": 24
+    },
+    {
+      "word": "would",
+      "count": 21
+    },
+    {
+      "word": "one",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 17
+    },
+    {
+      "phrase": "of the",
+      "count": 14
+    },
+    {
+      "phrase": "on the",
+      "count": 12
+    },
+    {
+      "phrase": "falcon 1",
+      "count": 11
+    },
+    {
+      "phrase": "he was",
+      "count": 10
+    },
+    {
+      "phrase": "the world",
+      "count": 9
+    },
+    {
+      "phrase": "to be",
+      "count": 8
+    },
+    {
+      "phrase": "and the",
+      "count": 8
+    },
+    {
+      "phrase": "was a",
+      "count": 7
+    },
+    {
+      "phrase": "would be",
+      "count": 7
+    }
+  ],
+  "segment_count": 408
+}

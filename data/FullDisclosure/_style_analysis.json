@@ -1,0 +1,53 @@
+{
+  "creator": "FullDisclosure",
+  "total_videos_analyzed": 57,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 54,
+      "avg_wps": 2.719170608934001,
+      "avg_duration": 60.75925925925926,
+      "common_hook_patterns": [
+        "फुल डिस्क्लोज़र",
+        "डिस्क्लोज़र एंड",
+        "is a",
+        "you can",
+        "सब्सक्राइब फुल",
+        "this is",
+        "एंड लेट",
+        "लेट मी",
+        "एंड आई",
+        "आई विल",
+        "and the",
+        "full disclosure",
+        "disclosure and",
+        "launched a",
+        "फॉलो फुल"
+      ],
+      "sample_hooks": [
+        "What if you could make crores without a job? Gen Z is doing exactly that. While",
+        "Indian creators just entered prime time television. Quietly something [music] historic happened. DD ",
+        "This is a tier This is a tier one Indian city. [music]"
+      ]
+    },
+    "fast_facts": {
+      "count": 1,
+      "avg_wps": 3.0232558139534884,
+      "avg_duration": 43.0,
+      "common_hook_patterns": [],
+      "sample_hooks": [
+        "India has thousands of [music] universities but only one cracks the global top 100. The times higher"
+      ]
+    },
+    "other": {
+      "count": 2,
+      "avg_wps": 2.843055555555556,
+      "avg_duration": 38.0,
+      "common_hook_patterns": [],
+      "sample_hooks": [
+        "अपग्रेड जस्ट अक्वायर्ड Unacademy. सब्सक्राइब फुल डिस्क्लोज़र एंड आई विल ब्रेक दिस डाउन। फर्स्ट, अपग्र",
+        "This AI tool just made motion design agencies obsolete. [music] Hicksfield launched Vibe Motion, an "
+      ]
+    }
+  },
+  "overall_avg_wps": 2.728852277324573
+}

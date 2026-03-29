@@ -1,0 +1,148 @@
+{
+  "video_id": "c4bHN3MK4aY",
+  "duration_seconds": 49,
+  "wps": 2.63,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 673
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नाउ यू कैन टर्न बोरिंग रिसर्च पेपर्स एंड बुक्स इनटू सिनेमैटिक विजुअल्स। Google लॉन्च्ड सिनेमैटिक वीडियो ओवरव्यूस इन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "3 जनरेट्स वीडियो एंड ऑडियो। दिस सिस्टम एक्सट्रैक्ट्स की पॉइंट्स एंड ट्रांसफॉर्म्स देम इंटू डायनामिक सिनेमैटिक"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "रिसर्च",
+      "count": 3
+    },
+    {
+      "word": "सिनेमैटिक",
+      "count": 3
+    },
+    {
+      "word": "नोटबुक",
+      "count": 3
+    },
+    {
+      "word": "एलएम",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "पेपर्स",
+      "count": 2
+    },
+    {
+      "word": "इनटू",
+      "count": 2
+    },
+    {
+      "word": "विजुअल्स",
+      "count": 2
+    },
+    {
+      "word": "वीडियो",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "फीचर",
+      "count": 2
+    },
+    {
+      "word": "योर",
+      "count": 2
+    },
+    {
+      "word": "नोट्स",
+      "count": 2
+    },
+    {
+      "word": "एआई",
+      "count": 2
+    },
+    {
+      "word": "थ्री",
+      "count": 2
+    },
+    {
+      "word": "संगीत",
+      "count": 2
+    },
+    {
+      "word": "नाउ",
+      "count": 1
+    },
+    {
+      "word": "कैन",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नोटबुक एलएम",
+      "count": 3
+    },
+    {
+      "phrase": "रिसर्च पेपर्स",
+      "count": 2
+    },
+    {
+      "phrase": "नाउ यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू कैन",
+      "count": 1
+    },
+    {
+      "phrase": "कैन टर्न",
+      "count": 1
+    },
+    {
+      "phrase": "टर्न बोरिंग",
+      "count": 1
+    },
+    {
+      "phrase": "बोरिंग रिसर्च",
+      "count": 1
+    },
+    {
+      "phrase": "पेपर्स एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड बुक्स",
+      "count": 1
+    },
+    {
+      "phrase": "बुक्स इनटू",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

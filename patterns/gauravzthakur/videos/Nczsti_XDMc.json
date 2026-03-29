@@ -1,0 +1,148 @@
+{
+  "video_id": "Nczsti_XDMc",
+  "duration_seconds": 66,
+  "wps": 3.24,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 791
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हम ये जो सडन कार्डियक इवेंट्स देखते हैं कि द पर्सन इज लिफ्टिंग सम वेट एंड देन अचानक से उसको हार्ट अटैक आ गया। एक्चुअली जाके जिम में कैफीन लेके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मोर एंड वो इंसान कोलैप्स कर दिया।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "जिम",
+      "count": 4
+    },
+    {
+      "word": "आज",
+      "count": 4
+    },
+    {
+      "word": "मोर",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "हार्ट",
+      "count": 3
+    },
+    {
+      "word": "पता",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "लेके",
+      "count": 2
+    },
+    {
+      "word": "आपको",
+      "count": 2
+    },
+    {
+      "word": "ओवरपश",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    },
+    {
+      "word": "स्ट्रेस",
+      "count": 2
+    },
+    {
+      "word": "बार",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पता है",
+      "count": 3
+    },
+    {
+      "phrase": "है मेरे",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे को",
+      "count": 2
+    },
+    {
+      "phrase": "आज मैं",
+      "count": 2
+    },
+    {
+      "phrase": "आई विल",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "पंप मोर",
+      "count": 2
+    },
+    {
+      "phrase": "मोर ब्लड",
+      "count": 2
+    },
+    {
+      "phrase": "पुश मोर",
+      "count": 2
+    },
+    {
+      "phrase": "हम ये",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

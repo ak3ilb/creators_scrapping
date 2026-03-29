@@ -1,0 +1,34 @@
+{
+  "creator": "NitishRajput",
+  "total_videos_analyzed": 43,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 43,
+      "avg_wps": 3.081933313131367,
+      "avg_duration": 2179.1627906976746,
+      "common_hook_patterns": [
+        "in the",
+        "of the",
+        "as soon",
+        "soon as",
+        "at the",
+        "all the",
+        "at that",
+        "that time",
+        "prime minister",
+        "in a",
+        "the entire",
+        "to the",
+        "is a",
+        "in which",
+        "such a"
+      ],
+      "sample_hooks": [
+        "After winning the election, Narendra Modi and L.K. Advani will go for the Jagannath Yatra, where the",
+        "The biggest s*x sc*ndal in India's history. Unknown people arrive and throw away pen-drives everywhe",
+        "So, Gautam Adani who was moving towards the lobby exactly at that time he stops and moves to have a "
+      ]
+    }
+  },
+  "overall_avg_wps": 3.081933313131367
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "CVCbAoiNX6A",
+  "duration_seconds": 1004,
+  "wps": 2.61,
+  "total_words": 2616,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11877
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Nike is the world's largest sports wear brand."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked this video then I recommend you to watch this video next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 113
+    },
+    {
+      "word": "and",
+      "count": 92
+    },
+    {
+      "word": "to",
+      "count": 72
+    },
+    {
+      "word": "of",
+      "count": 62
+    },
+    {
+      "word": "he",
+      "count": 60
+    },
+    {
+      "word": "was",
+      "count": 58
+    },
+    {
+      "word": "shoes",
+      "count": 51
+    },
+    {
+      "word": "phil",
+      "count": 50
+    },
+    {
+      "word": "his",
+      "count": 48
+    },
+    {
+      "word": "in",
+      "count": 45
+    },
+    {
+      "word": "that",
+      "count": 38
+    },
+    {
+      "word": "for",
+      "count": 32
+    },
+    {
+      "word": "had",
+      "count": 28
+    },
+    {
+      "word": "nike",
+      "count": 25
+    },
+    {
+      "word": "this",
+      "count": 23
+    },
+    {
+      "word": "with",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 19
+    },
+    {
+      "word": "were",
+      "count": 18
+    },
+    {
+      "word": "shoe",
+      "count": 17
+    },
+    {
+      "word": "business",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "blue ribbon",
+      "count": 12
+    },
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "tiger shoes",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "of his",
+      "count": 10
+    },
+    {
+      "phrase": "the shoes",
+      "count": 10
+    },
+    {
+      "phrase": "he had",
+      "count": 9
+    },
+    {
+      "phrase": "that he",
+      "count": 9
+    },
+    {
+      "phrase": "it was",
+      "count": 8
+    },
+    {
+      "phrase": "for the",
+      "count": 8
+    }
+  ],
+  "segment_count": 269
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "ovgxRWny9ts",
+  "duration_seconds": 718,
+  "wps": 3.08,
+  "total_words": 2213,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 8463
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पिछले कुछ समय से भारत के अल्कोहल मार्केट में प्रोक काफी चर्चा में है। दोस्तों इंडिया में अल्कोहल ब्रांड बनाना बाहर से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 103
+    },
+    {
+      "word": "में",
+      "count": 62
+    },
+    {
+      "word": "और",
+      "count": 45
+    },
+    {
+      "word": "तो",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "कि",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "एक",
+      "count": 27
+    },
+    {
+      "word": "के",
+      "count": 26
+    },
+    {
+      "word": "की",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "भी",
+      "count": 22
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "बियर",
+      "count": 20
+    },
+    {
+      "word": "पर",
+      "count": 20
+    },
+    {
+      "word": "वाइन",
+      "count": 20
+    },
+    {
+      "word": "समीर",
+      "count": 19
+    },
+    {
+      "word": "आपको",
+      "count": 19
+    },
+    {
+      "word": "ने",
+      "count": 18
+    },
+    {
+      "word": "इंडिया",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया में",
+      "count": 15
+    },
+    {
+      "phrase": "समीर ने",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "होता है",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "लगता है",
+      "count": 7
+    },
+    {
+      "phrase": "है तो",
+      "count": 7
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 5
+    },
+    {
+      "phrase": "होती है",
+      "count": 5
+    }
+  ],
+  "segment_count": 88
+}

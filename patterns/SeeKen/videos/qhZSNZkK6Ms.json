@@ -1,0 +1,149 @@
+{
+  "video_id": "qhZSNZkK6Ms",
+  "duration_seconds": 1305,
+  "wps": 3.21,
+  "total_words": 4187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 19743
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, right now I’m going to play a quiz with you."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "thing can completely change your life."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 113
+    },
+    {
+      "word": "and",
+      "count": 106
+    },
+    {
+      "word": "the",
+      "count": 100
+    },
+    {
+      "word": "in",
+      "count": 90
+    },
+    {
+      "word": "you",
+      "count": 82
+    },
+    {
+      "word": "of",
+      "count": 77
+    },
+    {
+      "word": "that",
+      "count": 65
+    },
+    {
+      "word": "this",
+      "count": 64
+    },
+    {
+      "word": "she",
+      "count": 53
+    },
+    {
+      "word": "an",
+      "count": 49
+    },
+    {
+      "word": "is",
+      "count": 47
+    },
+    {
+      "word": "was",
+      "count": 43
+    },
+    {
+      "word": "it",
+      "count": 39
+    },
+    {
+      "word": "are",
+      "count": 34
+    },
+    {
+      "word": "people",
+      "count": 33
+    },
+    {
+      "word": "he",
+      "count": 32
+    },
+    {
+      "word": "her",
+      "count": 31
+    },
+    {
+      "word": "or",
+      "count": 29
+    },
+    {
+      "word": "more",
+      "count": 28
+    },
+    {
+      "word": "if",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "an introvert",
+      "count": 23
+    },
+    {
+      "phrase": "in the",
+      "count": 16
+    },
+    {
+      "phrase": "you are",
+      "count": 13
+    },
+    {
+      "phrase": "if you",
+      "count": 13
+    },
+    {
+      "phrase": "an extrovert",
+      "count": 12
+    },
+    {
+      "phrase": "in life",
+      "count": 12
+    },
+    {
+      "phrase": "in a",
+      "count": 10
+    },
+    {
+      "phrase": "a lot",
+      "count": 10
+    },
+    {
+      "phrase": "he was",
+      "count": 9
+    },
+    {
+      "phrase": "is a",
+      "count": 8
+    }
+  ],
+  "segment_count": 377
+}

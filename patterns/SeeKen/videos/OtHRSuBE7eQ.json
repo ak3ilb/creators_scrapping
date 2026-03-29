@@ -1,0 +1,148 @@
+{
+  "video_id": "OtHRSuBE7eQ",
+  "duration_seconds": 876,
+  "wps": 3.74,
+  "total_words": 3279,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 12501
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, सात ऐसी स्किल जो आपको किसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नेक्स्ट वीडियो में। बाई बाई।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 131
+    },
+    {
+      "word": "एक",
+      "count": 79
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "के",
+      "count": 67
+    },
+    {
+      "word": "और",
+      "count": 60
+    },
+    {
+      "word": "वो",
+      "count": 56
+    },
+    {
+      "word": "हैं",
+      "count": 55
+    },
+    {
+      "word": "जो",
+      "count": 52
+    },
+    {
+      "word": "नहीं",
+      "count": 46
+    },
+    {
+      "word": "आप",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "करते",
+      "count": 25
+    },
+    {
+      "word": "ही",
+      "count": 24
+    },
+    {
+      "word": "से",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 10
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "हो तो",
+      "count": 9
+    },
+    {
+      "phrase": "रहा है",
+      "count": 9
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 7
+    },
+    {
+      "phrase": "एक बहुत",
+      "count": 7
+    },
+    {
+      "phrase": "है वो",
+      "count": 7
+    }
+  ],
+  "segment_count": 409
+}

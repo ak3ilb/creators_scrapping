@@ -1,0 +1,148 @@
+{
+  "video_id": "qaJKNNVoTkU",
+  "duration_seconds": 86,
+  "wps": 2.74,
+  "total_words": 236,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 908
+  },
+  "hook": {
+    "type": "question",
+    "text": "जब मोरबी डैम फटा था तब उसकी उम्र कितनी थी आपको पता है? 7 साल। 7 साल में ही उस डैम ने अपना दम तोड़ दिया और हमारे देश के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडिया के लिए एक बिग रेड अलर्ट है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "डैम",
+      "count": 15
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "साल",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "कर्नाटका",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "डैम्स",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "उम्र",
+      "count": 2
+    },
+    {
+      "word": "आपको",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "अपना",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "7 साल",
+      "count": 2
+    },
+    {
+      "phrase": "में ही",
+      "count": 2
+    },
+    {
+      "phrase": "टैंक डैम",
+      "count": 2
+    },
+    {
+      "phrase": "1000 साल",
+      "count": 2
+    },
+    {
+      "phrase": "डैम की",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "और यह",
+      "count": 2
+    },
+    {
+      "phrase": "यह भी",
+      "count": 2
+    },
+    {
+      "phrase": "डैम्स की",
+      "count": 2
+    },
+    {
+      "phrase": "खामोश हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

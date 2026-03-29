@@ -1,0 +1,149 @@
+{
+  "video_id": "SSdsncLXLYs",
+  "duration_seconds": 768,
+  "wps": 2.85,
+  "total_words": 2192,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9295
+  },
+  "hook": {
+    "type": "question",
+    "text": "\"What will happen over the course of the next 66 laps?\" \"Max Verstappen is the champion of the world!!!\""
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And I’ll be rooting for my favorite team."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 109
+    },
+    {
+      "word": "to",
+      "count": 62
+    },
+    {
+      "word": "of",
+      "count": 54
+    },
+    {
+      "word": "and",
+      "count": 49
+    },
+    {
+      "word": "this",
+      "count": 37
+    },
+    {
+      "word": "is",
+      "count": 36
+    },
+    {
+      "word": "f1",
+      "count": 36
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "in",
+      "count": 30
+    },
+    {
+      "word": "that",
+      "count": 27
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 21
+    },
+    {
+      "word": "you",
+      "count": 21
+    },
+    {
+      "word": "car",
+      "count": 20
+    },
+    {
+      "word": "but",
+      "count": 20
+    },
+    {
+      "word": "so",
+      "count": 19
+    },
+    {
+      "word": "all",
+      "count": 17
+    },
+    {
+      "word": "they",
+      "count": 16
+    },
+    {
+      "word": "cars",
+      "count": 15
+    },
+    {
+      "word": "more",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "the car",
+      "count": 8
+    },
+    {
+      "phrase": "a lot",
+      "count": 7
+    },
+    {
+      "phrase": "you can",
+      "count": 7
+    },
+    {
+      "phrase": "grand prix",
+      "count": 6
+    },
+    {
+      "phrase": "is the",
+      "count": 5
+    },
+    {
+      "phrase": "million dollars",
+      "count": 5
+    },
+    {
+      "phrase": "of people",
+      "count": 5
+    },
+    {
+      "phrase": "lot of",
+      "count": 5
+    }
+  ],
+  "segment_count": 97
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "w-iDVuDCrjE",
+  "duration_seconds": 89,
+  "wps": 3.12,
+  "total_words": 278,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1077
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज जब आप यह वीडियो देख रहे हो तो भारत के 28 राज्यों में से कम से कम 15 राज्यों में जंग जारी है। इसे इंडिया का रेड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मैप को देखोगे तो पूर्व से लेकर पश्चिम तक और उत्तर से लेकर दक्षिण तक भारत के हर कोने में बगावत जारी है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "से",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "तक",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "आज",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "राज्यों",
+      "count": 3
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "मणिपुर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "आसाम",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया से",
+      "count": 3
+    },
+    {
+      "phrase": "भारत के",
+      "count": 2
+    },
+    {
+      "phrase": "राज्यों में",
+      "count": 2
+    },
+    {
+      "phrase": "से कम",
+      "count": 2
+    },
+    {
+      "phrase": "जारी है",
+      "count": 2
+    },
+    {
+      "phrase": "आज तक",
+      "count": 2
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 2
+    },
+    {
+      "phrase": "के हिसाब",
+      "count": 2
+    },
+    {
+      "phrase": "हिसाब से",
+      "count": 2
+    },
+    {
+      "phrase": "से अलग",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

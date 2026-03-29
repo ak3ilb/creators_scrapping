@@ -1,0 +1,148 @@
+{
+  "video_id": "3xLFBLZFtmw",
+  "duration_seconds": 824,
+  "wps": 2.77,
+  "total_words": 2280,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8770
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जर्मनी के फ्रैंकफुट शहर में एक जुइश गेटो था। मतलब एक रेस्ट्रिक्टेड एरिया जहां पर यहूदियों को रहना पड़ता था। वहीं पर एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्लिक करो और देखो जरा ध्यान से।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 61
+    },
+    {
+      "word": "के",
+      "count": 45
+    },
+    {
+      "word": "में",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 40
+    },
+    {
+      "word": "और",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "था",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "की",
+      "count": 28
+    },
+    {
+      "word": "हो",
+      "count": 27
+    },
+    {
+      "word": "एक",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "तो",
+      "count": 21
+    },
+    {
+      "word": "यह",
+      "count": 20
+    },
+    {
+      "word": "पावर",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 14
+    },
+    {
+      "word": "टू",
+      "count": 14
+    },
+    {
+      "word": "कंट्रोल",
+      "count": 14
+    },
+    {
+      "word": "थी",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "हो तो",
+      "count": 6
+    },
+    {
+      "phrase": "करती है",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 5
+    },
+    {
+      "phrase": "के पास",
+      "count": 5
+    },
+    {
+      "phrase": "जाता है",
+      "count": 5
+    },
+    {
+      "phrase": "का सबसे",
+      "count": 5
+    },
+    {
+      "phrase": "अमेरिका का",
+      "count": 5
+    },
+    {
+      "phrase": "पड़ता था",
+      "count": 4
+    },
+    {
+      "phrase": "था और",
+      "count": 4
+    }
+  ],
+  "segment_count": 104
+}

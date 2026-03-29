@@ -1,0 +1,148 @@
+{
+  "video_id": "YJLtVOBsTlU",
+  "duration_seconds": 893,
+  "wps": 3.31,
+  "total_words": 2954,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11252
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पूरी दुनिया में हाउसिंग और रेंटिंग की डेफिनेशन चेंज करके अपनी कंपनी को 100 बिलियन डॉलर्स तक पहुंचाना आसान तो डेफिनेटली नहीं होगा पर ये प्रोसेस बहुत"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "समझने के लिए राइट वाली वीडियो देखना मत भूलना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 75
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "से",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "की",
+      "count": 46
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "तो",
+      "count": 36
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "एयर",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "बीएनबी",
+      "count": 31
+    },
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "थे",
+      "count": 24
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "पे",
+      "count": 24
+    },
+    {
+      "word": "लिए",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 22
+    },
+    {
+      "word": "यह",
+      "count": 22
+    },
+    {
+      "word": "ही",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एयर बीएनबी",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "करने के",
+      "count": 7
+    },
+    {
+      "phrase": "वजह से",
+      "count": 7
+    },
+    {
+      "phrase": "बीएनबी पे",
+      "count": 7
+    },
+    {
+      "phrase": "थी और",
+      "count": 6
+    },
+    {
+      "phrase": "था और",
+      "count": 6
+    },
+    {
+      "phrase": "और जो",
+      "count": 6
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 6
+    },
+    {
+      "phrase": "बीएनबी के",
+      "count": 6
+    }
+  ],
+  "segment_count": 106
+}

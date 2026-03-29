@@ -1,0 +1,150 @@
+{
+  "video_id": "duMJ2iYNcXA",
+  "duration_seconds": 6373,
+  "wps": 2.81,
+  "total_words": 17905,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 62735
+  },
+  "hook": {
+    "type": "statement",
+    "text": "टेक ऑफ प्लेन का होता है वह एक चीज याद रखना कि जिस टाइम पर प्लेन टेक ऑफ करने वाला"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भाग्य ना वह कल क्रिकेट में आपको छुट्टियां देखेंगे टॉप करेंगे आपको यह कितना आगे बढ़ गया बंदा था"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 912
+    },
+    {
+      "word": "तो",
+      "count": 358
+    },
+    {
+      "word": "कि",
+      "count": 328
+    },
+    {
+      "word": "में",
+      "count": 273
+    },
+    {
+      "word": "नहीं",
+      "count": 268
+    },
+    {
+      "word": "को",
+      "count": 263
+    },
+    {
+      "word": "और",
+      "count": 238
+    },
+    {
+      "word": "कर",
+      "count": 229
+    },
+    {
+      "word": "के",
+      "count": 224
+    },
+    {
+      "word": "हो",
+      "count": 207
+    },
+    {
+      "word": "हैं",
+      "count": 205
+    },
+    {
+      "word": "भी",
+      "count": 196
+    },
+    {
+      "word": "आप",
+      "count": 194
+    },
+    {
+      "word": "वह",
+      "count": 192
+    },
+    {
+      "word": "से",
+      "count": 188
+    },
+    {
+      "word": "यह",
+      "count": 174
+    },
+    {
+      "word": "पर",
+      "count": 165
+    },
+    {
+      "word": "मैं",
+      "count": 152
+    },
+    {
+      "word": "एक",
+      "count": 147
+    },
+    {
+      "word": "आपको",
+      "count": 143
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 80
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 67
+    },
+    {
+      "phrase": "है और",
+      "count": 55
+    },
+    {
+      "phrase": "है तो",
+      "count": 50
+    },
+    {
+      "phrase": "रहा है",
+      "count": 48
+    },
+    {
+      "phrase": "करना है",
+      "count": 45
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 42
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 41
+    },
+    {
+      "phrase": "होता है",
+      "count": 35
+    },
+    {
+      "phrase": "कुछ भी",
+      "count": 32
+    }
+  ],
+  "segment_count": 796
+}

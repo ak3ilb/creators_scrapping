@@ -1,0 +1,150 @@
+{
+  "video_id": "dSs_4UbUsKs",
+  "duration_seconds": 1430,
+  "wps": 4.37,
+  "total_words": 6244,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 22274
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अंबानी के बिजनेस को दूर से देखो। तुम्हें लगेगा यार बहुत सारे कोइंसिडेंस हो रहे हैं। और उसी धंधे को थोड़ा सा पास जाके देखो तो तुम्हें लगेगा यार बहुत ज्यादा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अंदर तुम्हें मिल जाएगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 255
+    },
+    {
+      "word": "के",
+      "count": 211
+    },
+    {
+      "word": "और",
+      "count": 168
+    },
+    {
+      "word": "को",
+      "count": 132
+    },
+    {
+      "word": "तो",
+      "count": 109
+    },
+    {
+      "word": "हैं",
+      "count": 101
+    },
+    {
+      "word": "भी",
+      "count": 96
+    },
+    {
+      "word": "लोग",
+      "count": 95
+    },
+    {
+      "word": "से",
+      "count": 83
+    },
+    {
+      "word": "ना",
+      "count": 79
+    },
+    {
+      "word": "कर",
+      "count": 72
+    },
+    {
+      "word": "ये",
+      "count": 71
+    },
+    {
+      "word": "की",
+      "count": 70
+    },
+    {
+      "word": "अंदर",
+      "count": 70
+    },
+    {
+      "word": "एक",
+      "count": 64
+    },
+    {
+      "word": "हो",
+      "count": 63
+    },
+    {
+      "word": "का",
+      "count": 60
+    },
+    {
+      "word": "नहीं",
+      "count": 59
+    },
+    {
+      "word": "में",
+      "count": 56
+    },
+    {
+      "word": "कि",
+      "count": 52
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 56
+    },
+    {
+      "phrase": "है और",
+      "count": 33
+    },
+    {
+      "phrase": "हैं और",
+      "count": 27
+    },
+    {
+      "phrase": "है तो",
+      "count": 24
+    },
+    {
+      "phrase": "पता है",
+      "count": 24
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 23
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 20
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 18
+    },
+    {
+      "phrase": "या फिर",
+      "count": 18
+    }
+  ],
+  "segment_count": 182
+}

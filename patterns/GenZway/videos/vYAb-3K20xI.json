@@ -1,0 +1,150 @@
+{
+  "video_id": "vYAb-3K20xI",
+  "duration_seconds": 1549,
+  "wps": 4.69,
+  "total_words": 7258,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 25925
+  },
+  "hook": {
+    "type": "question",
+    "text": "संदीप महेश्वरी सर ने हमें टारगेट करते हुए एक वीडियो डाली और इस वीडियो के अंदर हम लोग उनके काउंटर्स के बारे में देखेंगे कि भैया क्या बोल रहे हैं। YouTube पे कुछ लोग बात कर रहे हैं। मुझे"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "पूरा पूरा ड्रॉपशिपिंग का इकोसिस्टम काम करता है। मैं ओ का लिंक तो ऑलरेडी डिस्क्रिप्शन में दे रहा हूं और मैं तुमसे मिलता हूं एक अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 290
+    },
+    {
+      "word": "के",
+      "count": 238
+    },
+    {
+      "word": "और",
+      "count": 172
+    },
+    {
+      "word": "को",
+      "count": 121
+    },
+    {
+      "word": "हो",
+      "count": 120
+    },
+    {
+      "word": "कर",
+      "count": 113
+    },
+    {
+      "word": "तो",
+      "count": 112
+    },
+    {
+      "word": "भी",
+      "count": 106
+    },
+    {
+      "word": "एक",
+      "count": 93
+    },
+    {
+      "word": "हैं",
+      "count": 91
+    },
+    {
+      "word": "लोग",
+      "count": 89
+    },
+    {
+      "word": "कि",
+      "count": 80
+    },
+    {
+      "word": "नहीं",
+      "count": 75
+    },
+    {
+      "word": "से",
+      "count": 72
+    },
+    {
+      "word": "अंदर",
+      "count": 71
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 71
+    },
+    {
+      "word": "की",
+      "count": 70
+    },
+    {
+      "word": "जो",
+      "count": 66
+    },
+    {
+      "word": "का",
+      "count": 65
+    },
+    {
+      "word": "ऊपर",
+      "count": 62
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऊपर",
+      "count": 58
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 43
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 38
+    },
+    {
+      "phrase": "है और",
+      "count": 35
+    },
+    {
+      "phrase": "के लिए",
+      "count": 34
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 30
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 29
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 26
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 25
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 23
+    }
+  ],
+  "segment_count": 195
+}

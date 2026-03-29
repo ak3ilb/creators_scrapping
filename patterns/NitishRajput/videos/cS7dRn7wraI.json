@@ -1,0 +1,149 @@
+{
+  "video_id": "cS7dRn7wraI",
+  "duration_seconds": 2915,
+  "wps": 2.98,
+  "total_words": 8700,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 37969
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "To shine the horns of buffalo a bill of mustard oil worth 15 lakh was shown. SB Sinha also told SBI that even Nitish Kumar has taken 1 crore."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to book your free teeth scan, click on the link given in the description or visit Toothsi's website. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 380
+    },
+    {
+      "word": "of",
+      "count": 246
+    },
+    {
+      "word": "in",
+      "count": 226
+    },
+    {
+      "word": "and",
+      "count": 194
+    },
+    {
+      "word": "to",
+      "count": 186
+    },
+    {
+      "word": "this",
+      "count": 168
+    },
+    {
+      "word": "was",
+      "count": 160
+    },
+    {
+      "word": "lalu",
+      "count": 128
+    },
+    {
+      "word": "that",
+      "count": 118
+    },
+    {
+      "word": "he",
+      "count": 110
+    },
+    {
+      "word": "from",
+      "count": 101
+    },
+    {
+      "word": "is",
+      "count": 96
+    },
+    {
+      "word": "yadav",
+      "count": 79
+    },
+    {
+      "word": "so",
+      "count": 77
+    },
+    {
+      "word": "animal",
+      "count": 73
+    },
+    {
+      "word": "husbandry",
+      "count": 70
+    },
+    {
+      "word": "but",
+      "count": 68
+    },
+    {
+      "word": "they",
+      "count": 65
+    },
+    {
+      "word": "for",
+      "count": 65
+    },
+    {
+      "word": "it",
+      "count": 64
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "lalu yadav",
+      "count": 74
+    },
+    {
+      "phrase": "animal husbandry",
+      "count": 70
+    },
+    {
+      "phrase": "in the",
+      "count": 46
+    },
+    {
+      "phrase": "all the",
+      "count": 41
+    },
+    {
+      "phrase": "of animal",
+      "count": 34
+    },
+    {
+      "phrase": "in this",
+      "count": 33
+    },
+    {
+      "phrase": "husbandry department",
+      "count": 28
+    },
+    {
+      "phrase": "of the",
+      "count": 21
+    },
+    {
+      "phrase": "due to",
+      "count": 19
+    },
+    {
+      "phrase": "used to",
+      "count": 19
+    }
+  ],
+  "segment_count": 351
+}

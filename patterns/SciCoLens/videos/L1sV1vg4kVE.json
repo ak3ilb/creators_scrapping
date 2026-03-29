@@ -1,0 +1,148 @@
+{
+  "video_id": "L1sV1vg4kVE",
+  "duration_seconds": 1701,
+  "wps": 2.84,
+  "total_words": 4826,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 18900
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सन 1948 पूरे भारत में इंडिया पाकिस्तान जंग के जीत का जश्न मनाया जा रहा था। लेकिन बहुत ही कम लोग इस बात की गंभीरता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिए, टेक केयर। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 177
+    },
+    {
+      "word": "में",
+      "count": 135
+    },
+    {
+      "word": "को",
+      "count": 118
+    },
+    {
+      "word": "और",
+      "count": 103
+    },
+    {
+      "word": "ही",
+      "count": 89
+    },
+    {
+      "word": "से",
+      "count": 86
+    },
+    {
+      "word": "था",
+      "count": 77
+    },
+    {
+      "word": "एक",
+      "count": 73
+    },
+    {
+      "word": "ने",
+      "count": 68
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 67
+    },
+    {
+      "word": "भी",
+      "count": 57
+    },
+    {
+      "word": "आईएसआई",
+      "count": 57
+    },
+    {
+      "word": "इंडिया",
+      "count": 51
+    },
+    {
+      "word": "की",
+      "count": 50
+    },
+    {
+      "word": "रॉ",
+      "count": 49
+    },
+    {
+      "word": "तो",
+      "count": 48
+    },
+    {
+      "word": "कर",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 47
+    },
+    {
+      "word": "है",
+      "count": 47
+    },
+    {
+      "word": "यह",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 35
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 21
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 18
+    },
+    {
+      "phrase": "आईएसआई ने",
+      "count": 16
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 15
+    },
+    {
+      "phrase": "के बाद",
+      "count": 13
+    },
+    {
+      "phrase": "रॉ ने",
+      "count": 13
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 12
+    },
+    {
+      "phrase": "आईएसआई को",
+      "count": 11
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 10
+    }
+  ],
+  "segment_count": 208
+}

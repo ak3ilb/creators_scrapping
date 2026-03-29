@@ -1,0 +1,148 @@
+{
+  "video_id": "FNgg3V6zI9I",
+  "duration_seconds": 401,
+  "wps": 3.09,
+  "total_words": 1238,
+  "language_mix": {
+    "hindi": 95.2,
+    "english": 4.8,
+    "total_chars": 4986
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सो बैक इन सप्टेंबर 2024 आई टूक 15 पीपल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो।"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 57
+    },
+    {
+      "word": "एंड",
+      "count": 37
+    },
+    {
+      "word": "टू",
+      "count": 34
+    },
+    {
+      "word": "इन",
+      "count": 23
+    },
+    {
+      "word": "आई",
+      "count": 22
+    },
+    {
+      "word": "इट",
+      "count": 22
+    },
+    {
+      "word": "योर",
+      "count": 21
+    },
+    {
+      "word": "आर",
+      "count": 20
+    },
+    {
+      "word": "इज़",
+      "count": 16
+    },
+    {
+      "word": "दैट",
+      "count": 16
+    },
+    {
+      "word": "ऑफ़",
+      "count": 15
+    },
+    {
+      "word": "अबाउट",
+      "count": 14
+    },
+    {
+      "word": "व्हाट",
+      "count": 12
+    },
+    {
+      "word": "इंग्लिश",
+      "count": 12
+    },
+    {
+      "word": "दिस",
+      "count": 11
+    },
+    {
+      "word": "लैंग्वेज",
+      "count": 11
+    },
+    {
+      "word": "सो",
+      "count": 10
+    },
+    {
+      "word": "विथ",
+      "count": 10
+    },
+    {
+      "word": "वी",
+      "count": 10
+    },
+    {
+      "word": "नॉट",
+      "count": 10
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 9
+    },
+    {
+      "phrase": "कम कम",
+      "count": 8
+    },
+    {
+      "phrase": "योर योर",
+      "count": 6
+    },
+    {
+      "phrase": "आई एम",
+      "count": 5
+    },
+    {
+      "phrase": "इन द",
+      "count": 5
+    },
+    {
+      "phrase": "शोज़ इन",
+      "count": 5
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 5
+    },
+    {
+      "phrase": "यू दिस",
+      "count": 4
+    },
+    {
+      "phrase": "डोंट नो",
+      "count": 4
+    },
+    {
+      "phrase": "गिव यू",
+      "count": 4
+    }
+  ],
+  "segment_count": 163
+}

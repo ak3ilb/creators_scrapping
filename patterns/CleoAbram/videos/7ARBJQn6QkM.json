@@ -1,0 +1,149 @@
+{
+  "video_id": "7ARBJQn6QkM",
+  "duration_seconds": 3771,
+  "wps": 2.67,
+  "total_words": 10058,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 43149
+  },
+  "hook": {
+    "type": "question",
+    "text": "At some point, you have to believe something.  We've reinvented computing as we know it. What is the vision for what you see coming next? We  asked ourselves, if it can do this, how far can"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I hope for that to be what the next generation learn. Thank you so much for your time. I enjoyed it, thank you! I'm glad!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 440
+    },
+    {
+      "word": "the",
+      "count": 421
+    },
+    {
+      "word": "to",
+      "count": 352
+    },
+    {
+      "word": "that",
+      "count": 286
+    },
+    {
+      "word": "of",
+      "count": 272
+    },
+    {
+      "word": "you",
+      "count": 226
+    },
+    {
+      "word": "it",
+      "count": 180
+    },
+    {
+      "word": "we",
+      "count": 173
+    },
+    {
+      "word": "is",
+      "count": 162
+    },
+    {
+      "word": "so",
+      "count": 129
+    },
+    {
+      "word": "in",
+      "count": 122
+    },
+    {
+      "word": "do",
+      "count": 88
+    },
+    {
+      "word": "be",
+      "count": 86
+    },
+    {
+      "word": "this",
+      "count": 85
+    },
+    {
+      "word": "know",
+      "count": 76
+    },
+    {
+      "word": "for",
+      "count": 76
+    },
+    {
+      "word": "what",
+      "count": 74
+    },
+    {
+      "word": "ai",
+      "count": 70
+    },
+    {
+      "word": "have",
+      "count": 66
+    },
+    {
+      "word": "can",
+      "count": 62
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and so",
+      "count": 64
+    },
+    {
+      "phrase": "you know",
+      "count": 63
+    },
+    {
+      "phrase": "to be",
+      "count": 54
+    },
+    {
+      "phrase": "of the",
+      "count": 40
+    },
+    {
+      "phrase": "going to",
+      "count": 39
+    },
+    {
+      "phrase": "all of",
+      "count": 38
+    },
+    {
+      "phrase": "to do",
+      "count": 36
+    },
+    {
+      "phrase": "in the",
+      "count": 33
+    },
+    {
+      "phrase": "that we",
+      "count": 32
+    },
+    {
+      "phrase": "and we",
+      "count": 24
+    }
+  ],
+  "segment_count": 500
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "cWK6dk-LUok",
+  "duration_seconds": 59,
+  "wps": 2.95,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 702
+  },
+  "hook": {
+    "type": "statement",
+    "text": "फेमस ज़ॉम्बी एंड फंगस कॉर्डिसेप्स। इंसानों में एक ज़ॉम्बी एपोकैलिप्स ले आएगा। ये कॉर्डिसेप्स फंगस अपने होस्ट के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होस्टेज की तरह बनाकर रख लेता"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "चींटी",
+      "count": 5
+    },
+    {
+      "word": "फंगस",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "कंट्रोल",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "ज़ॉम्बी",
+      "count": 2
+    },
+    {
+      "word": "कॉर्डिसेप्स",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "मूवमेंट्स",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    },
+    {
+      "word": "करता",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "को कंट्रोल",
+      "count": 3
+    },
+    {
+      "phrase": "में एक",
+      "count": 2
+    },
+    {
+      "phrase": "मूवमेंट्स को",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "और फिर",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "मसल्स को",
+      "count": 2
+    },
+    {
+      "phrase": "चींटी के",
+      "count": 2
+    },
+    {
+      "phrase": "वो फंगस",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

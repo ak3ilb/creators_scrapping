@@ -1,0 +1,149 @@
+{
+  "video_id": "zRHJONQ_Gv4",
+  "duration_seconds": 884,
+  "wps": 2.47,
+  "total_words": 2183,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 10798
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Groww is India’s number one stockbroker today. Out of every three new SIPs, one is created through Groww."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked the video, I’d recommend watching this video next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 83
+    },
+    {
+      "word": "and",
+      "count": 56
+    },
+    {
+      "word": "to",
+      "count": 55
+    },
+    {
+      "word": "in",
+      "count": 37
+    },
+    {
+      "word": "of",
+      "count": 33
+    },
+    {
+      "word": "groww",
+      "count": 32
+    },
+    {
+      "word": "they",
+      "count": 28
+    },
+    {
+      "word": "that",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 23
+    },
+    {
+      "word": "was",
+      "count": 23
+    },
+    {
+      "word": "he",
+      "count": 23
+    },
+    {
+      "word": "this",
+      "count": 21
+    },
+    {
+      "word": "for",
+      "count": 20
+    },
+    {
+      "word": "lalit",
+      "count": 18
+    },
+    {
+      "word": "one",
+      "count": 15
+    },
+    {
+      "word": "had",
+      "count": 15
+    },
+    {
+      "word": "users",
+      "count": 15
+    },
+    {
+      "word": "so",
+      "count": 14
+    },
+    {
+      "word": "with",
+      "count": 14
+    },
+    {
+      "word": "it",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 11
+    },
+    {
+      "phrase": "mutual funds",
+      "count": 7
+    },
+    {
+      "phrase": "to the",
+      "count": 6
+    },
+    {
+      "phrase": "had to",
+      "count": 5
+    },
+    {
+      "phrase": "as a",
+      "count": 5
+    },
+    {
+      "phrase": "for the",
+      "count": 5
+    },
+    {
+      "phrase": "the platform",
+      "count": 5
+    },
+    {
+      "phrase": "the first",
+      "count": 4
+    },
+    {
+      "phrase": "it was",
+      "count": 4
+    },
+    {
+      "phrase": "decided to",
+      "count": 4
+    }
+  ],
+  "segment_count": 116
+}

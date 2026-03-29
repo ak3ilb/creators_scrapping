@@ -1,0 +1,148 @@
+{
+  "video_id": "qqX222LRcc0",
+  "duration_seconds": 75,
+  "wps": 2.72,
+  "total_words": 204,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 828
+  },
+  "hook": {
+    "type": "question",
+    "text": "ब्लड शुगर स्पाइक्स का इनफ्लेमेशन के साथ एक बहुत ही स्ट्रांग लिंक है। अब इसे ध्यान से सुनना यह बहुत इंपॉर्टेंट है। सो अगर आप फूड्स खाते हो जो हाई एंड सैचुरेटेड फैट्स हैं जैसे बर्गर्स हो गए,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "ब्लड",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "शुगर",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "फैट्स",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "स्पाइक्स",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "स्पाइक",
+      "count": 3
+    },
+    {
+      "word": "इम्यून",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "शरीर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ब्लड शुगर",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "शुगर स्पाइक्स",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 2
+    },
+    {
+      "phrase": "ही स्ट्रांग",
+      "count": 2
+    },
+    {
+      "phrase": "सैचुरेटेड फैट्स",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लड फैट्स",
+      "count": 2
+    },
+    {
+      "phrase": "लगते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "इम्यून सेल्स",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लड में",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

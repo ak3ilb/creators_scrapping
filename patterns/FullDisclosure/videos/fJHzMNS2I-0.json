@@ -1,0 +1,148 @@
+{
+  "video_id": "fJHzMNS2I-0",
+  "duration_seconds": 63,
+  "wps": 2.65,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 844
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Now you can study and work across 27 European countries like Germany, France,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "the US and UK? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "research",
+      "count": 3
+    },
+    {
+      "word": "now",
+      "count": 2
+    },
+    {
+      "word": "study",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "european",
+      "count": 2
+    },
+    {
+      "word": "india",
+      "count": 2
+    },
+    {
+      "word": "eu",
+      "count": 2
+    },
+    {
+      "word": "gateway",
+      "count": 2
+    },
+    {
+      "word": "office",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "visas",
+      "count": 2
+    },
+    {
+      "word": "europe's",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "will",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "gateway office",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "the us",
+      "count": 2
+    },
+    {
+      "phrase": "now you",
+      "count": 1
+    },
+    {
+      "phrase": "you can",
+      "count": 1
+    },
+    {
+      "phrase": "can study",
+      "count": 1
+    },
+    {
+      "phrase": "study and",
+      "count": 1
+    },
+    {
+      "phrase": "and work",
+      "count": 1
+    },
+    {
+      "phrase": "work across",
+      "count": 1
+    },
+    {
+      "phrase": "across 27",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

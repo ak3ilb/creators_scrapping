@@ -1,0 +1,150 @@
+{
+  "video_id": "650TexZnvfY",
+  "duration_seconds": 1052,
+  "wps": 4.1,
+  "total_words": 4309,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 14655
+  },
+  "hook": {
+    "type": "statement",
+    "text": "5500 हर महीने डालो 15 साल में 4 करोड़ नहीं होंगे 5च मिनट में हो जाएंगे बस एक दारू की बोतल ले आना और एक्सल खोल लेना हमारे बारीक सर ने 1500 वीडियोस बनाई है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्टडी देखना चाहते हो तो यहां पे एक बहुत प्यारी वीडियो आ रही है जाके देख लो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 144
+    },
+    {
+      "word": "के",
+      "count": 115
+    },
+    {
+      "word": "हो",
+      "count": 81
+    },
+    {
+      "word": "और",
+      "count": 81
+    },
+    {
+      "word": "तो",
+      "count": 78
+    },
+    {
+      "word": "का",
+      "count": 64
+    },
+    {
+      "word": "में",
+      "count": 61
+    },
+    {
+      "word": "को",
+      "count": 61
+    },
+    {
+      "word": "रहे",
+      "count": 52
+    },
+    {
+      "word": "कर",
+      "count": 52
+    },
+    {
+      "word": "एक",
+      "count": 51
+    },
+    {
+      "word": "हैं",
+      "count": 51
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "वो",
+      "count": 50
+    },
+    {
+      "word": "भी",
+      "count": 49
+    },
+    {
+      "word": "आप",
+      "count": 48
+    },
+    {
+      "word": "नहीं",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 45
+    },
+    {
+      "word": "जो",
+      "count": 43
+    },
+    {
+      "word": "ये",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 31
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 24
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 21
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 17
+    },
+    {
+      "phrase": "है तो",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "₹ लाख",
+      "count": 14
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 13
+    },
+    {
+      "phrase": "इन्वेस्ट कर",
+      "count": 13
+    }
+  ],
+  "segment_count": 126
+}

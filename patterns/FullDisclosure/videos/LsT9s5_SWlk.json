@@ -1,0 +1,148 @@
+{
+  "video_id": "LsT9s5_SWlk",
+  "duration_seconds": 50,
+  "wps": 3.16,
+  "total_words": 158,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 656
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एंथ्रोपिक जस्ट केव क्लॉट द एबिलिटी टू"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट्स।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "योर",
+      "count": 9
+    },
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "क्लॉड",
+      "count": 5
+    },
+    {
+      "word": "ऑन",
+      "count": 5
+    },
+    {
+      "word": "कंप्यूटर",
+      "count": 4
+    },
+    {
+      "word": "लेट",
+      "count": 3
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "फोन",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "क्लॉट",
+      "count": 2
+    },
+    {
+      "word": "कंट्रोल",
+      "count": 2
+    },
+    {
+      "word": "व्हाइल",
+      "count": 2
+    },
+    {
+      "word": "मी",
+      "count": 2
+    },
+    {
+      "word": "नाउ",
+      "count": 2
+    },
+    {
+      "word": "हियर",
+      "count": 2
+    },
+    {
+      "word": "डिस्पैच",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "योर कंप्यूटर",
+      "count": 4
+    },
+    {
+      "phrase": "ऑन योर",
+      "count": 3
+    },
+    {
+      "phrase": "कंट्रोल योर",
+      "count": 2
+    },
+    {
+      "phrase": "व्हाइल यू",
+      "count": 2
+    },
+    {
+      "phrase": "लेट मी",
+      "count": 2
+    },
+    {
+      "phrase": "योर फोन",
+      "count": 2
+    },
+    {
+      "phrase": "यू आर",
+      "count": 2
+    },
+    {
+      "phrase": "क्लॉड फ्रॉम",
+      "count": 2
+    },
+    {
+      "phrase": "एंथ्रोपिक जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट केव",
+      "count": 1
+    }
+  ],
+  "segment_count": 22
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "Z1ttTvICNVg",
+  "duration_seconds": 1472,
+  "wps": 3.96,
+  "total_words": 5828,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 20172
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं अपने इयर्स के मैं अपनी लाइफ के जो अप्रोक्सिममेटली फाइव इयर्स मैं अपनी लाइफ के इस चीज को दे चुका था। तो 790 स्टूडेंट्स हैं जो कि क्वालीफाई क्वालीफाई कर रहे हैं।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सकता। आप क्या मानते हो मुझे बताना जरूर।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 231
+    },
+    {
+      "word": "के",
+      "count": 126
+    },
+    {
+      "word": "हैं",
+      "count": 118
+    },
+    {
+      "word": "जो",
+      "count": 106
+    },
+    {
+      "word": "कि",
+      "count": 105
+    },
+    {
+      "word": "से",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 79
+    },
+    {
+      "word": "भी",
+      "count": 75
+    },
+    {
+      "word": "तो",
+      "count": 71
+    },
+    {
+      "word": "ये",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 61
+    },
+    {
+      "word": "नहीं",
+      "count": 61
+    },
+    {
+      "word": "हो",
+      "count": 61
+    },
+    {
+      "word": "एक",
+      "count": 57
+    },
+    {
+      "word": "और",
+      "count": 55
+    },
+    {
+      "word": "ही",
+      "count": 52
+    },
+    {
+      "word": "मैं",
+      "count": 47
+    },
+    {
+      "word": "मार्क्स",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 43
+    },
+    {
+      "word": "इस",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 27
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 23
+    },
+    {
+      "phrase": "ग्रेस मार्क्स",
+      "count": 22
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 21
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 15
+    },
+    {
+      "phrase": "होता है",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "सकता है",
+      "count": 13
+    },
+    {
+      "phrase": "रहा है",
+      "count": 13
+    }
+  ],
+  "segment_count": 187
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "m3gYaCqcmrM",
+  "duration_seconds": 977,
+  "wps": 3.24,
+  "total_words": 3170,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 13249
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कुतुब मीनार"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में। तब तक के लिए, जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 103
+    },
+    {
+      "word": "और",
+      "count": 89
+    },
+    {
+      "word": "को",
+      "count": 82
+    },
+    {
+      "word": "है",
+      "count": 74
+    },
+    {
+      "word": "की",
+      "count": 62
+    },
+    {
+      "word": "एक",
+      "count": 59
+    },
+    {
+      "word": "में",
+      "count": 58
+    },
+    {
+      "word": "का",
+      "count": 51
+    },
+    {
+      "word": "था",
+      "count": 51
+    },
+    {
+      "word": "पर",
+      "count": 45
+    },
+    {
+      "word": "यह",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "जो",
+      "count": 36
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "मीनार",
+      "count": 33
+    },
+    {
+      "word": "कुतुब",
+      "count": 28
+    },
+    {
+      "word": "हिंदू",
+      "count": 24
+    },
+    {
+      "word": "नहीं",
+      "count": 24
+    },
+    {
+      "word": "इस",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कुतुब मीनार",
+      "count": 26
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "का एक",
+      "count": 9
+    },
+    {
+      "phrase": "गया था",
+      "count": 9
+    },
+    {
+      "phrase": "हिंदू और",
+      "count": 9
+    },
+    {
+      "phrase": "है जो",
+      "count": 8
+    },
+    {
+      "phrase": "किया गया",
+      "count": 8
+    },
+    {
+      "phrase": "और जैन",
+      "count": 8
+    },
+    {
+      "phrase": "भारत की",
+      "count": 7
+    }
+  ],
+  "segment_count": 431
+}

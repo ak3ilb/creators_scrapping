@@ -1,0 +1,148 @@
+{
+  "video_id": "RIZX3F9lFNA",
+  "duration_seconds": 93,
+  "wps": 3.69,
+  "total_words": 343,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1297
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अमीरों की शादियों की इस डार्क रियलिटी को सुनकर तो आप शॉक होने वाले हो। इन लोगों की शादियों में मिठाई के काउंटर्स के साथ-साथ आईवीएफ ड्रिप के काउंटर्स लग रहे"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "आप और वीडियोस चाहते हो तो मुझे कमेंट में लिखना यस ताकि आगे भी मैं ऐसे कुछ वीडियोस बना सकूं।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "और",
+      "count": 13
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "अब",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "बिजनेस",
+      "count": 4
+    },
+    {
+      "word": "अमीरों",
+      "count": 3
+    },
+    {
+      "word": "शादियों",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "ड्रिप",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "पार्टीज",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 5
+    },
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "तो बहुत",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "की शादियों",
+      "count": 2
+    },
+    {
+      "phrase": "के काउंटर्स",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "अब यह",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

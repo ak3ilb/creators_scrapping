@@ -5,17 +5,22 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:28:54.529856+00:00",
-  "total_discovered": 222,
+  "last_updated": "2026-03-29T16:24:03.503246+00:00",
+  "total_discovered": 223,
   "ingestion_stats": {
-    "total": 63,
-    "ok": 63,
+    "total": 64,
+    "ok": 64,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "28.4%",
+  "completion_percentage": "28.7%",
   "videos": [
+    {
+      "video_id": "7uyhURkg9i8",
+      "title": "I Lost 12 Lakhs In Stock Market | Here's What I Learned",
+      "status": "OK"
+    },
     {
       "video_id": "96IZ-D-V02s",
       "title": "Epstein File: The Dark Truth | Bill Gates | Hawkins | Donald Trump | Elon Musk",

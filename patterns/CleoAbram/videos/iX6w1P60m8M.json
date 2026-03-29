@@ -1,0 +1,149 @@
+{
+  "video_id": "iX6w1P60m8M",
+  "duration_seconds": 949,
+  "wps": 3.1,
+  "total_words": 2940,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13079
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Look at this. This is rare footage from"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 136
+    },
+    {
+      "word": "and",
+      "count": 80
+    },
+    {
+      "word": "to",
+      "count": 72
+    },
+    {
+      "word": "of",
+      "count": 68
+    },
+    {
+      "word": "this",
+      "count": 63
+    },
+    {
+      "word": "that",
+      "count": 59
+    },
+    {
+      "word": "is",
+      "count": 42
+    },
+    {
+      "word": "in",
+      "count": 40
+    },
+    {
+      "word": "but",
+      "count": 40
+    },
+    {
+      "word": "we",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 35
+    },
+    {
+      "word": "you",
+      "count": 30
+    },
+    {
+      "word": "it's",
+      "count": 28
+    },
+    {
+      "word": "animal",
+      "count": 27
+    },
+    {
+      "word": "are",
+      "count": 27
+    },
+    {
+      "word": "they",
+      "count": 26
+    },
+    {
+      "word": "back",
+      "count": 21
+    },
+    {
+      "word": "or",
+      "count": 20
+    },
+    {
+      "word": "have",
+      "count": 19
+    },
+    {
+      "word": "animals",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 12
+    },
+    {
+      "phrase": "of the",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "trying to",
+      "count": 8
+    },
+    {
+      "phrase": "to bring",
+      "count": 7
+    },
+    {
+      "phrase": "of a",
+      "count": 7
+    },
+    {
+      "phrase": "and then",
+      "count": 7
+    },
+    {
+      "phrase": "of this",
+      "count": 7
+    },
+    {
+      "phrase": "that we",
+      "count": 6
+    },
+    {
+      "phrase": "an animal",
+      "count": 6
+    }
+  ],
+  "segment_count": 464
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "MPwNLJBj4ao",
+  "duration_seconds": 847,
+  "wps": 3.18,
+  "total_words": 2694,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 9968
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पंचायत कोटा फैक्ट्री गुल्लक या फिर एस् पेरेंट इन सभी वेब सीरीज के नए सीजन का हमें बेसब्र से इंतजार रहता है और रह भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ऑडियंस इनकी कहानियों से रिलेट कर पाती है जिसके चलते टीवीएफ की हर एक वेब सीरीज लोगों के मन में एक गहरी छाप छोड़ जाती है"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 83
+    },
+    {
+      "word": "है",
+      "count": 76
+    },
+    {
+      "word": "में",
+      "count": 71
+    },
+    {
+      "word": "की",
+      "count": 67
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "और",
+      "count": 50
+    },
+    {
+      "word": "हैं",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 23
+    },
+    {
+      "word": "एक",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 20
+    },
+    {
+      "word": "टीवीएफ",
+      "count": 20
+    },
+    {
+      "word": "सीरीज",
+      "count": 19
+    },
+    {
+      "word": "नहीं",
+      "count": 19
+    },
+    {
+      "word": "पर",
+      "count": 19
+    },
+    {
+      "word": "कुछ",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वेब सीरीज",
+      "count": 13
+    },
+    {
+      "phrase": "के बाद",
+      "count": 13
+    },
+    {
+      "phrase": "है और",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "कई सारे",
+      "count": 8
+    },
+    {
+      "phrase": "के साथ",
+      "count": 8
+    },
+    {
+      "phrase": "टीवीएफ की",
+      "count": 8
+    }
+  ],
+  "segment_count": 110
+}

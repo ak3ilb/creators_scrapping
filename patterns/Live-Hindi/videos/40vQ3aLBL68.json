@@ -1,0 +1,148 @@
+{
+  "video_id": "40vQ3aLBL68",
+  "duration_seconds": 1221,
+  "wps": 3.0,
+  "total_words": 3668,
+  "language_mix": {
+    "hindi": 98.0,
+    "english": 2.0,
+    "total_chars": 14378
+  },
+  "hook": {
+    "type": "statement",
+    "text": "काइनेटिक 80ज और 90ज का एक ऐसा सुपरहिट ब्रांड जिसे अपने टाइम से कहीं आगे का माना जाता था क्योंकि भारत में गियरलेस और"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 123
+    },
+    {
+      "word": "और",
+      "count": 97
+    },
+    {
+      "word": "के",
+      "count": 94
+    },
+    {
+      "word": "था",
+      "count": 87
+    },
+    {
+      "word": "से",
+      "count": 73
+    },
+    {
+      "word": "भी",
+      "count": 69
+    },
+    {
+      "word": "को",
+      "count": 68
+    },
+    {
+      "word": "की",
+      "count": 62
+    },
+    {
+      "word": "काइनेटिक",
+      "count": 57
+    },
+    {
+      "word": "ने",
+      "count": 49
+    },
+    {
+      "word": "ही",
+      "count": 47
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "स्कूटर",
+      "count": 45
+    },
+    {
+      "word": "थी",
+      "count": 40
+    },
+    {
+      "word": "नहीं",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 37
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "लेकिन",
+      "count": 31
+    },
+    {
+      "word": "कंपनी",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "तरह से",
+      "count": 14
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 14
+    },
+    {
+      "phrase": "जो कि",
+      "count": 13
+    },
+    {
+      "phrase": "था जो",
+      "count": 12
+    },
+    {
+      "phrase": "वजह से",
+      "count": 11
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 11
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 10
+    },
+    {
+      "phrase": "में भी",
+      "count": 9
+    }
+  ],
+  "segment_count": 157
+}

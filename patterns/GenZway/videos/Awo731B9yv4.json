@@ -1,0 +1,150 @@
+{
+  "video_id": "Awo731B9yv4",
+  "duration_seconds": 633,
+  "wps": 3.96,
+  "total_words": 2505,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8718
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मुझे इस पूरी दुनिया के अंदर सर रतन टाटा को छोड़ के एक ऐसा बिलियन दिखा दो जिसको जनता गाली ना देती हो ये हमारे अडानी अंबानी से लेकर इलोन मस् तक जनता सबको"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चाहूंगा हम"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 81
+    },
+    {
+      "word": "और",
+      "count": 79
+    },
+    {
+      "word": "है",
+      "count": 67
+    },
+    {
+      "word": "तो",
+      "count": 47
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "की",
+      "count": 32
+    },
+    {
+      "word": "सर",
+      "count": 31
+    },
+    {
+      "word": "में",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 29
+    },
+    {
+      "word": "था",
+      "count": 29
+    },
+    {
+      "word": "टाटा",
+      "count": 26
+    },
+    {
+      "word": "भैया",
+      "count": 22
+    },
+    {
+      "word": "बहुत",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "हैं",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कि भैया",
+      "count": 21
+    },
+    {
+      "phrase": "टाटा सर",
+      "count": 19
+    },
+    {
+      "phrase": "रतन टाटा",
+      "count": 18
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 8
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 8
+    }
+  ],
+  "segment_count": 78
+}

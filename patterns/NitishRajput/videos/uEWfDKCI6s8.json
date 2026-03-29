@@ -1,0 +1,149 @@
+{
+  "video_id": "uEWfDKCI6s8",
+  "duration_seconds": 1683,
+  "wps": 2.91,
+  "total_words": 4892,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 22189
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "As soon as the 9 year old Fatima, picked up the pager and put it on her father's hand, it exploded there itself."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "At Last, let me tell you again that to purchase DERMATOUCH kojic acid soap I've given the link in the description. Do try it once. Thank you!!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 203
+    },
+    {
+      "word": "in",
+      "count": 129
+    },
+    {
+      "word": "to",
+      "count": 114
+    },
+    {
+      "word": "that",
+      "count": 106
+    },
+    {
+      "word": "and",
+      "count": 101
+    },
+    {
+      "word": "this",
+      "count": 94
+    },
+    {
+      "word": "of",
+      "count": 86
+    },
+    {
+      "word": "was",
+      "count": 77
+    },
+    {
+      "word": "it",
+      "count": 67
+    },
+    {
+      "word": "they",
+      "count": 65
+    },
+    {
+      "word": "israel",
+      "count": 60
+    },
+    {
+      "word": "hezbollah",
+      "count": 58
+    },
+    {
+      "word": "is",
+      "count": 50
+    },
+    {
+      "word": "so",
+      "count": 49
+    },
+    {
+      "word": "on",
+      "count": 45
+    },
+    {
+      "word": "as",
+      "count": 41
+    },
+    {
+      "word": "pagers",
+      "count": 39
+    },
+    {
+      "word": "but",
+      "count": 37
+    },
+    {
+      "word": "then",
+      "count": 35
+    },
+    {
+      "word": "started",
+      "count": 33
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 35
+    },
+    {
+      "phrase": "gold apollo",
+      "count": 22
+    },
+    {
+      "phrase": "as well",
+      "count": 18
+    },
+    {
+      "phrase": "bac consulting",
+      "count": 17
+    },
+    {
+      "phrase": "it was",
+      "count": 14
+    },
+    {
+      "phrase": "on the",
+      "count": 12
+    },
+    {
+      "phrase": "and the",
+      "count": 11
+    },
+    {
+      "phrase": "of israel",
+      "count": 10
+    },
+    {
+      "phrase": "after this",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    }
+  ],
+  "segment_count": 198
+}

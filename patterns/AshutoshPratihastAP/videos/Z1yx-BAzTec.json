@@ -1,0 +1,150 @@
+{
+  "video_id": "Z1yx-BAzTec",
+  "duration_seconds": 7042,
+  "wps": 3.18,
+  "total_words": 22418,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 80933
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "तो चलिए शुरुआत करते एक्सचेंज रेट इन सितंबर 13 सप्टेंबर यादव को कि तुम्हारे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "को समझो भाई बात को कि सिर्फ कर्म पर अपना हक कर फल की चिंता नहीं करूंगी और"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 927
+    },
+    {
+      "word": "तो",
+      "count": 456
+    },
+    {
+      "word": "कि",
+      "count": 404
+    },
+    {
+      "word": "के",
+      "count": 327
+    },
+    {
+      "word": "में",
+      "count": 326
+    },
+    {
+      "word": "को",
+      "count": 303
+    },
+    {
+      "word": "और",
+      "count": 301
+    },
+    {
+      "word": "से",
+      "count": 275
+    },
+    {
+      "word": "यह",
+      "count": 248
+    },
+    {
+      "word": "नहीं",
+      "count": 244
+    },
+    {
+      "word": "आप",
+      "count": 235
+    },
+    {
+      "word": "वह",
+      "count": 232
+    },
+    {
+      "word": "कर",
+      "count": 227
+    },
+    {
+      "word": "भी",
+      "count": 218
+    },
+    {
+      "word": "हो",
+      "count": 217
+    },
+    {
+      "word": "पर",
+      "count": 214
+    },
+    {
+      "word": "हैं",
+      "count": 195
+    },
+    {
+      "word": "आपको",
+      "count": 195
+    },
+    {
+      "word": "बहुत",
+      "count": 185
+    },
+    {
+      "word": "मैं",
+      "count": 170
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 108
+    },
+    {
+      "phrase": "है कि",
+      "count": 107
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 80
+    },
+    {
+      "phrase": "है तो",
+      "count": 52
+    },
+    {
+      "phrase": "है और",
+      "count": 48
+    },
+    {
+      "phrase": "करना है",
+      "count": 48
+    },
+    {
+      "phrase": "के लिए",
+      "count": 40
+    },
+    {
+      "phrase": "रहा है",
+      "count": 37
+    },
+    {
+      "phrase": "होता है",
+      "count": 35
+    },
+    {
+      "phrase": "है ना",
+      "count": 33
+    }
+  ],
+  "segment_count": 883
+}

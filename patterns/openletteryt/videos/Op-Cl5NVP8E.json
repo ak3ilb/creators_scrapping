@@ -1,0 +1,150 @@
+{
+  "video_id": "Op-Cl5NVP8E",
+  "duration_seconds": 644,
+  "wps": 3.97,
+  "total_words": 2555,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9626
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक एक्सपेरिमेंट करते हैं। आप जितने भी लोग यह वीडियो देख रहे हो, प्लीज एक बार वीडियो को पॉज करके कमेंट में लिखो कि आपके आसपास कितनी मैरिजेस फेल हो चुकी हैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बनो। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पर लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 127
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "हैं",
+      "count": 63
+    },
+    {
+      "word": "के",
+      "count": 53
+    },
+    {
+      "word": "नहीं",
+      "count": 47
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 45
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 37
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "शादी",
+      "count": 29
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "यह",
+      "count": 20
+    },
+    {
+      "word": "बहुत",
+      "count": 20
+    },
+    {
+      "word": "हो",
+      "count": 19
+    },
+    {
+      "word": "वुमेन",
+      "count": 16
+    },
+    {
+      "word": "केसेस",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 11
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 11
+    },
+    {
+      "phrase": "रहा है",
+      "count": 9
+    },
+    {
+      "phrase": "है तो",
+      "count": 9
+    },
+    {
+      "phrase": "होती है",
+      "count": 8
+    },
+    {
+      "phrase": "आज भी",
+      "count": 7
+    },
+    {
+      "phrase": "वजह से",
+      "count": 7
+    }
+  ],
+  "segment_count": 81
+}

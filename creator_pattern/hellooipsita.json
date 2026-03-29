@@ -1,0 +1,26 @@
+{
+  "creator": "hellooipsita",
+  "last_updated": "2026-03-29T14:31:24.431399",
+  "pacing": {
+    "avg_wps": 2.9772414340387012,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 2.9772414340387012,
+        "duration": 607.1
+      }
+    }
+  },
+  "signature_hooks": [
+    "so in",
+    "to talk",
+    "about the",
+    "going to",
+    "so i",
+    "in this",
+    "this video",
+    "one night",
+    "i started",
+    "video we're"
+  ],
+  "uniqueness_traits": []
+}

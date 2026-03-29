@@ -1,0 +1,150 @@
+{
+  "video_id": "s1Q2ya-QBfA",
+  "duration_seconds": 831,
+  "wps": 3.7,
+  "total_words": 3073,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11280
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डियर बिहारीज आज मैं आपसे सीधी बात करने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 159
+    },
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "बिहार",
+      "count": 68
+    },
+    {
+      "word": "के",
+      "count": 68
+    },
+    {
+      "word": "तो",
+      "count": 63
+    },
+    {
+      "word": "हैं",
+      "count": 60
+    },
+    {
+      "word": "और",
+      "count": 47
+    },
+    {
+      "word": "कि",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "की",
+      "count": 44
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "को",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "बिहार में",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "बिहार के",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "बिहार की",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "होता है",
+      "count": 11
+    },
+    {
+      "phrase": "है यह",
+      "count": 11
+    }
+  ],
+  "segment_count": 389
+}

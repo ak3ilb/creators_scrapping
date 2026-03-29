@@ -1,0 +1,148 @@
+{
+  "video_id": "kIpQ5d7Pj-Y",
+  "duration_seconds": 89,
+  "wps": 3.18,
+  "total_words": 283,
+  "language_mix": {
+    "hindi": 98.6,
+    "english": 1.4,
+    "total_chars": 1208
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्यों लड़कियों को अनअट्रैक्टिव लड़के पसंद आते हैं? यह पैटर्न आपने भी नोटिस किया होगा कि एक कन्वेंशनली अट्रैक्टिव"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कॉन्टेक्स्ट में आप बेरोजगार और लफंगे नजर आ रहे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "लड़कियों",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "लड़के",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "लड़कों",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "अनअट्रैक्टिव",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लड़कियों को",
+      "count": 3
+    },
+    {
+      "phrase": "के साथ",
+      "count": 3
+    },
+    {
+      "phrase": "अनअट्रैक्टिव लड़के",
+      "count": 2
+    },
+    {
+      "phrase": "एक कन्वेंशनली",
+      "count": 2
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "लड़कों का",
+      "count": 2
+    },
+    {
+      "phrase": "लड़कियों का",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

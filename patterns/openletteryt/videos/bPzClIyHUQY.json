@@ -1,0 +1,148 @@
+{
+  "video_id": "bPzClIyHUQY",
+  "duration_seconds": 989,
+  "wps": 4.09,
+  "total_words": 4045,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 15615
+  },
+  "hook": {
+    "type": "statement",
+    "text": "भारत की इकॉनमी से रिलेटेड हमेशा दो बड़ी कंट्रास्टिंग हेडलाइन सुनने को मिलती हैं। एक हेडलाइन है जिसमें भारत ने 8.2% जीडीपी ग्रोथ अचीव करी है और दूसरी है जहां पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 207
+    },
+    {
+      "word": "में",
+      "count": 119
+    },
+    {
+      "word": "हैं",
+      "count": 82
+    },
+    {
+      "word": "और",
+      "count": 79
+    },
+    {
+      "word": "से",
+      "count": 68
+    },
+    {
+      "word": "की",
+      "count": 62
+    },
+    {
+      "word": "तो",
+      "count": 59
+    },
+    {
+      "word": "जो",
+      "count": 56
+    },
+    {
+      "word": "भी",
+      "count": 55
+    },
+    {
+      "word": "के",
+      "count": 54
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "भारत",
+      "count": 52
+    },
+    {
+      "word": "हो",
+      "count": 45
+    },
+    {
+      "word": "का",
+      "count": 44
+    },
+    {
+      "word": "को",
+      "count": 41
+    },
+    {
+      "word": "कर",
+      "count": 38
+    },
+    {
+      "word": "रहे",
+      "count": 34
+    },
+    {
+      "word": "पर",
+      "count": 33
+    },
+    {
+      "word": "आप",
+      "count": 31
+    },
+    {
+      "word": "रहा",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 29
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 28
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "है कि",
+      "count": 20
+    },
+    {
+      "phrase": "होता है",
+      "count": 15
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 15
+    },
+    {
+      "phrase": "भारत की",
+      "count": 13
+    },
+    {
+      "phrase": "है वो",
+      "count": 13
+    },
+    {
+      "phrase": "भारत में",
+      "count": 13
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    }
+  ],
+  "segment_count": 126
+}

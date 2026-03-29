@@ -1,0 +1,150 @@
+{
+  "video_id": "MeKRcqLFbto",
+  "duration_seconds": 1030,
+  "wps": 3.66,
+  "total_words": 3773,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 13777
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पिछले दिनों समय रैना का शो इंडियास गॉट लेटेंट और रणवीर अलाबादिया को लेकर एक बड़ी कंट्रोवर्सी हुई पूरे देश का मीडिया सोशल मीडिया पॉलिटिकल पार्टीज पॉलिटिशियन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिटिसाइज कर सको यही अब्सोल्यूट फ्रीडम ऑफ स्पीच है जो बहुत जरूरी है एज"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 142
+    },
+    {
+      "word": "में",
+      "count": 85
+    },
+    {
+      "word": "के",
+      "count": 79
+    },
+    {
+      "word": "और",
+      "count": 66
+    },
+    {
+      "word": "हैं",
+      "count": 55
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "एक",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "तो",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 43
+    },
+    {
+      "word": "का",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 40
+    },
+    {
+      "word": "यह",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 37
+    },
+    {
+      "word": "जो",
+      "count": 36
+    },
+    {
+      "word": "वो",
+      "count": 33
+    },
+    {
+      "word": "ये",
+      "count": 33
+    },
+    {
+      "word": "लोग",
+      "count": 31
+    },
+    {
+      "word": "था",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "है तो",
+      "count": 9
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 9
+    },
+    {
+      "phrase": "डार्क ह्यूमर",
+      "count": 8
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 8
+    },
+    {
+      "phrase": "जाता है",
+      "count": 7
+    }
+  ],
+  "segment_count": 125
+}

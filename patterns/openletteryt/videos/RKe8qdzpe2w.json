@@ -1,0 +1,149 @@
+{
+  "video_id": "RKe8qdzpe2w",
+  "duration_seconds": 1012,
+  "wps": 4.05,
+  "total_words": 4095,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 15068
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अब तक शाहरुख खान का यह वाला मीम आपकी भी सोशल मीडिया फीड पर भर चुका होगा। एसआरके की पोस्ट के नीचे किसी ने यह एडिटेड फोटो एज अ जिफ कमेंट किया था और इससे इनकी पीआर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कहां ड्रॉ होनी चाहिए इस पे हमें बैठ के कभी सीरियसली सोचना पड़ेगा। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 138
+    },
+    {
+      "word": "के",
+      "count": 91
+    },
+    {
+      "word": "हैं",
+      "count": 74
+    },
+    {
+      "word": "में",
+      "count": 69
+    },
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "एक",
+      "count": 54
+    },
+    {
+      "word": "कि",
+      "count": 52
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "भी",
+      "count": 49
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "ये",
+      "count": 45
+    },
+    {
+      "word": "लोग",
+      "count": 42
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 37
+    },
+    {
+      "word": "पे",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "था",
+      "count": 33
+    },
+    {
+      "word": "मीम",
+      "count": 31
+    },
+    {
+      "word": "ने",
+      "count": 31
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 19
+    },
+    {
+      "phrase": "रहा है",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "के टाइम",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 12
+    },
+    {
+      "phrase": "वजह से",
+      "count": 11
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "आज के",
+      "count": 10
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 9
+    }
+  ],
+  "segment_count": 128
+}

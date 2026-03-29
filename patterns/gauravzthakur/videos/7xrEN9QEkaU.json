@@ -1,0 +1,148 @@
+{
+  "video_id": "7xrEN9QEkaU",
+  "duration_seconds": 98,
+  "wps": 2.66,
+  "total_words": 261,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 988
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "15 सितंबर साल 1900 कुछ ग्रीक ड्राइवर्स ग्रीस के नजदीकी एंटीकेथेरा नाम के आइलैंड के तट पर डुबकियां लगा रहे थे और तभी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टू एवर एकज़िस्ट ऑन"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 10
+    },
+    {
+      "word": "था",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "यंत्र",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "कुछ",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "हुआ",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "2000",
+      "count": 3
+    },
+    {
+      "word": "हुए",
+      "count": 3
+    },
+    {
+      "word": "नाम",
+      "count": 2
+    },
+    {
+      "word": "जहाज",
+      "count": 2
+    },
+    {
+      "word": "मिला",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "2000 साल",
+      "count": 3
+    },
+    {
+      "phrase": "हुआ था",
+      "count": 2
+    },
+    {
+      "phrase": "खजाने में",
+      "count": 2
+    },
+    {
+      "phrase": "एक बहुत",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 2
+    },
+    {
+      "phrase": "था यह",
+      "count": 2
+    },
+    {
+      "phrase": "यह एक",
+      "count": 2
+    },
+    {
+      "phrase": "यंत्र था",
+      "count": 2
+    },
+    {
+      "phrase": "आधुनिक यंत्र",
+      "count": 2
+    },
+    {
+      "phrase": "15 सितंबर",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

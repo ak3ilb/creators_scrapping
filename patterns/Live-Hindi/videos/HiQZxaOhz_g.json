@@ -1,0 +1,148 @@
+{
+  "video_id": "HiQZxaOhz_g",
+  "duration_seconds": 938,
+  "wps": 3.04,
+  "total_words": 2850,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 10714
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सिर्फ ₹20 में मिलने वाली इस रेड बॉटल को एक मजदूर पीता है अपनी थकान मिटाने के लिए। तो वहीं एक कॉलेज स्टूडेंट नींद"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करके जरूर बताइएगा कि क्या आपने कभी यह ड्रिंक पी है और अगर पी है तो इसका टेस्ट आपको कैसा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 88
+    },
+    {
+      "word": "के",
+      "count": 72
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "है",
+      "count": 64
+    },
+    {
+      "word": "की",
+      "count": 63
+    },
+    {
+      "word": "एक",
+      "count": 61
+    },
+    {
+      "word": "स्टिंग",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "ड्रिंक",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "था",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "एनर्जी",
+      "count": 34
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "मार्केट",
+      "count": 24
+    },
+    {
+      "word": "ने",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एनर्जी ड्रिंक",
+      "count": 27
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "रेड बुल",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 11
+    },
+    {
+      "phrase": "जो कि",
+      "count": 11
+    },
+    {
+      "phrase": "स्टिंग को",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 7
+    },
+    {
+      "phrase": "होता है",
+      "count": 7
+    }
+  ],
+  "segment_count": 119
+}

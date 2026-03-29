@@ -1,0 +1,149 @@
+{
+  "video_id": "LlAV3koc4_0",
+  "duration_seconds": 670,
+  "wps": 3.08,
+  "total_words": 2061,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 8025
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और जरा इससे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कीप ग्रोइंग।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "में",
+      "count": 44
+    },
+    {
+      "word": "के",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 34
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "था",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "और",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 24
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 22
+    },
+    {
+      "word": "थे",
+      "count": 21
+    },
+    {
+      "word": "इस",
+      "count": 21
+    },
+    {
+      "word": "जो",
+      "count": 16
+    },
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "हो",
+      "count": 15
+    },
+    {
+      "word": "हुआ",
+      "count": 14
+    },
+    {
+      "word": "वो",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिलियन साल",
+      "count": 7
+    },
+    {
+      "phrase": "करते थे",
+      "count": 7
+    },
+    {
+      "phrase": "साल पहले",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "आज से",
+      "count": 5
+    },
+    {
+      "phrase": "यह है",
+      "count": 4
+    },
+    {
+      "phrase": "बारे में",
+      "count": 4
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "था एक",
+      "count": 4
+    },
+    {
+      "phrase": "करता था",
+      "count": 4
+    }
+  ],
+  "segment_count": 265
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "gZXpmpCxdmU",
+  "duration_seconds": 64,
+  "wps": 2.38,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 778
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "India just launched three sovereign AI"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "sovereign AI?"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "ai",
+      "count": 6
+    },
+    {
+      "word": "model",
+      "count": 5
+    },
+    {
+      "word": "india",
+      "count": 3
+    },
+    {
+      "word": "launched",
+      "count": 3
+    },
+    {
+      "word": "models",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "billion",
+      "count": 3
+    },
+    {
+      "word": "parameter",
+      "count": 3
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "sovereign",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "gemini",
+      "count": 2
+    },
+    {
+      "word": "benchmarks",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "indian",
+      "count": 2
+    },
+    {
+      "word": "unveiled",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "billion parameter",
+      "count": 3
+    },
+    {
+      "phrase": "sovereign ai",
+      "count": 2
+    },
+    {
+      "phrase": "and google",
+      "count": 2
+    },
+    {
+      "phrase": "google gemini",
+      "count": 2
+    },
+    {
+      "phrase": "parameter model",
+      "count": 2
+    },
+    {
+      "phrase": "india just",
+      "count": 1
+    },
+    {
+      "phrase": "just launched",
+      "count": 1
+    },
+    {
+      "phrase": "launched three",
+      "count": 1
+    },
+    {
+      "phrase": "three sovereign",
+      "count": 1
+    },
+    {
+      "phrase": "ai models",
+      "count": 1
+    }
+  ],
+  "segment_count": 26
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "Om-NseIZTAY",
+  "duration_seconds": 2740,
+  "wps": 3.25,
+  "total_words": 8907,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 39233
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "BJP and Congress are breaking the law of the country and taking money from outside and action should be taken against them."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Link is in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 432
+    },
+    {
+      "word": "to",
+      "count": 248
+    },
+    {
+      "word": "of",
+      "count": 203
+    },
+    {
+      "word": "and",
+      "count": 188
+    },
+    {
+      "word": "in",
+      "count": 186
+    },
+    {
+      "word": "that",
+      "count": 182
+    },
+    {
+      "word": "it",
+      "count": 155
+    },
+    {
+      "word": "this",
+      "count": 123
+    },
+    {
+      "word": "was",
+      "count": 116
+    },
+    {
+      "word": "so",
+      "count": 105
+    },
+    {
+      "word": "they",
+      "count": 101
+    },
+    {
+      "word": "money",
+      "count": 92
+    },
+    {
+      "word": "political",
+      "count": 91
+    },
+    {
+      "word": "then",
+      "count": 85
+    },
+    {
+      "word": "is",
+      "count": 85
+    },
+    {
+      "word": "which",
+      "count": 82
+    },
+    {
+      "word": "were",
+      "count": 75
+    },
+    {
+      "word": "be",
+      "count": 67
+    },
+    {
+      "word": "you",
+      "count": 64
+    },
+    {
+      "word": "party",
+      "count": 64
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "political parties",
+      "count": 52
+    },
+    {
+      "phrase": "in the",
+      "count": 38
+    },
+    {
+      "phrase": "of the",
+      "count": 32
+    },
+    {
+      "phrase": "political party",
+      "count": 32
+    },
+    {
+      "phrase": "that the",
+      "count": 30
+    },
+    {
+      "phrase": "electoral bonds",
+      "count": 27
+    },
+    {
+      "phrase": "the political",
+      "count": 25
+    },
+    {
+      "phrase": "it was",
+      "count": 24
+    },
+    {
+      "phrase": "all the",
+      "count": 22
+    },
+    {
+      "phrase": "black money",
+      "count": 21
+    }
+  ],
+  "segment_count": 379
+}

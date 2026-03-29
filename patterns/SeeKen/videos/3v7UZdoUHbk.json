@@ -1,0 +1,149 @@
+{
+  "video_id": "3v7UZdoUHbk",
+  "duration_seconds": 606,
+  "wps": 3.59,
+  "total_words": 2174,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9381
+  },
+  "hook": {
+    "type": "question",
+    "text": "“Just give me 10 minutes of your time, and I promise you will learn how to get ahead of 99% of people. Hey friends, do you know what you should be doing?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "See you in the next video, bye-bye.”"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 72
+    },
+    {
+      "word": "you",
+      "count": 70
+    },
+    {
+      "word": "to",
+      "count": 55
+    },
+    {
+      "word": "and",
+      "count": 44
+    },
+    {
+      "word": "that",
+      "count": 44
+    },
+    {
+      "word": "in",
+      "count": 39
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "of",
+      "count": 30
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "your",
+      "count": 29
+    },
+    {
+      "word": "this",
+      "count": 23
+    },
+    {
+      "word": "for",
+      "count": 19
+    },
+    {
+      "word": "can",
+      "count": 17
+    },
+    {
+      "word": "but",
+      "count": 16
+    },
+    {
+      "word": "subconscious",
+      "count": 16
+    },
+    {
+      "word": "take",
+      "count": 15
+    },
+    {
+      "word": "even",
+      "count": 15
+    },
+    {
+      "word": "he",
+      "count": 15
+    },
+    {
+      "word": "will",
+      "count": 14
+    },
+    {
+      "word": "if",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your subconscious",
+      "count": 8
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "if you",
+      "count": 6
+    },
+    {
+      "phrase": "don’t have",
+      "count": 6
+    },
+    {
+      "phrase": "you can",
+      "count": 6
+    },
+    {
+      "phrase": "of your",
+      "count": 5
+    },
+    {
+      "phrase": "how to",
+      "count": 5
+    },
+    {
+      "phrase": "subconscious mind",
+      "count": 5
+    },
+    {
+      "phrase": "the lie",
+      "count": 5
+    },
+    {
+      "phrase": "you may",
+      "count": 4
+    }
+  ],
+  "segment_count": 93
+}

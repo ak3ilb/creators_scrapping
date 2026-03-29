@@ -1,0 +1,149 @@
+{
+  "video_id": "O4XCtFPEoNo",
+  "duration_seconds": 1419,
+  "wps": 3.22,
+  "total_words": 4568,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 17042
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब टा ग्रुप ने अपने लॉस में जा रहे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "राइट वाली वीडियो को देख लेना समझ जाओगे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 108
+    },
+    {
+      "word": "के",
+      "count": 108
+    },
+    {
+      "word": "है",
+      "count": 102
+    },
+    {
+      "word": "को",
+      "count": 89
+    },
+    {
+      "word": "भी",
+      "count": 86
+    },
+    {
+      "word": "और",
+      "count": 83
+    },
+    {
+      "word": "कि",
+      "count": 75
+    },
+    {
+      "word": "से",
+      "count": 72
+    },
+    {
+      "word": "की",
+      "count": 64
+    },
+    {
+      "word": "तो",
+      "count": 62
+    },
+    {
+      "word": "ही",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 45
+    },
+    {
+      "word": "का",
+      "count": 43
+    },
+    {
+      "word": "ये",
+      "count": 36
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "हो",
+      "count": 33
+    },
+    {
+      "word": "था",
+      "count": 33
+    },
+    {
+      "word": "हैं",
+      "count": 33
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "बहुत",
+      "count": 31
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "के बाद",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "वजह से",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "से भी",
+      "count": 10
+    },
+    {
+      "phrase": "टा ने",
+      "count": 8
+    },
+    {
+      "phrase": "होता है",
+      "count": 8
+    }
+  ],
+  "segment_count": 579
+}

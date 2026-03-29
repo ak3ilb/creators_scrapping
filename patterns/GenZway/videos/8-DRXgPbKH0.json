@@ -1,0 +1,150 @@
+{
+  "video_id": "8-DRXgPbKH0",
+  "duration_seconds": 1443,
+  "wps": 4.59,
+  "total_words": 6627,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 23214
+  },
+  "hook": {
+    "type": "statement",
+    "text": "तुम लोग अंबानी अडानी को गाली दे दे के बोर हो गए होगे ना अपनी एक आंख छोटी करके बैठे हो तुम्हें एक नया बंदा बताता हूं और जब मैं इसके ऊपर रिसर्च कर रहा था भाई ये"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सामान खरीद के देश को बाद में संभाल लेना है। पहले खुद को देखो भैया क्या खा रहे हो। तो बाकी आज की वीडियो में इतना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 212
+    },
+    {
+      "word": "है",
+      "count": 203
+    },
+    {
+      "word": "के",
+      "count": 201
+    },
+    {
+      "word": "बाबा",
+      "count": 129
+    },
+    {
+      "word": "कि",
+      "count": 98
+    },
+    {
+      "word": "को",
+      "count": 97
+    },
+    {
+      "word": "भैया",
+      "count": 96
+    },
+    {
+      "word": "नहीं",
+      "count": 87
+    },
+    {
+      "word": "भी",
+      "count": 87
+    },
+    {
+      "word": "अंदर",
+      "count": 84
+    },
+    {
+      "word": "ने",
+      "count": 83
+    },
+    {
+      "word": "तो",
+      "count": 82
+    },
+    {
+      "word": "ये",
+      "count": 81
+    },
+    {
+      "word": "की",
+      "count": 80
+    },
+    {
+      "word": "ना",
+      "count": 69
+    },
+    {
+      "word": "हो",
+      "count": 68
+    },
+    {
+      "word": "थे",
+      "count": 65
+    },
+    {
+      "word": "में",
+      "count": 65
+    },
+    {
+      "word": "एक",
+      "count": 64
+    },
+    {
+      "word": "था",
+      "count": 64
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कि भैया",
+      "count": 70
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 67
+    },
+    {
+      "phrase": "है और",
+      "count": 34
+    },
+    {
+      "phrase": "बाबा ने",
+      "count": 30
+    },
+    {
+      "phrase": "बाबा जी",
+      "count": 29
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 20
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 20
+    },
+    {
+      "phrase": "है कि",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 16
+    },
+    {
+      "phrase": "थे और",
+      "count": 15
+    }
+  ],
+  "segment_count": 186
+}

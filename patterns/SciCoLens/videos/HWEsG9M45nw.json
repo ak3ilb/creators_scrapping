@@ -1,0 +1,149 @@
+{
+  "video_id": "HWEsG9M45nw",
+  "duration_seconds": 1648,
+  "wps": 2.97,
+  "total_words": 4900,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 19051
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सन 1625 सिर्फ सात मौतें और दुनिया का सबसे बड़ा साम्राज्य घुटनों पर आ गया। वो दो देशों में बट गया। मंगोलिया यह देश आज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिए तैयार क्यों हो रहा है? इसे देखना जरूर। जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 135
+    },
+    {
+      "word": "के",
+      "count": 125
+    },
+    {
+      "word": "से",
+      "count": 105
+    },
+    {
+      "word": "और",
+      "count": 100
+    },
+    {
+      "word": "है",
+      "count": 98
+    },
+    {
+      "word": "मंगोलिया",
+      "count": 90
+    },
+    {
+      "word": "की",
+      "count": 84
+    },
+    {
+      "word": "एक",
+      "count": 75
+    },
+    {
+      "word": "भी",
+      "count": 72
+    },
+    {
+      "word": "को",
+      "count": 66
+    },
+    {
+      "word": "था",
+      "count": 63
+    },
+    {
+      "word": "का",
+      "count": 60
+    },
+    {
+      "word": "पर",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 49
+    },
+    {
+      "word": "ही",
+      "count": 46
+    },
+    {
+      "word": "नहीं",
+      "count": 44
+    },
+    {
+      "word": "ने",
+      "count": 44
+    },
+    {
+      "word": "इस",
+      "count": 44
+    },
+    {
+      "word": "यह",
+      "count": 35
+    },
+    {
+      "word": "हो",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 28
+    },
+    {
+      "phrase": "मंगोलिया में",
+      "count": 19
+    },
+    {
+      "phrase": "वजह से",
+      "count": 17
+    },
+    {
+      "phrase": "चिंग डायनेस्टी",
+      "count": 17
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 14
+    },
+    {
+      "phrase": "की वजह",
+      "count": 13
+    },
+    {
+      "phrase": "मंगोलिया की",
+      "count": 13
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 11
+    },
+    {
+      "phrase": "रहा था",
+      "count": 11
+    }
+  ],
+  "segment_count": 207
+}

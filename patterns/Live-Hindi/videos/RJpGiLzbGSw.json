@@ -1,0 +1,148 @@
+{
+  "video_id": "RJpGiLzbGSw",
+  "duration_seconds": 1044,
+  "wps": 2.99,
+  "total_words": 3119,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12139
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आपको पता है इंडिया के हाईवेज पर दौड़ने वाला हर तीसरा ट्रक या बस अशोक लीलैंड का है यह सिर्फ एक कंपनी नहीं है बल्कि देश"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिलायबल व्हीकल मैन्युफैक्चरर्स में से एक माना जाता है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 111
+    },
+    {
+      "word": "में",
+      "count": 103
+    },
+    {
+      "word": "और",
+      "count": 73
+    },
+    {
+      "word": "को",
+      "count": 68
+    },
+    {
+      "word": "की",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "अशोक",
+      "count": 48
+    },
+    {
+      "word": "लीलैंड",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "ने",
+      "count": 45
+    },
+    {
+      "word": "था",
+      "count": 39
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 37
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "थी",
+      "count": 31
+    },
+    {
+      "word": "कंपनी",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "ही",
+      "count": 27
+    },
+    {
+      "word": "कर",
+      "count": 27
+    },
+    {
+      "word": "लिए",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अशोक लीलैंड",
+      "count": 39
+    },
+    {
+      "phrase": "के लिए",
+      "count": 23
+    },
+    {
+      "phrase": "के साथ",
+      "count": 19
+    },
+    {
+      "phrase": "लीलैंड ने",
+      "count": 17
+    },
+    {
+      "phrase": "जो कि",
+      "count": 16
+    },
+    {
+      "phrase": "साथ में",
+      "count": 10
+    },
+    {
+      "phrase": "में अशोक",
+      "count": 9
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "थी कि",
+      "count": 7
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    }
+  ],
+  "segment_count": 132
+}

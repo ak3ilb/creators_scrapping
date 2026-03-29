@@ -1,0 +1,149 @@
+{
+  "video_id": "nWc3c1Lvp1Q",
+  "duration_seconds": 2431,
+  "wps": 3.16,
+  "total_words": 7694,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 32750
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "25 Nihang Singhs surround the mosque from all 4 sides and write 'Ram' with coal inside the mosque. On the other hand, lashkar-e-Taiba's 5 terrorists enter to attack."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "The second floor and third floor are still in progress."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 458
+    },
+    {
+      "word": "this",
+      "count": 199
+    },
+    {
+      "word": "and",
+      "count": 195
+    },
+    {
+      "word": "in",
+      "count": 181
+    },
+    {
+      "word": "of",
+      "count": 169
+    },
+    {
+      "word": "that",
+      "count": 166
+    },
+    {
+      "word": "was",
+      "count": 163
+    },
+    {
+      "word": "to",
+      "count": 129
+    },
+    {
+      "word": "is",
+      "count": 109
+    },
+    {
+      "word": "it",
+      "count": 96
+    },
+    {
+      "word": "on",
+      "count": 94
+    },
+    {
+      "word": "ram",
+      "count": 87
+    },
+    {
+      "word": "so",
+      "count": 86
+    },
+    {
+      "word": "but",
+      "count": 59
+    },
+    {
+      "word": "now",
+      "count": 58
+    },
+    {
+      "word": "after",
+      "count": 55
+    },
+    {
+      "word": "they",
+      "count": 54
+    },
+    {
+      "word": "were",
+      "count": 54
+    },
+    {
+      "word": "court",
+      "count": 53
+    },
+    {
+      "word": "all",
+      "count": 52
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 33
+    },
+    {
+      "phrase": "after this",
+      "count": 30
+    },
+    {
+      "phrase": "ram temple",
+      "count": 28
+    },
+    {
+      "phrase": "of the",
+      "count": 25
+    },
+    {
+      "phrase": "the mosque",
+      "count": 24
+    },
+    {
+      "phrase": "it was",
+      "count": 23
+    },
+    {
+      "phrase": "and the",
+      "count": 22
+    },
+    {
+      "phrase": "in this",
+      "count": 21
+    },
+    {
+      "phrase": "on the",
+      "count": 20
+    },
+    {
+      "phrase": "of ram",
+      "count": 20
+    }
+  ],
+  "segment_count": 293
+}

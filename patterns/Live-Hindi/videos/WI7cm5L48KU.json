@@ -1,0 +1,149 @@
+{
+  "video_id": "WI7cm5L48KU",
+  "duration_seconds": 1024,
+  "wps": 2.69,
+  "total_words": 2755,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 10523
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों आपने यह कहावत तो सुनी ही होगी बाइक हो तो बुलेट जैसी और शायद यही वजह है कि यल एफी सिर्फ सड़कों पर नहीं बल्कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तो फिर किसी भी चुनौती को पार किया जा सकता है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 95
+    },
+    {
+      "word": "और",
+      "count": 66
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "को",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 55
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "ने",
+      "count": 39
+    },
+    {
+      "word": "था",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "कंपनी",
+      "count": 37
+    },
+    {
+      "word": "आयर",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "इस",
+      "count": 28
+    },
+    {
+      "word": "थी",
+      "count": 27
+    },
+    {
+      "word": "कर",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "लिए",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 12
+    },
+    {
+      "phrase": "आयर मोटर्स",
+      "count": 9
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "इंडियन मार्केट",
+      "count": 9
+    },
+    {
+      "phrase": "तरह से",
+      "count": 8
+    },
+    {
+      "phrase": "कंपनी के",
+      "count": 7
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 7
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 7
+    },
+    {
+      "phrase": "थी कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 120
+}

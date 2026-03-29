@@ -1,0 +1,148 @@
+{
+  "video_id": "lwkAAigffgE",
+  "duration_seconds": 92,
+  "wps": 3.1,
+  "total_words": 285,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1183
+  },
+  "hook": {
+    "type": "question",
+    "text": "प्लास्टिक के बोतल में पानी तो हर कोई पीता है। राइट? कोलंबिया यूनिवर्सिटी और नेशनल इंस्टट्यूट ऑफ हेल्थ के एक रिसर्च में 1 लीटर पानी के प्लास्टिक बोतल में ऑन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ढेर तले दबी हुई"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "प्लास्टिक",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "पार्टिकल्स",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "मगर",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "लेयर",
+      "count": 3
+    },
+    {
+      "word": "बोतल",
+      "count": 2
+    },
+    {
+      "word": "पानी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 3
+    },
+    {
+      "phrase": "प्लास्टिक के",
+      "count": 2
+    },
+    {
+      "phrase": "बोतल में",
+      "count": 2
+    },
+    {
+      "phrase": "एक रिसर्च",
+      "count": 2
+    },
+    {
+      "phrase": "का भी",
+      "count": 2
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं मगर",
+      "count": 2
+    },
+    {
+      "phrase": "है एक",
+      "count": 2
+    },
+    {
+      "phrase": "लगता है",
+      "count": 2
+    },
+    {
+      "phrase": "एलुमिनियम फॉइल",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

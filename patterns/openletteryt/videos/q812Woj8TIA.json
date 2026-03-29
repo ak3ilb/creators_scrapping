@@ -1,0 +1,149 @@
+{
+  "video_id": "q812Woj8TIA",
+  "duration_seconds": 867,
+  "wps": 3.18,
+  "total_words": 2754,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12752
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Today, one in six companies do not want to hire JG workers"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "actions."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 124
+    },
+    {
+      "word": "to",
+      "count": 85
+    },
+    {
+      "word": "of",
+      "count": 85
+    },
+    {
+      "word": "in",
+      "count": 80
+    },
+    {
+      "word": "and",
+      "count": 77
+    },
+    {
+      "word": "is",
+      "count": 73
+    },
+    {
+      "word": "it",
+      "count": 44
+    },
+    {
+      "word": "this",
+      "count": 40
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "are",
+      "count": 38
+    },
+    {
+      "word": "people",
+      "count": 32
+    },
+    {
+      "word": "you",
+      "count": 29
+    },
+    {
+      "word": "these",
+      "count": 27
+    },
+    {
+      "word": "not",
+      "count": 23
+    },
+    {
+      "word": "work",
+      "count": 23
+    },
+    {
+      "word": "from",
+      "count": 23
+    },
+    {
+      "word": "generation",
+      "count": 23
+    },
+    {
+      "word": "or",
+      "count": 22
+    },
+    {
+      "word": "have",
+      "count": 22
+    },
+    {
+      "word": "also",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 18
+    },
+    {
+      "phrase": "these people",
+      "count": 18
+    },
+    {
+      "phrase": "it is",
+      "count": 18
+    },
+    {
+      "phrase": "of the",
+      "count": 13
+    },
+    {
+      "phrase": "is also",
+      "count": 10
+    },
+    {
+      "phrase": "that is",
+      "count": 9
+    },
+    {
+      "phrase": "due to",
+      "count": 9
+    },
+    {
+      "phrase": "a lot",
+      "count": 8
+    },
+    {
+      "phrase": "there is",
+      "count": 7
+    },
+    {
+      "phrase": "people are",
+      "count": 7
+    }
+  ],
+  "segment_count": 197
+}

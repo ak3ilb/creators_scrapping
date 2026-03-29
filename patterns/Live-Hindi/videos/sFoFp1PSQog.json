@@ -1,0 +1,148 @@
+{
+  "video_id": "sFoFp1PSQog",
+  "duration_seconds": 1022,
+  "wps": 3.01,
+  "total_words": 3072,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 11870
+  },
+  "hook": {
+    "type": "question",
+    "text": "एक लड़का जो बचपन में पोलियो का शिकार हो गया हो, जिसे चलने के लिए बैसाखियों का सहारा लेना पड़ता हो, क्या वह कभी अपने दम पर हजारों करोड़ों की कंपनी बना सकता है?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देखना ना भूलिएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 87
+    },
+    {
+      "word": "में",
+      "count": 74
+    },
+    {
+      "word": "से",
+      "count": 66
+    },
+    {
+      "word": "के",
+      "count": 60
+    },
+    {
+      "word": "की",
+      "count": 53
+    },
+    {
+      "word": "था",
+      "count": 51
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "विशाल",
+      "count": 46
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "ही",
+      "count": 42
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "रिटेल",
+      "count": 33
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "हो",
+      "count": 26
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    },
+    {
+      "word": "नहीं",
+      "count": 25
+    },
+    {
+      "word": "थे",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "विशाल रिटेल",
+      "count": 22
+    },
+    {
+      "phrase": "विशाल मेगा",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "रामचंद्र अग्रवाल",
+      "count": 12
+    },
+    {
+      "phrase": "रामचंद्र जी",
+      "count": 10
+    },
+    {
+      "phrase": "रहा था",
+      "count": 9
+    },
+    {
+      "phrase": "हो गया",
+      "count": 8
+    },
+    {
+      "phrase": "तरह से",
+      "count": 8
+    },
+    {
+      "phrase": "को भी",
+      "count": 7
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 6
+    }
+  ],
+  "segment_count": 130
+}

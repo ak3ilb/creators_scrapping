@@ -1,0 +1,149 @@
+{
+  "video_id": "6QShuW_QYsg",
+  "duration_seconds": 2717,
+  "wps": 3.2,
+  "total_words": 8689,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 37779
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So one day Manish Sisodia & these people meet at Sanjay Singh's house and they gather-up in the business center area of the hotel and were discussing."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 344
+    },
+    {
+      "word": "and",
+      "count": 250
+    },
+    {
+      "word": "of",
+      "count": 223
+    },
+    {
+      "word": "to",
+      "count": 210
+    },
+    {
+      "word": "in",
+      "count": 209
+    },
+    {
+      "word": "was",
+      "count": 183
+    },
+    {
+      "word": "that",
+      "count": 176
+    },
+    {
+      "word": "this",
+      "count": 175
+    },
+    {
+      "word": "it",
+      "count": 109
+    },
+    {
+      "word": "they",
+      "count": 100
+    },
+    {
+      "word": "is",
+      "count": 83
+    },
+    {
+      "word": "were",
+      "count": 82
+    },
+    {
+      "word": "liquor",
+      "count": 81
+    },
+    {
+      "word": "so",
+      "count": 72
+    },
+    {
+      "word": "policy",
+      "count": 71
+    },
+    {
+      "word": "delhi",
+      "count": 70
+    },
+    {
+      "word": "he",
+      "count": 69
+    },
+    {
+      "word": "on",
+      "count": 66
+    },
+    {
+      "word": "which",
+      "count": 66
+    },
+    {
+      "word": "from",
+      "count": 59
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 39
+    },
+    {
+      "phrase": "south group",
+      "count": 29
+    },
+    {
+      "phrase": "aam aadmi",
+      "count": 27
+    },
+    {
+      "phrase": "in delhi",
+      "count": 26
+    },
+    {
+      "phrase": "and the",
+      "count": 25
+    },
+    {
+      "phrase": "said that",
+      "count": 24
+    },
+    {
+      "phrase": "manish sisodia",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 23
+    },
+    {
+      "phrase": "it was",
+      "count": 22
+    },
+    {
+      "phrase": "aadmi party",
+      "count": 21
+    }
+  ],
+  "segment_count": 326
+}

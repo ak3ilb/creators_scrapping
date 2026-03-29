@@ -5,20 +5,30 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:31:40.872318+00:00",
-  "total_discovered": 439,
+  "last_updated": "2026-03-29T16:27:24.973434+00:00",
+  "total_discovered": 441,
   "ingestion_stats": {
-    "total": 64,
-    "ok": 63,
+    "total": 66,
+    "ok": 65,
     "low_quality": 0,
     "no_transcript": 1,
     "no_speech": 0
   },
-  "completion_percentage": "14.6%",
+  "completion_percentage": "15.0%",
   "videos": [
     {
+      "video_id": "faItjdg2JyI",
+      "title": "BAN E-RICKSHAW | Tirri ka Taandav",
+      "status": "OK"
+    },
+    {
+      "video_id": "7aZkKZyLm7c",
+      "title": "Dhurandhar - Reality OR Propaganda?",
+      "status": "OK"
+    },
+    {
       "video_id": "xnnc0MutFk4",
-      "title": "The man who DESTROYED of Iran...",
+      "title": "The man who DESTROYED Iran...",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -1113,7 +1123,7 @@
     },
     {
       "video_id": "MWEjI7AS4os",
-      "title": "Bengaluru FLOODS ka ASLI SACH kya hai?",
+      "title": "What is the real truth of Bengaluru Floods?",
       "status": "pending"
     },
     {

@@ -1,0 +1,149 @@
+{
+  "video_id": "fFLy2GEtWn8",
+  "duration_seconds": 59,
+  "wps": 3.17,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 635
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "मेरे भाई ने ली है ₹1 करोड़ की कार और अभी भी उसके अकाउंट में ₹78 लैस बचे हैं क्योंकि उसने दिमाग लगाकर एसआईपी की पावर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "उसने",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "कार",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "यूज़",
+      "count": 3
+    },
+    {
+      "word": "साल",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "उसके",
+      "count": 2
+    },
+    {
+      "word": "अकाउंट",
+      "count": 2
+    },
+    {
+      "word": "₹78",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भी उसके",
+      "count": 2
+    },
+    {
+      "phrase": "उसके अकाउंट",
+      "count": 2
+    },
+    {
+      "phrase": "अकाउंट में",
+      "count": 2
+    },
+    {
+      "phrase": "यूज़ किया",
+      "count": 2
+    },
+    {
+      "phrase": "स्टेप अप",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "का यूज़",
+      "count": 2
+    },
+    {
+      "phrase": "₹1.5 लाख",
+      "count": 2
+    },
+    {
+      "phrase": "लाख की",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

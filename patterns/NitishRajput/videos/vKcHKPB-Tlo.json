@@ -1,0 +1,149 @@
+{
+  "video_id": "vKcHKPB-Tlo",
+  "duration_seconds": 1256,
+  "wps": 3.69,
+  "total_words": 4633,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 19742
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Ajay Devgan got so angry that he complained in the competition commission of India"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 234
+    },
+    {
+      "word": "of",
+      "count": 111
+    },
+    {
+      "word": "in",
+      "count": 108
+    },
+    {
+      "word": "that",
+      "count": 92
+    },
+    {
+      "word": "and",
+      "count": 92
+    },
+    {
+      "word": "movie",
+      "count": 86
+    },
+    {
+      "word": "to",
+      "count": 83
+    },
+    {
+      "word": "it",
+      "count": 78
+    },
+    {
+      "word": "is",
+      "count": 64
+    },
+    {
+      "word": "they",
+      "count": 62
+    },
+    {
+      "word": "this",
+      "count": 51
+    },
+    {
+      "word": "movies",
+      "count": 48
+    },
+    {
+      "word": "so",
+      "count": 43
+    },
+    {
+      "word": "you",
+      "count": 43
+    },
+    {
+      "word": "then",
+      "count": 43
+    },
+    {
+      "word": "for",
+      "count": 36
+    },
+    {
+      "word": "from",
+      "count": 33
+    },
+    {
+      "word": "money",
+      "count": 33
+    },
+    {
+      "word": "as",
+      "count": 31
+    },
+    {
+      "word": "with",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the movie",
+      "count": 37
+    },
+    {
+      "phrase": "that -",
+      "count": 19
+    },
+    {
+      "phrase": "in the",
+      "count": 17
+    },
+    {
+      "phrase": "of the",
+      "count": 17
+    },
+    {
+      "phrase": "as well",
+      "count": 17
+    },
+    {
+      "phrase": "production houses",
+      "count": 16
+    },
+    {
+      "phrase": "and the",
+      "count": 15
+    },
+    {
+      "phrase": "from the",
+      "count": 11
+    },
+    {
+      "phrase": "to the",
+      "count": 11
+    },
+    {
+      "phrase": "of them",
+      "count": 10
+    }
+  ],
+  "segment_count": 382
+}

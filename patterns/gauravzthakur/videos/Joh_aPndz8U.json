@@ -1,0 +1,148 @@
+{
+  "video_id": "Joh_aPndz8U",
+  "duration_seconds": 109,
+  "wps": 3.32,
+  "total_words": 362,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1355
+  },
+  "hook": {
+    "type": "question",
+    "text": "इन दोनों बॉल्स में से पहले कौन सा बॉल नीचे गिरेगा? यह है एक 50 ग्राम का टेनिस बॉल और यह एक 5 किलो का शॉर्ट फुटबॉल। अगर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फोर्स की तरह।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "एक",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "फोर्स",
+      "count": 7
+    },
+    {
+      "word": "नीचे",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "रहा",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "बॉल्स",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "ग्रेविटी",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "नीचे गिरेगा",
+      "count": 3
+    },
+    {
+      "phrase": "फोर्स है",
+      "count": 3
+    },
+    {
+      "phrase": "इन बॉल्स",
+      "count": 3
+    },
+    {
+      "phrase": "दोनों बॉल्स",
+      "count": 2
+    },
+    {
+      "phrase": "पहले कौन",
+      "count": 2
+    },
+    {
+      "phrase": "कौन सा",
+      "count": 2
+    },
+    {
+      "phrase": "सा बॉल",
+      "count": 2
+    },
+    {
+      "phrase": "बॉल नीचे",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

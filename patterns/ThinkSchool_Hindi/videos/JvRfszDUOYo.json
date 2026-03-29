@@ -1,0 +1,150 @@
+{
+  "video_id": "JvRfszDUOYo",
+  "duration_seconds": 740,
+  "wps": 2.8,
+  "total_words": 2072,
+  "language_mix": {
+    "hindi": 98.7,
+    "english": 1.3,
+    "total_chars": 8285
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडियास डेवलपमेंट इज ऑफ ट्रेमेंडस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना!"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "के",
+      "count": 42
+    },
+    {
+      "word": "में",
+      "count": 42
+    },
+    {
+      "word": "है",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "एक",
+      "count": 20
+    },
+    {
+      "word": "पैराशूट",
+      "count": 19
+    },
+    {
+      "word": "मारिको",
+      "count": 19
+    },
+    {
+      "word": "एचयूएल",
+      "count": 18
+    },
+    {
+      "word": "हर्ष",
+      "count": 18
+    },
+    {
+      "word": "था",
+      "count": 17
+    },
+    {
+      "word": "यह",
+      "count": 15
+    },
+    {
+      "word": "भी",
+      "count": 14
+    },
+    {
+      "word": "दोस्तों",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मारिको को",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 6
+    },
+    {
+      "phrase": "एचयूएल के",
+      "count": 6
+    },
+    {
+      "phrase": "फॉर फॉर",
+      "count": 6
+    },
+    {
+      "phrase": "कोकोनट ऑयल",
+      "count": 5
+    },
+    {
+      "phrase": "हर्ष मरीवाला",
+      "count": 5
+    },
+    {
+      "phrase": "हर्ष मारीवाला",
+      "count": 5
+    },
+    {
+      "phrase": "मारीवाला ने",
+      "count": 5
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 5
+    }
+  ],
+  "segment_count": 279
+}

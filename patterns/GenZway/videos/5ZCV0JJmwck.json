@@ -1,0 +1,150 @@
+{
+  "video_id": "5ZCV0JJmwck",
+  "duration_seconds": 975,
+  "wps": 4.68,
+  "total_words": 4562,
+  "language_mix": {
+    "hindi": 98.2,
+    "english": 1.8,
+    "total_chars": 16479
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ध्रुव राठी इस दुनिया का पहला ऐसा बंदा होगा जिसके स्टार्टअप ल्च करने के बाद इसलिए हल्ला हो रहा है क्योंकि सेम चीज बाकी लोग भी बनाना चाहते थे। बट ध्रुव भाई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 228
+    },
+    {
+      "word": "के",
+      "count": 123
+    },
+    {
+      "word": "तो",
+      "count": 102
+    },
+    {
+      "word": "और",
+      "count": 94
+    },
+    {
+      "word": "को",
+      "count": 80
+    },
+    {
+      "word": "भी",
+      "count": 79
+    },
+    {
+      "word": "कि",
+      "count": 66
+    },
+    {
+      "word": "हैं",
+      "count": 63
+    },
+    {
+      "word": "का",
+      "count": 62
+    },
+    {
+      "word": "ये",
+      "count": 62
+    },
+    {
+      "word": "लोग",
+      "count": 56
+    },
+    {
+      "word": "वो",
+      "count": 49
+    },
+    {
+      "word": "कर",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "ना",
+      "count": 47
+    },
+    {
+      "word": "नहीं",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 43
+    },
+    {
+      "word": "अंदर",
+      "count": 40
+    },
+    {
+      "word": "हो",
+      "count": 35
+    },
+    {
+      "word": "ऊपर",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 26
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 26
+    },
+    {
+      "phrase": "है कि",
+      "count": 25
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "है तो",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 20
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 18
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 18
+    }
+  ],
+  "segment_count": 124
+}

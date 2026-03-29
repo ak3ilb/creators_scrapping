@@ -1,0 +1,149 @@
+{
+  "video_id": "ECbkD_GKeGg",
+  "duration_seconds": 73,
+  "wps": 2.36,
+  "total_words": 172,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 896
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Instagram is becoming a hiring signal."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "hire for now. Subscribe to full disclosure for more"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "for",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "instagram",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "creative",
+      "count": 3
+    },
+    {
+      "word": "now",
+      "count": 3
+    },
+    {
+      "word": "content",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "hiring",
+      "count": 2
+    },
+    {
+      "word": "audience",
+      "count": 2
+    },
+    {
+      "word": "digital",
+      "count": 2
+    },
+    {
+      "word": "shift",
+      "count": 2
+    },
+    {
+      "word": "marketing",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "market",
+      "count": 2
+    },
+    {
+      "word": "social",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of creative",
+      "count": 2
+    },
+    {
+      "phrase": "shift is",
+      "count": 2
+    },
+    {
+      "phrase": "how to",
+      "count": 2
+    },
+    {
+      "phrase": "instagram is",
+      "count": 1
+    },
+    {
+      "phrase": "is becoming",
+      "count": 1
+    },
+    {
+      "phrase": "becoming a",
+      "count": 1
+    },
+    {
+      "phrase": "a hiring",
+      "count": 1
+    },
+    {
+      "phrase": "hiring signal",
+      "count": 1
+    },
+    {
+      "phrase": "signal nearly",
+      "count": 1
+    },
+    {
+      "phrase": "nearly around",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

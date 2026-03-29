@@ -1,0 +1,149 @@
+{
+  "video_id": "ycJa0--QL-Y",
+  "duration_seconds": 870,
+  "wps": 3.19,
+  "total_words": 2774,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12298
+  },
+  "hook": {
+    "type": "question",
+    "text": "If you tell the CEO of a company that to get appointed, he has to appear in an interview in every department of his company."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "(music)"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 144
+    },
+    {
+      "word": "to",
+      "count": 93
+    },
+    {
+      "word": "of",
+      "count": 68
+    },
+    {
+      "word": "is",
+      "count": 65
+    },
+    {
+      "word": "and",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 61
+    },
+    {
+      "word": "that",
+      "count": 45
+    },
+    {
+      "word": "it",
+      "count": 37
+    },
+    {
+      "word": "you",
+      "count": 33
+    },
+    {
+      "word": "are",
+      "count": 33
+    },
+    {
+      "word": "have",
+      "count": 32
+    },
+    {
+      "word": "how",
+      "count": 31
+    },
+    {
+      "word": "not",
+      "count": 28
+    },
+    {
+      "word": "this",
+      "count": 25
+    },
+    {
+      "word": "be",
+      "count": 24
+    },
+    {
+      "word": "all",
+      "count": 24
+    },
+    {
+      "word": "education",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "we",
+      "count": 20
+    },
+    {
+      "word": "do",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 20
+    },
+    {
+      "phrase": "of the",
+      "count": 13
+    },
+    {
+      "phrase": "how to",
+      "count": 12
+    },
+    {
+      "phrase": "is it",
+      "count": 9
+    },
+    {
+      "phrase": "if you",
+      "count": 8
+    },
+    {
+      "phrase": "able to",
+      "count": 8
+    },
+    {
+      "phrase": "education system",
+      "count": 8
+    },
+    {
+      "phrase": "this is",
+      "count": 7
+    },
+    {
+      "phrase": "it is",
+      "count": 7
+    },
+    {
+      "phrase": "of a",
+      "count": 6
+    }
+  ],
+  "segment_count": 108
+}

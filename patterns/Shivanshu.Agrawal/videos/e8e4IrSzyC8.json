@@ -1,0 +1,149 @@
+{
+  "video_id": "e8e4IrSzyC8",
+  "duration_seconds": 989,
+  "wps": 2.34,
+  "total_words": 2313,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11243
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The year is 1893."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "The link is in the description and pinned comment."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 138
+    },
+    {
+      "word": "to",
+      "count": 72
+    },
+    {
+      "word": "in",
+      "count": 48
+    },
+    {
+      "word": "and",
+      "count": 46
+    },
+    {
+      "word": "of",
+      "count": 39
+    },
+    {
+      "word": "watches",
+      "count": 38
+    },
+    {
+      "word": "this",
+      "count": 38
+    },
+    {
+      "word": "he",
+      "count": 36
+    },
+    {
+      "word": "hans",
+      "count": 33
+    },
+    {
+      "word": "was",
+      "count": 31
+    },
+    {
+      "word": "rolex",
+      "count": 30
+    },
+    {
+      "word": "his",
+      "count": 28
+    },
+    {
+      "word": "watch",
+      "count": 27
+    },
+    {
+      "word": "for",
+      "count": 25
+    },
+    {
+      "word": "that",
+      "count": 22
+    },
+    {
+      "word": "had",
+      "count": 20
+    },
+    {
+      "word": "it",
+      "count": 20
+    },
+    {
+      "word": "but",
+      "count": 19
+    },
+    {
+      "word": "as",
+      "count": 16
+    },
+    {
+      "word": "on",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "that’s why",
+      "count": 8
+    },
+    {
+      "phrase": "the watch",
+      "count": 8
+    },
+    {
+      "phrase": "rolex oyster",
+      "count": 7
+    },
+    {
+      "phrase": "decided to",
+      "count": 6
+    },
+    {
+      "phrase": "was a",
+      "count": 6
+    },
+    {
+      "phrase": "there was",
+      "count": 6
+    },
+    {
+      "phrase": "to the",
+      "count": 6
+    },
+    {
+      "phrase": "pocket watches",
+      "count": 6
+    }
+  ],
+  "segment_count": 239
+}

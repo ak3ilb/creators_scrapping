@@ -1,0 +1,150 @@
+{
+  "video_id": "l158vz5iB0c",
+  "duration_seconds": 678,
+  "wps": 4.66,
+  "total_words": 3158,
+  "language_mix": {
+    "hindi": 97.4,
+    "english": 2.6,
+    "total_chars": 10950
+  },
+  "hook": {
+    "type": "question",
+    "text": "किसी भी फाउंडर की वीडियो जाके देख लोगे तो वो बोलेंगे कि भैया घर मत खरीदो जाके रेंट कर लिया करो और वहीं पे अगर अंकुर वारी की वीडियो देखेंगे तो वो बोलते हैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 138
+    },
+    {
+      "word": "के",
+      "count": 99
+    },
+    {
+      "word": "और",
+      "count": 89
+    },
+    {
+      "word": "लोग",
+      "count": 75
+    },
+    {
+      "word": "भी",
+      "count": 58
+    },
+    {
+      "word": "हो",
+      "count": 56
+    },
+    {
+      "word": "तो",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 47
+    },
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "आप",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "साल",
+      "count": 38
+    },
+    {
+      "word": "जो",
+      "count": 37
+    },
+    {
+      "word": "मोबाइल",
+      "count": 36
+    },
+    {
+      "word": "अंदर",
+      "count": 35
+    },
+    {
+      "word": "कर",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आप लोग",
+      "count": 37
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 27
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 19
+    },
+    {
+      "phrase": "एक साल",
+      "count": 16
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 15
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "मोबाइल फोन",
+      "count": 13
+    }
+  ],
+  "segment_count": 86
+}

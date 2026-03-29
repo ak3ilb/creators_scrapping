@@ -1,0 +1,148 @@
+{
+  "video_id": "caV3bURFBCA",
+  "duration_seconds": 70,
+  "wps": 2.84,
+  "total_words": 199,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 886
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This is the single most important skill"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "insights on careers."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "music",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "on",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "how",
+      "count": 3
+    },
+    {
+      "word": "can",
+      "count": 3
+    },
+    {
+      "word": "job",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "product",
+      "count": 3
+    },
+    {
+      "word": "or",
+      "count": 3
+    },
+    {
+      "word": "pms",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "role",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "how you",
+      "count": 2
+    },
+    {
+      "phrase": "you can",
+      "count": 2
+    },
+    {
+      "phrase": "on youtube",
+      "count": 2
+    },
+    {
+      "phrase": "need to",
+      "count": 2
+    },
+    {
+      "phrase": "this is",
+      "count": 1
+    },
+    {
+      "phrase": "is the",
+      "count": 1
+    },
+    {
+      "phrase": "the single",
+      "count": 1
+    },
+    {
+      "phrase": "single most",
+      "count": 1
+    },
+    {
+      "phrase": "most important",
+      "count": 1
+    },
+    {
+      "phrase": "important skill",
+      "count": 1
+    }
+  ],
+  "segment_count": 31
+}

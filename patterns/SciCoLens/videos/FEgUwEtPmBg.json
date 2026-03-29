@@ -1,0 +1,148 @@
+{
+  "video_id": "FEgUwEtPmBg",
+  "duration_seconds": 742,
+  "wps": 3.07,
+  "total_words": 2280,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 9491
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[प्रशंसा]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ऑलवेज स्टे क्यूरियस, कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 86
+    },
+    {
+      "word": "के",
+      "count": 60
+    },
+    {
+      "word": "सिंगापुर",
+      "count": 54
+    },
+    {
+      "word": "को",
+      "count": 53
+    },
+    {
+      "word": "और",
+      "count": 53
+    },
+    {
+      "word": "में",
+      "count": 52
+    },
+    {
+      "word": "पर",
+      "count": 42
+    },
+    {
+      "word": "से",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 27
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "इस",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 21
+    },
+    {
+      "word": "का",
+      "count": 20
+    },
+    {
+      "word": "ही",
+      "count": 18
+    },
+    {
+      "word": "वहां",
+      "count": 17
+    },
+    {
+      "word": "ये",
+      "count": 16
+    },
+    {
+      "word": "यह",
+      "count": 16
+    },
+    {
+      "word": "लिए",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "सिंगापुर के",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "सिंगापुर में",
+      "count": 10
+    },
+    {
+      "phrase": "सिंगापुर को",
+      "count": 9
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 8
+    },
+    {
+      "phrase": "हैं और",
+      "count": 7
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 6
+    },
+    {
+      "phrase": "होने के",
+      "count": 5
+    }
+  ],
+  "segment_count": 91
+}

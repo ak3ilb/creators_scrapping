@@ -1,0 +1,149 @@
+{
+  "video_id": "o4JbxJ77hrc",
+  "duration_seconds": 782,
+  "wps": 3.48,
+  "total_words": 2724,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11447
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Hey friends, I can’t tolerate this anymore."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "We’ll meet in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 122
+    },
+    {
+      "word": "to",
+      "count": 87
+    },
+    {
+      "word": "he",
+      "count": 82
+    },
+    {
+      "word": "and",
+      "count": 71
+    },
+    {
+      "word": "you",
+      "count": 57
+    },
+    {
+      "word": "this",
+      "count": 54
+    },
+    {
+      "word": "that",
+      "count": 29
+    },
+    {
+      "word": "is",
+      "count": 29
+    },
+    {
+      "word": "in",
+      "count": 29
+    },
+    {
+      "word": "it",
+      "count": 28
+    },
+    {
+      "word": "of",
+      "count": 28
+    },
+    {
+      "word": "but",
+      "count": 28
+    },
+    {
+      "word": "was",
+      "count": 24
+    },
+    {
+      "word": "his",
+      "count": 24
+    },
+    {
+      "word": "aman",
+      "count": 21
+    },
+    {
+      "word": "him",
+      "count": 21
+    },
+    {
+      "word": "from",
+      "count": 20
+    },
+    {
+      "word": "says",
+      "count": 20
+    },
+    {
+      "word": "monk",
+      "count": 20
+    },
+    {
+      "word": "for",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "dr book",
+      "count": 11
+    },
+    {
+      "phrase": "time he",
+      "count": 10
+    },
+    {
+      "phrase": "the head",
+      "count": 9
+    },
+    {
+      "phrase": "head monk",
+      "count": 9
+    },
+    {
+      "phrase": "if you",
+      "count": 9
+    },
+    {
+      "phrase": "the spoon",
+      "count": 9
+    },
+    {
+      "phrase": "he was",
+      "count": 7
+    },
+    {
+      "phrase": "need to",
+      "count": 7
+    },
+    {
+      "phrase": "you want",
+      "count": 7
+    },
+    {
+      "phrase": "lessons from",
+      "count": 7
+    }
+  ],
+  "segment_count": 252
+}

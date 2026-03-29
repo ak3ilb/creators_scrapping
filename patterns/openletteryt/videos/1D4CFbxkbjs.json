@@ -1,0 +1,149 @@
+{
+  "video_id": "1D4CFbxkbjs",
+  "duration_seconds": 837,
+  "wps": 3.43,
+  "total_words": 2875,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13184
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Nowadays the popularity of New Age Gurus is increasing in India. On one side there are figures like Anuruddha Acharya Dhirendra Shastri who are quite popular on Instagram."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "addictions are being left and people are becoming more self-aware, so whatever be the path, be it chanting the name or simple meditation, celibacy or pretension, in the end people's lives are becoming"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 112
+    },
+    {
+      "word": "and",
+      "count": 87
+    },
+    {
+      "word": "of",
+      "count": 71
+    },
+    {
+      "word": "in",
+      "count": 69
+    },
+    {
+      "word": "to",
+      "count": 62
+    },
+    {
+      "word": "is",
+      "count": 57
+    },
+    {
+      "word": "that",
+      "count": 44
+    },
+    {
+      "word": "people",
+      "count": 34
+    },
+    {
+      "word": "was",
+      "count": 34
+    },
+    {
+      "word": "are",
+      "count": 32
+    },
+    {
+      "word": "these",
+      "count": 31
+    },
+    {
+      "word": "not",
+      "count": 25
+    },
+    {
+      "word": "this",
+      "count": 25
+    },
+    {
+      "word": "have",
+      "count": 24
+    },
+    {
+      "word": "their",
+      "count": 24
+    },
+    {
+      "word": "you",
+      "count": 23
+    },
+    {
+      "word": "for",
+      "count": 23
+    },
+    {
+      "word": "there",
+      "count": 21
+    },
+    {
+      "word": "it",
+      "count": 21
+    },
+    {
+      "word": "very",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "these gurus",
+      "count": 16
+    },
+    {
+      "phrase": "a lot",
+      "count": 13
+    },
+    {
+      "phrase": "all these",
+      "count": 12
+    },
+    {
+      "phrase": "due to",
+      "count": 10
+    },
+    {
+      "phrase": "lot of",
+      "count": 9
+    },
+    {
+      "phrase": "in the",
+      "count": 8
+    },
+    {
+      "phrase": "a very",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "i am",
+      "count": 7
+    },
+    {
+      "phrase": "that is",
+      "count": 7
+    }
+  ],
+  "segment_count": 99
+}

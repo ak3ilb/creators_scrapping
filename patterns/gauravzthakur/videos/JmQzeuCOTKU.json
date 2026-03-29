@@ -1,0 +1,148 @@
+{
+  "video_id": "JmQzeuCOTKU",
+  "duration_seconds": 27,
+  "wps": 3.37,
+  "total_words": 91,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 369
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर मैं मेरा शरीर क्या देखभाल नहीं करेगा दूसरा आदमी मेरा नौकरी लेगा दो कंप्यूटर ऑपरेटर थे एक हंसा वाला ब्रेन पावर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपके शरीर आपके डाइट आपके स्लीप आपके एक्सरसाइज सो इंडिया यू नीड टू इन्वेस्ट इन योर ओन हेल्थ नोबडी एल्स इज गोन्ना इन्वेस्ट इट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "आपके",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "मेरा",
+      "count": 3
+    },
+    {
+      "word": "शरीर",
+      "count": 2
+    },
+    {
+      "word": "करेगा",
+      "count": 2
+    },
+    {
+      "word": "दूसरा",
+      "count": 2
+    },
+    {
+      "word": "सर",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 1
+    },
+    {
+      "word": "क्या",
+      "count": 1
+    },
+    {
+      "word": "देखभाल",
+      "count": 1
+    },
+    {
+      "word": "नहीं",
+      "count": 1
+    },
+    {
+      "word": "आदमी",
+      "count": 1
+    },
+    {
+      "word": "नौकरी",
+      "count": 1
+    },
+    {
+      "word": "लेगा",
+      "count": 1
+    },
+    {
+      "word": "दो",
+      "count": 1
+    },
+    {
+      "word": "कंप्यूटर",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है सर",
+      "count": 2
+    },
+    {
+      "phrase": "अगर मैं",
+      "count": 1
+    },
+    {
+      "phrase": "मैं मेरा",
+      "count": 1
+    },
+    {
+      "phrase": "मेरा शरीर",
+      "count": 1
+    },
+    {
+      "phrase": "शरीर क्या",
+      "count": 1
+    },
+    {
+      "phrase": "क्या देखभाल",
+      "count": 1
+    },
+    {
+      "phrase": "देखभाल नहीं",
+      "count": 1
+    },
+    {
+      "phrase": "नहीं करेगा",
+      "count": 1
+    },
+    {
+      "phrase": "करेगा दूसरा",
+      "count": 1
+    },
+    {
+      "phrase": "दूसरा आदमी",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

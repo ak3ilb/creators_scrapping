@@ -1,0 +1,148 @@
+{
+  "video_id": "cdduWHZ_sYU",
+  "duration_seconds": 1346,
+  "wps": 2.98,
+  "total_words": 4008,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 16027
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज नेपाल में जेंजीस यानी 13 से 20 साल के स्कूल और कॉलेज के बच्चे काठमांडू की सड़कों पर उतर कर प्रोटेस्ट कर रहे हैं।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सेड मिलते हैं अगले वीडियो में तब तक के लिए टेक केयर जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 118
+    },
+    {
+      "word": "में",
+      "count": 116
+    },
+    {
+      "word": "नेपाल",
+      "count": 103
+    },
+    {
+      "word": "और",
+      "count": 100
+    },
+    {
+      "word": "है",
+      "count": 88
+    },
+    {
+      "word": "की",
+      "count": 66
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "एक",
+      "count": 58
+    },
+    {
+      "word": "को",
+      "count": 55
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "का",
+      "count": 48
+    },
+    {
+      "word": "पर",
+      "count": 46
+    },
+    {
+      "word": "ने",
+      "count": 42
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "था",
+      "count": 32
+    },
+    {
+      "word": "इंडिया",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नेपाल में",
+      "count": 37
+    },
+    {
+      "phrase": "नेपाल की",
+      "count": 19
+    },
+    {
+      "phrase": "नेपाल के",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 11
+    },
+    {
+      "phrase": "फिर से",
+      "count": 10
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 9
+    }
+  ],
+  "segment_count": 171
+}

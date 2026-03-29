@@ -1,0 +1,150 @@
+{
+  "video_id": "xM9wpbO_5Jg",
+  "duration_seconds": 1253,
+  "wps": 3.95,
+  "total_words": 4952,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 17197
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह स्कैम इंडिया के इतिहास का वन ऑफ द बिगेस्ट स्कैम चल रहा है और ऐसा नहीं है कि सरकार या फिर पुलिस से छुपा हुआ है इस स्कैम के अंदर वो लोग भी इवॉल्व है जो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलेगा उसको देखो 45 दिनों का एकदम फ्री ट्रायल है उसको एक्सपीरियंस करो उसके बाद समझ आता है तो इन्वेस्टमेंट भी कर देना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 225
+    },
+    {
+      "word": "के",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 119
+    },
+    {
+      "word": "लोग",
+      "count": 90
+    },
+    {
+      "word": "तो",
+      "count": 90
+    },
+    {
+      "word": "हैं",
+      "count": 85
+    },
+    {
+      "word": "ये",
+      "count": 84
+    },
+    {
+      "word": "को",
+      "count": 83
+    },
+    {
+      "word": "कि",
+      "count": 78
+    },
+    {
+      "word": "अंदर",
+      "count": 73
+    },
+    {
+      "word": "आप",
+      "count": 73
+    },
+    {
+      "word": "हो",
+      "count": 69
+    },
+    {
+      "word": "भी",
+      "count": 67
+    },
+    {
+      "word": "नहीं",
+      "count": 61
+    },
+    {
+      "word": "वो",
+      "count": 53
+    },
+    {
+      "word": "कर",
+      "count": 51
+    },
+    {
+      "word": "का",
+      "count": 44
+    },
+    {
+      "word": "में",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "लोगों",
+      "count": 41
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 57
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 39
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 35
+    },
+    {
+      "phrase": "है कि",
+      "count": 29
+    },
+    {
+      "phrase": "है और",
+      "count": 28
+    },
+    {
+      "phrase": "आप लोगों",
+      "count": 23
+    },
+    {
+      "phrase": "होता है",
+      "count": 22
+    },
+    {
+      "phrase": "और ये",
+      "count": 20
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 18
+    },
+    {
+      "phrase": "है तो",
+      "count": 18
+    }
+  ],
+  "segment_count": 146
+}

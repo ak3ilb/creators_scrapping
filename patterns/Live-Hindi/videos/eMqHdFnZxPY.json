@@ -1,0 +1,148 @@
+{
+  "video_id": "eMqHdFnZxPY",
+  "duration_seconds": 1107,
+  "wps": 3.04,
+  "total_words": 3365,
+  "language_mix": {
+    "hindi": 98.4,
+    "english": 1.6,
+    "total_chars": 12741
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "चैट जेपीटी 21वीं सदी का सबसे बड़ा इन्वेंशन स्टेफन हॉकिंग ने चेतावनी दी एआई इंसानियत का सबसे बड़ा खतरा बन सकता है।"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "मुश्किल बन जाएंगे। आप अपना ओपिनियन भी हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 99
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "था",
+      "count": 70
+    },
+    {
+      "word": "में",
+      "count": 69
+    },
+    {
+      "word": "कि",
+      "count": 68
+    },
+    {
+      "word": "से",
+      "count": 64
+    },
+    {
+      "word": "को",
+      "count": 60
+    },
+    {
+      "word": "भी",
+      "count": 54
+    },
+    {
+      "word": "चैट",
+      "count": 44
+    },
+    {
+      "word": "का",
+      "count": 44
+    },
+    {
+      "word": "है",
+      "count": 42
+    },
+    {
+      "word": "ही",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "की",
+      "count": 32
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 32
+    },
+    {
+      "word": "लेकिन",
+      "count": 30
+    },
+    {
+      "word": "ने",
+      "count": 28
+    },
+    {
+      "word": "ओपन",
+      "count": 28
+    },
+    {
+      "word": "एi",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चैट जीपीटी",
+      "count": 24
+    },
+    {
+      "phrase": "ओपन एi",
+      "count": 20
+    },
+    {
+      "phrase": "चैट जेपीटी",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "था कि",
+      "count": 15
+    },
+    {
+      "phrase": "जो कि",
+      "count": 13
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 8
+    },
+    {
+      "phrase": "में ओपन",
+      "count": 8
+    },
+    {
+      "phrase": "सकता था",
+      "count": 8
+    }
+  ],
+  "segment_count": 141
+}

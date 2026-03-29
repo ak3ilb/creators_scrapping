@@ -1,0 +1,148 @@
+{
+  "video_id": "fUNhPvOuOnQ",
+  "duration_seconds": 62,
+  "wps": 2.73,
+  "total_words": 169,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 892
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "There is a massive protest going around UGC's new bill. Hashtags like roll back UGC and black law are trending on social"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "version. Now the Supreme Court has put the stay on this. What do you think about it?"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 3
+    },
+    {
+      "word": "discrimination",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "massive",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "new",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "equity",
+      "count": 2
+    },
+    {
+      "word": "these",
+      "count": 2
+    },
+    {
+      "word": "victims",
+      "count": 2
+    },
+    {
+      "word": "scheduled",
+      "count": 2
+    },
+    {
+      "word": "supreme",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "there",
+      "count": 1
+    },
+    {
+      "word": "protest",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the supreme",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "there is",
+      "count": 1
+    },
+    {
+      "phrase": "is a",
+      "count": 1
+    },
+    {
+      "phrase": "a massive",
+      "count": 1
+    },
+    {
+      "phrase": "massive protest",
+      "count": 1
+    },
+    {
+      "phrase": "protest going",
+      "count": 1
+    },
+    {
+      "phrase": "going around",
+      "count": 1
+    },
+    {
+      "phrase": "around ugc's",
+      "count": 1
+    },
+    {
+      "phrase": "ugc's new",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "bp8npsoUX0Y",
+  "duration_seconds": 44,
+  "wps": 3.27,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 659
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यू विल बी पेड टू प्ले GT A6 वाइल द रेस्ट ऑफ़ द वर्ल्ड इज लूजिंग देयर माइंड्स वेटिंग फॉर इट। Rockstar गेम्स जस्ट ओपन एप्लीकेशन्स फॉर गेम टेस्टर पोजीशंस इन"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "अंडरस्टैंडिंग ऑफ़ कर जैन कंसोल्स गेमिंग पीसीस एंड स्ट्रांग कम्युनिकेशन स्किल्स। लिंक इज इन द पिन कमेंट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "ऑफ़",
+      "count": 5
+    },
+    {
+      "word": "इज",
+      "count": 5
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "बी",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "देयर",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "गेम्स",
+      "count": 2
+    },
+    {
+      "word": "गेम",
+      "count": 2
+    },
+    {
+      "word": "एट",
+      "count": 2
+    },
+    {
+      "word": "वन",
+      "count": 2
+    },
+    {
+      "word": "मोस्ट",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "क्वालिटी",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "गेमिंग",
+      "count": 2
+    },
+    {
+      "word": "विल",
+      "count": 1
+    },
+    {
+      "word": "पेड",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑफ़ द",
+      "count": 3
+    },
+    {
+      "phrase": "इन द",
+      "count": 3
+    },
+    {
+      "phrase": "वन ऑफ़",
+      "count": 2
+    },
+    {
+      "phrase": "द मोस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "यू विल",
+      "count": 1
+    },
+    {
+      "phrase": "विल बी",
+      "count": 1
+    },
+    {
+      "phrase": "बी पेड",
+      "count": 1
+    },
+    {
+      "phrase": "पेड टू",
+      "count": 1
+    },
+    {
+      "phrase": "टू प्ले",
+      "count": 1
+    },
+    {
+      "phrase": "प्ले gt",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

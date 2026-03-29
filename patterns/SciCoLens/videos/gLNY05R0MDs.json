@@ -1,0 +1,148 @@
+{
+  "video_id": "gLNY05R0MDs",
+  "duration_seconds": 559,
+  "wps": 3.11,
+  "total_words": 1737,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 6884
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हमें बचपन से सिखाया गया है कि पीएम इज द वन हु रंस द कंट्री। बट व्हाट इफ मैं कहूं यह सरासर झूठ है तो असल में हमारा देश"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फ्रेम ऑफ इंडिया कहा था। बिग सैल्यूट टू इंडियन अनसंग हीरोज़ आर ब्यूरोक्रेट्स। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 47
+    },
+    {
+      "word": "में",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 33
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 29
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "और",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 22
+    },
+    {
+      "word": "ने",
+      "count": 21
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "हैं",
+      "count": 19
+    },
+    {
+      "word": "इंडिया",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 15
+    },
+    {
+      "word": "जी",
+      "count": 15
+    },
+    {
+      "word": "की",
+      "count": 14
+    },
+    {
+      "word": "पर",
+      "count": 14
+    },
+    {
+      "word": "नहीं",
+      "count": 13
+    },
+    {
+      "word": "हो",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "देश में",
+      "count": 5
+    },
+    {
+      "phrase": "यानी कि",
+      "count": 5
+    },
+    {
+      "phrase": "होती है",
+      "count": 5
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 5
+    },
+    {
+      "phrase": "इंडिया पर",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "नहीं बल्कि",
+      "count": 4
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 4
+    }
+  ],
+  "segment_count": 68
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "P5SMGneWKGk",
+  "duration_seconds": 929,
+  "wps": 3.56,
+  "total_words": 3310,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12691
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भारत बांग्लादेश बॉर्डर से ताजे-ताजे विसुअल देखो।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा स्क्रीन पे लगा दिया है क्लिक करो लो और अभी देख डालो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 120
+    },
+    {
+      "word": "हैं",
+      "count": 106
+    },
+    {
+      "word": "के",
+      "count": 92
+    },
+    {
+      "word": "और",
+      "count": 73
+    },
+    {
+      "word": "में",
+      "count": 71
+    },
+    {
+      "word": "लोग",
+      "count": 49
+    },
+    {
+      "word": "पर",
+      "count": 47
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "तो",
+      "count": 42
+    },
+    {
+      "word": "ये",
+      "count": 38
+    },
+    {
+      "word": "भारत",
+      "count": 34
+    },
+    {
+      "word": "जो",
+      "count": 33
+    },
+    {
+      "word": "को",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "रहे",
+      "count": 29
+    },
+    {
+      "word": "एक",
+      "count": 29
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "कि",
+      "count": 27
+    },
+    {
+      "word": "बांग्लादेश",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 21
+    },
+    {
+      "phrase": "भारत में",
+      "count": 18
+    },
+    {
+      "phrase": "हैं और",
+      "count": 16
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 16
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 12
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 10
+    },
+    {
+      "phrase": "फेक डॉक्यूमेंट",
+      "count": 8
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 8
+    }
+  ],
+  "segment_count": 116
+}

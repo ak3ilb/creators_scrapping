@@ -1,0 +1,148 @@
+{
+  "video_id": "vJXP0oTqXMI",
+  "duration_seconds": 40,
+  "wps": 4.22,
+  "total_words": 169,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 568
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "सलमान खान को हर होटल में इज़ली 25 से 30%"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "और फाइनल पेमेंट पे आपको यह डिस्काउंट मिल जाता है। तो क्या आपको यह बात पता थी मुझे कमेंट में जरूर बताना और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "डिस्काउंट",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "शेयर",
+      "count": 4
+    },
+    {
+      "word": "होटल",
+      "count": 3
+    },
+    {
+      "word": "25",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "30%",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "पता",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "25 से",
+      "count": 3
+    },
+    {
+      "phrase": "से 30%",
+      "count": 3
+    },
+    {
+      "phrase": "30% का",
+      "count": 3
+    },
+    {
+      "phrase": "का डिस्काउंट",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 2
+    },
+    {
+      "phrase": "ले सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "यह बात",
+      "count": 2
+    },
+    {
+      "phrase": "एक भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी शेयर",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "9LQVIRyrtI4",
+  "duration_seconds": 93,
+  "wps": 3.28,
+  "total_words": 305,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1231
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हाल ही में जो रिसर्च कंडक्ट किया गया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिएट करने लगता"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "हार्ट",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "जो",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "बैक्टीरिया",
+      "count": 4
+    },
+    {
+      "word": "करने",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "सर्जरी",
+      "count": 3
+    },
+    {
+      "word": "पहले",
+      "count": 3
+    },
+    {
+      "word": "दांतों",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "हार्ट अटैक्स",
+      "count": 2
+    },
+    {
+      "phrase": "पता चला",
+      "count": 2
+    },
+    {
+      "phrase": "सर्जरी के",
+      "count": 2
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "रिलीज करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने लगते",
+      "count": 2
+    },
+    {
+      "phrase": "लगते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "बैक्टीरिया को",
+      "count": 2
+    }
+  ],
+  "segment_count": 41
+}

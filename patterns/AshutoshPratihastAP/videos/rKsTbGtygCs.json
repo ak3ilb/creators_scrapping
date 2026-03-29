@@ -1,0 +1,149 @@
+{
+  "video_id": "rKsTbGtygCs",
+  "duration_seconds": 1595,
+  "wps": 3.31,
+  "total_words": 5273,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 20427
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डी बिगेस्ट ट्रुथ ऑफ डी मार्केट इसे डेट आईएफ यू आर नोट बीइंग मनी दें यू आर डी प्रोडक्ट दिस माइट सॉन्ग कन्ज्यूरिंग और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है मां का बहुत बड़ा हाथ है जन के लिए राइट वाली वीडियो पर क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 158
+    },
+    {
+      "word": "के",
+      "count": 126
+    },
+    {
+      "word": "व्हाट्सएप",
+      "count": 124
+    },
+    {
+      "word": "है",
+      "count": 123
+    },
+    {
+      "word": "की",
+      "count": 116
+    },
+    {
+      "word": "को",
+      "count": 95
+    },
+    {
+      "word": "में",
+      "count": 92
+    },
+    {
+      "word": "भी",
+      "count": 85
+    },
+    {
+      "word": "नहीं",
+      "count": 70
+    },
+    {
+      "word": "तो",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 61
+    },
+    {
+      "word": "ये",
+      "count": 57
+    },
+    {
+      "word": "ही",
+      "count": 57
+    },
+    {
+      "word": "था",
+      "count": 57
+    },
+    {
+      "word": "का",
+      "count": 44
+    },
+    {
+      "word": "फेसबुक",
+      "count": 44
+    },
+    {
+      "word": "एक",
+      "count": 43
+    },
+    {
+      "word": "हो",
+      "count": 42
+    },
+    {
+      "word": "इस",
+      "count": 39
+    },
+    {
+      "word": "कर",
+      "count": 38
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 33
+    },
+    {
+      "phrase": "व्हाट्सएप को",
+      "count": 20
+    },
+    {
+      "phrase": "व्हाट्सएप के",
+      "count": 19
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 14
+    },
+    {
+      "phrase": "रहा था",
+      "count": 14
+    },
+    {
+      "phrase": "करने के",
+      "count": 14
+    },
+    {
+      "phrase": "के साथ",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 13
+    },
+    {
+      "phrase": "की व्हाट्सएप",
+      "count": 13
+    },
+    {
+      "phrase": "है की",
+      "count": 13
+    }
+  ],
+  "segment_count": 197
+}

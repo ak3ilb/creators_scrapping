@@ -1,0 +1,150 @@
+{
+  "video_id": "dF-o_HI3UuQ",
+  "duration_seconds": 619,
+  "wps": 3.84,
+  "total_words": 2374,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 8401
+  },
+  "hook": {
+    "type": "statement",
+    "text": "12 पास स्टूडेंट कैसे 40 से 0000 हर महीने घर बैठे बहुत आराम से कमा सकते हैं आज की वीडियो हम इसके ऊपर डिस्कस करेंगे ये वीडियो ना ही तुम्हें फेक नंबर्स दिखाने"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "तुम्हें लिंक मेरे डिस्क्रिप्शन और पिन कमेंट के अंदर मिल जाएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 103
+    },
+    {
+      "word": "के",
+      "count": 86
+    },
+    {
+      "word": "और",
+      "count": 71
+    },
+    {
+      "word": "भी",
+      "count": 51
+    },
+    {
+      "word": "हो",
+      "count": 43
+    },
+    {
+      "word": "अंदर",
+      "count": 41
+    },
+    {
+      "word": "वो",
+      "count": 40
+    },
+    {
+      "word": "हैं",
+      "count": 38
+    },
+    {
+      "word": "कर",
+      "count": 37
+    },
+    {
+      "word": "लोग",
+      "count": 32
+    },
+    {
+      "word": "तुम्हें",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 29
+    },
+    {
+      "word": "की",
+      "count": 27
+    },
+    {
+      "word": "तो",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 26
+    },
+    {
+      "word": "ये",
+      "count": 25
+    },
+    {
+      "word": "जो",
+      "count": 24
+    },
+    {
+      "word": "करना",
+      "count": 24
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "को",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 37
+    },
+    {
+      "phrase": "है और",
+      "count": 21
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 13
+    },
+    {
+      "phrase": "हो और",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 12
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 12
+    },
+    {
+      "phrase": "या फिर",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 9
+    }
+  ],
+  "segment_count": 72
+}

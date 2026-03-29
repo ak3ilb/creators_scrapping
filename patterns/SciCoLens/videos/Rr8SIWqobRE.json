@@ -1,0 +1,148 @@
+{
+  "video_id": "Rr8SIWqobRE",
+  "duration_seconds": 597,
+  "wps": 3.44,
+  "total_words": 2052,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 7793
+  },
+  "hook": {
+    "type": "question",
+    "text": "2027 एक ऐसा साल होगा जिसमें क्या सच में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मदद कर पाएगा?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 65
+    },
+    {
+      "word": "को",
+      "count": 56
+    },
+    {
+      "word": "के",
+      "count": 43
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "में",
+      "count": 41
+    },
+    {
+      "word": "टेलिस्कोप",
+      "count": 38
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "से",
+      "count": 28
+    },
+    {
+      "word": "इस",
+      "count": 26
+    },
+    {
+      "word": "कर",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "नहीं",
+      "count": 23
+    },
+    {
+      "word": "था",
+      "count": 22
+    },
+    {
+      "word": "स्पेस",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 20
+    },
+    {
+      "word": "नासा",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्पेस टेलिस्कोप",
+      "count": 14
+    },
+    {
+      "phrase": "ईलॉन मस्क",
+      "count": 12
+    },
+    {
+      "phrase": "इस टेलिस्कोप",
+      "count": 10
+    },
+    {
+      "phrase": "टेलिस्कोप को",
+      "count": 8
+    },
+    {
+      "phrase": "सकता है",
+      "count": 7
+    },
+    {
+      "phrase": "वजह से",
+      "count": 7
+    },
+    {
+      "phrase": "रोमन स्पेस",
+      "count": 6
+    },
+    {
+      "phrase": "है पर",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "स्पेस में",
+      "count": 6
+    }
+  ],
+  "segment_count": 257
+}

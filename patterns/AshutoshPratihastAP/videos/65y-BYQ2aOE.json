@@ -1,0 +1,149 @@
+{
+  "video_id": "65y-BYQ2aOE",
+  "duration_seconds": 1113,
+  "wps": 3.56,
+  "total_words": 3964,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 15721
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आपने कभी सोचा है कि लोग एक स्कैम में फंसते कैसे हैं? आखिर क्यों लाखों लोग अपनी जिंदगी भर की कमाई खुश होकर किसी एक आदमी को दे देते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं। आपका किस तरीके से मिसयूज करते हैं। राइट वाली वीडियो पर क्लिक कर देना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 116
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "पोंजी",
+      "count": 84
+    },
+    {
+      "word": "की",
+      "count": 78
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "को",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "एक",
+      "count": 57
+    },
+    {
+      "word": "भी",
+      "count": 53
+    },
+    {
+      "word": "का",
+      "count": 53
+    },
+    {
+      "word": "था",
+      "count": 51
+    },
+    {
+      "word": "है",
+      "count": 49
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "ने",
+      "count": 39
+    },
+    {
+      "word": "हैं",
+      "count": 37
+    },
+    {
+      "word": "नहीं",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "हो",
+      "count": 33
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "ही",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पोंजी ने",
+      "count": 17
+    },
+    {
+      "phrase": "पोंजी की",
+      "count": 15
+    },
+    {
+      "phrase": "पोंजी का",
+      "count": 11
+    },
+    {
+      "phrase": "पोंजी के",
+      "count": 10
+    },
+    {
+      "phrase": "रहा था",
+      "count": 10
+    },
+    {
+      "phrase": "हो गई",
+      "count": 10
+    },
+    {
+      "phrase": "में पोंजी",
+      "count": 9
+    },
+    {
+      "phrase": "था कि",
+      "count": 9
+    },
+    {
+      "phrase": "इन्वेस्टर्स को",
+      "count": 9
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 9
+    }
+  ],
+  "segment_count": 141
+}

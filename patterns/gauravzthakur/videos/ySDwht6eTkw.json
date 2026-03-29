@@ -1,0 +1,148 @@
+{
+  "video_id": "ySDwht6eTkw",
+  "duration_seconds": 90,
+  "wps": 3.1,
+  "total_words": 279,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1054
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पंजाब पे डिट्टो कश्मीर की तरह ही अपने इतिहास को फिर से दोहराते हुए दिख रहा है। बिल्कुल 1980 जैसे ही सब कुछ वापस वहां पे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "से",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "गए",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "पंजाब",
+      "count": 4
+    },
+    {
+      "word": "फिर",
+      "count": 4
+    },
+    {
+      "word": "होने",
+      "count": 4
+    },
+    {
+      "word": "बाद",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "हुए",
+      "count": 3
+    },
+    {
+      "word": "दिख",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "कुछ",
+      "count": 3
+    },
+    {
+      "word": "इसके",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हुए दिख",
+      "count": 3
+    },
+    {
+      "phrase": "दिख रहा",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "इसके बाद",
+      "count": 3
+    },
+    {
+      "phrase": "होने लग",
+      "count": 3
+    },
+    {
+      "phrase": "लग गए",
+      "count": 3
+    },
+    {
+      "phrase": "अचानक से",
+      "count": 2
+    },
+    {
+      "phrase": "से ख़स्तान",
+      "count": 2
+    },
+    {
+      "phrase": "ख़स्तान के",
+      "count": 2
+    },
+    {
+      "phrase": "गए और",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

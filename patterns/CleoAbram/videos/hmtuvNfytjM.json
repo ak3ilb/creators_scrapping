@@ -1,0 +1,149 @@
+{
+  "video_id": "hmtuvNfytjM",
+  "duration_seconds": 3892,
+  "wps": 3.2,
+  "total_words": 12451,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 50466
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This is like a crazy amount of power for  one piece of technology and it's happened   to us so fast. You just launched GPT-5. A kid  born today will never be smarter than AI. How"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "then like unbelievably it started to work. Thank  you so much for your time. Thank you very much."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 395
+    },
+    {
+      "word": "the",
+      "count": 388
+    },
+    {
+      "word": "to",
+      "count": 377
+    },
+    {
+      "word": "that",
+      "count": 359
+    },
+    {
+      "word": "of",
+      "count": 335
+    },
+    {
+      "word": "like",
+      "count": 325
+    },
+    {
+      "word": "you",
+      "count": 244
+    },
+    {
+      "word": "it",
+      "count": 237
+    },
+    {
+      "word": "we",
+      "count": 193
+    },
+    {
+      "word": "this",
+      "count": 187
+    },
+    {
+      "word": "is",
+      "count": 178
+    },
+    {
+      "word": "in",
+      "count": 162
+    },
+    {
+      "word": "but",
+      "count": 121
+    },
+    {
+      "word": "what",
+      "count": 107
+    },
+    {
+      "word": "think",
+      "count": 105
+    },
+    {
+      "word": "about",
+      "count": 100
+    },
+    {
+      "word": "be",
+      "count": 94
+    },
+    {
+      "word": "do",
+      "count": 92
+    },
+    {
+      "word": "have",
+      "count": 91
+    },
+    {
+      "word": "know",
+      "count": 88
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you know",
+      "count": 72
+    },
+    {
+      "phrase": "i think",
+      "count": 54
+    },
+    {
+      "phrase": "of the",
+      "count": 52
+    },
+    {
+      "phrase": "going to",
+      "count": 47
+    },
+    {
+      "phrase": "a lot",
+      "count": 37
+    },
+    {
+      "phrase": "this is",
+      "count": 36
+    },
+    {
+      "phrase": "in the",
+      "count": 35
+    },
+    {
+      "phrase": "to be",
+      "count": 34
+    },
+    {
+      "phrase": "kind of",
+      "count": 32
+    },
+    {
+      "phrase": "and i",
+      "count": 31
+    }
+  ],
+  "segment_count": 499
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "UXbtkkJalVI",
+  "duration_seconds": 5757,
+  "wps": 3.71,
+  "total_words": 21380,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 76084
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज की जनरेशन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यू हे"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 844
+    },
+    {
+      "word": "तो",
+      "count": 684
+    },
+    {
+      "word": "में",
+      "count": 378
+    },
+    {
+      "word": "कि",
+      "count": 353
+    },
+    {
+      "word": "मैं",
+      "count": 337
+    },
+    {
+      "word": "नहीं",
+      "count": 305
+    },
+    {
+      "word": "हो",
+      "count": 263
+    },
+    {
+      "word": "वो",
+      "count": 259
+    },
+    {
+      "word": "आप",
+      "count": 239
+    },
+    {
+      "word": "रहा",
+      "count": 219
+    },
+    {
+      "word": "हैं",
+      "count": 218
+    },
+    {
+      "word": "भी",
+      "count": 199
+    },
+    {
+      "word": "को",
+      "count": 191
+    },
+    {
+      "word": "हूं",
+      "count": 190
+    },
+    {
+      "word": "कर",
+      "count": 180
+    },
+    {
+      "word": "के",
+      "count": 179
+    },
+    {
+      "word": "ये",
+      "count": 178
+    },
+    {
+      "word": "एक",
+      "count": 177
+    },
+    {
+      "word": "बहुत",
+      "count": 175
+    },
+    {
+      "word": "और",
+      "count": 172
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 122
+    },
+    {
+      "phrase": "रहा है",
+      "count": 109
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 102
+    },
+    {
+      "phrase": "है कि",
+      "count": 81
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 67
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 65
+    },
+    {
+      "phrase": "तो मैं",
+      "count": 54
+    },
+    {
+      "phrase": "होता है",
+      "count": 47
+    },
+    {
+      "phrase": "के लिए",
+      "count": 41
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 40
+    }
+  ],
+  "segment_count": 687
+}

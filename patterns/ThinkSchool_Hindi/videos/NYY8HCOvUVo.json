@@ -1,0 +1,150 @@
+{
+  "video_id": "NYY8HCOvUVo",
+  "duration_seconds": 823,
+  "wps": 2.79,
+  "total_words": 2296,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 9348
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एव्री डिक्टेटर ऑफ़ पाकिस्तान,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 59
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 40
+    },
+    {
+      "word": "में",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 26
+    },
+    {
+      "word": "की",
+      "count": 26
+    },
+    {
+      "word": "ने",
+      "count": 21
+    },
+    {
+      "word": "एक",
+      "count": 19
+    },
+    {
+      "word": "कि",
+      "count": 19
+    },
+    {
+      "word": "आज",
+      "count": 17
+    },
+    {
+      "word": "लिए",
+      "count": 17
+    },
+    {
+      "word": "का",
+      "count": 17
+    },
+    {
+      "word": "इन",
+      "count": 16
+    },
+    {
+      "word": "हैं",
+      "count": 16
+    },
+    {
+      "word": "दोस्तों",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "वजह से",
+      "count": 10
+    },
+    {
+      "phrase": "ऑन ऑन",
+      "count": 8
+    },
+    {
+      "phrase": "पाकिस्तान की",
+      "count": 8
+    },
+    {
+      "phrase": "चाइना ने",
+      "count": 8
+    },
+    {
+      "phrase": "बिलियन डॉलर्स",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "पाकिस्तान ने",
+      "count": 7
+    },
+    {
+      "phrase": "भारत के",
+      "count": 6
+    }
+  ],
+  "segment_count": 319
+}

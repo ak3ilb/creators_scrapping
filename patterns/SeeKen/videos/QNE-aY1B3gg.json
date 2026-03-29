@@ -1,0 +1,150 @@
+{
+  "video_id": "QNE-aY1B3gg",
+  "duration_seconds": 1021,
+  "wps": 4.03,
+  "total_words": 4116,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 14529
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, अगले 15 मिनट में मैं आपके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में। बाई बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 213
+    },
+    {
+      "word": "और",
+      "count": 90
+    },
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 71
+    },
+    {
+      "word": "एक",
+      "count": 65
+    },
+    {
+      "word": "को",
+      "count": 61
+    },
+    {
+      "word": "नहीं",
+      "count": 52
+    },
+    {
+      "word": "वो",
+      "count": 52
+    },
+    {
+      "word": "तो",
+      "count": 51
+    },
+    {
+      "word": "वह",
+      "count": 49
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "जो",
+      "count": 44
+    },
+    {
+      "word": "यह",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "हो",
+      "count": 42
+    },
+    {
+      "word": "फूल",
+      "count": 40
+    },
+    {
+      "word": "मैं",
+      "count": 38
+    },
+    {
+      "word": "उसे",
+      "count": 38
+    },
+    {
+      "word": "हैं",
+      "count": 37
+    },
+    {
+      "word": "आप",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "है कि",
+      "count": 22
+    },
+    {
+      "phrase": "होता है",
+      "count": 17
+    },
+    {
+      "phrase": "बोलता है",
+      "count": 15
+    },
+    {
+      "phrase": "जाता है",
+      "count": 15
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 15
+    },
+    {
+      "phrase": "देता है",
+      "count": 13
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 13
+    },
+    {
+      "phrase": "लाइफ में",
+      "count": 12
+    }
+  ],
+  "segment_count": 485
+}

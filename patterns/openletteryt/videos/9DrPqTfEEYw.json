@@ -1,0 +1,149 @@
+{
+  "video_id": "9DrPqTfEEYw",
+  "duration_seconds": 793,
+  "wps": 3.55,
+  "total_words": 2814,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 10276
+  },
+  "hook": {
+    "type": "question",
+    "text": "भारत में घर से बाहर निकलना कोई खतरे से खाली काम नहीं है। हमारी सड़कें इतनी डेंजरस है कि अगर आप सही सलामत घर पहुंच जाते हो तो अपने आप को आप लकी समझने लगते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बन चुकी है। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 169
+    },
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "हैं",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 51
+    },
+    {
+      "word": "भी",
+      "count": 47
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 40
+    },
+    {
+      "word": "तो",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 38
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "पे",
+      "count": 27
+    },
+    {
+      "word": "रोड",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "जाता है",
+      "count": 9
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "है अमित",
+      "count": 8
+    },
+    {
+      "phrase": "हैं और",
+      "count": 7
+    },
+    {
+      "phrase": "होता है",
+      "count": 7
+    },
+    {
+      "phrase": "है इसीलिए",
+      "count": 6
+    }
+  ],
+  "segment_count": 97
+}

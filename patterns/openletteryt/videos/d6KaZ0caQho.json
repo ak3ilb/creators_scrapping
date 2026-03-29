@@ -1,0 +1,150 @@
+{
+  "video_id": "d6KaZ0caQho",
+  "duration_seconds": 1280,
+  "wps": 4.21,
+  "total_words": 5394,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 19926
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सोशल मीडिया पे एक नए तरह का बवंडर आ चुका है। दुनिया की सबसे खराब वस्तु का नाम पनीर है। भैंस का दूध बेकार है, घटिया है,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 267
+    },
+    {
+      "word": "के",
+      "count": 133
+    },
+    {
+      "word": "में",
+      "count": 128
+    },
+    {
+      "word": "हैं",
+      "count": 118
+    },
+    {
+      "word": "और",
+      "count": 90
+    },
+    {
+      "word": "नहीं",
+      "count": 85
+    },
+    {
+      "word": "तो",
+      "count": 77
+    },
+    {
+      "word": "को",
+      "count": 76
+    },
+    {
+      "word": "कि",
+      "count": 74
+    },
+    {
+      "word": "भी",
+      "count": 68
+    },
+    {
+      "word": "ये",
+      "count": 65
+    },
+    {
+      "word": "कर",
+      "count": 59
+    },
+    {
+      "word": "हो",
+      "count": 57
+    },
+    {
+      "word": "की",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 55
+    },
+    {
+      "word": "एक",
+      "count": 54
+    },
+    {
+      "word": "रहे",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "जो",
+      "count": 37
+    },
+    {
+      "word": "पॉडकास्ट",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 29
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 29
+    },
+    {
+      "phrase": "है और",
+      "count": 25
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 24
+    },
+    {
+      "phrase": "रहा है",
+      "count": 24
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "होता है",
+      "count": 13
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 13
+    }
+  ],
+  "segment_count": 168
+}

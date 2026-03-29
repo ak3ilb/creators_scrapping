@@ -1,0 +1,149 @@
+{
+  "video_id": "CmrNP00swWQ",
+  "duration_seconds": 962,
+  "wps": 3.21,
+  "total_words": 3091,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11359
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मिड इन इंडिया मतलब सस्ता और घटिया यह मैं नहीं कह रहा बल्कि आजादी के पहले तक हर कोई यही सोच रखता था लेकिन फिर आए अर्ध शर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है हम"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 93
+    },
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 79
+    },
+    {
+      "word": "को",
+      "count": 66
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "कि",
+      "count": 52
+    },
+    {
+      "word": "का",
+      "count": 51
+    },
+    {
+      "word": "गोदरेज",
+      "count": 47
+    },
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "ने",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "था",
+      "count": 34
+    },
+    {
+      "word": "इस",
+      "count": 34
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "अर्ध",
+      "count": 28
+    },
+    {
+      "word": "तो",
+      "count": 27
+    },
+    {
+      "word": "थे",
+      "count": 26
+    },
+    {
+      "word": "नहीं",
+      "count": 25
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अर्ध शर",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 20
+    },
+    {
+      "phrase": "और फिर",
+      "count": 12
+    },
+    {
+      "phrase": "तरह से",
+      "count": 9
+    },
+    {
+      "phrase": "जो कि",
+      "count": 8
+    },
+    {
+      "phrase": "गोदरेज के",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 7
+    },
+    {
+      "phrase": "मेरवान जी",
+      "count": 7
+    },
+    {
+      "phrase": "इसके बाद",
+      "count": 7
+    },
+    {
+      "phrase": "गोदरेज ने",
+      "count": 6
+    }
+  ],
+  "segment_count": 125
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "MOug_QEl8qI",
+  "duration_seconds": 88,
+  "wps": 4.1,
+  "total_words": 361,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1294
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आपने जरूर बहुत सारे महाज्ञानी लोगों को यह ज्ञान देते हुए सुना होगा कि घर कभी भी खरीदना नहीं चाहिए। आपको उससे बेटर रेंट पर ले लेना चाहिए। वह खुद अपने लिए"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "तो आपके क्या व्यूज है इसको लेके मुझे कमेंट में जरूर बताना और अपनी फिन सहेली को फॉलो जरूर कर लेना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "घर",
+      "count": 16
+    },
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "आप",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "एक",
+      "count": 9
+    },
+    {
+      "word": "अपने",
+      "count": 8
+    },
+    {
+      "word": "हो",
+      "count": 8
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "जो",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "रेंट",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "इन्वेस्टमेंट",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "घर में",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 4
+    },
+    {
+      "phrase": "के घर",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 2
+    },
+    {
+      "phrase": "कि घर",
+      "count": 2
+    },
+    {
+      "phrase": "रेंट पर",
+      "count": 2
+    },
+    {
+      "phrase": "अपने लिए",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ों के",
+      "count": 2
+    },
+    {
+      "phrase": "एसआईपी में",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

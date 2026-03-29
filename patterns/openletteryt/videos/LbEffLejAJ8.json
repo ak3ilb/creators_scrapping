@@ -1,0 +1,148 @@
+{
+  "video_id": "LbEffLejAJ8",
+  "duration_seconds": 761,
+  "wps": 3.83,
+  "total_words": 2916,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10949
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मणिपुर की हिंसा हो,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अगर ये वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 92
+    },
+    {
+      "word": "में",
+      "count": 80
+    },
+    {
+      "word": "है",
+      "count": 78
+    },
+    {
+      "word": "से",
+      "count": 60
+    },
+    {
+      "word": "को",
+      "count": 56
+    },
+    {
+      "word": "और",
+      "count": 52
+    },
+    {
+      "word": "हैं",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 40
+    },
+    {
+      "word": "था",
+      "count": 39
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 33
+    },
+    {
+      "word": "हो",
+      "count": 31
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 27
+    },
+    {
+      "word": "अमित",
+      "count": 26
+    },
+    {
+      "word": "शाह",
+      "count": 26
+    },
+    {
+      "word": "कर",
+      "count": 24
+    },
+    {
+      "word": "एक",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अमित शाह",
+      "count": 26
+    },
+    {
+      "phrase": "के बाद",
+      "count": 11
+    },
+    {
+      "phrase": "था कि",
+      "count": 11
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "इन प्रोटेस्ट",
+      "count": 9
+    },
+    {
+      "phrase": "होम मिनिस्टर",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "जाता है",
+      "count": 7
+    }
+  ],
+  "segment_count": 98
+}

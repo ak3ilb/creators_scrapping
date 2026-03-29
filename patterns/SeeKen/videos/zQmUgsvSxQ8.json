@@ -1,0 +1,149 @@
+{
+  "video_id": "zQmUgsvSxQ8",
+  "duration_seconds": 1272,
+  "wps": 4.0,
+  "total_words": 5092,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 18110
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, कुआं खोदने वाले इब्राहिम को जब पूरी सल्तनत के सामने मौत की सजा देने के लिए लाया गया तो उसके पैरों में भारी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "बातें सीखने के लिए जिसने मेरी भी जिंदगी बदली है और जो पक्का आपकी भी लाइफ जरूर बदलेगा। लिंक इन द डिस्क्रिप्शन। अभी के लिए इतना ही। मिलते हैं नेक्स्ट वीडियो में। बाई बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 106
+    },
+    {
+      "word": "और",
+      "count": 104
+    },
+    {
+      "word": "से",
+      "count": 101
+    },
+    {
+      "word": "को",
+      "count": 94
+    },
+    {
+      "word": "एक",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "है",
+      "count": 83
+    },
+    {
+      "word": "था",
+      "count": 81
+    },
+    {
+      "word": "उसने",
+      "count": 72
+    },
+    {
+      "word": "भी",
+      "count": 72
+    },
+    {
+      "word": "नहीं",
+      "count": 71
+    },
+    {
+      "word": "वो",
+      "count": 70
+    },
+    {
+      "word": "इब्राहिम",
+      "count": 67
+    },
+    {
+      "word": "की",
+      "count": 63
+    },
+    {
+      "word": "ने",
+      "count": 63
+    },
+    {
+      "word": "यह",
+      "count": 62
+    },
+    {
+      "word": "उसे",
+      "count": 60
+    },
+    {
+      "word": "कि",
+      "count": 56
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "बहुत",
+      "count": 46
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वजह से",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "ऊपर वाले",
+      "count": 18
+    },
+    {
+      "phrase": "इब्राहिम को",
+      "count": 16
+    },
+    {
+      "phrase": "रहा था",
+      "count": 16
+    },
+    {
+      "phrase": "इब्राहिम ने",
+      "count": 14
+    },
+    {
+      "phrase": "के बाद",
+      "count": 14
+    },
+    {
+      "phrase": "यूनुस ने",
+      "count": 13
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 11
+    },
+    {
+      "phrase": "एक बहुत",
+      "count": 10
+    }
+  ],
+  "segment_count": 159
+}

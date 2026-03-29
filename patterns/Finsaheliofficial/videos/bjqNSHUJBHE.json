@@ -1,0 +1,148 @@
+{
+  "video_id": "bjqNSHUJBHE",
+  "duration_seconds": 42,
+  "wps": 3.26,
+  "total_words": 137,
+  "language_mix": {
+    "hindi": 95.0,
+    "english": 5.0,
+    "total_chars": 523
+  },
+  "hook": {
+    "type": "question",
+    "text": "रतन टाटा जी से एक इंटरव्यू में पूछा गया कि लाइफ में सक्सेसफुल कैसे बने? तो उन्होंने स्माइल के साथ बहुत ही सिंपल तरीके से कहा कि अगर तुम सक्सेसफुल बनना"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "साथ",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "तुम",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "दोस्त",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "सक्सेसफुल",
+      "count": 2
+    },
+    {
+      "word": "उन्होंने",
+      "count": 2
+    },
+    {
+      "word": "कहा",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "बनना",
+      "count": 2
+    },
+    {
+      "word": "चाहते",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "तो उन्होंने",
+      "count": 2
+    },
+    {
+      "phrase": "कहा कि",
+      "count": 2
+    },
+    {
+      "phrase": "बनना चाहते",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हो",
+      "count": 2
+    },
+    {
+      "phrase": "रतन टाटा",
+      "count": 1
+    },
+    {
+      "phrase": "टाटा जी",
+      "count": 1
+    },
+    {
+      "phrase": "जी से",
+      "count": 1
+    },
+    {
+      "phrase": "से एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक इंटरव्यू",
+      "count": 1
+    },
+    {
+      "phrase": "इंटरव्यू में",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

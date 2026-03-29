@@ -1,0 +1,149 @@
+{
+  "video_id": "9LZ1JgAJ7c4",
+  "duration_seconds": 3619,
+  "wps": 2.89,
+  "total_words": 10460,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 43323
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अब यह आपका दिमाग चकरा देगा। यह है 5000 करोड़ रुपयों का बना दुनिया का फास्टेस्ट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "साइंस के प्रति वो एंथूजियाज्म लाना है जैसे डेवलप्ड देशों में है। थैंक्स फॉर वाचिंग। जय विज्ञान जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 284
+    },
+    {
+      "word": "है",
+      "count": 253
+    },
+    {
+      "word": "और",
+      "count": 243
+    },
+    {
+      "word": "में",
+      "count": 215
+    },
+    {
+      "word": "को",
+      "count": 206
+    },
+    {
+      "word": "एक",
+      "count": 180
+    },
+    {
+      "word": "से",
+      "count": 171
+    },
+    {
+      "word": "हैं",
+      "count": 150
+    },
+    {
+      "word": "ही",
+      "count": 128
+    },
+    {
+      "word": "क्वांटम",
+      "count": 121
+    },
+    {
+      "word": "भी",
+      "count": 116
+    },
+    {
+      "word": "हो",
+      "count": 115
+    },
+    {
+      "word": "कि",
+      "count": 109
+    },
+    {
+      "word": "तो",
+      "count": 106
+    },
+    {
+      "word": "कर",
+      "count": 103
+    },
+    {
+      "word": "की",
+      "count": 99
+    },
+    {
+      "word": "यह",
+      "count": 85
+    },
+    {
+      "word": "कंप्यूटरटर्स",
+      "count": 84
+    },
+    {
+      "word": "पर",
+      "count": 82
+    },
+    {
+      "word": "का",
+      "count": 79
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 40
+    },
+    {
+      "phrase": "क्वांटम कंप्यूटरटर्स",
+      "count": 38
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 31
+    },
+    {
+      "phrase": "है और",
+      "count": 30
+    },
+    {
+      "phrase": "यानी कि",
+      "count": 29
+    },
+    {
+      "phrase": "हैं और",
+      "count": 26
+    },
+    {
+      "phrase": "जाता है",
+      "count": 25
+    },
+    {
+      "phrase": "होता है",
+      "count": 24
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 23
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 23
+    }
+  ],
+  "segment_count": 574
+}

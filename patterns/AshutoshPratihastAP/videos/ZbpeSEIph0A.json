@@ -1,0 +1,151 @@
+{
+  "video_id": "ZbpeSEIph0A",
+  "duration_seconds": 3802,
+  "wps": 3.16,
+  "total_words": 12022,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 42550
+  },
+  "hook": {
+    "type": "question",
+    "text": "कितने लोग कंसिस्टेंटली वृक्ष को पोस्ट कर रहे हैं जैसा कि लास्ट सेक्शन के अंदर मैंने आपको बताया था कि भाई रियल इज द फ्यूचर ऑफ बिजनस अगर आप रियल नहीं डाल रहे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "से मिलते हैं बहुत जल्दी आ"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)",
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 538
+    },
+    {
+      "word": "तो",
+      "count": 244
+    },
+    {
+      "word": "के",
+      "count": 209
+    },
+    {
+      "word": "कर",
+      "count": 191
+    },
+    {
+      "word": "और",
+      "count": 190
+    },
+    {
+      "word": "कि",
+      "count": 177
+    },
+    {
+      "word": "में",
+      "count": 162
+    },
+    {
+      "word": "पर",
+      "count": 158
+    },
+    {
+      "word": "से",
+      "count": 149
+    },
+    {
+      "word": "यह",
+      "count": 147
+    },
+    {
+      "word": "को",
+      "count": 146
+    },
+    {
+      "word": "आप",
+      "count": 144
+    },
+    {
+      "word": "हैं",
+      "count": 137
+    },
+    {
+      "word": "हो",
+      "count": 135
+    },
+    {
+      "word": "नहीं",
+      "count": 130
+    },
+    {
+      "word": "भी",
+      "count": 123
+    },
+    {
+      "word": "मैं",
+      "count": 101
+    },
+    {
+      "word": "आपको",
+      "count": 96
+    },
+    {
+      "word": "क्या",
+      "count": 95
+    },
+    {
+      "word": "वह",
+      "count": 93
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 78
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 63
+    },
+    {
+      "phrase": "है कि",
+      "count": 54
+    },
+    {
+      "phrase": "है तो",
+      "count": 43
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 37
+    },
+    {
+      "phrase": "होता है",
+      "count": 32
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 31
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 31
+    },
+    {
+      "phrase": "रहा है",
+      "count": 27
+    },
+    {
+      "phrase": "है और",
+      "count": 25
+    }
+  ],
+  "segment_count": 476
+}

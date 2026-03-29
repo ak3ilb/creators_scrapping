@@ -1,0 +1,148 @@
+{
+  "video_id": "O279MeLva4g",
+  "duration_seconds": 920,
+  "wps": 3.14,
+  "total_words": 2892,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11612
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आज तक जापान जैसी कमजोर आर्मी किसी भी देश को नहीं चाहिए थी पर अभी जस्ट कुछ ऐसा हो गया है कि हर एक देश की आर्मी जापानीज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दिस पार्टनरशिप। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 95
+    },
+    {
+      "word": "के",
+      "count": 93
+    },
+    {
+      "word": "जापान",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "और",
+      "count": 63
+    },
+    {
+      "word": "को",
+      "count": 57
+    },
+    {
+      "word": "भी",
+      "count": 47
+    },
+    {
+      "word": "से",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 41
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 33
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "कि",
+      "count": 28
+    },
+    {
+      "word": "ही",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 26
+    },
+    {
+      "word": "कर",
+      "count": 25
+    },
+    {
+      "word": "नहीं",
+      "count": 23
+    },
+    {
+      "word": "डिफेंस",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जापान के",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "जापान का",
+      "count": 9
+    },
+    {
+      "phrase": "और इसीलिए",
+      "count": 8
+    },
+    {
+      "phrase": "नॉर्थ कोरिया",
+      "count": 8
+    },
+    {
+      "phrase": "सकता है",
+      "count": 7
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 7
+    }
+  ],
+  "segment_count": 118
+}

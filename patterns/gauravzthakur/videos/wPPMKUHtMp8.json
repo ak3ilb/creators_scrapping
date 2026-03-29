@@ -1,0 +1,148 @@
+{
+  "video_id": "wPPMKUHtMp8",
+  "duration_seconds": 85,
+  "wps": 3.31,
+  "total_words": 281,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1148
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन साइड ऑफ कश्मीर और पीओके के डेवलपमेंट्स को एक बार कंपेयर करके देखते हैं। सो स्टार्टिंग विथ द बेसिक्स दोनों कश्मीर में बेसिक फैसिलिटीज जैसे हॉस्पिटल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "की आवाम के लिए एक सॉफ्ट मैसेज की तरह है कि इंडिया में आने के बाद उनकी मांगे एट लीस्ट कंसीडर की जाएगी।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "पर",
+      "count": 8
+    },
+    {
+      "word": "पीओके",
+      "count": 7
+    },
+    {
+      "word": "कश्मीर",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "जम्मू",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "ले",
+      "count": 4
+    },
+    {
+      "word": "लो",
+      "count": 4
+    },
+    {
+      "word": "डेवलपमेंट",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    },
+    {
+      "word": "वहीं",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "बजट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जम्मू एंड",
+      "count": 4
+    },
+    {
+      "phrase": "एंड कश्मीर",
+      "count": 4
+    },
+    {
+      "phrase": "ले लो",
+      "count": 4
+    },
+    {
+      "phrase": "कश्मीर में",
+      "count": 3
+    },
+    {
+      "phrase": "वहीं पर",
+      "count": 3
+    },
+    {
+      "phrase": "पर पीओके",
+      "count": 3
+    },
+    {
+      "phrase": "पीओके में",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "में सिर्फ",
+      "count": 2
+    },
+    {
+      "phrase": "है वहीं",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

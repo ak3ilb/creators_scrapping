@@ -1,0 +1,149 @@
+{
+  "video_id": "ToQDdPM2gE4",
+  "duration_seconds": 1006,
+  "wps": 2.65,
+  "total_words": 2665,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 10727
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "लेडी एंड जेंटलमैन फ्रॉम बीइंग लड टू द"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "है",
+      "count": 65
+    },
+    {
+      "word": "इजराइल",
+      "count": 65
+    },
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "को",
+      "count": 47
+    },
+    {
+      "word": "तो",
+      "count": 43
+    },
+    {
+      "word": "में",
+      "count": 42
+    },
+    {
+      "word": "ने",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "की",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 20
+    },
+    {
+      "word": "दुनिया",
+      "count": 19
+    },
+    {
+      "word": "किया",
+      "count": 19
+    },
+    {
+      "word": "एंड",
+      "count": 18
+    },
+    {
+      "word": "पास",
+      "count": 18
+    },
+    {
+      "word": "ना",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "इजराइल को",
+      "count": 10
+    },
+    {
+      "phrase": "इजराइल ने",
+      "count": 9
+    },
+    {
+      "phrase": "के पास",
+      "count": 9
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "पूरी दुनिया",
+      "count": 8
+    },
+    {
+      "phrase": "इजराइल के",
+      "count": 7
+    },
+    {
+      "phrase": "गवर्नमेंट ने",
+      "count": 7
+    },
+    {
+      "phrase": "हमारे पास",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    }
+  ],
+  "segment_count": 364
+}

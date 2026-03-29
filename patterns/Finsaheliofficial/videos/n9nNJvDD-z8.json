@@ -1,0 +1,148 @@
+{
+  "video_id": "n9nNJvDD-z8",
+  "duration_seconds": 105,
+  "wps": 4.01,
+  "total_words": 421,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1537
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ईरान और यूएस के इस वॉर में इंडिया भी पिसने वाला है और हम लोग भी। अब बताती हूं कैसे वीडियो को लास्ट तक देखना। ईरान अपना बिगेस्ट वेपन चला चुका है जिसका नाम है"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "क्या-क्या होने वाला है। तो आप लोगों के क्या व्यूज है इसको लेके मुझे कमेंट में जरूर बताना। एंड हां, ऐसे ही अपडेटेड रहने के लिए मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 16
+    },
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "ऑयल",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "अब",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "क्या",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "वॉर",
+      "count": 3
+    },
+    {
+      "word": "वाला",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "इसी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "वाला है",
+      "count": 2
+    },
+    {
+      "phrase": "चुका है",
+      "count": 2
+    },
+    {
+      "phrase": "मिडिल ईस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "रूट से",
+      "count": 2
+    },
+    {
+      "phrase": "शुरू कर",
+      "count": 2
+    },
+    {
+      "phrase": "और अगर",
+      "count": 2
+    },
+    {
+      "phrase": "लो और",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

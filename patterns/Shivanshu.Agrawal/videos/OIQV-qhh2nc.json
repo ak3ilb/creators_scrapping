@@ -1,0 +1,149 @@
+{
+  "video_id": "OIQV-qhh2nc",
+  "duration_seconds": 302,
+  "wps": 3.63,
+  "total_words": 1097,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 4337
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कि आज लांच दुनिया के सबसे अमीर इंसान जितना टेस्ला के कारण है उतना ही Twitter के कारण भी है 2008 में जब ए कंपनसेशन पैन"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "चलेगा लेकिन अगर आपको यह वीडियो अच्छा लगा हो तो इसे लाइक जितेंद्र भाई और अपने पॉट मुझे कमेंट सेक्शन में बताइए और ऐसी और वीडियोस के लिए इस चैनल को सब्सक्राइब करे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 32
+    },
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "और",
+      "count": 25
+    },
+    {
+      "word": "में",
+      "count": 24
+    },
+    {
+      "word": "को",
+      "count": 20
+    },
+    {
+      "word": "से",
+      "count": 18
+    },
+    {
+      "word": "ट्विटर",
+      "count": 18
+    },
+    {
+      "word": "कि",
+      "count": 14
+    },
+    {
+      "word": "टेस्ला",
+      "count": 13
+    },
+    {
+      "word": "था",
+      "count": 12
+    },
+    {
+      "word": "पर",
+      "count": 12
+    },
+    {
+      "word": "ट्वीट",
+      "count": 11
+    },
+    {
+      "word": "की",
+      "count": 11
+    },
+    {
+      "word": "थे",
+      "count": 11
+    },
+    {
+      "word": "इन",
+      "count": 11
+    },
+    {
+      "word": "एक",
+      "count": 10
+    },
+    {
+      "word": "यह",
+      "count": 10
+    },
+    {
+      "word": "लेकिन",
+      "count": 9
+    },
+    {
+      "word": "बिलियन",
+      "count": 9
+    },
+    {
+      "word": "डालर",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "बिलियन डालर",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "के कारण",
+      "count": 5
+    },
+    {
+      "phrase": "ट्विटर को",
+      "count": 5
+    },
+    {
+      "phrase": "लोन बस",
+      "count": 5
+    },
+    {
+      "phrase": "शेयर प्राइस",
+      "count": 5
+    },
+    {
+      "phrase": "ट्विटर अकाउंट",
+      "count": 5
+    },
+    {
+      "phrase": "सबसे अमीर",
+      "count": 4
+    }
+  ],
+  "segment_count": 38
+}

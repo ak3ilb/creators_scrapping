@@ -1,0 +1,149 @@
+{
+  "video_id": "q4B2wUFl7Hw",
+  "duration_seconds": 1148,
+  "wps": 3.03,
+  "total_words": 3479,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16077
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Imagine that this coming winter, during the cold months, you become so dangerous that people simply cannot ignore you."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And yes, it comes with a **money-back guarantee**. So you can **register there right now**. That’s all for now—see you in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 113
+    },
+    {
+      "word": "you",
+      "count": 99
+    },
+    {
+      "word": "to",
+      "count": 80
+    },
+    {
+      "word": "and",
+      "count": 75
+    },
+    {
+      "word": "this",
+      "count": 63
+    },
+    {
+      "word": "that",
+      "count": 57
+    },
+    {
+      "word": "in",
+      "count": 49
+    },
+    {
+      "word": "of",
+      "count": 39
+    },
+    {
+      "word": "will",
+      "count": 38
+    },
+    {
+      "word": "it",
+      "count": 34
+    },
+    {
+      "word": "your",
+      "count": 33
+    },
+    {
+      "word": "they",
+      "count": 31
+    },
+    {
+      "word": "is",
+      "count": 28
+    },
+    {
+      "word": "for",
+      "count": 25
+    },
+    {
+      "word": "so",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 24
+    },
+    {
+      "word": "he",
+      "count": 24
+    },
+    {
+      "word": "with",
+      "count": 23
+    },
+    {
+      "word": "if",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "winter arc",
+      "count": 17
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "if you",
+      "count": 12
+    },
+    {
+      "phrase": "to the",
+      "count": 11
+    },
+    {
+      "phrase": "when you",
+      "count": 8
+    },
+    {
+      "phrase": "you can",
+      "count": 7
+    },
+    {
+      "phrase": "you to",
+      "count": 7
+    },
+    {
+      "phrase": "go to",
+      "count": 7
+    },
+    {
+      "phrase": "help you",
+      "count": 6
+    },
+    {
+      "phrase": "the winter",
+      "count": 6
+    }
+  ],
+  "segment_count": 165
+}

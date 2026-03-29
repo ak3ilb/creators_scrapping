@@ -1,0 +1,149 @@
+{
+  "video_id": "YXkMHRJ58b8",
+  "duration_seconds": 1313,
+  "wps": 3.52,
+  "total_words": 4617,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 20907
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, the moment people hear the name **Amrapali**, whether young or old, their ears perk up. For many, even their breath stops for a moment. Why does this happen the moment her name is mention"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Make sure to **subscribe** so you can keep learning these lessons **for free**. That’s it for now—**bye bye**."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 167
+    },
+    {
+      "word": "to",
+      "count": 133
+    },
+    {
+      "word": "and",
+      "count": 132
+    },
+    {
+      "word": "he",
+      "count": 86
+    },
+    {
+      "word": "that",
+      "count": 75
+    },
+    {
+      "word": "you",
+      "count": 73
+    },
+    {
+      "word": "of",
+      "count": 59
+    },
+    {
+      "word": "her",
+      "count": 54
+    },
+    {
+      "word": "this",
+      "count": 52
+    },
+    {
+      "word": "was",
+      "count": 48
+    },
+    {
+      "word": "in",
+      "count": 47
+    },
+    {
+      "word": "monk",
+      "count": 42
+    },
+    {
+      "word": "his",
+      "count": 41
+    },
+    {
+      "word": "for",
+      "count": 34
+    },
+    {
+      "word": "it",
+      "count": 33
+    },
+    {
+      "word": "or",
+      "count": 30
+    },
+    {
+      "word": "but",
+      "count": 30
+    },
+    {
+      "word": "is",
+      "count": 29
+    },
+    {
+      "word": "will",
+      "count": 29
+    },
+    {
+      "word": "amrapali",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the monk",
+      "count": 21
+    },
+    {
+      "phrase": "you can",
+      "count": 14
+    },
+    {
+      "phrase": "if you",
+      "count": 13
+    },
+    {
+      "phrase": "instead of",
+      "count": 11
+    },
+    {
+      "phrase": "when he",
+      "count": 11
+    },
+    {
+      "phrase": "young monk",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "as a",
+      "count": 9
+    },
+    {
+      "phrase": "i will",
+      "count": 9
+    },
+    {
+      "phrase": "to the",
+      "count": 9
+    }
+  ],
+  "segment_count": 198
+}

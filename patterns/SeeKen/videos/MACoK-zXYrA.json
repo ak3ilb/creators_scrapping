@@ -1,0 +1,148 @@
+{
+  "video_id": "MACoK-zXYrA",
+  "duration_seconds": 311,
+  "wps": 3.44,
+  "total_words": 1069,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 5142
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "A very interesting story has been shared in a book about Janice Schonfeld, a 46-year-old woman who had suffered from severe depression since childhood."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "summary of You Are the Placebo—where I have explained it thoroughly with five life-changing stories. So, go ahead, click the link, and check out the video!"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 61
+    },
+    {
+      "word": "she",
+      "count": 28
+    },
+    {
+      "word": "and",
+      "count": 26
+    },
+    {
+      "word": "was",
+      "count": 24
+    },
+    {
+      "word": "in",
+      "count": 23
+    },
+    {
+      "word": "that",
+      "count": 20
+    },
+    {
+      "word": "had",
+      "count": 18
+    },
+    {
+      "word": "her",
+      "count": 17
+    },
+    {
+      "word": "to",
+      "count": 16
+    },
+    {
+      "word": "this",
+      "count": 15
+    },
+    {
+      "word": "of",
+      "count": 15
+    },
+    {
+      "word": "they",
+      "count": 13
+    },
+    {
+      "word": "it",
+      "count": 13
+    },
+    {
+      "word": "were",
+      "count": 12
+    },
+    {
+      "word": "you",
+      "count": 10
+    },
+    {
+      "word": "who",
+      "count": 9
+    },
+    {
+      "word": "so",
+      "count": 9
+    },
+    {
+      "word": "when",
+      "count": 9
+    },
+    {
+      "word": "medication",
+      "count": 9
+    },
+    {
+      "word": "actual",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the actual",
+      "count": 8
+    },
+    {
+      "phrase": "that she",
+      "count": 7
+    },
+    {
+      "phrase": "she had",
+      "count": 7
+    },
+    {
+      "phrase": "they were",
+      "count": 6
+    },
+    {
+      "phrase": "she was",
+      "count": 6
+    },
+    {
+      "phrase": "sugar pills",
+      "count": 6
+    },
+    {
+      "phrase": "taking the",
+      "count": 6
+    },
+    {
+      "phrase": "of the",
+      "count": 5
+    },
+    {
+      "phrase": "actual medication",
+      "count": 5
+    },
+    {
+      "phrase": "in her",
+      "count": 4
+    }
+  ],
+  "segment_count": 45
+}

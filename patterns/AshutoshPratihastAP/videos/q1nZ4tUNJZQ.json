@@ -1,0 +1,148 @@
+{
+  "video_id": "q1nZ4tUNJZQ",
+  "duration_seconds": 180,
+  "wps": 3.43,
+  "total_words": 618,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 2174
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "थे जॉर्ज बुश व्यवसाय निगरानी वीडियो रिकॉर्ड करो अभी रिकॉर्ड करूं अभी YouTube पर अपलोड कर दूंगा कि अर्जेंट ए कंफर्मेशन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तब तक छोटा जोड़ कर देंगे तब तक यही है इसलिए देखना चाहती थी बजे मिलता हूं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 21
+    },
+    {
+      "word": "कि",
+      "count": 13
+    },
+    {
+      "word": "यह",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "अंदर",
+      "count": 11
+    },
+    {
+      "word": "हो",
+      "count": 10
+    },
+    {
+      "word": "पर",
+      "count": 9
+    },
+    {
+      "word": "कर",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 9
+    },
+    {
+      "word": "करने",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "इस",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "मैं",
+      "count": 5
+    },
+    {
+      "word": "लोगों",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 8
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "लोगों ने",
+      "count": 3
+    },
+    {
+      "phrase": "है वह",
+      "count": 3
+    },
+    {
+      "phrase": "विरोध हो",
+      "count": 3
+    },
+    {
+      "phrase": "youtube पर",
+      "count": 2
+    },
+    {
+      "phrase": "शेयर करने",
+      "count": 2
+    },
+    {
+      "phrase": "यह है",
+      "count": 2
+    },
+    {
+      "phrase": "दिन में",
+      "count": 2
+    }
+  ],
+  "segment_count": 23
+}

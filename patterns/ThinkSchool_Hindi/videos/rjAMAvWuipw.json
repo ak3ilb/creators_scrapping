@@ -1,0 +1,148 @@
+{
+  "video_id": "rjAMAvWuipw",
+  "duration_seconds": 782,
+  "wps": 2.8,
+  "total_words": 2187,
+  "language_mix": {
+    "hindi": 94.9,
+    "english": 5.1,
+    "total_chars": 8657
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "द ब्रिटिश हैव बीन इन इंडिया फॉर ओवर 200"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्या"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 53
+    },
+    {
+      "word": "तो",
+      "count": 48
+    },
+    {
+      "word": "और",
+      "count": 45
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "है",
+      "count": 31
+    },
+    {
+      "word": "paints",
+      "count": 31
+    },
+    {
+      "word": "से",
+      "count": 26
+    },
+    {
+      "word": "asian",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "ने",
+      "count": 22
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "था",
+      "count": 20
+    },
+    {
+      "word": "अगर",
+      "count": 20
+    },
+    {
+      "word": "पेंट",
+      "count": 19
+    },
+    {
+      "word": "करोड़",
+      "count": 19
+    },
+    {
+      "word": "कंपनी",
+      "count": 17
+    },
+    {
+      "word": "दोस्तों",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "asian paints",
+      "count": 26
+    },
+    {
+      "phrase": "paints के",
+      "count": 10
+    },
+    {
+      "phrase": "के पास",
+      "count": 10
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 8
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "एशियन पेंट्स",
+      "count": 6
+    },
+    {
+      "phrase": "हो तो",
+      "count": 6
+    },
+    {
+      "phrase": "paints ने",
+      "count": 6
+    }
+  ],
+  "segment_count": 300
+}

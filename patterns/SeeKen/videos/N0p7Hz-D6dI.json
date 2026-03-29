@@ -1,0 +1,149 @@
+{
+  "video_id": "N0p7Hz-D6dI",
+  "duration_seconds": 929,
+  "wps": 3.99,
+  "total_words": 3710,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15136
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, do you know what F**k You money means?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s all for now. See you in the next video. Bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 140
+    },
+    {
+      "word": "to",
+      "count": 109
+    },
+    {
+      "word": "the",
+      "count": 103
+    },
+    {
+      "word": "and",
+      "count": 77
+    },
+    {
+      "word": "that",
+      "count": 58
+    },
+    {
+      "word": "this",
+      "count": 52
+    },
+    {
+      "word": "in",
+      "count": 52
+    },
+    {
+      "word": "of",
+      "count": 45
+    },
+    {
+      "word": "is",
+      "count": 44
+    },
+    {
+      "word": "it",
+      "count": 42
+    },
+    {
+      "word": "if",
+      "count": 40
+    },
+    {
+      "word": "your",
+      "count": 35
+    },
+    {
+      "word": "can",
+      "count": 35
+    },
+    {
+      "word": "have",
+      "count": 34
+    },
+    {
+      "word": "people",
+      "count": 34
+    },
+    {
+      "word": "on",
+      "count": 30
+    },
+    {
+      "word": "he",
+      "count": 29
+    },
+    {
+      "word": "but",
+      "count": 28
+    },
+    {
+      "word": "want",
+      "count": 27
+    },
+    {
+      "word": "rich",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you can",
+      "count": 19
+    },
+    {
+      "phrase": "if you",
+      "count": 19
+    },
+    {
+      "phrase": "want to",
+      "count": 15
+    },
+    {
+      "phrase": "have to",
+      "count": 12
+    },
+    {
+      "phrase": "— and",
+      "count": 12
+    },
+    {
+      "phrase": "in the",
+      "count": 12
+    },
+    {
+      "phrase": "you want",
+      "count": 12
+    },
+    {
+      "phrase": "need to",
+      "count": 12
+    },
+    {
+      "phrase": "become rich",
+      "count": 11
+    },
+    {
+      "phrase": "on the",
+      "count": 10
+    }
+  ],
+  "segment_count": 314
+}

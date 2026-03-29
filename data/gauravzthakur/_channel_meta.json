@@ -5,16 +5,16 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:26:48.335425+00:00",
+  "last_updated": "2026-03-29T16:21:56.188391+00:00",
   "total_discovered": 354,
   "ingestion_stats": {
-    "total": 60,
-    "ok": 60,
+    "total": 62,
+    "ok": 62,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "16.9%",
+  "completion_percentage": "17.5%",
   "videos": [
     {
       "video_id": "Nczsti_XDMc",
@@ -89,7 +89,7 @@
     {
       "video_id": "zld3J_MDLK0",
       "title": "How INDIA was once The CHINA of the World",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "xmi2Qldzlaw",
@@ -194,7 +194,7 @@
     {
       "video_id": "TfzqRhAca9o",
       "title": "Popping Causes SCARS ?",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "wPPMKUHtMp8",

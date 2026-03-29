@@ -1,0 +1,148 @@
+{
+  "video_id": "Kf7JgAFwqto",
+  "duration_seconds": 623,
+  "wps": 3.04,
+  "total_words": 1891,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 7331
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पहलगाम अटैक के वक्त इंडिया एक नहीं बल्कि दो जंगे लड़ रहा था। एक तरफ हम पाकिस्तान से तो लड़ ही रहे थे। तो पूरी दुनिया"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "का क्लिप आपको पसंद आया तो पूरी वीडियो चेक करना मत भूलना। लिंक नीचे डिस्क्रिप्शन में"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "इंडिया",
+      "count": 59
+    },
+    {
+      "word": "है",
+      "count": 54
+    },
+    {
+      "word": "के",
+      "count": 43
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 33
+    },
+    {
+      "word": "यूएस",
+      "count": 32
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "ने",
+      "count": 30
+    },
+    {
+      "word": "में",
+      "count": 28
+    },
+    {
+      "word": "से",
+      "count": 27
+    },
+    {
+      "word": "और",
+      "count": 25
+    },
+    {
+      "word": "कर",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 19
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 18
+    },
+    {
+      "word": "तो",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 15
+    },
+    {
+      "word": "यू",
+      "count": 15
+    },
+    {
+      "word": "यह",
+      "count": 14
+    },
+    {
+      "word": "का",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया ने",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 8
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "यूएस के",
+      "count": 7
+    },
+    {
+      "phrase": "के साथ",
+      "count": 6
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 5
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 5
+    }
+  ],
+  "segment_count": 80
+}

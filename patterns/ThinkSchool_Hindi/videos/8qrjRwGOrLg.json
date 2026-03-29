@@ -1,0 +1,150 @@
+{
+  "video_id": "8qrjRwGOrLg",
+  "duration_seconds": 5687,
+  "wps": 3.49,
+  "total_words": 19873,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 75912
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एटमबर्ग टेक्नोलॉजीes प्राइवेट लिमिटेड हैज़ बैक दिस अवार्ड एटमबर्ग टेक्नोलॉजीस हज़ जॉइन हैंड्स विथ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पॉडकास्ट इज जस्ट द टिप ऑफ़ द आइस। सो थैंक यू सो मच भाई। इट वाज अ प्लेजर। थैंक्स मैम।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 663
+    },
+    {
+      "word": "तो",
+      "count": 466
+    },
+    {
+      "word": "कि",
+      "count": 398
+    },
+    {
+      "word": "यू",
+      "count": 282
+    },
+    {
+      "word": "में",
+      "count": 273
+    },
+    {
+      "word": "एंड",
+      "count": 235
+    },
+    {
+      "word": "टू",
+      "count": 220
+    },
+    {
+      "word": "ये",
+      "count": 184
+    },
+    {
+      "word": "को",
+      "count": 178
+    },
+    {
+      "word": "जो",
+      "count": 169
+    },
+    {
+      "word": "आप",
+      "count": 158
+    },
+    {
+      "word": "नहीं",
+      "count": 156
+    },
+    {
+      "word": "दैट",
+      "count": 152
+    },
+    {
+      "word": "इज़",
+      "count": 150
+    },
+    {
+      "word": "और",
+      "count": 145
+    },
+    {
+      "word": "हैं",
+      "count": 139
+    },
+    {
+      "word": "एक",
+      "count": 138
+    },
+    {
+      "word": "प्रोडक्ट",
+      "count": 137
+    },
+    {
+      "word": "था",
+      "count": 134
+    },
+    {
+      "word": "के",
+      "count": 132
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 104
+    },
+    {
+      "phrase": "है तो",
+      "count": 102
+    },
+    {
+      "phrase": "मेरे को",
+      "count": 54
+    },
+    {
+      "phrase": "होता है",
+      "count": 46
+    },
+    {
+      "phrase": "रहा है",
+      "count": 43
+    },
+    {
+      "phrase": "था कि",
+      "count": 36
+    },
+    {
+      "phrase": "करता है",
+      "count": 28
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 28
+    },
+    {
+      "phrase": "क्या है",
+      "count": 27
+    },
+    {
+      "phrase": "कि अगर",
+      "count": 26
+    }
+  ],
+  "segment_count": 715
+}

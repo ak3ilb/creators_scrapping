@@ -1,0 +1,148 @@
+{
+  "video_id": "kjdzBzGj-zU",
+  "duration_seconds": 478,
+  "wps": 3.03,
+  "total_words": 1450,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 5844
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "9th जून 2024 राष्ट्रपति भवन में 9000 से ज्यादा वीआईपी गेस्ट के सामने पीएम मोदी अपने तीसरे टर्म की शपथ ले रहे होते हैं।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होना ही चाहिए और यूनानिमसली इसे कंडेम करना चाहिए। थैंक्स फॉर वाचिंग। टेक केयर एवरीवन। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 36
+    },
+    {
+      "word": "और",
+      "count": 31
+    },
+    {
+      "word": "पर",
+      "count": 23
+    },
+    {
+      "word": "कि",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "से",
+      "count": 19
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "ही",
+      "count": 18
+    },
+    {
+      "word": "ने",
+      "count": 17
+    },
+    {
+      "word": "भी",
+      "count": 17
+    },
+    {
+      "word": "नहीं",
+      "count": 16
+    },
+    {
+      "word": "यह",
+      "count": 14
+    },
+    {
+      "word": "इन",
+      "count": 14
+    },
+    {
+      "word": "इस",
+      "count": 14
+    },
+    {
+      "word": "कर",
+      "count": 13
+    },
+    {
+      "word": "था",
+      "count": 13
+    },
+    {
+      "word": "का",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 7
+    },
+    {
+      "phrase": "इंडियन गवर्नमेंट",
+      "count": 6
+    },
+    {
+      "phrase": "था कि",
+      "count": 5
+    },
+    {
+      "phrase": "वजह से",
+      "count": 5
+    },
+    {
+      "phrase": "द रेजिस्टेंस",
+      "count": 5
+    },
+    {
+      "phrase": "रही थी",
+      "count": 5
+    },
+    {
+      "phrase": "में एक",
+      "count": 4
+    },
+    {
+      "phrase": "टेररिस्टों ने",
+      "count": 4
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 4
+    }
+  ],
+  "segment_count": 61
+}

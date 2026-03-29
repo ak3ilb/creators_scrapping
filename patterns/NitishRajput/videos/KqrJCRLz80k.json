@@ -1,0 +1,149 @@
+{
+  "video_id": "KqrJCRLz80k",
+  "duration_seconds": 1875,
+  "wps": 3.27,
+  "total_words": 6130,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 26841
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Two passengers from Canada airport M. Singh and L. Singh. go to the airport with bomb in their bag."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 283
+    },
+    {
+      "word": "in",
+      "count": 178
+    },
+    {
+      "word": "and",
+      "count": 152
+    },
+    {
+      "word": "to",
+      "count": 146
+    },
+    {
+      "word": "was",
+      "count": 134
+    },
+    {
+      "word": "of",
+      "count": 129
+    },
+    {
+      "word": "that",
+      "count": 121
+    },
+    {
+      "word": "they",
+      "count": 98
+    },
+    {
+      "word": "this",
+      "count": 92
+    },
+    {
+      "word": "canada",
+      "count": 88
+    },
+    {
+      "word": "so",
+      "count": 71
+    },
+    {
+      "word": "india",
+      "count": 64
+    },
+    {
+      "word": "is",
+      "count": 62
+    },
+    {
+      "word": "it",
+      "count": 54
+    },
+    {
+      "word": "people",
+      "count": 49
+    },
+    {
+      "word": "sikh",
+      "count": 42
+    },
+    {
+      "word": "for",
+      "count": 42
+    },
+    {
+      "word": "but",
+      "count": 41
+    },
+    {
+      "word": "from",
+      "count": 40
+    },
+    {
+      "word": "time",
+      "count": 40
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in canada",
+      "count": 33
+    },
+    {
+      "phrase": "due to",
+      "count": 22
+    },
+    {
+      "phrase": "of the",
+      "count": 21
+    },
+    {
+      "phrase": "in the",
+      "count": 18
+    },
+    {
+      "phrase": "to canada",
+      "count": 18
+    },
+    {
+      "phrase": "and the",
+      "count": 17
+    },
+    {
+      "phrase": "lot of",
+      "count": 16
+    },
+    {
+      "phrase": "it was",
+      "count": 16
+    },
+    {
+      "phrase": "that time",
+      "count": 13
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    }
+  ],
+  "segment_count": 267
+}

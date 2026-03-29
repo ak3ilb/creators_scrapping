@@ -1,0 +1,149 @@
+{
+  "video_id": "tbHFwb0RNg8",
+  "duration_seconds": 2220,
+  "wps": 3.35,
+  "total_words": 7426,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 32989
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "You see a lot of dreams rights since childhood, that one day you will become something and do everything to fulfil your parents' dreams."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "So finally, you can talk to the person who shared this video with you and start today because action takers are money makers."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 304
+    },
+    {
+      "word": "you",
+      "count": 279
+    },
+    {
+      "word": "and",
+      "count": 235
+    },
+    {
+      "word": "of",
+      "count": 209
+    },
+    {
+      "word": "to",
+      "count": 208
+    },
+    {
+      "word": "in",
+      "count": 159
+    },
+    {
+      "word": "is",
+      "count": 129
+    },
+    {
+      "word": "that",
+      "count": 120
+    },
+    {
+      "word": "have",
+      "count": 84
+    },
+    {
+      "word": "will",
+      "count": 83
+    },
+    {
+      "word": "are",
+      "count": 78
+    },
+    {
+      "word": "this",
+      "count": 71
+    },
+    {
+      "word": "can",
+      "count": 71
+    },
+    {
+      "word": "your",
+      "count": 64
+    },
+    {
+      "word": "get",
+      "count": 59
+    },
+    {
+      "word": "people",
+      "count": 56
+    },
+    {
+      "word": "on",
+      "count": 56
+    },
+    {
+      "word": "if",
+      "count": 54
+    },
+    {
+      "word": "it",
+      "count": 52
+    },
+    {
+      "word": "for",
+      "count": 52
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you will",
+      "count": 51
+    },
+    {
+      "phrase": "you can",
+      "count": 50
+    },
+    {
+      "phrase": "in the",
+      "count": 44
+    },
+    {
+      "phrase": "a lot",
+      "count": 41
+    },
+    {
+      "phrase": "lot of",
+      "count": 32
+    },
+    {
+      "phrase": "have to",
+      "count": 27
+    },
+    {
+      "phrase": "if you",
+      "count": 27
+    },
+    {
+      "phrase": "able to",
+      "count": 21
+    },
+    {
+      "phrase": "you are",
+      "count": 20
+    },
+    {
+      "phrase": "you get",
+      "count": 20
+    }
+  ],
+  "segment_count": 270
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "qV8xDubKNlU",
+  "duration_seconds": 703,
+  "wps": 4.68,
+  "total_words": 3293,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11138
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब भी हम लोग रेड लाइट के ऊपर अपनी गाड़ी का शीशा नीचे करके खुद की ईगो को सेटिस्फाई करते हैं ना तब तब हम इनकी जिंदगी को और ज्यादा नर्क में धकेल हैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पे एक बहुत क्रेजी वीडियो आ रही है और अगर तुम लोग एक केस स्टडी देखना चाहते हो तो यहां पे मिशो की केस स्टडी आ रही है तुम लोग जाके चेक आउट कर सकते हो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 134
+    },
+    {
+      "word": "के",
+      "count": 97
+    },
+    {
+      "word": "और",
+      "count": 85
+    },
+    {
+      "word": "तो",
+      "count": 68
+    },
+    {
+      "word": "को",
+      "count": 64
+    },
+    {
+      "word": "हैं",
+      "count": 61
+    },
+    {
+      "word": "लोग",
+      "count": 60
+    },
+    {
+      "word": "ये",
+      "count": 57
+    },
+    {
+      "word": "नहीं",
+      "count": 54
+    },
+    {
+      "word": "हो",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 40
+    },
+    {
+      "word": "रहे",
+      "count": 40
+    },
+    {
+      "word": "कि",
+      "count": 37
+    },
+    {
+      "word": "ना",
+      "count": 36
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "में",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "तुम",
+      "count": 30
+    },
+    {
+      "word": "पैसा",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 21
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 20
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "है तो",
+      "count": 17
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "और ये",
+      "count": 15
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 13
+    },
+    {
+      "phrase": "ये चीज",
+      "count": 13
+    }
+  ],
+  "segment_count": 91
+}

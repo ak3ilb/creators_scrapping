@@ -1,0 +1,148 @@
+{
+  "video_id": "ij-vW-yueqo",
+  "duration_seconds": 867,
+  "wps": 3.29,
+  "total_words": 2853,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10367
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "खजूर छाप डालडा इसे ही तो कहते थे हम गरीब भारतीयों का असली घी कुछ सालों पहले तक हम सभी के घरों में यह पैकेट जरूर देखने को"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "या फिर नहीं हमें कमेंट करके जरूर बताइएगा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 97
+    },
+    {
+      "word": "में",
+      "count": 94
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "की",
+      "count": 58
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "को",
+      "count": 49
+    },
+    {
+      "word": "डालडा",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 47
+    },
+    {
+      "word": "से",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "घी",
+      "count": 42
+    },
+    {
+      "word": "था",
+      "count": 41
+    },
+    {
+      "word": "है",
+      "count": 35
+    },
+    {
+      "word": "वनस्पति",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "लिए",
+      "count": 28
+    },
+    {
+      "word": "ही",
+      "count": 27
+    },
+    {
+      "word": "इस",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वनस्पति घी",
+      "count": 25
+    },
+    {
+      "phrase": "के लिए",
+      "count": 22
+    },
+    {
+      "phrase": "देसी घी",
+      "count": 10
+    },
+    {
+      "phrase": "तरह से",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "डालडा को",
+      "count": 9
+    },
+    {
+      "phrase": "ट्रांस फैट",
+      "count": 9
+    },
+    {
+      "phrase": "जाता था",
+      "count": 8
+    },
+    {
+      "phrase": "घी के",
+      "count": 8
+    },
+    {
+      "phrase": "घी का",
+      "count": 8
+    }
+  ],
+  "segment_count": 113
+}

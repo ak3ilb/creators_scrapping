@@ -1,0 +1,148 @@
+{
+  "video_id": "fTQ8dE0B9w8",
+  "duration_seconds": 702,
+  "wps": 2.91,
+  "total_words": 2046,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 8113
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यूरोपा यह जुपिटर का फोर्थ लार्जेस्ट मून है। जहां पर नासा के डाटा के हिसाब से हमारे अर्थ के ओशंस जैसा ही सिमिलर सॉल्ट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ग्रो। गौरव ठाकुर साइनिंग ऑफ। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 73
+    },
+    {
+      "word": "के",
+      "count": 69
+    },
+    {
+      "word": "और",
+      "count": 54
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "यूरोपा",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "हैं",
+      "count": 23
+    },
+    {
+      "word": "लाइफ",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 22
+    },
+    {
+      "word": "पर",
+      "count": 22
+    },
+    {
+      "word": "को",
+      "count": 22
+    },
+    {
+      "word": "तो",
+      "count": 20
+    },
+    {
+      "word": "ही",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "लिए",
+      "count": 18
+    },
+    {
+      "word": "एक",
+      "count": 18
+    },
+    {
+      "word": "जो",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "जो कि",
+      "count": 7
+    },
+    {
+      "phrase": "यूरोपा के",
+      "count": 6
+    },
+    {
+      "phrase": "होता है",
+      "count": 6
+    },
+    {
+      "phrase": "वाला है",
+      "count": 6
+    },
+    {
+      "phrase": "यूरोपा का",
+      "count": 5
+    },
+    {
+      "phrase": "वजह से",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "लाइफ की",
+      "count": 5
+    }
+  ],
+  "segment_count": 89
+}

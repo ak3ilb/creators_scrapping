@@ -1,0 +1,149 @@
+{
+  "video_id": "8cXJJ_ix9DQ",
+  "duration_seconds": 1618,
+  "wps": 3.08,
+  "total_words": 4989,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 18323
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों दिल्ली के इलेक्शंस एक बार फिर जोरों शोरों से शुरू होने जा रहे हैं लेकिन इस बार यह सिर्फ एक आम चुनाव"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है लेकिन हमारे लिए ये बहुत-बहुत जरूरी है थैंक यू सो मच फॉर वाचिंग आई विल सी यू इन द नेक्स्ट one बाय बाय"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 238
+    },
+    {
+      "word": "और",
+      "count": 119
+    },
+    {
+      "word": "के",
+      "count": 118
+    },
+    {
+      "word": "में",
+      "count": 91
+    },
+    {
+      "word": "का",
+      "count": 85
+    },
+    {
+      "word": "से",
+      "count": 76
+    },
+    {
+      "word": "तो",
+      "count": 76
+    },
+    {
+      "word": "की",
+      "count": 71
+    },
+    {
+      "word": "दिल्ली",
+      "count": 69
+    },
+    {
+      "word": "को",
+      "count": 67
+    },
+    {
+      "word": "कि",
+      "count": 65
+    },
+    {
+      "word": "हैं",
+      "count": 64
+    },
+    {
+      "word": "पर",
+      "count": 62
+    },
+    {
+      "word": "एक",
+      "count": 58
+    },
+    {
+      "word": "नहीं",
+      "count": 57
+    },
+    {
+      "word": "यह",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "जो",
+      "count": 43
+    },
+    {
+      "word": "फ्री",
+      "count": 36
+    },
+    {
+      "word": "आम",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आम आदमी",
+      "count": 31
+    },
+    {
+      "phrase": "है कि",
+      "count": 31
+    },
+    {
+      "phrase": "है और",
+      "count": 31
+    },
+    {
+      "phrase": "आदमी पार्टी",
+      "count": 30
+    },
+    {
+      "phrase": "दिल्ली के",
+      "count": 21
+    },
+    {
+      "phrase": "है तो",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "दिल्ली में",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "जाता है",
+      "count": 14
+    }
+  ],
+  "segment_count": 201
+}

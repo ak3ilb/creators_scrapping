@@ -1,0 +1,149 @@
+{
+  "video_id": "rbn8SCyT-Z8",
+  "duration_seconds": 904,
+  "wps": 3.84,
+  "total_words": 3474,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15025
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, this 15-minute video can help you save 10 to 11 years of your life —"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s all for now. See you in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 142
+    },
+    {
+      "word": "the",
+      "count": 117
+    },
+    {
+      "word": "to",
+      "count": 88
+    },
+    {
+      "word": "your",
+      "count": 83
+    },
+    {
+      "word": "and",
+      "count": 83
+    },
+    {
+      "word": "for",
+      "count": 57
+    },
+    {
+      "word": "is",
+      "count": 51
+    },
+    {
+      "word": "in",
+      "count": 48
+    },
+    {
+      "word": "this",
+      "count": 47
+    },
+    {
+      "word": "it",
+      "count": 47
+    },
+    {
+      "word": "that",
+      "count": 47
+    },
+    {
+      "word": "phone",
+      "count": 40
+    },
+    {
+      "word": "of",
+      "count": 39
+    },
+    {
+      "word": "can",
+      "count": 38
+    },
+    {
+      "word": "on",
+      "count": 35
+    },
+    {
+      "word": "time",
+      "count": 32
+    },
+    {
+      "word": "if",
+      "count": 32
+    },
+    {
+      "word": "things",
+      "count": 25
+    },
+    {
+      "word": "are",
+      "count": 25
+    },
+    {
+      "word": "with",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you can",
+      "count": 26
+    },
+    {
+      "phrase": "your phone",
+      "count": 22
+    },
+    {
+      "phrase": "for you",
+      "count": 14
+    },
+    {
+      "phrase": "if you",
+      "count": 13
+    },
+    {
+      "phrase": "your life",
+      "count": 12
+    },
+    {
+      "phrase": "11 years",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 11
+    },
+    {
+      "phrase": "using your",
+      "count": 10
+    },
+    {
+      "phrase": "if you’re",
+      "count": 9
+    },
+    {
+      "phrase": "your goals",
+      "count": 9
+    }
+  ],
+  "segment_count": 322
+}

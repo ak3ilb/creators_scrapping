@@ -1,0 +1,148 @@
+{
+  "video_id": "LGZfzMPyeKA",
+  "duration_seconds": 1055,
+  "wps": 3.17,
+  "total_words": 3341,
+  "language_mix": {
+    "hindi": 97.2,
+    "english": 2.8,
+    "total_chars": 12266
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "थम्स अप। आई थिंक आप में से ज्यादातर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना भूलिएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 102
+    },
+    {
+      "word": "में",
+      "count": 91
+    },
+    {
+      "word": "के",
+      "count": 91
+    },
+    {
+      "word": "और",
+      "count": 77
+    },
+    {
+      "word": "थम्स",
+      "count": 69
+    },
+    {
+      "word": "की",
+      "count": 64
+    },
+    {
+      "word": "अप",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "था",
+      "count": 58
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "ही",
+      "count": 45
+    },
+    {
+      "word": "है",
+      "count": 40
+    },
+    {
+      "word": "ने",
+      "count": 40
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "लेकिन",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "कोलाa",
+      "count": 30
+    },
+    {
+      "word": "यह",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "थम्स अप",
+      "count": 62
+    },
+    {
+      "phrase": "को c",
+      "count": 20
+    },
+    {
+      "phrase": "c को",
+      "count": 19
+    },
+    {
+      "phrase": "अप को",
+      "count": 16
+    },
+    {
+      "phrase": "cocac कोलाa",
+      "count": 15
+    },
+    {
+      "phrase": "कोका कोला",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "अप के",
+      "count": 10
+    },
+    {
+      "phrase": "था कि",
+      "count": 10
+    },
+    {
+      "phrase": "के बाद",
+      "count": 10
+    }
+  ],
+  "segment_count": 406
+}

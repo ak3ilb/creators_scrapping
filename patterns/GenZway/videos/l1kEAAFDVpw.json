@@ -1,0 +1,150 @@
+{
+  "video_id": "l1kEAAFDVpw",
+  "duration_seconds": 1649,
+  "wps": 4.13,
+  "total_words": 6806,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 24195
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मैं ट्रिगर्ड और फुकरा इंसान के ब्रांड को शायद कॉपी ना बोलूं पर इनके क्लेम्म जरूर बोल सकता हूं और इनको हटा के ये जो आशीष का ओजी ब्यूटी ब्रांड है ये तो कॉपी भी और"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "क्लिक कर सकता है तब तक के लिए बाय ू की ई-कॉमर्स पप का लिंक तुम्हे डिस्क्रिप्शन और पिन कमेंट के अंदर मिल जाएगा जाओ जाके उसको ट्राई आउट करो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 394
+    },
+    {
+      "word": "के",
+      "count": 183
+    },
+    {
+      "word": "तो",
+      "count": 122
+    },
+    {
+      "word": "और",
+      "count": 121
+    },
+    {
+      "word": "को",
+      "count": 119
+    },
+    {
+      "word": "ना",
+      "count": 109
+    },
+    {
+      "word": "भी",
+      "count": 104
+    },
+    {
+      "word": "हैं",
+      "count": 100
+    },
+    {
+      "word": "नहीं",
+      "count": 92
+    },
+    {
+      "word": "ये",
+      "count": 90
+    },
+    {
+      "word": "अंदर",
+      "count": 90
+    },
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "जो",
+      "count": 80
+    },
+    {
+      "word": "हो",
+      "count": 78
+    },
+    {
+      "word": "कर",
+      "count": 73
+    },
+    {
+      "word": "लोग",
+      "count": 69
+    },
+    {
+      "word": "कि",
+      "count": 65
+    },
+    {
+      "word": "का",
+      "count": 58
+    },
+    {
+      "word": "वो",
+      "count": 58
+    },
+    {
+      "word": "की",
+      "count": 54
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 46
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 36
+    },
+    {
+      "phrase": "होता है",
+      "count": 32
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 29
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 27
+    },
+    {
+      "phrase": "है और",
+      "count": 27
+    },
+    {
+      "phrase": "है ना",
+      "count": 27
+    },
+    {
+      "phrase": "है कि",
+      "count": 24
+    },
+    {
+      "phrase": "इसके अंदर",
+      "count": 24
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 22
+    }
+  ],
+  "segment_count": 198
+}

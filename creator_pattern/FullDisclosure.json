@@ -1,0 +1,37 @@
+{
+  "creator": "FullDisclosure",
+  "last_updated": "2026-03-29T14:31:24.549423",
+  "pacing": {
+    "avg_wps": 2.728852277324573,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 2.719170608934001,
+        "duration": 60.75925925925926
+      },
+      "fast_facts": {
+        "wps": 3.0232558139534884,
+        "duration": 43.0
+      },
+      "other": {
+        "wps": 2.843055555555556,
+        "duration": 38.0
+      }
+    }
+  },
+  "signature_hooks": [
+    "एंड लेट",
+    "फुल डिस्क्लोज़र",
+    "full disclosure",
+    "disclosure and",
+    "लेट मी",
+    "आई विल",
+    "is a",
+    "सब्सक्राइब फुल",
+    "and the",
+    "launched a"
+  ],
+  "uniqueness_traits": [
+    "Calm / Explanatory",
+    "Storytelling Specialist"
+  ]
+}

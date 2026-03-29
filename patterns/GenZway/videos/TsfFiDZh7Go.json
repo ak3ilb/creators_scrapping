@@ -1,0 +1,150 @@
+{
+  "video_id": "TsfFiDZh7Go",
+  "duration_seconds": 1342,
+  "wps": 4.53,
+  "total_words": 6084,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 22495
+  },
+  "hook": {
+    "type": "question",
+    "text": "देखो वैसे तो हमारा ये सीडब्ल्यू के साथ एक पुराना रिश्ता भी है जिसके अंदर हमने बताया था कि ये कोचिंग माफियास ऑपरेट कैसे करते हैं और उसके बाद हमारे कोचिंग माफिया ने कुछ ऐसा बोला था। कौन वीडियो बनाता है?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलता हूं एक अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 253
+    },
+    {
+      "word": "के",
+      "count": 170
+    },
+    {
+      "word": "और",
+      "count": 146
+    },
+    {
+      "word": "को",
+      "count": 104
+    },
+    {
+      "word": "अंदर",
+      "count": 97
+    },
+    {
+      "word": "हैं",
+      "count": 96
+    },
+    {
+      "word": "भी",
+      "count": 95
+    },
+    {
+      "word": "से",
+      "count": 92
+    },
+    {
+      "word": "तो",
+      "count": 91
+    },
+    {
+      "word": "की",
+      "count": 80
+    },
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "कि",
+      "count": 77
+    },
+    {
+      "word": "हो",
+      "count": 75
+    },
+    {
+      "word": "कर",
+      "count": 75
+    },
+    {
+      "word": "वो",
+      "count": 75
+    },
+    {
+      "word": "नहीं",
+      "count": 69
+    },
+    {
+      "word": "एक",
+      "count": 63
+    },
+    {
+      "word": "जो",
+      "count": 58
+    },
+    {
+      "word": "लोग",
+      "count": 55
+    },
+    {
+      "word": "ना",
+      "count": 48
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 77
+    },
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 27
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 24
+    },
+    {
+      "phrase": "है कि",
+      "count": 24
+    },
+    {
+      "phrase": "रहा है",
+      "count": 20
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 20
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 17
+    }
+  ],
+  "segment_count": 170
+}

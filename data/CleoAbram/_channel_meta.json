@@ -5,17 +5,22 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:35:50.638405+00:00",
-  "total_discovered": 54,
+  "last_updated": "2026-03-29T16:30:12.666258+00:00",
+  "total_discovered": 55,
   "ingestion_stats": {
-    "total": 37,
-    "ok": 37,
+    "total": 41,
+    "ok": 41,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "68.5%",
+  "completion_percentage": "74.5%",
   "videos": [
+    {
+      "video_id": "0HlLwG2xN_c",
+      "title": "What's Really Hiding In The Deepest Oceans",
+      "status": "OK"
+    },
     {
       "video_id": "p60I9LNHNxg",
       "title": "Why This Olympic Sport Bothers Physicists",
@@ -39,7 +44,7 @@
     {
       "video_id": "qmQ_lQOBdq4",
       "title": "Why NASA Is Sending This Truck To The Moon",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "hmtuvNfytjM",
@@ -49,7 +54,7 @@
     {
       "video_id": "znWFsB0f0EA",
       "title": "5 Wild Experiments In Zero Gravity (Bonus Episode)",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "5zJbE7J3X8I",
@@ -64,7 +69,7 @@
     {
       "video_id": "bY1EQ6HD-ao",
       "title": "What Bothers Physicists About Black Holes (Interview with Brian Cox)",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "BKIkTKqWMfg",

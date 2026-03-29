@@ -1,0 +1,149 @@
+{
+  "video_id": "3nys3hyPMYY",
+  "duration_seconds": 1086,
+  "wps": 1.9,
+  "total_words": 2058,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 8079
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कैन जिओ बी द फर्स्ट कंपनी टू ट्रांसफॉर्म एन एंटायस यस वी कैन एंड वी विल दोस्तों कुछ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "थैंक यू सो मच फॉर वाचिंग आई विल सी यू इन द नेक्स्ट वन बाय बाय"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 55
+    },
+    {
+      "word": "के",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 32
+    },
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "डिजनी",
+      "count": 26
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "ने",
+      "count": 20
+    },
+    {
+      "word": "से",
+      "count": 19
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "दोस्तों",
+      "count": 18
+    },
+    {
+      "word": "था",
+      "count": 18
+    },
+    {
+      "word": "इंडिया",
+      "count": 16
+    },
+    {
+      "word": "हैं",
+      "count": 16
+    },
+    {
+      "word": "मार्केट",
+      "count": 14
+    },
+    {
+      "word": "थे",
+      "count": 14
+    },
+    {
+      "word": "थी",
+      "count": 14
+    },
+    {
+      "word": "यह",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के साथ",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "के पास",
+      "count": 7
+    },
+    {
+      "phrase": "थे और",
+      "count": 7
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 7
+    },
+    {
+      "phrase": "ओटीडी मार्केट",
+      "count": 6
+    },
+    {
+      "phrase": "मुकेश भाई",
+      "count": 6
+    },
+    {
+      "phrase": "मुकेश अंबानी",
+      "count": 4
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "डिजनी के",
+      "count": 4
+    }
+  ],
+  "segment_count": 106
+}

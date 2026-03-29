@@ -1,0 +1,149 @@
+{
+  "video_id": "-lx6tC9PuZ0",
+  "duration_seconds": 1726,
+  "wps": 3.05,
+  "total_words": 5271,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 24441
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "(Chaotic Noises)"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "After watching the video on the right, you will get to know."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 202
+    },
+    {
+      "word": "and",
+      "count": 166
+    },
+    {
+      "word": "to",
+      "count": 162
+    },
+    {
+      "word": "of",
+      "count": 157
+    },
+    {
+      "word": "that",
+      "count": 114
+    },
+    {
+      "word": "instagram",
+      "count": 112
+    },
+    {
+      "word": "was",
+      "count": 108
+    },
+    {
+      "word": "in",
+      "count": 73
+    },
+    {
+      "word": "it",
+      "count": 66
+    },
+    {
+      "word": "this",
+      "count": 59
+    },
+    {
+      "word": "for",
+      "count": 55
+    },
+    {
+      "word": "he",
+      "count": 51
+    },
+    {
+      "word": "not",
+      "count": 51
+    },
+    {
+      "word": "kevin",
+      "count": 48
+    },
+    {
+      "word": "were",
+      "count": 45
+    },
+    {
+      "word": "had",
+      "count": 43
+    },
+    {
+      "word": "people",
+      "count": 43
+    },
+    {
+      "word": "on",
+      "count": 41
+    },
+    {
+      "word": "they",
+      "count": 40
+    },
+    {
+      "word": "facebook",
+      "count": 39
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a lot",
+      "count": 33
+    },
+    {
+      "phrase": "lot of",
+      "count": 28
+    },
+    {
+      "phrase": "in the",
+      "count": 25
+    },
+    {
+      "phrase": "of instagram",
+      "count": 24
+    },
+    {
+      "phrase": "it was",
+      "count": 18
+    },
+    {
+      "phrase": "said that",
+      "count": 16
+    },
+    {
+      "phrase": "instagram was",
+      "count": 16
+    },
+    {
+      "phrase": "they were",
+      "count": 13
+    },
+    {
+      "phrase": "did not",
+      "count": 11
+    },
+    {
+      "phrase": "that instagram",
+      "count": 11
+    }
+  ],
+  "segment_count": 215
+}

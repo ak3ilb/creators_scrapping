@@ -1,0 +1,149 @@
+{
+  "video_id": "-xTiZZHQhQg",
+  "duration_seconds": 82,
+  "wps": 3.32,
+  "total_words": 272,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 985
+  },
+  "hook": {
+    "type": "question",
+    "text": "पृथ्वी पर आपको स्पेस का एहसास चाहिए?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पानी नीचे गिर रहा था और अपने फ्रेंड्स के साथ जरूर शेयर करना जो आज भी ग्रेविटी को एक फोर्स मानते हैं।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "एप्पल",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "फोर्स",
+      "count": 6
+    },
+    {
+      "word": "नीचे",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "पानी",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "आइंस्टाइन",
+      "count": 4
+    },
+    {
+      "word": "स्पेस",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "ग्रेविटी",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एप्पल को",
+      "count": 4
+    },
+    {
+      "phrase": "कोई फोर्स",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "गिरते हुए",
+      "count": 2
+    },
+    {
+      "phrase": "हुए एप्पल",
+      "count": 2
+    },
+    {
+      "phrase": "एक फोर्स",
+      "count": 2
+    },
+    {
+      "phrase": "को नीचे",
+      "count": 2
+    },
+    {
+      "phrase": "खींच रही",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "आइंस्टाइन ने",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

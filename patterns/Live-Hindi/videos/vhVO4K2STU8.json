@@ -1,0 +1,149 @@
+{
+  "video_id": "vhVO4K2STU8",
+  "duration_seconds": 1028,
+  "wps": 2.86,
+  "total_words": 2940,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 11546
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों, आपने Tata, Mahindra और Hyundai की इलेक्ट्रिक कार्स को इंडिया की सड़कों पर चलते हुए जरूर देखा होगा। लेकिन क्या"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्टोरी जरूर पसंद आई होगी।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "की",
+      "count": 67
+    },
+    {
+      "word": "है",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "बीवाईडी",
+      "count": 46
+    },
+    {
+      "word": "था",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "ने",
+      "count": 41
+    },
+    {
+      "word": "के",
+      "count": 40
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 37
+    },
+    {
+      "word": "पर",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 26
+    },
+    {
+      "word": "ही",
+      "count": 26
+    },
+    {
+      "word": "बैटरी",
+      "count": 26
+    },
+    {
+      "word": "थी",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बीवाईडी ने",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "बीवाईडी की",
+      "count": 10
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "और फिर",
+      "count": 8
+    },
+    {
+      "phrase": "उस टाइम",
+      "count": 7
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 7
+    },
+    {
+      "phrase": "रहा था",
+      "count": 7
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    }
+  ],
+  "segment_count": 129
+}

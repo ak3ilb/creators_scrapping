@@ -1,0 +1,149 @@
+{
+  "video_id": "uUVHZ-CWDJU",
+  "duration_seconds": 749,
+  "wps": 3.91,
+  "total_words": 2929,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 10954
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ओ मोरिया को रे लॉ लॉप लॉलीपॉप लागेलू रात भर हिलाया है फिर बुलाया है लौंडिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 103
+    },
+    {
+      "word": "के",
+      "count": 81
+    },
+    {
+      "word": "में",
+      "count": 71
+    },
+    {
+      "word": "हैं",
+      "count": 67
+    },
+    {
+      "word": "तो",
+      "count": 60
+    },
+    {
+      "word": "और",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "की",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "भोजपुरी",
+      "count": 29
+    },
+    {
+      "word": "लोग",
+      "count": 29
+    },
+    {
+      "word": "यह",
+      "count": 28
+    },
+    {
+      "word": "ये",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "इंडस्ट्री",
+      "count": 23
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "का",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 8
+    },
+    {
+      "phrase": "इंडस्ट्री में",
+      "count": 7
+    },
+    {
+      "phrase": "रही है",
+      "count": 7
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 7
+    },
+    {
+      "phrase": "इस इंडस्ट्री",
+      "count": 6
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 6
+    }
+  ],
+  "segment_count": 97
+}

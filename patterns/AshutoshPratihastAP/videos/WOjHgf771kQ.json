@@ -1,0 +1,150 @@
+{
+  "video_id": "WOjHgf771kQ",
+  "duration_seconds": 684,
+  "wps": 2.8,
+  "total_words": 1917,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 6644
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "को सबसे बिल्कुल हमारा यह चैंपियनशिप में हां हां रुकणा छ्न फोरम बहुत बड़ा गोल मत बनाओ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अजय को"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 110
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "में",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 31
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 26
+    },
+    {
+      "word": "नहीं",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 24
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "जो",
+      "count": 23
+    },
+    {
+      "word": "आप",
+      "count": 20
+    },
+    {
+      "word": "से",
+      "count": 20
+    },
+    {
+      "word": "हैं",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "करना",
+      "count": 19
+    },
+    {
+      "word": "के",
+      "count": 19
+    },
+    {
+      "word": "काम",
+      "count": 17
+    },
+    {
+      "word": "बहुत",
+      "count": 16
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "एक",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "जो भी",
+      "count": 11
+    },
+    {
+      "phrase": "करना है",
+      "count": 10
+    },
+    {
+      "phrase": "है आप",
+      "count": 6
+    },
+    {
+      "phrase": "आता है",
+      "count": 6
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 6
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 6
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "नहीं कर",
+      "count": 5
+    }
+  ],
+  "segment_count": 84
+}

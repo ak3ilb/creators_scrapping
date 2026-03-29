@@ -1,0 +1,150 @@
+{
+  "video_id": "j6LFGfC68V4",
+  "duration_seconds": 1501,
+  "wps": 4.64,
+  "total_words": 6970,
+  "language_mix": {
+    "hindi": 96.0,
+    "english": 4.0,
+    "total_chars": 24258
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अंबानी का Jio और Airtel कोई आपस में कंपटीशन नहीं है बल्कि हमको जबरदस्ती लड़के दिखाते नहीं तो इंडिया के अंदर बैन हो जाएंगे।"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "सब्सक्राइब करो। मेरी यह वाली वीडियो देखो और ओडू को भी देख के जाना। लिंक तुम लोगों को डिस्क्रिप्शन के अंदर मिल जाएगा। मैं तुम्हें मिलता हूं अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 259
+    },
+    {
+      "word": "के",
+      "count": 242
+    },
+    {
+      "word": "और",
+      "count": 229
+    },
+    {
+      "word": "अंदर",
+      "count": 116
+    },
+    {
+      "word": "तो",
+      "count": 106
+    },
+    {
+      "word": "भी",
+      "count": 104
+    },
+    {
+      "word": "ना",
+      "count": 90
+    },
+    {
+      "word": "कर",
+      "count": 90
+    },
+    {
+      "word": "कि",
+      "count": 85
+    },
+    {
+      "word": "को",
+      "count": 85
+    },
+    {
+      "word": "से",
+      "count": 85
+    },
+    {
+      "word": "की",
+      "count": 83
+    },
+    {
+      "word": "हो",
+      "count": 76
+    },
+    {
+      "word": "भैया",
+      "count": 76
+    },
+    {
+      "word": "का",
+      "count": 75
+    },
+    {
+      "word": "में",
+      "count": 75
+    },
+    {
+      "word": "ये",
+      "count": 75
+    },
+    {
+      "word": "था",
+      "count": 68
+    },
+    {
+      "word": "हैं",
+      "count": 65
+    },
+    {
+      "word": "नहीं",
+      "count": 62
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 96
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 59
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 37
+    },
+    {
+      "phrase": "है और",
+      "count": 32
+    },
+    {
+      "phrase": "रहा है",
+      "count": 32
+    },
+    {
+      "phrase": "है ना",
+      "count": 26
+    },
+    {
+      "phrase": "रही है",
+      "count": 24
+    },
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 20
+    },
+    {
+      "phrase": "और सिर्फ",
+      "count": 19
+    }
+  ],
+  "segment_count": 189
+}

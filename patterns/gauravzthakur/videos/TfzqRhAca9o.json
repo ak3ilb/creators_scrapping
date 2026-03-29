@@ -1,0 +1,148 @@
+{
+  "video_id": "TfzqRhAca9o",
+  "duration_seconds": 77,
+  "wps": 3.38,
+  "total_words": 260,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1020
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "क्यों पिंपल्स को पॉप करने पर वो हमारे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कंटेंट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "स्किन",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "जो",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "पिंपल्स",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 4
+    },
+    {
+      "word": "पॉप",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "पिंपल",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "स्किन के",
+      "count": 3
+    },
+    {
+      "phrase": "लेयर्स तक",
+      "count": 3
+    },
+    {
+      "phrase": "पिंपल्स को",
+      "count": 2
+    },
+    {
+      "phrase": "को पॉप",
+      "count": 2
+    },
+    {
+      "phrase": "पर एक",
+      "count": 2
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    }
+  ],
+  "segment_count": 34
+}

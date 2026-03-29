@@ -1,0 +1,148 @@
+{
+  "video_id": "VJgdOMXhEj0",
+  "duration_seconds": 1416,
+  "wps": 1.72,
+  "total_words": 2439,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9662
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "\"Speeding and...\" [CLAP]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "enjoying this video and you want to help us go to"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 131
+    },
+    {
+      "word": "to",
+      "count": 79
+    },
+    {
+      "word": "and",
+      "count": 66
+    },
+    {
+      "word": "of",
+      "count": 59
+    },
+    {
+      "word": "is",
+      "count": 50
+    },
+    {
+      "word": "that",
+      "count": 50
+    },
+    {
+      "word": "car",
+      "count": 44
+    },
+    {
+      "word": "you",
+      "count": 42
+    },
+    {
+      "word": "it",
+      "count": 36
+    },
+    {
+      "word": "in",
+      "count": 35
+    },
+    {
+      "word": "this",
+      "count": 33
+    },
+    {
+      "word": "so",
+      "count": 33
+    },
+    {
+      "word": "formula",
+      "count": 26
+    },
+    {
+      "word": "it's",
+      "count": 21
+    },
+    {
+      "word": "on",
+      "count": 20
+    },
+    {
+      "word": "but",
+      "count": 20
+    },
+    {
+      "word": "all",
+      "count": 18
+    },
+    {
+      "word": "are",
+      "count": 18
+    },
+    {
+      "word": "can",
+      "count": 18
+    },
+    {
+      "word": "what",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "formula 1",
+      "count": 23
+    },
+    {
+      "phrase": "the car",
+      "count": 19
+    },
+    {
+      "phrase": "this is",
+      "count": 16
+    },
+    {
+      "phrase": "of the",
+      "count": 14
+    },
+    {
+      "phrase": "a formula",
+      "count": 11
+    },
+    {
+      "phrase": "1 car",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "going to",
+      "count": 7
+    },
+    {
+      "phrase": "and the",
+      "count": 7
+    },
+    {
+      "phrase": "you can",
+      "count": 7
+    }
+  ],
+  "segment_count": 276
+}

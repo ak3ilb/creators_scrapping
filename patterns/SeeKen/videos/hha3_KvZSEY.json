@@ -1,0 +1,149 @@
+{
+  "video_id": "hha3_KvZSEY",
+  "duration_seconds": 675,
+  "wps": 3.5,
+  "total_words": 2361,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 10272
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Hey friends, 99% of people think that discipline means waking up early every"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you so much!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 154
+    },
+    {
+      "word": "and",
+      "count": 74
+    },
+    {
+      "word": "to",
+      "count": 53
+    },
+    {
+      "word": "you",
+      "count": 51
+    },
+    {
+      "word": "of",
+      "count": 44
+    },
+    {
+      "word": "he",
+      "count": 42
+    },
+    {
+      "word": "it",
+      "count": 33
+    },
+    {
+      "word": "was",
+      "count": 28
+    },
+    {
+      "word": "that",
+      "count": 27
+    },
+    {
+      "word": "this",
+      "count": 27
+    },
+    {
+      "word": "is",
+      "count": 26
+    },
+    {
+      "word": "for",
+      "count": 21
+    },
+    {
+      "word": "in",
+      "count": 21
+    },
+    {
+      "word": "but",
+      "count": 21
+    },
+    {
+      "word": "king",
+      "count": 20
+    },
+    {
+      "word": "daman",
+      "count": 19
+    },
+    {
+      "word": "road",
+      "count": 19
+    },
+    {
+      "word": "very",
+      "count": 17
+    },
+    {
+      "word": "also",
+      "count": 17
+    },
+    {
+      "word": "with",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the king",
+      "count": 17
+    },
+    {
+      "phrase": "the road",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "if you",
+      "count": 8
+    },
+    {
+      "phrase": "to the",
+      "count": 7
+    },
+    {
+      "phrase": "of the",
+      "count": 7
+    },
+    {
+      "phrase": "seven lessons",
+      "count": 6
+    },
+    {
+      "phrase": "want to",
+      "count": 6
+    },
+    {
+      "phrase": "was very",
+      "count": 6
+    },
+    {
+      "phrase": "of people",
+      "count": 5
+    }
+  ],
+  "segment_count": 217
+}

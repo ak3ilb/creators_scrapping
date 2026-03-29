@@ -1,0 +1,149 @@
+{
+  "video_id": "XeLZB_k0mxA",
+  "duration_seconds": 1012,
+  "wps": 3.68,
+  "total_words": 3729,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 14850
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "100%"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "प्लेसमेंट का बोर्ड देखो तो आप अंधा विश्वास ना करो। बाकी स्केलर का लिंक डिस्क्रिप्शन में है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 170
+    },
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "को",
+      "count": 76
+    },
+    {
+      "word": "हैं",
+      "count": 76
+    },
+    {
+      "word": "में",
+      "count": 75
+    },
+    {
+      "word": "भी",
+      "count": 65
+    },
+    {
+      "word": "तो",
+      "count": 60
+    },
+    {
+      "word": "प्लेसमेंट",
+      "count": 59
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "नहीं",
+      "count": 56
+    },
+    {
+      "word": "कि",
+      "count": 52
+    },
+    {
+      "word": "का",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 44
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "पर",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "कॉलेज",
+      "count": 36
+    },
+    {
+      "word": "जॉब",
+      "count": 35
+    },
+    {
+      "word": "स्टूडेंट",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 31
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 19
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "100% प्लेसमेंट",
+      "count": 11
+    },
+    {
+      "phrase": "को भी",
+      "count": 11
+    },
+    {
+      "phrase": "होता है",
+      "count": 11
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 9
+    },
+    {
+      "phrase": "रहा है",
+      "count": 9
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    }
+  ],
+  "segment_count": 130
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "2rhQugIgD54",
+  "duration_seconds": 1644,
+  "wps": 4.57,
+  "total_words": 7507,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 26763
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "संदीप माहेश्वरी सर के बिज़नेस से तो इस बार मैं भी पागल बन गया था। रियलिटी तो तब समझ आई जब मैंने इनके प्रोडक्ट्स को मंगा के देखा था। और इस वीडियो की रिसर्च करते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हूं बहुत क्रेजी वीडियो है तो देख के जाइयो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 279
+    },
+    {
+      "word": "के",
+      "count": 263
+    },
+    {
+      "word": "और",
+      "count": 165
+    },
+    {
+      "word": "तो",
+      "count": 151
+    },
+    {
+      "word": "भी",
+      "count": 128
+    },
+    {
+      "word": "हैं",
+      "count": 123
+    },
+    {
+      "word": "को",
+      "count": 115
+    },
+    {
+      "word": "लोग",
+      "count": 90
+    },
+    {
+      "word": "कि",
+      "count": 87
+    },
+    {
+      "word": "हो",
+      "count": 86
+    },
+    {
+      "word": "से",
+      "count": 85
+    },
+    {
+      "word": "अंदर",
+      "count": 85
+    },
+    {
+      "word": "ना",
+      "count": 83
+    },
+    {
+      "word": "एक",
+      "count": 82
+    },
+    {
+      "word": "कर",
+      "count": 81
+    },
+    {
+      "word": "का",
+      "count": 76
+    },
+    {
+      "word": "नहीं",
+      "count": 75
+    },
+    {
+      "word": "की",
+      "count": 72
+    },
+    {
+      "word": "रहे",
+      "count": 69
+    },
+    {
+      "word": "ही",
+      "count": 69
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 72
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 51
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 40
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 38
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 38
+    },
+    {
+      "phrase": "है और",
+      "count": 34
+    },
+    {
+      "phrase": "है कि",
+      "count": 32
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 25
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 24
+    },
+    {
+      "phrase": "है तो",
+      "count": 24
+    }
+  ],
+  "segment_count": 209
+}

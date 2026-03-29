@@ -1,0 +1,148 @@
+{
+  "video_id": "AKs_--9tSHc",
+  "duration_seconds": 61,
+  "wps": 3.02,
+  "total_words": 184,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 628
+  },
+  "hook": {
+    "type": "question",
+    "text": "महीने की 15 से 20,000 की सैलरी में भी आप करोड़पति बन सकते हो। अगर आप इन्वेस्टमेंट की पावर समझते हो। अस्यूम करते हैं कि आप"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "मिलता है। तो इस वीडियो को सेव करना, शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हो",
+      "count": 10
+    },
+    {
+      "word": "आप",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "सकते",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "इन्वेस्टमेंट",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "अमाउंट",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "जाएगा",
+      "count": 3
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकते हो",
+      "count": 4
+    },
+    {
+      "phrase": "आप इन्वेस्टमेंट",
+      "count": 3
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 3
+    },
+    {
+      "phrase": "हो जाएगा",
+      "count": 3
+    },
+    {
+      "phrase": "सैलरी में",
+      "count": 2
+    },
+    {
+      "phrase": "इन्वेस्टमेंट की",
+      "count": 2
+    },
+    {
+      "phrase": "की पावर",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "आप इस",
+      "count": 2
+    },
+    {
+      "phrase": "इस अमाउंट",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

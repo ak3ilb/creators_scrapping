@@ -1,0 +1,148 @@
+{
+  "video_id": "MzWBC_uY6hE",
+  "duration_seconds": 879,
+  "wps": 2.7,
+  "total_words": 2371,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 9547
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "द अमेरिकन ड्रीम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 60
+    },
+    {
+      "word": "के",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 32
+    },
+    {
+      "word": "हैं",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "को",
+      "count": 27
+    },
+    {
+      "word": "यह",
+      "count": 27
+    },
+    {
+      "word": "अमेरिका",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "यूएस",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 20
+    },
+    {
+      "word": "अमेरिकन",
+      "count": 19
+    },
+    {
+      "word": "लिए",
+      "count": 18
+    },
+    {
+      "word": "दोस्तों",
+      "count": 16
+    },
+    {
+      "word": "हो",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "अमेरिकन ड्रीम",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    },
+    {
+      "phrase": "यूएस में",
+      "count": 9
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    },
+    {
+      "phrase": "अमेरिका में",
+      "count": 8
+    },
+    {
+      "phrase": "यह है",
+      "count": 8
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "ड्रीम की",
+      "count": 7
+    }
+  ],
+  "segment_count": 336
+}

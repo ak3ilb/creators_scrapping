@@ -1,0 +1,148 @@
+{
+  "video_id": "wjebRyhEY0k",
+  "duration_seconds": 518,
+  "wps": 3.48,
+  "total_words": 1803,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 6732
+  },
+  "hook": {
+    "type": "question",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और अगर गलती से भी दुनिया में मौजूद कोई भी इन आठ पॉइंट्स को ब्लॉक कंट्रोल या चोक करने की कोशिश करेगा तो 99% श्योर वर्ल्ड वॉर थ्री"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जरूर ठोकना। सी यू नेक्स्ट टाइम फ्रेंड्स टिल देन एज ऑलवेज स्टे क्यूरियस कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 72
+    },
+    {
+      "word": "और",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "के",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "में",
+      "count": 30
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 24
+    },
+    {
+      "word": "अगर",
+      "count": 20
+    },
+    {
+      "word": "ही",
+      "count": 19
+    },
+    {
+      "word": "हैं",
+      "count": 18
+    },
+    {
+      "word": "एक",
+      "count": 17
+    },
+    {
+      "word": "देश",
+      "count": 17
+    },
+    {
+      "word": "ट्रेड",
+      "count": 16
+    },
+    {
+      "word": "कि",
+      "count": 16
+    },
+    {
+      "word": "भी",
+      "count": 15
+    },
+    {
+      "word": "चोक",
+      "count": 15
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 15
+    },
+    {
+      "word": "पर",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "वजह से",
+      "count": 10
+    },
+    {
+      "phrase": "चोक पॉइंट्स",
+      "count": 10
+    },
+    {
+      "phrase": "वर्ल्ड वॉर",
+      "count": 9
+    },
+    {
+      "phrase": "करता है",
+      "count": 7
+    },
+    {
+      "phrase": "और अगर",
+      "count": 6
+    },
+    {
+      "phrase": "होता है",
+      "count": 6
+    },
+    {
+      "phrase": "सकता है",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "था और",
+      "count": 5
+    }
+  ],
+  "segment_count": 65
+}

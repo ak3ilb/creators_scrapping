@@ -1,0 +1,148 @@
+{
+  "video_id": "yNGwDJrp4us",
+  "duration_seconds": 328,
+  "wps": 3.38,
+  "total_words": 1109,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 3882
+  },
+  "hook": {
+    "type": "statement",
+    "text": "को रोटी कपड़ा और मकान हर एक इंसान की बेसिक जरूर देर रात के टाइम पर आप सब यह जानते हैं कि हर एक इंसान का सबसे बड़ा सपना होता है कि वह अपने लिए अपनी फैमिली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कर दो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "से",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "के",
+      "count": 23
+    },
+    {
+      "word": "घर",
+      "count": 20
+    },
+    {
+      "word": "हैं",
+      "count": 19
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "और",
+      "count": 16
+    },
+    {
+      "word": "बैंक",
+      "count": 16
+    },
+    {
+      "word": "आप",
+      "count": 15
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "भी",
+      "count": 15
+    },
+    {
+      "word": "आपको",
+      "count": 14
+    },
+    {
+      "word": "को",
+      "count": 13
+    },
+    {
+      "word": "लोन",
+      "count": 13
+    },
+    {
+      "word": "ने",
+      "count": 12
+    },
+    {
+      "word": "चाहिए",
+      "count": 12
+    },
+    {
+      "word": "का",
+      "count": 11
+    },
+    {
+      "word": "वह",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 5
+    },
+    {
+      "phrase": "रेपो रेट",
+      "count": 5
+    },
+    {
+      "phrase": "सबसे बड़ा",
+      "count": 4
+    },
+    {
+      "phrase": "बड़ा सपना",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "लोगों ने",
+      "count": 4
+    },
+    {
+      "phrase": "शहरों में",
+      "count": 4
+    },
+    {
+      "phrase": "रेट ऑफ",
+      "count": 4
+    }
+  ],
+  "segment_count": 40
+}

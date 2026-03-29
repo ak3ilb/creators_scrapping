@@ -1,0 +1,149 @@
+{
+  "video_id": "xFve_2UKINY",
+  "duration_seconds": 1919,
+  "wps": 3.1,
+  "total_words": 5952,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 27451
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Such a country where people didn't have food to eat"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "use odoo. I've given the link in description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 200
+    },
+    {
+      "word": "and",
+      "count": 194
+    },
+    {
+      "word": "in",
+      "count": 171
+    },
+    {
+      "word": "to",
+      "count": 137
+    },
+    {
+      "word": "singapore",
+      "count": 136
+    },
+    {
+      "word": "of",
+      "count": 133
+    },
+    {
+      "word": "that",
+      "count": 103
+    },
+    {
+      "word": "they",
+      "count": 93
+    },
+    {
+      "word": "was",
+      "count": 77
+    },
+    {
+      "word": "this",
+      "count": 75
+    },
+    {
+      "word": "so",
+      "count": 71
+    },
+    {
+      "word": "it",
+      "count": 70
+    },
+    {
+      "word": "which",
+      "count": 57
+    },
+    {
+      "word": "is",
+      "count": 53
+    },
+    {
+      "word": "their",
+      "count": 51
+    },
+    {
+      "word": "people",
+      "count": 50
+    },
+    {
+      "word": "were",
+      "count": 48
+    },
+    {
+      "word": "on",
+      "count": 46
+    },
+    {
+      "word": "with",
+      "count": 43
+    },
+    {
+      "word": "then",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of singapore",
+      "count": 30
+    },
+    {
+      "phrase": "in singapore",
+      "count": 26
+    },
+    {
+      "phrase": "due to",
+      "count": 22
+    },
+    {
+      "phrase": "pm lee",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "along with",
+      "count": 15
+    },
+    {
+      "phrase": "to which",
+      "count": 14
+    },
+    {
+      "phrase": "as well",
+      "count": 13
+    },
+    {
+      "phrase": "all the",
+      "count": 12
+    },
+    {
+      "phrase": "with it",
+      "count": 12
+    }
+  ],
+  "segment_count": 262
+}

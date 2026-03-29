@@ -1,0 +1,150 @@
+{
+  "video_id": "8dV5LD19ev0",
+  "duration_seconds": 354,
+  "wps": 4.34,
+  "total_words": 1538,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 5420
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक अच्छा स्कैमर बनने के लिए आपको किन-किन बातों का ध्यान देना चाहिए आज की वीडियो में हम इसी पे बात करेंगे तो हमारा पहला पॉइंट ये है कि आपको एक स्कैमर नहीं बनना"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अंदर लिंक है और जिनको फ्री का ज्ञान चाहिए वो सब्सक्राइब कर सकते हैं"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 56
+    },
+    {
+      "word": "तो",
+      "count": 45
+    },
+    {
+      "word": "और",
+      "count": 38
+    },
+    {
+      "word": "के",
+      "count": 37
+    },
+    {
+      "word": "लोग",
+      "count": 33
+    },
+    {
+      "word": "हो",
+      "count": 30
+    },
+    {
+      "word": "कि",
+      "count": 29
+    },
+    {
+      "word": "ये",
+      "count": 28
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "अगर",
+      "count": 23
+    },
+    {
+      "word": "कर",
+      "count": 21
+    },
+    {
+      "word": "तुम",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 18
+    },
+    {
+      "word": "स्कैम",
+      "count": 18
+    },
+    {
+      "word": "हैं",
+      "count": 18
+    },
+    {
+      "word": "मैं",
+      "count": 18
+    },
+    {
+      "word": "भी",
+      "count": 18
+    },
+    {
+      "word": "आप",
+      "count": 17
+    },
+    {
+      "word": "रहे",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आप लोग",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 10
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 9
+    },
+    {
+      "phrase": "तो ये",
+      "count": 8
+    },
+    {
+      "phrase": "अगर तुम",
+      "count": 8
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 7
+    },
+    {
+      "phrase": "हो तो",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    }
+  ],
+  "segment_count": 44
+}

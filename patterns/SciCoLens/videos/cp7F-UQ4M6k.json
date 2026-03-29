@@ -1,0 +1,148 @@
+{
+  "video_id": "cp7F-UQ4M6k",
+  "duration_seconds": 570,
+  "wps": 3.25,
+  "total_words": 1853,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 7251
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "1 जनवरी 2024 को अयोध्या में गगनचुंबी राम मंदिर वहां पर आपको तैयार मिलेगा। 1st"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्यूरियस, कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 61
+    },
+    {
+      "word": "है",
+      "count": 55
+    },
+    {
+      "word": "अलकायदा",
+      "count": 41
+    },
+    {
+      "word": "में",
+      "count": 39
+    },
+    {
+      "word": "और",
+      "count": 37
+    },
+    {
+      "word": "को",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 30
+    },
+    {
+      "word": "कि",
+      "count": 28
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "ही",
+      "count": 22
+    },
+    {
+      "word": "ने",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "था",
+      "count": 20
+    },
+    {
+      "word": "की",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 17
+    },
+    {
+      "word": "इंडिया",
+      "count": 14
+    },
+    {
+      "word": "नहीं",
+      "count": 13
+    },
+    {
+      "word": "लिए",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अलकायदा के",
+      "count": 12
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "यह है",
+      "count": 7
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 7
+    },
+    {
+      "phrase": "कि अलकायदा",
+      "count": 7
+    },
+    {
+      "phrase": "अलकायदा का",
+      "count": 6
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 6
+    },
+    {
+      "phrase": "अलकायदा ने",
+      "count": 5
+    }
+  ],
+  "segment_count": 71
+}

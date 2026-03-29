@@ -1,0 +1,148 @@
+{
+  "video_id": "4x1QR0-yyJk",
+  "duration_seconds": 47,
+  "wps": 3.64,
+  "total_words": 171,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 666
+  },
+  "hook": {
+    "type": "question",
+    "text": "वे प्रोटीन हैज़ द हाईएस्ट प्रोटीन डाइजेस्टेबिलिटी करेक्टेड अमीनो एसिड्स को। मतलब सबसे रोल रॉइस वाला प्रोटीन है। लेकिन वे प्रोटीन कहां से आते हैं? सी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्टोरी बन गया। तो आज वेस्ट वेस्ट से गोल्ड बन गया आज। वेस्ट से गोल्ड बन गया। गोल्ड स्टैंडर्ड बन गया आज। गोल्ड स्टैंडर्ड बन गया।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "गया",
+      "count": 7
+    },
+    {
+      "word": "प्रोटीन",
+      "count": 6
+    },
+    {
+      "word": "बाद",
+      "count": 5
+    },
+    {
+      "word": "बन",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "उसके",
+      "count": 4
+    },
+    {
+      "word": "गोल्ड",
+      "count": 4
+    },
+    {
+      "word": "वे",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "बनाएगा",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "वेस्ट",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "हैव",
+      "count": 2
+    },
+    {
+      "word": "दूध",
+      "count": 2
+    },
+    {
+      "word": "पिएगा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बन गया",
+      "count": 5
+    },
+    {
+      "phrase": "उसके बाद",
+      "count": 4
+    },
+    {
+      "phrase": "वे प्रोटीन",
+      "count": 3
+    },
+    {
+      "phrase": "इन द",
+      "count": 3
+    },
+    {
+      "phrase": "यू हैव",
+      "count": 2
+    },
+    {
+      "phrase": "दूध पिएगा",
+      "count": 2
+    },
+    {
+      "phrase": "चीज़ बनाएगा",
+      "count": 2
+    },
+    {
+      "phrase": "द स्विच",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

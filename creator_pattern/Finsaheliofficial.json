@@ -1,0 +1,33 @@
+{
+  "creator": "Finsaheliofficial",
+  "last_updated": "2026-03-29T14:31:24.528468",
+  "pacing": {
+    "avg_wps": 3.7177441872081216,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.7174476960381315,
+        "duration": 72.95
+      },
+      "fast_facts": {
+        "wps": 3.7236740106079154,
+        "duration": 40.333333333333336
+      }
+    }
+  },
+  "signature_hooks": [
+    "है और",
+    "रहे हैं",
+    "इसके लिए",
+    "के लिए",
+    "है कि",
+    "हैं और",
+    "आप भी",
+    "अगर आप",
+    "है ना",
+    "गर्ल चाइल्ड"
+  ],
+  "uniqueness_traits": [
+    "High Energy / Fast Paced",
+    "Storytelling Specialist"
+  ]
+}

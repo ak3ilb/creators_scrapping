@@ -1,0 +1,148 @@
+{
+  "video_id": "t75zBx2zNkU",
+  "duration_seconds": 56,
+  "wps": 2.91,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 804
+  },
+  "hook": {
+    "type": "question",
+    "text": "IIT Bombay just launched a fivemonth generative AI certificate. And [music]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "build AI systems is widening fast. This program [music] is clearly built for people who want to be on the builder side of"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "music",
+      "count": 8
+    },
+    {
+      "word": "ai",
+      "count": 6
+    },
+    {
+      "word": "for",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "people",
+      "count": 4
+    },
+    {
+      "word": "who",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "iit",
+      "count": 3
+    },
+    {
+      "word": "bombay",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "at",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "certificate",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "build",
+      "count": 2
+    },
+    {
+      "word": "gen",
+      "count": 2
+    },
+    {
+      "word": "systems",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "people who",
+      "count": 4
+    },
+    {
+      "phrase": "iit bombay",
+      "count": 3
+    },
+    {
+      "phrase": "and music",
+      "count": 2
+    },
+    {
+      "phrase": "gen ai",
+      "count": 2
+    },
+    {
+      "phrase": "ai systems",
+      "count": 2
+    },
+    {
+      "phrase": "this program",
+      "count": 2
+    },
+    {
+      "phrase": "program music",
+      "count": 2
+    },
+    {
+      "phrase": "music is",
+      "count": 2
+    },
+    {
+      "phrase": "at the",
+      "count": 2
+    },
+    {
+      "phrase": "bombay just",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

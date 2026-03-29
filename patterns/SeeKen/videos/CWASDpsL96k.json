@@ -1,0 +1,149 @@
+{
+  "video_id": "CWASDpsL96k",
+  "duration_seconds": 842,
+  "wps": 3.42,
+  "total_words": 2878,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12527
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, just give me the next 15"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Till then, bye‑bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 127
+    },
+    {
+      "word": "and",
+      "count": 75
+    },
+    {
+      "word": "to",
+      "count": 67
+    },
+    {
+      "word": "he",
+      "count": 54
+    },
+    {
+      "word": "you",
+      "count": 52
+    },
+    {
+      "word": "that",
+      "count": 46
+    },
+    {
+      "word": "in",
+      "count": 38
+    },
+    {
+      "word": "is",
+      "count": 35
+    },
+    {
+      "word": "thoughts",
+      "count": 33
+    },
+    {
+      "word": "of",
+      "count": 31
+    },
+    {
+      "word": "your",
+      "count": 31
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "this",
+      "count": 27
+    },
+    {
+      "word": "his",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 25
+    },
+    {
+      "word": "there",
+      "count": 22
+    },
+    {
+      "word": "for",
+      "count": 21
+    },
+    {
+      "word": "so",
+      "count": 21
+    },
+    {
+      "word": "all",
+      "count": 21
+    },
+    {
+      "word": "was",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your thoughts",
+      "count": 15
+    },
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "the cave",
+      "count": 9
+    },
+    {
+      "phrase": "to the",
+      "count": 8
+    },
+    {
+      "phrase": "the wolf",
+      "count": 8
+    },
+    {
+      "phrase": "the frog",
+      "count": 7
+    },
+    {
+      "phrase": "if you",
+      "count": 6
+    },
+    {
+      "phrase": "all the",
+      "count": 6
+    },
+    {
+      "phrase": "the lion",
+      "count": 6
+    },
+    {
+      "phrase": "the book",
+      "count": 6
+    }
+  ],
+  "segment_count": 288
+}

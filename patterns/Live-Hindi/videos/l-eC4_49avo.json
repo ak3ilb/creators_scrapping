@@ -1,0 +1,149 @@
+{
+  "video_id": "l-eC4_49avo",
+  "duration_seconds": 889,
+  "wps": 2.99,
+  "total_words": 2660,
+  "language_mix": {
+    "hindi": 94.6,
+    "english": 5.4,
+    "total_chars": 10395
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Bajaj Pulsar दुनिया की सबसे सक्सेसफुल बाइक्स में से एक क्योंकि 2 करोड़ से ज्यादा Pulsars आपको सड़कों पर दौड़ते हुए"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "है हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "और",
+      "count": 73
+    },
+    {
+      "word": "के",
+      "count": 62
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "था",
+      "count": 43
+    },
+    {
+      "word": "pulsar",
+      "count": 42
+    },
+    {
+      "word": "थी",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 35
+    },
+    {
+      "word": "बाइक",
+      "count": 33
+    },
+    {
+      "word": "ने",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 32
+    },
+    {
+      "word": "है",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "लेकिन",
+      "count": 22
+    },
+    {
+      "word": "जो",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "जो कि",
+      "count": 11
+    },
+    {
+      "phrase": "और फिर",
+      "count": 10
+    },
+    {
+      "phrase": "pulsar की",
+      "count": 9
+    },
+    {
+      "phrase": "bajaj ने",
+      "count": 9
+    },
+    {
+      "phrase": "था कि",
+      "count": 9
+    },
+    {
+      "phrase": "में एक",
+      "count": 7
+    },
+    {
+      "phrase": "थी कि",
+      "count": 7
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    },
+    {
+      "phrase": "के साथ",
+      "count": 7
+    }
+  ],
+  "segment_count": 115
+}

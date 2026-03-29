@@ -1,0 +1,149 @@
+{
+  "video_id": "riAfXrCY1Nk",
+  "duration_seconds": 694,
+  "wps": 3.01,
+  "total_words": 2087,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 8247
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हाउ डीड यू थिंक यू गना मेक अ प्लेस फॉर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रा"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 52
+    },
+    {
+      "word": "में",
+      "count": 49
+    },
+    {
+      "word": "बीरा",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 41
+    },
+    {
+      "word": "के",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 31
+    },
+    {
+      "word": "को",
+      "count": 30
+    },
+    {
+      "word": "बियर",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "से",
+      "count": 24
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "कि",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "एंड",
+      "count": 17
+    },
+    {
+      "word": "संगीत",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "हैं",
+      "count": 16
+    },
+    {
+      "word": "मार्केट",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मार्केट में",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "बीरा के",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "बीरा ने",
+      "count": 6
+    },
+    {
+      "phrase": "बीरा की",
+      "count": 5
+    },
+    {
+      "phrase": "कमर्शियल बियर",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 5
+    },
+    {
+      "phrase": "है तो",
+      "count": 5
+    }
+  ],
+  "segment_count": 281
+}

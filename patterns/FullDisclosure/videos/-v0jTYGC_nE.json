@@ -1,0 +1,148 @@
+{
+  "video_id": "-v0jTYGC_nE",
+  "duration_seconds": 63,
+  "wps": 2.48,
+  "total_words": 156,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 805
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंटरेस्टेड इन जिओपॉलिटिक्स एंड फॉरेन"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट बिलो।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "फॉरेन",
+      "count": 7
+    },
+    {
+      "word": "इन",
+      "count": 6
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "ऑफ़",
+      "count": 4
+    },
+    {
+      "word": "पॉलिसी",
+      "count": 4
+    },
+    {
+      "word": "अफेयर्स",
+      "count": 3
+    },
+    {
+      "word": "वर्क",
+      "count": 3
+    },
+    {
+      "word": "इंटरनेशनल",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "इंस्टीट्यूट",
+      "count": 2
+    },
+    {
+      "word": "सर्विस",
+      "count": 2
+    },
+    {
+      "word": "ईयर",
+      "count": 2
+    },
+    {
+      "word": "ट्रेनिंग",
+      "count": 2
+    },
+    {
+      "word": "रिसर्च",
+      "count": 2
+    },
+    {
+      "word": "ऑन",
+      "count": 2
+    },
+    {
+      "word": "इंटरेस्टेड",
+      "count": 1
+    },
+    {
+      "word": "जिओपॉलिटिक्स",
+      "count": 1
+    },
+    {
+      "word": "नाउ",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फॉरेन पॉलिसी",
+      "count": 3
+    },
+    {
+      "phrase": "एंड फॉरेन",
+      "count": 2
+    },
+    {
+      "phrase": "फॉरेन सर्विस",
+      "count": 2
+    },
+    {
+      "phrase": "इन फॉरेन",
+      "count": 2
+    },
+    {
+      "phrase": "पॉलिसी और",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरेस्टेड इन",
+      "count": 1
+    },
+    {
+      "phrase": "इन जिओपॉलिटिक्स",
+      "count": 1
+    },
+    {
+      "phrase": "जिओपॉलिटिक्स एंड",
+      "count": 1
+    },
+    {
+      "phrase": "फॉरेन अफेयर्स",
+      "count": 1
+    },
+    {
+      "phrase": "अफेयर्स नाउ",
+      "count": 1
+    }
+  ],
+  "segment_count": 27
+}

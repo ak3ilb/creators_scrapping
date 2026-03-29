@@ -1,0 +1,148 @@
+{
+  "video_id": "0rXjcZ1IRu8",
+  "duration_seconds": 811,
+  "wps": 2.45,
+  "total_words": 1985,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7547
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जहां इंडिया का रा हो या इजरायल का मसाद अमेरिका का सीआईए हो या फिर पाकिस्तान का आई एस आई इन सभी सीक्रेट इंटेलिजेंस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाओगे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "के",
+      "count": 47
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "में",
+      "count": 41
+    },
+    {
+      "word": "है",
+      "count": 40
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "भी",
+      "count": 28
+    },
+    {
+      "word": "डी",
+      "count": 27
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "हैं",
+      "count": 23
+    },
+    {
+      "word": "ऑफ",
+      "count": 23
+    },
+    {
+      "word": "इल्यूमिनती",
+      "count": 21
+    },
+    {
+      "word": "को",
+      "count": 18
+    },
+    {
+      "word": "का",
+      "count": 17
+    },
+    {
+      "word": "इस",
+      "count": 17
+    },
+    {
+      "word": "था",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "जो",
+      "count": 16
+    },
+    {
+      "word": "ये",
+      "count": 15
+    },
+    {
+      "word": "नहीं",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑर्डर ऑफ",
+      "count": 9
+    },
+    {
+      "phrase": "ऑफ इल्यूमिनती",
+      "count": 7
+    },
+    {
+      "phrase": "हो या",
+      "count": 5
+    },
+    {
+      "phrase": "किसी भी",
+      "count": 5
+    },
+    {
+      "phrase": "बड़े में",
+      "count": 5
+    },
+    {
+      "phrase": "के साथ",
+      "count": 5
+    },
+    {
+      "phrase": "या फिर",
+      "count": 4
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "है की",
+      "count": 4
+    },
+    {
+      "phrase": "दुनिया में",
+      "count": 4
+    }
+  ],
+  "segment_count": 85
+}

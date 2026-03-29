@@ -1,0 +1,148 @@
+{
+  "video_id": "sUL6b3s_2_k",
+  "duration_seconds": 69,
+  "wps": 3.86,
+  "total_words": 266,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1018
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अब गवर्नमेंट आपको दे रही है ₹5 लाख पक्का घर बनाने के लिए प्रधानमंत्री आवास योजना 2.0 के अंदर और इसको आप घर बैठे ऑनलाइन"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "के सारे दोस्तों के साथ और फैमिली मेंबर्स के साथ शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "आपको",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "करना",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "घर",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "बाद",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "डिटेल्स",
+      "count": 4
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "आधार",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करना है",
+      "count": 4
+    },
+    {
+      "phrase": "के बाद",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "आप घर",
+      "count": 2
+    },
+    {
+      "phrase": "है इस",
+      "count": 2
+    },
+    {
+      "phrase": "इस वेबसाइट",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "जैसे कि",
+      "count": 2
+    },
+    {
+      "phrase": "वहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "डिटेल्स फिल",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

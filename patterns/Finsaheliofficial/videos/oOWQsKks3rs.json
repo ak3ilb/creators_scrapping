@@ -1,0 +1,148 @@
+{
+  "video_id": "oOWQsKks3rs",
+  "duration_seconds": 87,
+  "wps": 4.15,
+  "total_words": 361,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 1315
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया और यूरोपियन यूनियन डील के बाद अब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कार अब खरीदनी चाहिए।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "यूरोपियन",
+      "count": 6
+    },
+    {
+      "word": "अब",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "यूनियन",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "ट्रेड",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "डील",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "टेरिफ",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यूरोपियन यूनियन",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "डील के",
+      "count": 4
+    },
+    {
+      "phrase": "लग्जरी कार",
+      "count": 3
+    },
+    {
+      "phrase": "इस ट्रेड",
+      "count": 3
+    },
+    {
+      "phrase": "ट्रेड डील",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "दिन दूर",
+      "count": 2
+    },
+    {
+      "phrase": "दूर नहीं",
+      "count": 2
+    }
+  ],
+  "segment_count": 44
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "TIJHIyPKebM",
+  "duration_seconds": 805,
+  "wps": 4.03,
+  "total_words": 3247,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 12338
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह क्लिप देखो। यह लड़की जिप लाइनिंग करते हुए 30 फीट की हाइट से गिर गई। धर्मशाला में भी पैराग्लाइडिंग करते हुए यह एक्सीडेंट हो गया। इस वीडियो में भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 155
+    },
+    {
+      "word": "में",
+      "count": 97
+    },
+    {
+      "word": "के",
+      "count": 70
+    },
+    {
+      "word": "हैं",
+      "count": 63
+    },
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 52
+    },
+    {
+      "word": "की",
+      "count": 44
+    },
+    {
+      "word": "से",
+      "count": 41
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 34
+    },
+    {
+      "word": "ही",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 30
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "लेकिन",
+      "count": 28
+    },
+    {
+      "word": "लोग",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एडवेंचर स्पोर्ट",
+      "count": 14
+    },
+    {
+      "phrase": "भारत में",
+      "count": 13
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    },
+    {
+      "phrase": "जाता है",
+      "count": 9
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 9
+    },
+    {
+      "phrase": "रहा है",
+      "count": 8
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 8
+    }
+  ],
+  "segment_count": 103
+}

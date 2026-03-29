@@ -1,0 +1,149 @@
+{
+  "video_id": "8M5CeEt_Gx0",
+  "duration_seconds": 878,
+  "wps": 3.85,
+  "total_words": 3382,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12691
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भारत की एयरलाइंस दिन दहाड़े खुलेआम हमें लूट रही हैं। लेकिन सरकार इस पर एकदम चुप है। ब्रोकन चेयर्स टू पुअर सर्विस, सीट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं आने वाला है। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 161
+    },
+    {
+      "word": "में",
+      "count": 91
+    },
+    {
+      "word": "और",
+      "count": 75
+    },
+    {
+      "word": "के",
+      "count": 73
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "हैं",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 47
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "की",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "हो",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "नहीं",
+      "count": 29
+    },
+    {
+      "word": "कि",
+      "count": 28
+    },
+    {
+      "word": "पर",
+      "count": 23
+    },
+    {
+      "word": "एयरलाइंस",
+      "count": 22
+    },
+    {
+      "word": "कर",
+      "count": 22
+    },
+    {
+      "word": "जो",
+      "count": 22
+    },
+    {
+      "word": "लेकिन",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "होता है",
+      "count": 12
+    },
+    {
+      "phrase": "जाता है",
+      "count": 11
+    },
+    {
+      "phrase": "एयर इंडिया",
+      "count": 10
+    },
+    {
+      "phrase": "हैं और",
+      "count": 10
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 9
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 8
+    }
+  ],
+  "segment_count": 110
+}

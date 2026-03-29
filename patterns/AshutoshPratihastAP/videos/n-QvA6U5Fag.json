@@ -1,0 +1,148 @@
+{
+  "video_id": "n-QvA6U5Fag",
+  "duration_seconds": 252,
+  "wps": 0.67,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 583
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[प्रशंसा]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तु"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "बाबा",
+      "count": 16
+    },
+    {
+      "word": "तुम",
+      "count": 15
+    },
+    {
+      "word": "माना",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "मुझको",
+      "count": 5
+    },
+    {
+      "word": "प्रशंसा",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "सब",
+      "count": 3
+    },
+    {
+      "word": "मुझे",
+      "count": 3
+    },
+    {
+      "word": "तेरा",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "अब",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "सांसे",
+      "count": 2
+    },
+    {
+      "word": "लेने",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "पता",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बाबा तुम",
+      "count": 15
+    },
+    {
+      "phrase": "तुम माना",
+      "count": 11
+    },
+    {
+      "phrase": "माना बाबा",
+      "count": 9
+    },
+    {
+      "phrase": "प्रशंसा प्रशंसा",
+      "count": 3
+    },
+    {
+      "phrase": "मुझको लेने",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं बाबा",
+      "count": 2
+    },
+    {
+      "phrase": "तुम मना",
+      "count": 2
+    },
+    {
+      "phrase": "ये सच",
+      "count": 2
+    },
+    {
+      "phrase": "सच बता",
+      "count": 2
+    },
+    {
+      "phrase": "बता देना",
+      "count": 2
+    }
+  ],
+  "segment_count": 27
+}

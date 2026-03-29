@@ -1,0 +1,149 @@
+{
+  "video_id": "6MsM6S53lLQ",
+  "duration_seconds": 648,
+  "wps": 3.12,
+  "total_words": 2024,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9068
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "A job can fulfil needs but it can never fulfil dreams. Only a businessman can become rich."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "But, what is the biggest reason behind the success of Elon Musk, Jeff Bezos, Mukesh Ambani, Gautam Adani, Virat Kohli? You will get to understand if you watch the video on the right hand side."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 88
+    },
+    {
+      "word": "and",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 63
+    },
+    {
+      "word": "you",
+      "count": 61
+    },
+    {
+      "word": "of",
+      "count": 57
+    },
+    {
+      "word": "to",
+      "count": 51
+    },
+    {
+      "word": "business",
+      "count": 29
+    },
+    {
+      "word": "this",
+      "count": 25
+    },
+    {
+      "word": "is",
+      "count": 25
+    },
+    {
+      "word": "if",
+      "count": 24
+    },
+    {
+      "word": "are",
+      "count": 24
+    },
+    {
+      "word": "can",
+      "count": 23
+    },
+    {
+      "word": "it",
+      "count": 23
+    },
+    {
+      "word": "that",
+      "count": 22
+    },
+    {
+      "word": "have",
+      "count": 18
+    },
+    {
+      "word": "these",
+      "count": 16
+    },
+    {
+      "word": "or",
+      "count": 16
+    },
+    {
+      "word": "sector",
+      "count": 16
+    },
+    {
+      "word": "so",
+      "count": 15
+    },
+    {
+      "word": "about",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "if you",
+      "count": 14
+    },
+    {
+      "phrase": "you can",
+      "count": 14
+    },
+    {
+      "phrase": "of the",
+      "count": 7
+    },
+    {
+      "phrase": "started in",
+      "count": 7
+    },
+    {
+      "phrase": "a lot",
+      "count": 7
+    },
+    {
+      "phrase": "all these",
+      "count": 6
+    },
+    {
+      "phrase": "these companies",
+      "count": 6
+    },
+    {
+      "phrase": "lot of",
+      "count": 6
+    },
+    {
+      "phrase": "a business",
+      "count": 5
+    }
+  ],
+  "segment_count": 80
+}

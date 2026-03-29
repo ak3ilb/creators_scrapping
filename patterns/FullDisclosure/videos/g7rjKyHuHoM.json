@@ -1,0 +1,148 @@
+{
+  "video_id": "g7rjKyHuHoM",
+  "duration_seconds": 44,
+  "wps": 3.18,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 95.6,
+    "english": 4.4,
+    "total_chars": 656
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Google, Microsoft Harvard एंड इनविडिया आर ऑल ऑफरिंग फ्री जनरेटिव एआई कोर्सेज। सब्सक्राइब फुल डिस्क्लोज़र एंड लेट मी"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "अ पोर्टफोलियो दे अब्सोलुटली सपोर्ट योर एप्लीकेशन्स एंड हेल्प यू स्टैंड आउट। ऑल लिंक्स आर इन द पिंच कमेंट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 8
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "आर",
+      "count": 3
+    },
+    {
+      "word": "कोर्सेज",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 3
+    },
+    {
+      "word": "ऑल",
+      "count": 2
+    },
+    {
+      "word": "जनरेटिव",
+      "count": 2
+    },
+    {
+      "word": "एआई",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "रोल्स",
+      "count": 2
+    },
+    {
+      "word": "देन",
+      "count": 2
+    },
+    {
+      "word": "ट्रेडिशनल",
+      "count": 2
+    },
+    {
+      "word": "सर्टिफिकेट",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 1
+    },
+    {
+      "word": "microsoft",
+      "count": 1
+    },
+    {
+      "word": "harvard",
+      "count": 1
+    },
+    {
+      "word": "इनविडिया",
+      "count": 1
+    },
+    {
+      "word": "ऑफरिंग",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जनरेटिव एआई",
+      "count": 2
+    },
+    {
+      "phrase": "google microsoft",
+      "count": 1
+    },
+    {
+      "phrase": "microsoft harvard",
+      "count": 1
+    },
+    {
+      "phrase": "harvard एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड इनविडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इनविडिया आर",
+      "count": 1
+    },
+    {
+      "phrase": "आर ऑल",
+      "count": 1
+    },
+    {
+      "phrase": "ऑल ऑफरिंग",
+      "count": 1
+    },
+    {
+      "phrase": "ऑफरिंग फ्री",
+      "count": 1
+    },
+    {
+      "phrase": "फ्री जनरेटिव",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "7D6JYEarbmI",
+  "duration_seconds": 57,
+  "wps": 2.81,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 609
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एन इंडियन एआई मॉडल जस्ट बीट डीप सीक ऑन जेईई मेंस 2026। सब्सक्राइब फुल डिस्क्लोज़र एंड आई विल शो यू व्हाट"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "लोकली। लिंक इज इन द पिंड कमेंट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "ऑन",
+      "count": 6
+    },
+    {
+      "word": "एआई",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "मॉडल",
+      "count": 3
+    },
+    {
+      "word": "जस्ट",
+      "count": 3
+    },
+    {
+      "word": "2026",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "75",
+      "count": 3
+    },
+    {
+      "word": "इंडियन",
+      "count": 2
+    },
+    {
+      "word": "जेईई",
+      "count": 2
+    },
+    {
+      "word": "मेंस",
+      "count": 2
+    },
+    {
+      "word": "इंडियास",
+      "count": 2
+    },
+    {
+      "word": "होम",
+      "count": 2
+    },
+    {
+      "word": "ग्रोन",
+      "count": 2
+    },
+    {
+      "word": "इट्स",
+      "count": 2
+    },
+    {
+      "word": "आउट",
+      "count": 2
+    },
+    {
+      "word": "अटेम्प्ट",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑन द",
+      "count": 3
+    },
+    {
+      "phrase": "एआई मॉडल",
+      "count": 2
+    },
+    {
+      "phrase": "जेईई मेंस",
+      "count": 2
+    },
+    {
+      "phrase": "मेंस 2026",
+      "count": 2
+    },
+    {
+      "phrase": "होम ग्रोन",
+      "count": 2
+    },
+    {
+      "phrase": "आउट ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ 75",
+      "count": 2
+    },
+    {
+      "phrase": "75 ऑन",
+      "count": 2
+    },
+    {
+      "phrase": "एंड दे",
+      "count": 2
+    },
+    {
+      "phrase": "एन इंडियन",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

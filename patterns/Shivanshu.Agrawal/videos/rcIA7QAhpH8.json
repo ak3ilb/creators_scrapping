@@ -1,0 +1,149 @@
+{
+  "video_id": "rcIA7QAhpH8",
+  "duration_seconds": 1030,
+  "wps": 2.73,
+  "total_words": 2810,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13002
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Year 2013."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to watch the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 130
+    },
+    {
+      "word": "to",
+      "count": 90
+    },
+    {
+      "word": "byju's",
+      "count": 80
+    },
+    {
+      "word": "and",
+      "count": 78
+    },
+    {
+      "word": "of",
+      "count": 68
+    },
+    {
+      "word": "in",
+      "count": 67
+    },
+    {
+      "word": "was",
+      "count": 53
+    },
+    {
+      "word": "that",
+      "count": 50
+    },
+    {
+      "word": "this",
+      "count": 30
+    },
+    {
+      "word": "were",
+      "count": 28
+    },
+    {
+      "word": "he",
+      "count": 27
+    },
+    {
+      "word": "his",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 20
+    },
+    {
+      "word": "raveendran",
+      "count": 20
+    },
+    {
+      "word": "on",
+      "count": 20
+    },
+    {
+      "word": "had",
+      "count": 20
+    },
+    {
+      "word": "sales",
+      "count": 19
+    },
+    {
+      "word": "but",
+      "count": 18
+    },
+    {
+      "word": "with",
+      "count": 17
+    },
+    {
+      "word": "started",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "of byju's",
+      "count": 10
+    },
+    {
+      "phrase": "used to",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "that's why",
+      "count": 8
+    },
+    {
+      "phrase": "to the",
+      "count": 8
+    },
+    {
+      "phrase": "due to",
+      "count": 7
+    },
+    {
+      "phrase": "and the",
+      "count": 6
+    },
+    {
+      "phrase": "was going",
+      "count": 6
+    }
+  ],
+  "segment_count": 439
+}

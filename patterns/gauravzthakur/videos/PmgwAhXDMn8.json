@@ -1,0 +1,148 @@
+{
+  "video_id": "PmgwAhXDMn8",
+  "duration_seconds": 82,
+  "wps": 3.34,
+  "total_words": 274,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1088
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या रिपीटेड नेगिलिजेंस की वजह से इन एयरलाइन कंपनीज़ पर कोई एक्शन भी लिया जाएगा? वेल, आप सुनकर शॉक हो जाओगे डायरेक्टेट जनरल ऑफ सिविल एिएशन डीजीसीए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के लोग यह अच्छे से समझ जाएंगे कि इस देश में एक इंसान की जान की कोई कीमत"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "पर",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "सिर्फ",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "वजह",
+      "count": 3
+    },
+    {
+      "word": "कंपनीज़",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "फाइन",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वजह से",
+      "count": 3
+    },
+    {
+      "phrase": "की वजह",
+      "count": 2
+    },
+    {
+      "phrase": "एयरलाइन कंपनीज़",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनीज़ पर",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 2
+    },
+    {
+      "phrase": "का फाइन",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "2023 में",
+      "count": 2
+    },
+    {
+      "phrase": "एयर इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

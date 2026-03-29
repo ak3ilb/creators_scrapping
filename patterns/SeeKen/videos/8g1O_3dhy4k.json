@@ -1,0 +1,148 @@
+{
+  "video_id": "8g1O_3dhy4k",
+  "duration_seconds": 782,
+  "wps": 4.24,
+  "total_words": 3312,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12111
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अराउंड 9 साल पहले की बात है जेम्स जब अपनी स्कूल की छुट्टी होने के बाद अपने बेस्ट फ्रेंड के पास गए तब उन्होंने देखा कि उनके बेस्ट फ्रेंड के हाथ में ना एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बाय।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "में",
+      "count": 62
+    },
+    {
+      "word": "भी",
+      "count": 56
+    },
+    {
+      "word": "हो",
+      "count": 55
+    },
+    {
+      "word": "हैं",
+      "count": 54
+    },
+    {
+      "word": "नहीं",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 47
+    },
+    {
+      "word": "वो",
+      "count": 47
+    },
+    {
+      "word": "मैं",
+      "count": 45
+    },
+    {
+      "word": "जो",
+      "count": 43
+    },
+    {
+      "word": "आप",
+      "count": 41
+    },
+    {
+      "word": "के",
+      "count": 39
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "को",
+      "count": 31
+    },
+    {
+      "word": "आपको",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "हेल्प",
+      "count": 29
+    },
+    {
+      "word": "ही",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सेल्फ हेल्प",
+      "count": 26
+    },
+    {
+      "phrase": "है ना",
+      "count": 15
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "करता हूं",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    },
+    {
+      "phrase": "है जो",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 9
+    },
+    {
+      "phrase": "एक्चुअल में",
+      "count": 9
+    }
+  ],
+  "segment_count": 101
+}

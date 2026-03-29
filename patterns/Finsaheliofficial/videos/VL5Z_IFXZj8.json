@@ -1,0 +1,148 @@
+{
+  "video_id": "VL5Z_IFXZj8",
+  "duration_seconds": 95,
+  "wps": 4.02,
+  "total_words": 382,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1358
+  },
+  "hook": {
+    "type": "question",
+    "text": "ट्रंप ने सिल्वर का अल्टरनेटिव ढूंढ लिया है और अब वो सिल्वर को 7 लाख नहीं क्रैश ही कराने वाला है। तो अगर आप भी सिल्वर या कॉपर लेने का प्लान कर रहे हो तो यह"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "मुझे कमेंट में लिखना सिल्वर मैं आपको डीएम कर दूंगी। बट मेक शोर आपने मुझे फॉलो किया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 17
+    },
+    {
+      "word": "तो",
+      "count": 13
+    },
+    {
+      "word": "सिल्वर",
+      "count": 11
+    },
+    {
+      "word": "ही",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "कर",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "कोई",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "अब",
+      "count": 5
+    },
+    {
+      "word": "अल्टरनेटिव",
+      "count": 4
+    },
+    {
+      "word": "प्राइस",
+      "count": 4
+    },
+    {
+      "word": "ऑयल",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 5
+    },
+    {
+      "phrase": "है तो",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "सिल्वर को",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "के प्राइस",
+      "count": 3
+    },
+    {
+      "phrase": "ऑयल के",
+      "count": 3
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    },
+    {
+      "phrase": "आप भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी सिल्वर",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

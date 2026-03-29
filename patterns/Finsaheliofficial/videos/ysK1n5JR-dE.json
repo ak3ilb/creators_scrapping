@@ -1,0 +1,148 @@
+{
+  "video_id": "ysK1n5JR-dE",
+  "duration_seconds": 77,
+  "wps": 3.82,
+  "total_words": 294,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1021
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर फर्स्ट अप्रैल से पहले तुमने ये रील नहीं देखी तो 100% तुम अपने लाखों का नुकसान कर दोगे। बताती हूं कैसे वीडियो को लास्ट तक देखो। फर्स्ट अप्रैल से इनकम"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में मुझे यस लिखना। मैं आपको डीएम में शेयर कर दूंगी। बट मेक शूर उसके लिए आपने मुझे फॉलो किया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हो",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "टैक्स",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "पहले",
+      "count": 4
+    },
+    {
+      "word": "अलाउंस",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "अब",
+      "count": 4
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "बट",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बचा सकते",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "फर्स्ट अप्रैल",
+      "count": 2
+    },
+    {
+      "phrase": "अप्रैल से",
+      "count": 2
+    },
+    {
+      "phrase": "एजुकेशन अलाउंस",
+      "count": 2
+    },
+    {
+      "phrase": "अलाउंस जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो पहले",
+      "count": 2
+    },
+    {
+      "phrase": "था वो",
+      "count": 2
+    },
+    {
+      "phrase": "पर मंथ",
+      "count": 2
+    },
+    {
+      "phrase": "मंथ हो",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

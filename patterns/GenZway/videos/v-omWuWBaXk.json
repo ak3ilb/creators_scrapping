@@ -1,0 +1,150 @@
+{
+  "video_id": "v-omWuWBaXk",
+  "duration_seconds": 1528,
+  "wps": 4.55,
+  "total_words": 6949,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 24495
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सोचो एक शो को बनाया ही इसलिए जा रहा है क्योंकि सलमान खान के करियर को खत्म किया जा सके।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हम्म"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 287
+    },
+    {
+      "word": "के",
+      "count": 197
+    },
+    {
+      "word": "और",
+      "count": 180
+    },
+    {
+      "word": "भी",
+      "count": 125
+    },
+    {
+      "word": "हैं",
+      "count": 122
+    },
+    {
+      "word": "को",
+      "count": 120
+    },
+    {
+      "word": "तो",
+      "count": 102
+    },
+    {
+      "word": "लोग",
+      "count": 99
+    },
+    {
+      "word": "हो",
+      "count": 96
+    },
+    {
+      "word": "वो",
+      "count": 89
+    },
+    {
+      "word": "से",
+      "count": 84
+    },
+    {
+      "word": "एक",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "शो",
+      "count": 78
+    },
+    {
+      "word": "नहीं",
+      "count": 75
+    },
+    {
+      "word": "ना",
+      "count": 73
+    },
+    {
+      "word": "कि",
+      "count": 71
+    },
+    {
+      "word": "कर",
+      "count": 67
+    },
+    {
+      "word": "की",
+      "count": 62
+    },
+    {
+      "word": "अंदर",
+      "count": 57
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 48
+    },
+    {
+      "phrase": "है और",
+      "count": 42
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 32
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 31
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 30
+    },
+    {
+      "phrase": "रहा है",
+      "count": 28
+    },
+    {
+      "phrase": "बिग बॉस",
+      "count": 26
+    },
+    {
+      "phrase": "के लिए",
+      "count": 25
+    },
+    {
+      "phrase": "और सिर्फ",
+      "count": 23
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 22
+    }
+  ],
+  "segment_count": 193
+}

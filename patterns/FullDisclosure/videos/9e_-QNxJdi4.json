@@ -1,0 +1,148 @@
+{
+  "video_id": "9e_-QNxJdi4",
+  "duration_seconds": 78,
+  "wps": 3.26,
+  "total_words": 254,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 1009
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "दिस इंडियन कंपनी वेंट फ्रॉम $50 मिलियन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एजेंट सिस्टम।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 10
+    },
+    {
+      "word": "संगीत",
+      "count": 6
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "एप",
+      "count": 5
+    },
+    {
+      "word": "दिस",
+      "count": 4
+    },
+    {
+      "word": "ओनली",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "सो",
+      "count": 4
+    },
+    {
+      "word": "बिल्ड",
+      "count": 4
+    },
+    {
+      "word": "मिलियन",
+      "count": 3
+    },
+    {
+      "word": "टु",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "एम",
+      "count": 3
+    },
+    {
+      "word": "इमरजेंट",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "माय",
+      "count": 3
+    },
+    {
+      "word": "डे",
+      "count": 3
+    },
+    {
+      "word": "ऑन",
+      "count": 3
+    },
+    {
+      "word": "माई",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडियन कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "मिलियन एआरआर",
+      "count": 2
+    },
+    {
+      "phrase": "संगीत एंड",
+      "count": 2
+    },
+    {
+      "phrase": "एंड द",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "एक्सपेंसेस इन",
+      "count": 2
+    },
+    {
+      "phrase": "मी अ",
+      "count": 2
+    },
+    {
+      "phrase": "दिस इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "कंपनी वेंट",
+      "count": 1
+    },
+    {
+      "phrase": "वेंट फ्रॉम",
+      "count": 1
+    }
+  ],
+  "segment_count": 35
+}

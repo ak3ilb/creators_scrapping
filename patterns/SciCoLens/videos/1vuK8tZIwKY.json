@@ -1,0 +1,149 @@
+{
+  "video_id": "1vuK8tZIwKY",
+  "duration_seconds": 495,
+  "wps": 3.2,
+  "total_words": 1584,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 6083
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और रिसेंटली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 55
+    },
+    {
+      "word": "और",
+      "count": 33
+    },
+    {
+      "word": "में",
+      "count": 33
+    },
+    {
+      "word": "के",
+      "count": 32
+    },
+    {
+      "word": "ब्लैक",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 27
+    },
+    {
+      "word": "की",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 24
+    },
+    {
+      "word": "एक",
+      "count": 23
+    },
+    {
+      "word": "होल",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 22
+    },
+    {
+      "word": "भी",
+      "count": 22
+    },
+    {
+      "word": "का",
+      "count": 18
+    },
+    {
+      "word": "हैं",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 16
+    },
+    {
+      "word": "अब",
+      "count": 15
+    },
+    {
+      "word": "यह",
+      "count": 15
+    },
+    {
+      "word": "इस",
+      "count": 14
+    },
+    {
+      "word": "गाया",
+      "count": 14
+    },
+    {
+      "word": "हमारे",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ब्लैक होल",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "ब्लैक होल्स",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "की तरह",
+      "count": 6
+    },
+    {
+      "phrase": "गाया बीएच",
+      "count": 6
+    },
+    {
+      "phrase": "बीएच वन",
+      "count": 6
+    },
+    {
+      "phrase": "अब तक",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "है अब",
+      "count": 4
+    }
+  ],
+  "segment_count": 201
+}

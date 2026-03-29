@@ -1,0 +1,149 @@
+{
+  "video_id": "hTeK5XydmRo",
+  "duration_seconds": 262,
+  "wps": 3.97,
+  "total_words": 1041,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 3864
+  },
+  "hook": {
+    "type": "question",
+    "text": "डी मोस्ट पावरफुल पर्सन इन डी वर्ल्ड इसे डी स्टोरी टेलर स्टीव जॉब्स की स्टेटमेंट अगर आपने अपने जहां में अच्छे से उतार लिया तो ये बिजनेस की दुनिया में आपको"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं आपसे 27 को रात के 9:00 टाइम प्लेबैक बड़ा खेलते हैं"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 25
+    },
+    {
+      "word": "है",
+      "count": 25
+    },
+    {
+      "word": "के",
+      "count": 21
+    },
+    {
+      "word": "स्टोरी",
+      "count": 19
+    },
+    {
+      "word": "हैं",
+      "count": 19
+    },
+    {
+      "word": "में",
+      "count": 18
+    },
+    {
+      "word": "आप",
+      "count": 17
+    },
+    {
+      "word": "भी",
+      "count": 16
+    },
+    {
+      "word": "एक",
+      "count": 16
+    },
+    {
+      "word": "को",
+      "count": 15
+    },
+    {
+      "word": "और",
+      "count": 15
+    },
+    {
+      "word": "तो",
+      "count": 14
+    },
+    {
+      "word": "से",
+      "count": 13
+    },
+    {
+      "word": "हो",
+      "count": 13
+    },
+    {
+      "word": "आपको",
+      "count": 12
+    },
+    {
+      "word": "वो",
+      "count": 12
+    },
+    {
+      "word": "कर",
+      "count": 12
+    },
+    {
+      "word": "का",
+      "count": 11
+    },
+    {
+      "word": "टेलिंग",
+      "count": 9
+    },
+    {
+      "word": "नहीं",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्टोरी टेलिंग",
+      "count": 9
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 6
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 5
+    },
+    {
+      "phrase": "या फिर",
+      "count": 4
+    },
+    {
+      "phrase": "सबसे बड़ा",
+      "count": 4
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 4
+    },
+    {
+      "phrase": "लाइव सेशन",
+      "count": 4
+    },
+    {
+      "phrase": "में आपको",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 3
+    }
+  ],
+  "segment_count": 33
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "ezkwiNdGwY8",
+  "duration_seconds": 1036,
+  "wps": 3.11,
+  "total_words": 3218,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 12398
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सबवे सर्फर्स। यह नाम सुनते ही दिमाग अपने आप ही कुछ साल पीछे चला जाता है। उस टाइम में जब स्मार्टफोन अभी नया-नया ही आया था,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो लेकिन इसका इंपैक्ट कोई भी नहीं मिटा सकता क्योंकि यह सिर्फ एक गेम नहीं बल्कि एक एरा था।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 93
+    },
+    {
+      "word": "था",
+      "count": 74
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "है",
+      "count": 71
+    },
+    {
+      "word": "में",
+      "count": 65
+    },
+    {
+      "word": "गेम",
+      "count": 61
+    },
+    {
+      "word": "यह",
+      "count": 59
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "एक",
+      "count": 50
+    },
+    {
+      "word": "नहीं",
+      "count": 45
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "सबवे",
+      "count": 42
+    },
+    {
+      "word": "ही",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "लेकिन",
+      "count": 29
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "इस",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "सबवे सर्फ़र्स",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "सबवे सर्फर्स",
+      "count": 15
+    },
+    {
+      "phrase": "के साथ",
+      "count": 13
+    },
+    {
+      "phrase": "जाता है",
+      "count": 12
+    },
+    {
+      "phrase": "था और",
+      "count": 10
+    },
+    {
+      "phrase": "और दोस्तों",
+      "count": 9
+    },
+    {
+      "phrase": "यह गेम",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    }
+  ],
+  "segment_count": 136
+}

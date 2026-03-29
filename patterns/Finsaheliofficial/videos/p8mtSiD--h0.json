@@ -1,0 +1,148 @@
+{
+  "video_id": "p8mtSiD--h0",
+  "duration_seconds": 61,
+  "wps": 2.92,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 790
+  },
+  "hook": {
+    "type": "question",
+    "text": "सो क्विक क्वेश्चन, व्हाई डस गोवा स्टिल लुक सो क्लीन एंड फ्रेश? इवन विद सो मेनी टूरिस्ट? सिंपल बिकॉज़ हेयर वेस्ट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पूरे देश के लिए एक एग्जांपल सेट कर रहा है। लेट्स [संगीत] कीप गोवा क्लीन। लेट्स कीप गोवा लीडिंग।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "गोवा",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "वेस्ट",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "सो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "हर",
+      "count": 3
+    },
+    {
+      "word": "क्लीन",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "मिनिस्टर",
+      "count": 2
+    },
+    {
+      "word": "जी",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "मिशन",
+      "count": 2
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "जाता",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "वेस्ट को",
+      "count": 2
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 2
+    },
+    {
+      "phrase": "कीप गोवा",
+      "count": 2
+    },
+    {
+      "phrase": "सो क्विक",
+      "count": 1
+    },
+    {
+      "phrase": "क्विक क्वेश्चन",
+      "count": 1
+    },
+    {
+      "phrase": "क्वेश्चन व्हाई",
+      "count": 1
+    },
+    {
+      "phrase": "व्हाई डस",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

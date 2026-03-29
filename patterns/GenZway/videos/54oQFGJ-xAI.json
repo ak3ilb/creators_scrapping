@@ -1,0 +1,150 @@
+{
+  "video_id": "54oQFGJ-xAI",
+  "duration_seconds": 1401,
+  "wps": 4.57,
+  "total_words": 6409,
+  "language_mix": {
+    "hindi": 96.8,
+    "english": 3.2,
+    "total_chars": 22988
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये अंबानी लोग या तो खोखले बहुत है या फिर डम बहुत है। सोचो ऐसा कौन सा ही आदमी होगा जो हजारों करोड़ों रुपए सिर्फ अपने बेटे की शादी पे लगा देगा। आदित्य बिरला,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "और अगर मेरा कूपन कोड लगाओगे तो 2 महीने की ब्रोकरेज भी फ्री है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 248
+    },
+    {
+      "word": "के",
+      "count": 210
+    },
+    {
+      "word": "और",
+      "count": 156
+    },
+    {
+      "word": "तो",
+      "count": 104
+    },
+    {
+      "word": "हैं",
+      "count": 103
+    },
+    {
+      "word": "कि",
+      "count": 97
+    },
+    {
+      "word": "ना",
+      "count": 89
+    },
+    {
+      "word": "ये",
+      "count": 82
+    },
+    {
+      "word": "भी",
+      "count": 80
+    },
+    {
+      "word": "को",
+      "count": 79
+    },
+    {
+      "word": "नहीं",
+      "count": 77
+    },
+    {
+      "word": "भैया",
+      "count": 74
+    },
+    {
+      "word": "अंदर",
+      "count": 73
+    },
+    {
+      "word": "पे",
+      "count": 68
+    },
+    {
+      "word": "हो",
+      "count": 68
+    },
+    {
+      "word": "लोग",
+      "count": 67
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "की",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 61
+    },
+    {
+      "word": "कर",
+      "count": 59
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 63
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 57
+    },
+    {
+      "phrase": "है और",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 26
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 22
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 20
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 19
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 19
+    },
+    {
+      "phrase": "बिग बा",
+      "count": 16
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 16
+    }
+  ],
+  "segment_count": 180
+}

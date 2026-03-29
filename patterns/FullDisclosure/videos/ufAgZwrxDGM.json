@@ -1,0 +1,148 @@
+{
+  "video_id": "ufAgZwrxDGM",
+  "duration_seconds": 44,
+  "wps": 2.84,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 640
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "IIT Madras just launched a degree in aeronautics and space technology and you don't require J mains or advance for"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "may be considered for onampus programs or advanced degrees at IIT Madras itself. The link is in the pinned comment below."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "or",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "iit",
+      "count": 2
+    },
+    {
+      "word": "madras",
+      "count": 2
+    },
+    {
+      "word": "aeronautics",
+      "count": 2
+    },
+    {
+      "word": "space",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "may",
+      "count": 2
+    },
+    {
+      "word": "level",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 1
+    },
+    {
+      "word": "launched",
+      "count": 1
+    },
+    {
+      "word": "degree",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "iit madras",
+      "count": 2
+    },
+    {
+      "phrase": "in aeronautics",
+      "count": 2
+    },
+    {
+      "phrase": "aeronautics and",
+      "count": 2
+    },
+    {
+      "phrase": "and space",
+      "count": 2
+    },
+    {
+      "phrase": "space technology",
+      "count": 2
+    },
+    {
+      "phrase": "madras just",
+      "count": 1
+    },
+    {
+      "phrase": "just launched",
+      "count": 1
+    },
+    {
+      "phrase": "launched a",
+      "count": 1
+    },
+    {
+      "phrase": "a degree",
+      "count": 1
+    },
+    {
+      "phrase": "degree in",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "MqZVRp86nHw",
+  "duration_seconds": 60,
+  "wps": 3.38,
+  "total_words": 203,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 845
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "क्यों नासा वालों ने इंडिया के ताजमहल और पाकिस्तान के ट्रैफिक जैम की तस्वीरें एलियंस को भेजी। सो 1977 में वॉइजर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं इस रिकॉर्ड को भेजकर। पर आज तक हमें किसी भी एलियन का कोई संकेत नहीं मिला।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "हम",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "उन्होंने",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "एलियंस",
+      "count": 3
+    },
+    {
+      "word": "इमेजेस",
+      "count": 3
+    },
+    {
+      "word": "रिकॉर्ड",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "क्यों",
+      "count": 2
+    },
+    {
+      "word": "नासा",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "116",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "कि हम",
+      "count": 2
+    },
+    {
+      "phrase": "हम इंसानों",
+      "count": 2
+    },
+    {
+      "phrase": "इंसानों की",
+      "count": 2
+    },
+    {
+      "phrase": "की तस्वीरों",
+      "count": 2
+    },
+    {
+      "phrase": "और फिर",
+      "count": 2
+    },
+    {
+      "phrase": "लिए उन्होंने",
+      "count": 2
+    },
+    {
+      "phrase": "उन्होंने यह",
+      "count": 2
+    },
+    {
+      "phrase": "क्यों नासा",
+      "count": 1
+    },
+    {
+      "phrase": "नासा वालों",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

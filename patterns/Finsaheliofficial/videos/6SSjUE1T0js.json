@@ -1,0 +1,148 @@
+{
+  "video_id": "6SSjUE1T0js",
+  "duration_seconds": 54,
+  "wps": 3.74,
+  "total_words": 202,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 765
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "सिल्वर के प्राइस 2 लाख और गोल्ड होगा लगभग ₹1.5 लाख का बाय लेट 2026। ऐसा मैं नहीं इंडस्ट्री के एक्सपर्ट्स कह रहे हैं।"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "होगा अगर आप इनको फिजिकल फॉर्म में लेते हो। सो आप क्या प्रेफर करोगे मुझे कमेंट में बताना एंड वीडियो को सेव करना, शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 8
+    },
+    {
+      "word": "गोल्ड",
+      "count": 7
+    },
+    {
+      "word": "सिल्वर",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "ईटीएफ",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "प्राइस",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "होगा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अगर आप",
+      "count": 4
+    },
+    {
+      "phrase": "गोल्ड एंड",
+      "count": 3
+    },
+    {
+      "phrase": "एंड सिल्वर",
+      "count": 3
+    },
+    {
+      "phrase": "सिल्वर ईटीएफ",
+      "count": 3
+    },
+    {
+      "phrase": "के प्राइस",
+      "count": 2
+    },
+    {
+      "phrase": "आप गोल्ड",
+      "count": 2
+    },
+    {
+      "phrase": "लास्ट फाइव",
+      "count": 2
+    },
+    {
+      "phrase": "सिक्स इयर्स",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "इसका जवाब",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

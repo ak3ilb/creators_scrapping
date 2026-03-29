@@ -1,0 +1,149 @@
+{
+  "video_id": "AKCvVFkm01k",
+  "duration_seconds": 811,
+  "wps": 3.74,
+  "total_words": 3036,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13330
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, 18-year-old Rahul was sitting in his college canteen talking"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s it for today. See you in the next video. Bye-bye."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 124
+    },
+    {
+      "word": "you",
+      "count": 78
+    },
+    {
+      "word": "and",
+      "count": 75
+    },
+    {
+      "word": "in",
+      "count": 68
+    },
+    {
+      "word": "to",
+      "count": 50
+    },
+    {
+      "word": "of",
+      "count": 50
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "he",
+      "count": 40
+    },
+    {
+      "word": "can",
+      "count": 39
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "rahul",
+      "count": 28
+    },
+    {
+      "word": "this",
+      "count": 27
+    },
+    {
+      "word": "uncle",
+      "count": 27
+    },
+    {
+      "word": "money",
+      "count": 23
+    },
+    {
+      "word": "investing",
+      "count": 22
+    },
+    {
+      "word": "as",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "have",
+      "count": 21
+    },
+    {
+      "word": "your",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the uncle",
+      "count": 23
+    },
+    {
+      "phrase": "you can",
+      "count": 21
+    },
+    {
+      "phrase": "in the",
+      "count": 20
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "investing in",
+      "count": 9
+    },
+    {
+      "phrase": "if you",
+      "count": 9
+    },
+    {
+      "phrase": "₹5 lakhs",
+      "count": 8
+    },
+    {
+      "phrase": "₹1 lakh",
+      "count": 8
+    },
+    {
+      "phrase": "the café",
+      "count": 8
+    },
+    {
+      "phrase": "that means",
+      "count": 8
+    }
+  ],
+  "segment_count": 305
+}

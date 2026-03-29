@@ -1,0 +1,149 @@
+{
+  "video_id": "MmNFJ4CGvyw",
+  "duration_seconds": 2385,
+  "wps": 2.89,
+  "total_words": 6899,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 30197
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "That's why the farmer is always mentioned in the speech of the politicians, but not in the real agenda."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And by using coupon code - NITISH - you can avail 12% extra discount. Link is in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 382
+    },
+    {
+      "word": "and",
+      "count": 208
+    },
+    {
+      "word": "in",
+      "count": 178
+    },
+    {
+      "word": "of",
+      "count": 149
+    },
+    {
+      "word": "to",
+      "count": 142
+    },
+    {
+      "word": "us",
+      "count": 129
+    },
+    {
+      "word": "was",
+      "count": 118
+    },
+    {
+      "word": "so",
+      "count": 114
+    },
+    {
+      "word": "that",
+      "count": 112
+    },
+    {
+      "word": "this",
+      "count": 110
+    },
+    {
+      "word": "india",
+      "count": 101
+    },
+    {
+      "word": "on",
+      "count": 99
+    },
+    {
+      "word": "it",
+      "count": 74
+    },
+    {
+      "word": "is",
+      "count": 72
+    },
+    {
+      "word": "for",
+      "count": 55
+    },
+    {
+      "word": "from",
+      "count": 50
+    },
+    {
+      "word": "trade",
+      "count": 48
+    },
+    {
+      "word": "then",
+      "count": 48
+    },
+    {
+      "word": "trump",
+      "count": 47
+    },
+    {
+      "word": "tariff",
+      "count": 46
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 50
+    },
+    {
+      "phrase": "of the",
+      "count": 28
+    },
+    {
+      "phrase": "to the",
+      "count": 22
+    },
+    {
+      "phrase": "the us",
+      "count": 22
+    },
+    {
+      "phrase": "and the",
+      "count": 19
+    },
+    {
+      "phrase": "genetically modified",
+      "count": 17
+    },
+    {
+      "phrase": "in india",
+      "count": 16
+    },
+    {
+      "phrase": "used to",
+      "count": 15
+    },
+    {
+      "phrase": "the world",
+      "count": 15
+    },
+    {
+      "phrase": "the same",
+      "count": 14
+    }
+  ],
+  "segment_count": 317
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "sFbghkE0WYo",
+  "duration_seconds": 494,
+  "wps": 2.81,
+  "total_words": 1388,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6204
+  },
+  "hook": {
+    "type": "statement",
+    "text": "I stumbled into the weirdest thing recently,  and it all starts with this little pill..."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "with more time."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 57
+    },
+    {
+      "word": "to",
+      "count": 32
+    },
+    {
+      "word": "people",
+      "count": 31
+    },
+    {
+      "word": "of",
+      "count": 29
+    },
+    {
+      "word": "you",
+      "count": 28
+    },
+    {
+      "word": "and",
+      "count": 27
+    },
+    {
+      "word": "is",
+      "count": 25
+    },
+    {
+      "word": "that",
+      "count": 25
+    },
+    {
+      "word": "this",
+      "count": 19
+    },
+    {
+      "word": "metformin",
+      "count": 19
+    },
+    {
+      "word": "with",
+      "count": 18
+    },
+    {
+      "word": "for",
+      "count": 18
+    },
+    {
+      "word": "in",
+      "count": 17
+    },
+    {
+      "word": "diabetes",
+      "count": 16
+    },
+    {
+      "word": "are",
+      "count": 14
+    },
+    {
+      "word": "it",
+      "count": 13
+    },
+    {
+      "word": "barzilai",
+      "count": 13
+    },
+    {
+      "word": "if",
+      "count": 13
+    },
+    {
+      "word": "more",
+      "count": 12
+    },
+    {
+      "word": "we",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "people with",
+      "count": 9
+    },
+    {
+      "phrase": "with diabetes",
+      "count": 8
+    },
+    {
+      "phrase": "the people",
+      "count": 7
+    },
+    {
+      "phrase": "without diabetes",
+      "count": 7
+    },
+    {
+      "phrase": "on the",
+      "count": 6
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    },
+    {
+      "phrase": "that is",
+      "count": 6
+    },
+    {
+      "phrase": "people without",
+      "count": 6
+    },
+    {
+      "phrase": "in the",
+      "count": 5
+    },
+    {
+      "phrase": "taking metformin",
+      "count": 5
+    }
+  ],
+  "segment_count": 143
+}

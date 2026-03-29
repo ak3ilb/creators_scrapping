@@ -1,0 +1,149 @@
+{
+  "video_id": "e8vqfDg3Dy4",
+  "duration_seconds": 392,
+  "wps": 3.57,
+  "total_words": 1398,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 4847
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आज अपनी जिंदगी के बारे में एक सिगरेट बताता हूं मैं आपको जो आज तक मैंने शायद कभी डिस्क्लोज नहीं किया की मैंने अपने बचपन में सेवंथ एट क्लास के अंदर थिएटर भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगाएंगे बड़ा खेल"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 63
+    },
+    {
+      "word": "की",
+      "count": 40
+    },
+    {
+      "word": "आपको",
+      "count": 31
+    },
+    {
+      "word": "को",
+      "count": 31
+    },
+    {
+      "word": "के",
+      "count": 29
+    },
+    {
+      "word": "में",
+      "count": 24
+    },
+    {
+      "word": "आप",
+      "count": 24
+    },
+    {
+      "word": "से",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 18
+    },
+    {
+      "word": "मैं",
+      "count": 17
+    },
+    {
+      "word": "कर",
+      "count": 16
+    },
+    {
+      "word": "हैं",
+      "count": 16
+    },
+    {
+      "word": "ना",
+      "count": 15
+    },
+    {
+      "word": "जो",
+      "count": 14
+    },
+    {
+      "word": "नहीं",
+      "count": 14
+    },
+    {
+      "word": "अंदर",
+      "count": 14
+    },
+    {
+      "word": "वो",
+      "count": 14
+    },
+    {
+      "word": "और",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 12
+    },
+    {
+      "phrase": "है की",
+      "count": 11
+    },
+    {
+      "phrase": "सामने वाले",
+      "count": 8
+    },
+    {
+      "phrase": "बारे में",
+      "count": 7
+    },
+    {
+      "phrase": "फुल करवाना",
+      "count": 7
+    },
+    {
+      "phrase": "के बारे",
+      "count": 6
+    },
+    {
+      "phrase": "की भाई",
+      "count": 6
+    },
+    {
+      "phrase": "है आपको",
+      "count": 6
+    },
+    {
+      "phrase": "है ना",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 5
+    }
+  ],
+  "segment_count": 48
+}

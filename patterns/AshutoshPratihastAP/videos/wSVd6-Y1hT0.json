@@ -1,0 +1,148 @@
+{
+  "video_id": "wSVd6-Y1hT0",
+  "duration_seconds": 603,
+  "wps": 3.13,
+  "total_words": 1890,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 7180
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दुनिया का सबसे ताकतवर इंसान कौन है कोई कहेगा कि यूनाइटेड स्टेट का प्रेसिडेंट कोई कहेगा कॉर्पोरेट अमेरिका कोई कहेगा जेफ बेजॉस या कोई कह सकता है कि न सबसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के आगे कुछ भी नहीं है इस मैट्रिक्स से कैसे बाहर निकला जाए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 63
+    },
+    {
+      "word": "में",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 49
+    },
+    {
+      "word": "और",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 42
+    },
+    {
+      "word": "ब्लैक",
+      "count": 34
+    },
+    {
+      "word": "हैं",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "एंड",
+      "count": 27
+    },
+    {
+      "word": "रॉक",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "कर",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 16
+    },
+    {
+      "word": "पर",
+      "count": 16
+    },
+    {
+      "word": "की",
+      "count": 16
+    },
+    {
+      "word": "कंपनी",
+      "count": 15
+    },
+    {
+      "word": "कंपनीज",
+      "count": 15
+    },
+    {
+      "word": "एक",
+      "count": 14
+    },
+    {
+      "word": "तो",
+      "count": 14
+    },
+    {
+      "word": "यह",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ब्लैक रॉक",
+      "count": 26
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "करता है",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 5
+    },
+    {
+      "phrase": "ब्लैक स्टोन",
+      "count": 5
+    },
+    {
+      "phrase": "ओन करता",
+      "count": 5
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 5
+    },
+    {
+      "phrase": "सकता है",
+      "count": 4
+    },
+    {
+      "phrase": "बारे में",
+      "count": 4
+    }
+  ],
+  "segment_count": 70
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "e19vFlpGPeg",
+  "duration_seconds": 76,
+  "wps": 3.7,
+  "total_words": 281,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1048
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ब्लू व्हेल बहुत सालों पहले इट यूज्ड टू लुक लाइक अ जैकल। उसका एक एक नेचर था। थोड़ा सा वह खाना लैंड से खाता था। बट वो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एवोल्यूशन हुआ कि जहां पे उनकी बॉडी धीरे धीरे धीरे करके इवॉल्व कर रही"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "वो",
+      "count": 7
+    },
+    {
+      "word": "थे",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "लग",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "करके",
+      "count": 4
+    },
+    {
+      "word": "गए",
+      "count": 4
+    },
+    {
+      "word": "मिनट",
+      "count": 4
+    },
+    {
+      "word": "होने",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लग गए",
+      "count": 3
+    },
+    {
+      "phrase": "होने लग",
+      "count": 3
+    },
+    {
+      "phrase": "करते थे",
+      "count": 3
+    },
+    {
+      "phrase": "खाता था",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत ह्यूज",
+      "count": 2
+    },
+    {
+      "phrase": "तो ये",
+      "count": 2
+    },
+    {
+      "phrase": "डेवलप्ड है",
+      "count": 2
+    },
+    {
+      "phrase": "धीरे धीरे",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लू व्हेल",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

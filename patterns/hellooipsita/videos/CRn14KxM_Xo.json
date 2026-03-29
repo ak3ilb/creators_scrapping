@@ -1,0 +1,149 @@
+{
+  "video_id": "CRn14KxM_Xo",
+  "duration_seconds": 552,
+  "wps": 2.93,
+  "total_words": 1620,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6865
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So I want to tell you about a story of"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "you in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 69
+    },
+    {
+      "word": "you",
+      "count": 57
+    },
+    {
+      "word": "the",
+      "count": 55
+    },
+    {
+      "word": "that",
+      "count": 42
+    },
+    {
+      "word": "and",
+      "count": 32
+    },
+    {
+      "word": "of",
+      "count": 26
+    },
+    {
+      "word": "is",
+      "count": 26
+    },
+    {
+      "word": "this",
+      "count": 25
+    },
+    {
+      "word": "your",
+      "count": 23
+    },
+    {
+      "word": "be",
+      "count": 22
+    },
+    {
+      "word": "in",
+      "count": 22
+    },
+    {
+      "word": "about",
+      "count": 20
+    },
+    {
+      "word": "my",
+      "count": 20
+    },
+    {
+      "word": "what",
+      "count": 19
+    },
+    {
+      "word": "or",
+      "count": 18
+    },
+    {
+      "word": "so",
+      "count": 16
+    },
+    {
+      "word": "on",
+      "count": 16
+    },
+    {
+      "word": "you're",
+      "count": 15
+    },
+    {
+      "word": "i'm",
+      "count": 15
+    },
+    {
+      "word": "could",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "to be",
+      "count": 9
+    },
+    {
+      "phrase": "this is",
+      "count": 9
+    },
+    {
+      "phrase": "that you",
+      "count": 9
+    },
+    {
+      "phrase": "a little",
+      "count": 8
+    },
+    {
+      "phrase": "the way",
+      "count": 7
+    },
+    {
+      "phrase": "that i",
+      "count": 6
+    },
+    {
+      "phrase": "way that",
+      "count": 6
+    },
+    {
+      "phrase": "could be",
+      "count": 6
+    },
+    {
+      "phrase": "could also",
+      "count": 6
+    }
+  ],
+  "segment_count": 229
+}

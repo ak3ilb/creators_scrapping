@@ -1,0 +1,149 @@
+{
+  "video_id": "sXmrh4fJoaE",
+  "duration_seconds": 1430,
+  "wps": 3.22,
+  "total_words": 4609,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 19193
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Machine guns Military tanks stood everywhere pointing at each person."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "give you a confident smile. To book your free teeth scan don't forget to click on the link in description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 207
+    },
+    {
+      "word": "that",
+      "count": 127
+    },
+    {
+      "word": "to",
+      "count": 119
+    },
+    {
+      "word": "was",
+      "count": 119
+    },
+    {
+      "word": "and",
+      "count": 106
+    },
+    {
+      "word": "this",
+      "count": 89
+    },
+    {
+      "word": "in",
+      "count": 88
+    },
+    {
+      "word": "it",
+      "count": 80
+    },
+    {
+      "word": "of",
+      "count": 72
+    },
+    {
+      "word": "email",
+      "count": 66
+    },
+    {
+      "word": "they",
+      "count": 56
+    },
+    {
+      "word": "is",
+      "count": 51
+    },
+    {
+      "word": "he",
+      "count": 48
+    },
+    {
+      "word": "on",
+      "count": 47
+    },
+    {
+      "word": "you",
+      "count": 41
+    },
+    {
+      "word": "so",
+      "count": 38
+    },
+    {
+      "word": "after",
+      "count": 37
+    },
+    {
+      "word": "then",
+      "count": 37
+    },
+    {
+      "word": "at",
+      "count": 35
+    },
+    {
+      "word": "but",
+      "count": 35
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "email id",
+      "count": 24
+    },
+    {
+      "phrase": "it was",
+      "count": 20
+    },
+    {
+      "phrase": "the email",
+      "count": 20
+    },
+    {
+      "phrase": "this email",
+      "count": 20
+    },
+    {
+      "phrase": "india gate",
+      "count": 19
+    },
+    {
+      "phrase": "that -",
+      "count": 17
+    },
+    {
+      "phrase": "all the",
+      "count": 17
+    },
+    {
+      "phrase": "special cell",
+      "count": 16
+    },
+    {
+      "phrase": "acp pramod",
+      "count": 15
+    },
+    {
+      "phrase": "in this",
+      "count": 13
+    }
+  ],
+  "segment_count": 181
+}

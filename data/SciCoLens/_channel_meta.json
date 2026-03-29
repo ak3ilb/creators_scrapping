@@ -5,16 +5,16 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:26:44.158442+00:00",
+  "last_updated": "2026-03-29T16:21:21.255889+00:00",
   "total_discovered": 248,
   "ingestion_stats": {
-    "total": 52,
-    "ok": 52,
+    "total": 53,
+    "ok": 53,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "21.0%",
+  "completion_percentage": "21.4%",
   "videos": [
     {
       "video_id": "t_BLOjYSc88",
@@ -44,7 +44,7 @@
     {
       "video_id": "zf_nL733uJI",
       "title": "How your Brain Chooses Your Crush",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "HWEsG9M45nw",

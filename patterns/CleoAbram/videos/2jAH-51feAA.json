@@ -1,0 +1,149 @@
+{
+  "video_id": "2jAH-51feAA",
+  "duration_seconds": 889,
+  "wps": 3.08,
+  "total_words": 2740,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11531
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[Ticking]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "thank you so much to NASA. If you like optimistic  science and tech stories and you want to support"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 161
+    },
+    {
+      "word": "to",
+      "count": 91
+    },
+    {
+      "word": "that",
+      "count": 74
+    },
+    {
+      "word": "and",
+      "count": 68
+    },
+    {
+      "word": "of",
+      "count": 56
+    },
+    {
+      "word": "this",
+      "count": 52
+    },
+    {
+      "word": "is",
+      "count": 51
+    },
+    {
+      "word": "it",
+      "count": 41
+    },
+    {
+      "word": "supersonic",
+      "count": 36
+    },
+    {
+      "word": "you",
+      "count": 36
+    },
+    {
+      "word": "we",
+      "count": 33
+    },
+    {
+      "word": "plane",
+      "count": 29
+    },
+    {
+      "word": "so",
+      "count": 29
+    },
+    {
+      "word": "on",
+      "count": 25
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "as",
+      "count": 25
+    },
+    {
+      "word": "boom",
+      "count": 24
+    },
+    {
+      "word": "but",
+      "count": 23
+    },
+    {
+      "word": "at",
+      "count": 18
+    },
+    {
+      "word": "can",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 18
+    },
+    {
+      "phrase": "on the",
+      "count": 11
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "the concorde",
+      "count": 10
+    },
+    {
+      "phrase": "supersonic plane",
+      "count": 9
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "in the",
+      "count": 8
+    },
+    {
+      "phrase": "sonic boom",
+      "count": 8
+    },
+    {
+      "phrase": "the speed",
+      "count": 7
+    },
+    {
+      "phrase": "speed of",
+      "count": 7
+    }
+  ],
+  "segment_count": 186
+}

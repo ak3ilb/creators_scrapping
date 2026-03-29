@@ -1,0 +1,148 @@
+{
+  "video_id": "mAHDh1ZlOcA",
+  "duration_seconds": 991,
+  "wps": 3.79,
+  "total_words": 3753,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 15107
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक हाइली रेस्पेक्टेड साइंटिस्ट। एक टॉप सीक्रेट रिसर्च एजेंसी के सीनियर"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "है मुझे कमेंट में जरूर बताना। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 135
+    },
+    {
+      "word": "के",
+      "count": 104
+    },
+    {
+      "word": "और",
+      "count": 82
+    },
+    {
+      "word": "में",
+      "count": 74
+    },
+    {
+      "word": "को",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 57
+    },
+    {
+      "word": "भी",
+      "count": 56
+    },
+    {
+      "word": "हैं",
+      "count": 53
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "की",
+      "count": 43
+    },
+    {
+      "word": "हनी",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "ये",
+      "count": 33
+    },
+    {
+      "word": "तो",
+      "count": 31
+    },
+    {
+      "word": "था",
+      "count": 30
+    },
+    {
+      "word": "जो",
+      "count": 30
+    },
+    {
+      "word": "यह",
+      "count": 28
+    },
+    {
+      "word": "ट्रैप",
+      "count": 28
+    },
+    {
+      "word": "हो",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हनी ट्रैप",
+      "count": 22
+    },
+    {
+      "phrase": "उन्नी कृष्णन",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "होता है",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "हनी ट्रैपिंग",
+      "count": 12
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 10
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 9
+    }
+  ],
+  "segment_count": 128
+}

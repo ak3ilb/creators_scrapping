@@ -1,0 +1,149 @@
+{
+  "video_id": "IERunzipjkc",
+  "duration_seconds": 828,
+  "wps": 2.88,
+  "total_words": 2381,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9080
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्यों इंडियन शादियां आज टिक नहीं रही? इन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिस्क्रिप्शन में है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 84
+    },
+    {
+      "word": "के",
+      "count": 51
+    },
+    {
+      "word": "में",
+      "count": 44
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "एक",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "से",
+      "count": 29
+    },
+    {
+      "word": "हैं",
+      "count": 28
+    },
+    {
+      "word": "भी",
+      "count": 26
+    },
+    {
+      "word": "नहीं",
+      "count": 24
+    },
+    {
+      "word": "तो",
+      "count": 24
+    },
+    {
+      "word": "ही",
+      "count": 23
+    },
+    {
+      "word": "कि",
+      "count": 22
+    },
+    {
+      "word": "को",
+      "count": 21
+    },
+    {
+      "word": "कर",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 17
+    },
+    {
+      "word": "केसेस",
+      "count": 15
+    },
+    {
+      "word": "यह",
+      "count": 15
+    },
+    {
+      "word": "जो",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "रही है",
+      "count": 7
+    },
+    {
+      "phrase": "के केसेस",
+      "count": 7
+    },
+    {
+      "phrase": "रहा है",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "किया है",
+      "count": 6
+    },
+    {
+      "phrase": "की तरह",
+      "count": 5
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 5
+    },
+    {
+      "phrase": "है जो",
+      "count": 5
+    },
+    {
+      "phrase": "हो गया",
+      "count": 5
+    }
+  ],
+  "segment_count": 311
+}

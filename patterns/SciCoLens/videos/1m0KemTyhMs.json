@@ -1,0 +1,149 @@
+{
+  "video_id": "1m0KemTyhMs",
+  "duration_seconds": 2026,
+  "wps": 2.66,
+  "total_words": 5380,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 20204
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "चारों ओर नॉर्थ पोल की बर्फ, -15° की ठंड और मैं डव करने जा रहा हूं। जबकि मुझे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हम्म"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 259
+    },
+    {
+      "word": "और",
+      "count": 103
+    },
+    {
+      "word": "में",
+      "count": 93
+    },
+    {
+      "word": "के",
+      "count": 92
+    },
+    {
+      "word": "एक",
+      "count": 88
+    },
+    {
+      "word": "हैं",
+      "count": 82
+    },
+    {
+      "word": "से",
+      "count": 74
+    },
+    {
+      "word": "को",
+      "count": 67
+    },
+    {
+      "word": "हो",
+      "count": 64
+    },
+    {
+      "word": "यह",
+      "count": 61
+    },
+    {
+      "word": "ये",
+      "count": 58
+    },
+    {
+      "word": "का",
+      "count": 57
+    },
+    {
+      "word": "पर",
+      "count": 53
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "ही",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 42
+    },
+    {
+      "word": "यहां",
+      "count": 41
+    },
+    {
+      "word": "जो",
+      "count": 37
+    },
+    {
+      "word": "आइस",
+      "count": 33
+    },
+    {
+      "word": "पोल",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नॉर्थ पोल",
+      "count": 31
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 22
+    },
+    {
+      "phrase": "जाता है",
+      "count": 22
+    },
+    {
+      "phrase": "आइस ब्रेकर",
+      "count": 22
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "रहा है",
+      "count": 20
+    },
+    {
+      "phrase": "होता है",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "देख सकते",
+      "count": 15
+    }
+  ],
+  "segment_count": 300
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "FOS0unAvGx8",
+  "duration_seconds": 990,
+  "wps": 2.85,
+  "total_words": 2826,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11361
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नाउ वििन ईयर इट विल बी बैरियर फ्री टू यू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 103
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "के",
+      "count": 48
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "तो",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "हैं",
+      "count": 30
+    },
+    {
+      "word": "की",
+      "count": 29
+    },
+    {
+      "word": "हो",
+      "count": 27
+    },
+    {
+      "word": "एक",
+      "count": 26
+    },
+    {
+      "word": "का",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "लैंड",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "यह",
+      "count": 21
+    },
+    {
+      "word": "प्रोजेक्ट",
+      "count": 20
+    },
+    {
+      "word": "ने",
+      "count": 18
+    },
+    {
+      "word": "ही",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "होता है",
+      "count": 9
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "साउथ कोरिया",
+      "count": 6
+    },
+    {
+      "phrase": "और इसी",
+      "count": 6
+    },
+    {
+      "phrase": "चक्कर में",
+      "count": 6
+    },
+    {
+      "phrase": "हो गया",
+      "count": 5
+    },
+    {
+      "phrase": "है दोस्तों",
+      "count": 5
+    }
+  ],
+  "segment_count": 389
+}

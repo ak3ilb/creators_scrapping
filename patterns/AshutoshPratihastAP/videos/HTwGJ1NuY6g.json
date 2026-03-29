@@ -1,0 +1,149 @@
+{
+  "video_id": "HTwGJ1NuY6g",
+  "duration_seconds": 798,
+  "wps": 3.4,
+  "total_words": 2712,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11436
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "A lot of times, people request me to record a video on my entire journey. As to how come did I achieve so much, how a guy who use to earn a salary of 6,000, established a company worth crores of rupee"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I'll see you all live on 30th of April in Astitva."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 106
+    },
+    {
+      "word": "and",
+      "count": 99
+    },
+    {
+      "word": "to",
+      "count": 91
+    },
+    {
+      "word": "you",
+      "count": 87
+    },
+    {
+      "word": "of",
+      "count": 78
+    },
+    {
+      "word": "in",
+      "count": 54
+    },
+    {
+      "word": "that",
+      "count": 41
+    },
+    {
+      "word": "will",
+      "count": 38
+    },
+    {
+      "word": "is",
+      "count": 34
+    },
+    {
+      "word": "on",
+      "count": 32
+    },
+    {
+      "word": "can",
+      "count": 30
+    },
+    {
+      "word": "have",
+      "count": 27
+    },
+    {
+      "word": "it",
+      "count": 27
+    },
+    {
+      "word": "be",
+      "count": 27
+    },
+    {
+      "word": "all",
+      "count": 26
+    },
+    {
+      "word": "get",
+      "count": 25
+    },
+    {
+      "word": "your",
+      "count": 24
+    },
+    {
+      "word": "so",
+      "count": 20
+    },
+    {
+      "word": "for",
+      "count": 19
+    },
+    {
+      "word": "who",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you can",
+      "count": 18
+    },
+    {
+      "phrase": "in the",
+      "count": 16
+    },
+    {
+      "phrase": "you have",
+      "count": 11
+    },
+    {
+      "phrase": "you will",
+      "count": 11
+    },
+    {
+      "phrase": "will get",
+      "count": 11
+    },
+    {
+      "phrase": "on the",
+      "count": 10
+    },
+    {
+      "phrase": "of april",
+      "count": 10
+    },
+    {
+      "phrase": "have to",
+      "count": 9
+    },
+    {
+      "phrase": "want to",
+      "count": 9
+    },
+    {
+      "phrase": "will be",
+      "count": 9
+    }
+  ],
+  "segment_count": 97
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "mLYMAkgvZsI",
+  "duration_seconds": 1198,
+  "wps": 2.41,
+  "total_words": 2892,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12093
+  },
+  "hook": {
+    "type": "question",
+    "text": "\"Artificial wombs...\""
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I think we should search, and keep searching."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 102
+    },
+    {
+      "word": "to",
+      "count": 85
+    },
+    {
+      "word": "and",
+      "count": 71
+    },
+    {
+      "word": "this",
+      "count": 59
+    },
+    {
+      "word": "of",
+      "count": 55
+    },
+    {
+      "word": "that",
+      "count": 52
+    },
+    {
+      "word": "is",
+      "count": 52
+    },
+    {
+      "word": "you",
+      "count": 37
+    },
+    {
+      "word": "in",
+      "count": 36
+    },
+    {
+      "word": "it",
+      "count": 35
+    },
+    {
+      "word": "we",
+      "count": 35
+    },
+    {
+      "word": "for",
+      "count": 32
+    },
+    {
+      "word": "have",
+      "count": 32
+    },
+    {
+      "word": "my",
+      "count": 31
+    },
+    {
+      "word": "was",
+      "count": 23
+    },
+    {
+      "word": "so",
+      "count": 23
+    },
+    {
+      "word": "on",
+      "count": 22
+    },
+    {
+      "word": "like",
+      "count": 22
+    },
+    {
+      "word": "about",
+      "count": 19
+    },
+    {
+      "word": "artificial",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 17
+    },
+    {
+      "phrase": "that i",
+      "count": 14
+    },
+    {
+      "phrase": "on the",
+      "count": 11
+    },
+    {
+      "phrase": "i think",
+      "count": 10
+    },
+    {
+      "phrase": "in the",
+      "count": 9
+    },
+    {
+      "phrase": "to be",
+      "count": 9
+    },
+    {
+      "phrase": "i was",
+      "count": 8
+    },
+    {
+      "phrase": "and then",
+      "count": 8
+    },
+    {
+      "phrase": "is a",
+      "count": 8
+    },
+    {
+      "phrase": "but i",
+      "count": 7
+    }
+  ],
+  "segment_count": 306
+}

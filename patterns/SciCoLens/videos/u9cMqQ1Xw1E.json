@@ -1,0 +1,148 @@
+{
+  "video_id": "u9cMqQ1Xw1E",
+  "duration_seconds": 561,
+  "wps": 3.34,
+  "total_words": 1875,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7074
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और जेम्स वेब स्पेस टेलिस्कोप ने सबसे पुरानी गैलेक्सी ढूंढी। जेम्स वेब ने मल्टीवरिवर्स थ्योरी को प्रूफ किया। जेम्स वेब ने एलियंस के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जरूर ठोकना। सी यू नेक्स्ट टाइम फ्रेंड्स टिल देन एज ऑलवेज स्टे क्यूरियस, कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "के",
+      "count": 50
+    },
+    {
+      "word": "और",
+      "count": 47
+    },
+    {
+      "word": "जुपिटर",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 34
+    },
+    {
+      "word": "की",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "हैं",
+      "count": 30
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "ही",
+      "count": 20
+    },
+    {
+      "word": "कि",
+      "count": 20
+    },
+    {
+      "word": "अब",
+      "count": 18
+    },
+    {
+      "word": "तो",
+      "count": 14
+    },
+    {
+      "word": "एंड",
+      "count": 13
+    },
+    {
+      "word": "सूरज",
+      "count": 13
+    },
+    {
+      "word": "पर",
+      "count": 13
+    },
+    {
+      "word": "नहीं",
+      "count": 12
+    },
+    {
+      "word": "वेब",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जुपिटर के",
+      "count": 12
+    },
+    {
+      "phrase": "जेम्स वेब",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "सोलर सिस्टम",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "रहा है",
+      "count": 7
+    },
+    {
+      "phrase": "वजह से",
+      "count": 6
+    },
+    {
+      "phrase": "ग्रेट रेड",
+      "count": 6
+    },
+    {
+      "phrase": "रेड स्पॉट",
+      "count": 6
+    },
+    {
+      "phrase": "बारे में",
+      "count": 5
+    }
+  ],
+  "segment_count": 72
+}

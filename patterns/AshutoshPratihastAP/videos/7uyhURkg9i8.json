@@ -1,0 +1,149 @@
+{
+  "video_id": "7uyhURkg9i8",
+  "duration_seconds": 698,
+  "wps": 3.57,
+  "total_words": 2492,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 9039
+  },
+  "hook": {
+    "type": "question",
+    "text": "तो दोस्तों अगर आप भी स्टॉक मार्केट के अंदर इन्वेस्टमेंट करते हो तो पिछले कुछ दिन आपके बहुत बुरे जा रहे होंगे। सुबह-सुबह जो हम अपने स्टॉक्स को देखने की आदत होती है, पोर्टफोलियो को देखने की आदत"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्लिक कर देना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 107
+    },
+    {
+      "word": "हो",
+      "count": 57
+    },
+    {
+      "word": "तो",
+      "count": 54
+    },
+    {
+      "word": "पे",
+      "count": 48
+    },
+    {
+      "word": "के",
+      "count": 47
+    },
+    {
+      "word": "में",
+      "count": 47
+    },
+    {
+      "word": "और",
+      "count": 45
+    },
+    {
+      "word": "मार्केट",
+      "count": 44
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "आपको",
+      "count": 35
+    },
+    {
+      "word": "आप",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "हैं",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "भी",
+      "count": 25
+    },
+    {
+      "word": "कर",
+      "count": 24
+    },
+    {
+      "word": "कि",
+      "count": 23
+    },
+    {
+      "word": "को",
+      "count": 22
+    },
+    {
+      "word": "नहीं",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यहां पे",
+      "count": 17
+    },
+    {
+      "phrase": "है तो",
+      "count": 13
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 11
+    },
+    {
+      "phrase": "सकता है",
+      "count": 10
+    },
+    {
+      "phrase": "स्टॉक मार्केट",
+      "count": 9
+    },
+    {
+      "phrase": "का नुकसान",
+      "count": 9
+    },
+    {
+      "phrase": "टाइम पे",
+      "count": 9
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 9
+    },
+    {
+      "phrase": "हो सकता",
+      "count": 8
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 7
+    }
+  ],
+  "segment_count": 87
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "9CFb3oVDwFA",
+  "duration_seconds": 916,
+  "wps": 3.06,
+  "total_words": 2799,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11085
+  },
+  "hook": {
+    "type": "question",
+    "text": "जरा सोचिए किसी का पहला स्टार्टअप बुरी तरह से फेल हो जाए और ₹ करोड़ डूब जाए तो कोई भी समझदार इंसान क्या करेगा? शायद उस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्ट्रेटजी, सही ब्रांडिंग और सही विज़न लेकर चलते हो तो। हां।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "के",
+      "count": 62
+    },
+    {
+      "word": "और",
+      "count": 60
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "था",
+      "count": 51
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "को",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "ने",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "थी",
+      "count": 33
+    },
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "नयन",
+      "count": 28
+    },
+    {
+      "word": "नहीं",
+      "count": 27
+    },
+    {
+      "word": "इस",
+      "count": 24
+    },
+    {
+      "word": "क्लियर",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "नयन ने",
+      "count": 12
+    },
+    {
+      "phrase": "था कि",
+      "count": 11
+    },
+    {
+      "phrase": "तरह से",
+      "count": 10
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 10
+    },
+    {
+      "phrase": "क्लियर पानी",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 9
+    },
+    {
+      "phrase": "रहा था",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 7
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    }
+  ],
+  "segment_count": 121
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "459vCfN2K_8",
+  "duration_seconds": 433,
+  "wps": 3.04,
+  "total_words": 1316,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 4668
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मुझे आज भी याद है वो हर एक रात जब महीने का घर खर्च अरेंज कर पन हम सबके लिए एक बहुत ही बड़ी टेंशन थी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करूंगा एक दिन ऐसे ही आपकी कहानी सुनते हो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "था",
+      "count": 52
+    },
+    {
+      "word": "की",
+      "count": 31
+    },
+    {
+      "word": "के",
+      "count": 30
+    },
+    {
+      "word": "और",
+      "count": 27
+    },
+    {
+      "word": "मैं",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "नहीं",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "है",
+      "count": 19
+    },
+    {
+      "word": "लिए",
+      "count": 19
+    },
+    {
+      "word": "में",
+      "count": 16
+    },
+    {
+      "word": "का",
+      "count": 15
+    },
+    {
+      "word": "पर",
+      "count": 15
+    },
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "को",
+      "count": 15
+    },
+    {
+      "word": "मैंने",
+      "count": 15
+    },
+    {
+      "word": "कुछ",
+      "count": 13
+    },
+    {
+      "word": "चाहता",
+      "count": 13
+    },
+    {
+      "word": "अपने",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चाहता था",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "था की",
+      "count": 7
+    },
+    {
+      "phrase": "रहा था",
+      "count": 7
+    },
+    {
+      "phrase": "शुरू किया",
+      "count": 6
+    },
+    {
+      "phrase": "था और",
+      "count": 6
+    },
+    {
+      "phrase": "था पर",
+      "count": 4
+    },
+    {
+      "phrase": "था अपने",
+      "count": 4
+    },
+    {
+      "phrase": "देना चाहता",
+      "count": 4
+    },
+    {
+      "phrase": "था तो",
+      "count": 4
+    }
+  ],
+  "segment_count": 55
+}

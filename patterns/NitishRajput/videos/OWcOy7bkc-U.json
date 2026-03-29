@@ -1,0 +1,149 @@
+{
+  "video_id": "OWcOy7bkc-U",
+  "duration_seconds": 1485,
+  "wps": 3.1,
+  "total_words": 4603,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 20349
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "India can't pressurize Qatar in the way that it did Canada."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Link has been given in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 167
+    },
+    {
+      "word": "in",
+      "count": 116
+    },
+    {
+      "word": "this",
+      "count": 95
+    },
+    {
+      "word": "qatar",
+      "count": 92
+    },
+    {
+      "word": "of",
+      "count": 91
+    },
+    {
+      "word": "and",
+      "count": 90
+    },
+    {
+      "word": "to",
+      "count": 88
+    },
+    {
+      "word": "that",
+      "count": 75
+    },
+    {
+      "word": "it",
+      "count": 68
+    },
+    {
+      "word": "india",
+      "count": 53
+    },
+    {
+      "word": "is",
+      "count": 53
+    },
+    {
+      "word": "was",
+      "count": 52
+    },
+    {
+      "word": "on",
+      "count": 45
+    },
+    {
+      "word": "with",
+      "count": 44
+    },
+    {
+      "word": "but",
+      "count": 42
+    },
+    {
+      "word": "its",
+      "count": 41
+    },
+    {
+      "word": "so",
+      "count": 40
+    },
+    {
+      "word": "then",
+      "count": 38
+    },
+    {
+      "word": "they",
+      "count": 36
+    },
+    {
+      "word": "all",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 22
+    },
+    {
+      "phrase": "navy officers",
+      "count": 16
+    },
+    {
+      "phrase": "this company",
+      "count": 14
+    },
+    {
+      "phrase": "has been",
+      "count": 13
+    },
+    {
+      "phrase": "as well",
+      "count": 13
+    },
+    {
+      "phrase": "all these",
+      "count": 13
+    },
+    {
+      "phrase": "all the",
+      "count": 13
+    },
+    {
+      "phrase": "after this",
+      "count": 11
+    },
+    {
+      "phrase": "the indian",
+      "count": 9
+    },
+    {
+      "phrase": "in qatar",
+      "count": 9
+    }
+  ],
+  "segment_count": 198
+}

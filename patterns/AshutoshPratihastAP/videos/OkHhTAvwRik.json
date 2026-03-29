@@ -1,0 +1,148 @@
+{
+  "video_id": "OkHhTAvwRik",
+  "duration_seconds": 137,
+  "wps": 0.85,
+  "total_words": 117,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 352
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं अभी मैं आप लोगों के लिए कुछ अच्छी खबर भी लाया हूं बहुत सारी चीजें हैं जो आपके साथ शेयर करने वाला हूं मैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कर दो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "दो",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "लुट",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "वाला",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 1
+    },
+    {
+      "word": "लोगों",
+      "count": 1
+    },
+    {
+      "word": "लिए",
+      "count": 1
+    },
+    {
+      "word": "कुछ",
+      "count": 1
+    },
+    {
+      "word": "अच्छी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर दो",
+      "count": 10
+    },
+    {
+      "phrase": "दो कर",
+      "count": 4
+    },
+    {
+      "phrase": "दो लुट",
+      "count": 2
+    },
+    {
+      "phrase": "मैं अभी",
+      "count": 1
+    },
+    {
+      "phrase": "अभी मैं",
+      "count": 1
+    },
+    {
+      "phrase": "मैं आप",
+      "count": 1
+    },
+    {
+      "phrase": "आप लोगों",
+      "count": 1
+    },
+    {
+      "phrase": "लोगों के",
+      "count": 1
+    },
+    {
+      "phrase": "के लिए",
+      "count": 1
+    },
+    {
+      "phrase": "लिए कुछ",
+      "count": 1
+    }
+  ],
+  "segment_count": 14
+}

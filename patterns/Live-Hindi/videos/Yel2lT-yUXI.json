@@ -1,0 +1,149 @@
+{
+  "video_id": "Yel2lT-yUXI",
+  "duration_seconds": 969,
+  "wps": 2.99,
+  "total_words": 2899,
+  "language_mix": {
+    "hindi": 96.0,
+    "english": 4.0,
+    "total_chars": 10962
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एशियन पेंट्स पिछले 83 सालों से इंडिया की पेंट इंडस्ट्री का बादशाह बना हुआ है। हम हो हमारे पापा हो या फिर दादाजी हर जनरेशन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लंबे समय में अभी भी Asian Paints मार्केट का किंग रहने वाला है। हां।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "है",
+      "count": 61
+    },
+    {
+      "word": "से",
+      "count": 60
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 53
+    },
+    {
+      "word": "था",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 52
+    },
+    {
+      "word": "भी",
+      "count": 42
+    },
+    {
+      "word": "ही",
+      "count": 39
+    },
+    {
+      "word": "paints",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 35
+    },
+    {
+      "word": "पेंट",
+      "count": 34
+    },
+    {
+      "word": "asian",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 26
+    },
+    {
+      "word": "कंपनी",
+      "count": 25
+    },
+    {
+      "word": "इस",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "asian paints",
+      "count": 32
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "और फिर",
+      "count": 8
+    },
+    {
+      "phrase": "जाता था",
+      "count": 8
+    },
+    {
+      "phrase": "paints ने",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 124
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "cGvMK6MHmSY",
+  "duration_seconds": 2657,
+  "wps": 3.03,
+  "total_words": 8061,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 34841
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "After winning the election, Narendra Modi and L.K. Advani will go for the Jagannath Yatra, where they'll be shot."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "and then slowly, all the officers get discharged after this even Ishrat's mother said that, she is tired and now she won't be able to take part in all the proceedings of the court and case ends over h"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 361
+    },
+    {
+      "word": "and",
+      "count": 266
+    },
+    {
+      "word": "to",
+      "count": 213
+    },
+    {
+      "word": "in",
+      "count": 177
+    },
+    {
+      "word": "of",
+      "count": 172
+    },
+    {
+      "word": "that",
+      "count": 154
+    },
+    {
+      "word": "this",
+      "count": 152
+    },
+    {
+      "word": "was",
+      "count": 132
+    },
+    {
+      "word": "is",
+      "count": 99
+    },
+    {
+      "word": "on",
+      "count": 87
+    },
+    {
+      "word": "it",
+      "count": 83
+    },
+    {
+      "word": "then",
+      "count": 69
+    },
+    {
+      "word": "so",
+      "count": 69
+    },
+    {
+      "word": "as",
+      "count": 66
+    },
+    {
+      "word": "ishrat",
+      "count": 63
+    },
+    {
+      "word": "they",
+      "count": 62
+    },
+    {
+      "word": "were",
+      "count": 62
+    },
+    {
+      "word": "police",
+      "count": 60
+    },
+    {
+      "word": "from",
+      "count": 57
+    },
+    {
+      "word": "with",
+      "count": 56
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 41
+    },
+    {
+      "phrase": "and then",
+      "count": 28
+    },
+    {
+      "phrase": "on the",
+      "count": 27
+    },
+    {
+      "phrase": "after this",
+      "count": 26
+    },
+    {
+      "phrase": "as well",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 20
+    },
+    {
+      "phrase": "ishrat jahan",
+      "count": 19
+    },
+    {
+      "phrase": "all the",
+      "count": 19
+    },
+    {
+      "phrase": "the police",
+      "count": 19
+    },
+    {
+      "phrase": "ishrat's mother",
+      "count": 17
+    }
+  ],
+  "segment_count": 336
+}

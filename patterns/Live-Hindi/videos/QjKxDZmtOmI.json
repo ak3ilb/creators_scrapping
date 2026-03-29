@@ -1,0 +1,149 @@
+{
+  "video_id": "QjKxDZmtOmI",
+  "duration_seconds": 1024,
+  "wps": 3.1,
+  "total_words": 3178,
+  "language_mix": {
+    "hindi": 96.5,
+    "english": 3.5,
+    "total_chars": 11970
+  },
+  "hook": {
+    "type": "question",
+    "text": "Honda Activa स्कूटर की दुनिया का सबसे बड़ा नाम। लेकिन इतना बड़ा क्यों? अरे भाई 3 करोड़ से भी ज्यादा यूनिट्स जो बिक चुके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इसमें कोई डाउट नहीं है कि एक्टिवा हिस्ट्री के बेस्ट स्कूटर्स में अपनी जगह बना चुका है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 97
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "की",
+      "count": 61
+    },
+    {
+      "word": "कि",
+      "count": 59
+    },
+    {
+      "word": "था",
+      "count": 58
+    },
+    {
+      "word": "से",
+      "count": 57
+    },
+    {
+      "word": "भी",
+      "count": 53
+    },
+    {
+      "word": "को",
+      "count": 51
+    },
+    {
+      "word": "ने",
+      "count": 46
+    },
+    {
+      "word": "honda",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "थी",
+      "count": 42
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "ही",
+      "count": 39
+    },
+    {
+      "word": "स्कूटर",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 35
+    },
+    {
+      "word": "है",
+      "count": 33
+    },
+    {
+      "word": "एक्टिवा",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "honda ने",
+      "count": 21
+    },
+    {
+      "phrase": "जो कि",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 11
+    },
+    {
+      "phrase": "के साथ",
+      "count": 11
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 9
+    },
+    {
+      "phrase": "था कि",
+      "count": 8
+    },
+    {
+      "phrase": "था और",
+      "count": 8
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 8
+    },
+    {
+      "phrase": "दिया था",
+      "count": 7
+    }
+  ],
+  "segment_count": 132
+}

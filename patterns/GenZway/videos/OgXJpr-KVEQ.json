@@ -1,0 +1,150 @@
+{
+  "video_id": "OgXJpr-KVEQ",
+  "duration_seconds": 1409,
+  "wps": 4.1,
+  "total_words": 5775,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 19981
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "शर्म आनी चाहिए उन नेताओं को जो न्यूज़ चैनल पे आके बोलते हैं कि भैया हमारे जीतने के चांसेस ज्यादा है क्योंकि सट्टा बाजार में हमारा भाव कम लगा हुआ है अभी कम"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "और पिन कमेंट में मिल जाएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 224
+    },
+    {
+      "word": "के",
+      "count": 175
+    },
+    {
+      "word": "और",
+      "count": 174
+    },
+    {
+      "word": "हैं",
+      "count": 107
+    },
+    {
+      "word": "भी",
+      "count": 96
+    },
+    {
+      "word": "को",
+      "count": 93
+    },
+    {
+      "word": "तो",
+      "count": 86
+    },
+    {
+      "word": "से",
+      "count": 84
+    },
+    {
+      "word": "लोग",
+      "count": 75
+    },
+    {
+      "word": "हो",
+      "count": 74
+    },
+    {
+      "word": "ये",
+      "count": 71
+    },
+    {
+      "word": "का",
+      "count": 68
+    },
+    {
+      "word": "ना",
+      "count": 68
+    },
+    {
+      "word": "कि",
+      "count": 67
+    },
+    {
+      "word": "वो",
+      "count": 58
+    },
+    {
+      "word": "जो",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 57
+    },
+    {
+      "word": "अंदर",
+      "count": 55
+    },
+    {
+      "word": "एक",
+      "count": 49
+    },
+    {
+      "word": "की",
+      "count": 47
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 43
+    },
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 28
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 23
+    },
+    {
+      "phrase": "जो भी",
+      "count": 22
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 22
+    },
+    {
+      "phrase": "सट्टा बाजार",
+      "count": 21
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 20
+    },
+    {
+      "phrase": "हैं और",
+      "count": 20
+    },
+    {
+      "phrase": "है कि",
+      "count": 18
+    }
+  ],
+  "segment_count": 168
+}

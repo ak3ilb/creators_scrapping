@@ -1,0 +1,149 @@
+{
+  "video_id": "NwWVkXwlEkE",
+  "duration_seconds": 944,
+  "wps": 3.75,
+  "total_words": 3540,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 13212
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "झारखंड में रहने वाले शेख मोहम्मद अंसारी अपना काम धंधा छोड़कर 3 महीने तक शाहरुख खान के घर मन्नत के बाहर बैठे रहे सिर्फ इसलिए कि वो किसी तरह से शाहरुख खान के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "महीनों तक उसके घर के बाहर पड़े रहो इतना खाली क्यों हो आप अपने घर से"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 116
+    },
+    {
+      "word": "के",
+      "count": 112
+    },
+    {
+      "word": "हैं",
+      "count": 87
+    },
+    {
+      "word": "और",
+      "count": 78
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "को",
+      "count": 65
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "हो",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "कि",
+      "count": 40
+    },
+    {
+      "word": "तो",
+      "count": 40
+    },
+    {
+      "word": "लिए",
+      "count": 38
+    },
+    {
+      "word": "कर",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 26
+    },
+    {
+      "word": "लोग",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 26
+    },
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 14
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 12
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 12
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "फैन कल्चर",
+      "count": 10
+    },
+    {
+      "phrase": "विराट कोहली",
+      "count": 9
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    }
+  ],
+  "segment_count": 112
+}

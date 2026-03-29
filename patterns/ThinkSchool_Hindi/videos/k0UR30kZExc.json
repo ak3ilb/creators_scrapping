@@ -1,0 +1,148 @@
+{
+  "video_id": "k0UR30kZExc",
+  "duration_seconds": 997,
+  "wps": 2.49,
+  "total_words": 2480,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 10115
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों रशिया एक खतरनाक खेल खेलने जा रहा है। एक ऐसा खेल जो सीधे अमेरिका की सुपर पावर पोजीशन को ओपन चैलेंज देता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 75
+    },
+    {
+      "word": "के",
+      "count": 71
+    },
+    {
+      "word": "है",
+      "count": 49
+    },
+    {
+      "word": "में",
+      "count": 39
+    },
+    {
+      "word": "रशिया",
+      "count": 35
+    },
+    {
+      "word": "भारत",
+      "count": 34
+    },
+    {
+      "word": "चाइना",
+      "count": 34
+    },
+    {
+      "word": "को",
+      "count": 33
+    },
+    {
+      "word": "था",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 28
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "अमेरिका",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 24
+    },
+    {
+      "word": "का",
+      "count": 24
+    },
+    {
+      "word": "एंड",
+      "count": 20
+    },
+    {
+      "word": "से",
+      "count": 20
+    },
+    {
+      "word": "ने",
+      "count": 19
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "इन",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के साथ",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "चाइना के",
+      "count": 9
+    },
+    {
+      "phrase": "यह है",
+      "count": 8
+    },
+    {
+      "phrase": "भारत को",
+      "count": 8
+    },
+    {
+      "phrase": "के पास",
+      "count": 7
+    },
+    {
+      "phrase": "के बाद",
+      "count": 7
+    },
+    {
+      "phrase": "इन द",
+      "count": 6
+    },
+    {
+      "phrase": "रशिया के",
+      "count": 6
+    },
+    {
+      "phrase": "और चाइना",
+      "count": 6
+    }
+  ],
+  "segment_count": 116
+}

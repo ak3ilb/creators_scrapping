@@ -1,0 +1,149 @@
+{
+  "video_id": "Ly9NGoOsfZ4",
+  "duration_seconds": 512,
+  "wps": 3.24,
+  "total_words": 1657,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 6969
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So, I have been writing in a journal since I was 11 years old. Now, I don't remember when or how I started writing in that deer diary style, but I suspect"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "because writing on a good day makes it greater. I'll see you in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 58
+    },
+    {
+      "word": "the",
+      "count": 55
+    },
+    {
+      "word": "that",
+      "count": 52
+    },
+    {
+      "word": "to",
+      "count": 50
+    },
+    {
+      "word": "is",
+      "count": 46
+    },
+    {
+      "word": "and",
+      "count": 45
+    },
+    {
+      "word": "of",
+      "count": 40
+    },
+    {
+      "word": "writing",
+      "count": 38
+    },
+    {
+      "word": "this",
+      "count": 26
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "with",
+      "count": 23
+    },
+    {
+      "word": "it",
+      "count": 22
+    },
+    {
+      "word": "we",
+      "count": 18
+    },
+    {
+      "word": "what",
+      "count": 18
+    },
+    {
+      "word": "your",
+      "count": 18
+    },
+    {
+      "word": "now",
+      "count": 17
+    },
+    {
+      "word": "on",
+      "count": 16
+    },
+    {
+      "word": "when",
+      "count": 14
+    },
+    {
+      "word": "for",
+      "count": 13
+    },
+    {
+      "word": "are",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "that you",
+      "count": 11
+    },
+    {
+      "phrase": "writing is",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "is the",
+      "count": 9
+    },
+    {
+      "phrase": "night writing",
+      "count": 8
+    },
+    {
+      "phrase": "you can",
+      "count": 8
+    },
+    {
+      "phrase": "that i",
+      "count": 7
+    },
+    {
+      "phrase": "we are",
+      "count": 7
+    },
+    {
+      "phrase": "morning writing",
+      "count": 7
+    },
+    {
+      "phrase": "one of",
+      "count": 6
+    }
+  ],
+  "segment_count": 64
+}

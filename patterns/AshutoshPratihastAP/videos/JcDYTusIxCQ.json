@@ -1,0 +1,149 @@
+{
+  "video_id": "JcDYTusIxCQ",
+  "duration_seconds": 1705,
+  "wps": 2.94,
+  "total_words": 5011,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 23202
+  },
+  "hook": {
+    "type": "statement",
+    "text": "In this video, you are going to know about an organization, which was started by 2 hermits. And today that organization is doing an annual business of more than 40,000 crore."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "And to see such informative documentaries, do not forget to subscribe. Thank you so much. Jai Hind."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 229
+    },
+    {
+      "word": "the",
+      "count": 219
+    },
+    {
+      "word": "of",
+      "count": 142
+    },
+    {
+      "word": "to",
+      "count": 124
+    },
+    {
+      "word": "is",
+      "count": 115
+    },
+    {
+      "word": "in",
+      "count": 113
+    },
+    {
+      "word": "patanjali",
+      "count": 77
+    },
+    {
+      "word": "this",
+      "count": 74
+    },
+    {
+      "word": "that",
+      "count": 62
+    },
+    {
+      "word": "it",
+      "count": 53
+    },
+    {
+      "word": "are",
+      "count": 49
+    },
+    {
+      "word": "you",
+      "count": 47
+    },
+    {
+      "word": "which",
+      "count": 44
+    },
+    {
+      "word": "for",
+      "count": 41
+    },
+    {
+      "word": "also",
+      "count": 35
+    },
+    {
+      "word": "was",
+      "count": 34
+    },
+    {
+      "word": "all",
+      "count": 34
+    },
+    {
+      "word": "people",
+      "count": 32
+    },
+    {
+      "word": "more",
+      "count": 31
+    },
+    {
+      "word": "like",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 35
+    },
+    {
+      "phrase": "of patanjali",
+      "count": 22
+    },
+    {
+      "phrase": "more than",
+      "count": 20
+    },
+    {
+      "phrase": "of the",
+      "count": 17
+    },
+    {
+      "phrase": "a lot",
+      "count": 17
+    },
+    {
+      "phrase": "it is",
+      "count": 15
+    },
+    {
+      "phrase": "and the",
+      "count": 13
+    },
+    {
+      "phrase": "this is",
+      "count": 12
+    },
+    {
+      "phrase": "and this",
+      "count": 11
+    },
+    {
+      "phrase": "for the",
+      "count": 11
+    }
+  ],
+  "segment_count": 199
+}

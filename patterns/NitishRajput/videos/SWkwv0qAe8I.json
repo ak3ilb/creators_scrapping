@@ -1,0 +1,148 @@
+{
+  "video_id": "SWkwv0qAe8I",
+  "duration_seconds": 1517,
+  "wps": 3.96,
+  "total_words": 6010,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 21711
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सीरियन सिक्योरिटी फोर्सेस थी वो इस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तो उसको जरूर अटेंड करिएगा। थैंक यू।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 207
+    },
+    {
+      "word": "जो",
+      "count": 162
+    },
+    {
+      "word": "और",
+      "count": 147
+    },
+    {
+      "word": "है",
+      "count": 143
+    },
+    {
+      "word": "तो",
+      "count": 108
+    },
+    {
+      "word": "थे",
+      "count": 107
+    },
+    {
+      "word": "से",
+      "count": 101
+    },
+    {
+      "word": "भी",
+      "count": 100
+    },
+    {
+      "word": "सीरिया",
+      "count": 99
+    },
+    {
+      "word": "थी",
+      "count": 96
+    },
+    {
+      "word": "था",
+      "count": 94
+    },
+    {
+      "word": "में",
+      "count": 93
+    },
+    {
+      "word": "ये",
+      "count": 91
+    },
+    {
+      "word": "की",
+      "count": 87
+    },
+    {
+      "word": "को",
+      "count": 80
+    },
+    {
+      "word": "कि",
+      "count": 76
+    },
+    {
+      "word": "वो",
+      "count": 64
+    },
+    {
+      "word": "हैं",
+      "count": 59
+    },
+    {
+      "word": "पे",
+      "count": 57
+    },
+    {
+      "word": "बहुत",
+      "count": 51
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सीरिया के",
+      "count": 42
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 40
+    },
+    {
+      "phrase": "अल असद",
+      "count": 38
+    },
+    {
+      "phrase": "बशर अल",
+      "count": 30
+    },
+    {
+      "phrase": "के लिए",
+      "count": 28
+    },
+    {
+      "phrase": "है और",
+      "count": 21
+    },
+    {
+      "phrase": "सीरिया की",
+      "count": 21
+    },
+    {
+      "phrase": "ये जो",
+      "count": 21
+    },
+    {
+      "phrase": "सीरियन आर्मी",
+      "count": 21
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 19
+    }
+  ],
+  "segment_count": 726
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "CtoHfBBCfm0",
+  "duration_seconds": 93,
+  "wps": 3.69,
+  "total_words": 343,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1252
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सिर्फ 19 साल की उम्र में एक लड़का बिहार से मुंबई आता है वो भी बिना पैसों के। हाथ में एक टिफिन और एक बिस्तर के साथ और आज"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "के साथ वापस आउंगी। इस वीडियो को अपने सारे दोस्तों और फैमिली के साथ शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 16
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "काम",
+      "count": 6
+    },
+    {
+      "word": "साथ",
+      "count": 5
+    },
+    {
+      "word": "उन्होंने",
+      "count": 5
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "मुंबई",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "अपनी",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "बिहार",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "सक्सेस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के साथ",
+      "count": 5
+    },
+    {
+      "phrase": "में एक",
+      "count": 3
+    },
+    {
+      "phrase": "बिहार से",
+      "count": 3
+    },
+    {
+      "phrase": "से मुंबई",
+      "count": 2
+    },
+    {
+      "phrase": "सक्सेस स्टोरी",
+      "count": 2
+    },
+    {
+      "phrase": "अनिल अग्रवाल",
+      "count": 2
+    },
+    {
+      "phrase": "फैक्ट्री में",
+      "count": 2
+    },
+    {
+      "phrase": "में काम",
+      "count": 2
+    },
+    {
+      "phrase": "साथ शेयर",
+      "count": 2
+    },
+    {
+      "phrase": "थे और",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

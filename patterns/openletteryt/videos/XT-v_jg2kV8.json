@@ -1,0 +1,149 @@
+{
+  "video_id": "XT-v_jg2kV8",
+  "duration_seconds": 842,
+  "wps": 3.8,
+  "total_words": 3197,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12543
+  },
+  "hook": {
+    "type": "question",
+    "text": "हम भारतीय वोटर्स के पास वोटिंग राइट जरूर हैं लेकिन असल में कोई चॉइस नहीं है। आप सोच रहे होंगे भारत में तो इतनी सारी पार्टीज हैं तो चॉइस कैसे नहीं है फिर?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 123
+    },
+    {
+      "word": "में",
+      "count": 89
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "हैं",
+      "count": 72
+    },
+    {
+      "word": "को",
+      "count": 66
+    },
+    {
+      "word": "की",
+      "count": 64
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "पार्टी",
+      "count": 54
+    },
+    {
+      "word": "तो",
+      "count": 44
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "भी",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 26
+    },
+    {
+      "word": "हो",
+      "count": 26
+    },
+    {
+      "word": "भारत",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "हैं लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "की जरूरत",
+      "count": 11
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 10
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 9
+    },
+    {
+      "phrase": "भारत में",
+      "count": 9
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 8
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    },
+    {
+      "phrase": "जरूरत है",
+      "count": 8
+    }
+  ],
+  "segment_count": 106
+}

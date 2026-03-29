@@ -1,0 +1,148 @@
+{
+  "video_id": "xYhzMXnu-60",
+  "duration_seconds": 114,
+  "wps": 3.95,
+  "total_words": 450,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1632
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मैं ऑलमोस्ट 10 प्लस कंट्रीज में ट्रैवल कर चुकी हूं। बट एक ऐसी चीज मैंने हर कंट्री में देखी जो कॉमन थी और वो यह था कि वहां के लोग इंडियंस से जेलस फील करते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्योंकि हम इंडियन सबसे आगे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 20
+    },
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "हैं",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "इंडियंस",
+      "count": 10
+    },
+    {
+      "word": "भी",
+      "count": 9
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "आगे",
+      "count": 6
+    },
+    {
+      "word": "कंट्रीज",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "वहां",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "हम",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "इंडियंस को",
+      "count": 3
+    },
+    {
+      "phrase": "अफ्रीका में",
+      "count": 3
+    },
+    {
+      "phrase": "भी इंडियंस",
+      "count": 3
+    },
+    {
+      "phrase": "बाकी कंट्रीज",
+      "count": 3
+    },
+    {
+      "phrase": "कंट्रीज में",
+      "count": 2
+    },
+    {
+      "phrase": "और वो",
+      "count": 2
+    },
+    {
+      "phrase": "वहां के",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियंस से",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 15
+}

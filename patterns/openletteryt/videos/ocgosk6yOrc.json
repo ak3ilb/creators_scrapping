@@ -1,0 +1,148 @@
+{
+  "video_id": "ocgosk6yOrc",
+  "duration_seconds": 1000,
+  "wps": 3.72,
+  "total_words": 3717,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 13917
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह कुछ टाइम पहले हुए दिल्ली का एक एक्सीडेंट है। एक बाइक पे 50 साल के आदमी अपनी बेटी के साथ जा रहे थे और अचानक से उनके ऊपर एक पेड़ गिर गया जिससे ऑन द"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "डिस्क्रिप्शन में दिए गए लिंक पे क्लिक करना ना भूलें। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 158
+    },
+    {
+      "word": "के",
+      "count": 107
+    },
+    {
+      "word": "में",
+      "count": 98
+    },
+    {
+      "word": "और",
+      "count": 70
+    },
+    {
+      "word": "हैं",
+      "count": 67
+    },
+    {
+      "word": "भी",
+      "count": 60
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 52
+    },
+    {
+      "word": "तो",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "नहीं",
+      "count": 44
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "लोग",
+      "count": 33
+    },
+    {
+      "word": "एक",
+      "count": 32
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "कोई",
+      "count": 28
+    },
+    {
+      "word": "पर",
+      "count": 26
+    },
+    {
+      "word": "का",
+      "count": 25
+    },
+    {
+      "word": "देश",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 22
+    },
+    {
+      "phrase": "रहा है",
+      "count": 17
+    },
+    {
+      "phrase": "है तो",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 11
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "भारत में",
+      "count": 9
+    },
+    {
+      "phrase": "रही है",
+      "count": 9
+    }
+  ],
+  "segment_count": 128
+}

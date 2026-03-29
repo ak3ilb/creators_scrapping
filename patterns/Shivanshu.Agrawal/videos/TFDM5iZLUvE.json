@@ -1,0 +1,149 @@
+{
+  "video_id": "TFDM5iZLUvE",
+  "duration_seconds": 1108,
+  "wps": 2.92,
+  "total_words": 3238,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14294
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In the year 1980, a young man named Harshad Mehta, enters Bombay Stock Exchange for the first time."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "In my opinion, the truth is somewhere between the two views. If you like this video, I would like to recommend up next, watch this video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 151
+    },
+    {
+      "word": "and",
+      "count": 112
+    },
+    {
+      "word": "to",
+      "count": 107
+    },
+    {
+      "word": "in",
+      "count": 85
+    },
+    {
+      "word": "of",
+      "count": 78
+    },
+    {
+      "word": "he",
+      "count": 58
+    },
+    {
+      "word": "harshad",
+      "count": 57
+    },
+    {
+      "word": "this",
+      "count": 54
+    },
+    {
+      "word": "market",
+      "count": 52
+    },
+    {
+      "word": "was",
+      "count": 52
+    },
+    {
+      "word": "that",
+      "count": 51
+    },
+    {
+      "word": "money",
+      "count": 43
+    },
+    {
+      "word": "but",
+      "count": 40
+    },
+    {
+      "word": "for",
+      "count": 28
+    },
+    {
+      "word": "his",
+      "count": 27
+    },
+    {
+      "word": "started",
+      "count": 27
+    },
+    {
+      "word": "bank",
+      "count": 27
+    },
+    {
+      "word": "with",
+      "count": 25
+    },
+    {
+      "word": "stock",
+      "count": 22
+    },
+    {
+      "word": "which",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 27
+    },
+    {
+      "phrase": "stock market",
+      "count": 18
+    },
+    {
+      "phrase": "the market",
+      "count": 17
+    },
+    {
+      "phrase": "used to",
+      "count": 15
+    },
+    {
+      "phrase": "the money",
+      "count": 13
+    },
+    {
+      "phrase": "money market",
+      "count": 13
+    },
+    {
+      "phrase": "the stock",
+      "count": 12
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "bank of",
+      "count": 10
+    },
+    {
+      "phrase": "to be",
+      "count": 9
+    }
+  ],
+  "segment_count": 154
+}

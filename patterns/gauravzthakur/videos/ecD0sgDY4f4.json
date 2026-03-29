@@ -1,0 +1,148 @@
+{
+  "video_id": "ecD0sgDY4f4",
+  "duration_seconds": 86,
+  "wps": 3.43,
+  "total_words": 295,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1154
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या एक लड़की के एक्स बॉयफ्रेंड्स उसके फ्यूचर के बच्चों के जींस को इन्फ्लुएंस कर सकते हैं? 2024 के इस स्टडी का ऐसा ही कुछ कहना है। इस थ्योरी को मॉडर्न"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "फॉलो टू मेक योर फीड द स्मार्टेस्ट।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 19
+    },
+    {
+      "word": "हैं",
+      "count": 9
+    },
+    {
+      "word": "लड़की",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "डीएनए",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "फीमेल",
+      "count": 5
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "सेल्स",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "जींस",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लड़की के",
+      "count": 6
+    },
+    {
+      "phrase": "के जींस",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "फीमेल के",
+      "count": 3
+    },
+    {
+      "phrase": "एक लड़की",
+      "count": 2
+    },
+    {
+      "phrase": "जींस को",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "हैं जो",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

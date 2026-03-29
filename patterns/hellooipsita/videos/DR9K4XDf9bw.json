@@ -1,0 +1,149 @@
+{
+  "video_id": "DR9K4XDf9bw",
+  "duration_seconds": 385,
+  "wps": 2.82,
+  "total_words": 1086,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 4888
+  },
+  "hook": {
+    "type": "question",
+    "text": "Have you ever been in a situation where"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "See you in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 52
+    },
+    {
+      "word": "music",
+      "count": 40
+    },
+    {
+      "word": "the",
+      "count": 32
+    },
+    {
+      "word": "you",
+      "count": 30
+    },
+    {
+      "word": "is",
+      "count": 28
+    },
+    {
+      "word": "of",
+      "count": 24
+    },
+    {
+      "word": "that",
+      "count": 23
+    },
+    {
+      "word": "and",
+      "count": 21
+    },
+    {
+      "word": "your",
+      "count": 19
+    },
+    {
+      "word": "we",
+      "count": 18
+    },
+    {
+      "word": "what",
+      "count": 14
+    },
+    {
+      "word": "this",
+      "count": 14
+    },
+    {
+      "word": "are",
+      "count": 14
+    },
+    {
+      "word": "with",
+      "count": 13
+    },
+    {
+      "word": "have",
+      "count": 12
+    },
+    {
+      "word": "in",
+      "count": 11
+    },
+    {
+      "word": "conversation",
+      "count": 11
+    },
+    {
+      "word": "it",
+      "count": 11
+    },
+    {
+      "word": "going",
+      "count": 11
+    },
+    {
+      "word": "but",
+      "count": 10
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 11
+    },
+    {
+      "phrase": "of loss",
+      "count": 6
+    },
+    {
+      "phrase": "to have",
+      "count": 5
+    },
+    {
+      "phrase": "that you",
+      "count": 5
+    },
+    {
+      "phrase": "hard conversation",
+      "count": 5
+    },
+    {
+      "phrase": "we are",
+      "count": 5
+    },
+    {
+      "phrase": "other person",
+      "count": 5
+    },
+    {
+      "phrase": "hard conversations",
+      "count": 4
+    },
+    {
+      "phrase": "fear of",
+      "count": 4
+    },
+    {
+      "phrase": "is going",
+      "count": 4
+    }
+  ],
+  "segment_count": 164
+}

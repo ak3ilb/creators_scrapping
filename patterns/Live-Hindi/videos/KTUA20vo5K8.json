@@ -1,0 +1,149 @@
+{
+  "video_id": "KTUA20vo5K8",
+  "duration_seconds": 449,
+  "wps": 2.99,
+  "total_words": 1342,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 5433
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों, जिस आईवेयर मार्केट को हम मॉडर्न स्टाइलिश और एस्पिरेशनल मानते हैं, वह हमेशा से ऐसा नहीं था। कुछ साल पहले तक आई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है। इसीलिए लेंस गार्ड सिर्फ एक आईवेयर ब्रांड नहीं है बल्कि आईवेयर कैटेगरी को समझने के लिए एक स्ट्रांग केस स्टडी है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 52
+    },
+    {
+      "word": "में",
+      "count": 38
+    },
+    {
+      "word": "और",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 34
+    },
+    {
+      "word": "हैं",
+      "count": 19
+    },
+    {
+      "word": "के",
+      "count": 19
+    },
+    {
+      "word": "फिर",
+      "count": 18
+    },
+    {
+      "word": "कि",
+      "count": 18
+    },
+    {
+      "word": "लेंस",
+      "count": 18
+    },
+    {
+      "word": "तो",
+      "count": 17
+    },
+    {
+      "word": "से",
+      "count": 16
+    },
+    {
+      "word": "कर",
+      "count": 16
+    },
+    {
+      "word": "था",
+      "count": 15
+    },
+    {
+      "word": "यह",
+      "count": 15
+    },
+    {
+      "word": "अब",
+      "count": 14
+    },
+    {
+      "word": "को",
+      "count": 13
+    },
+    {
+      "word": "भी",
+      "count": 13
+    },
+    {
+      "word": "की",
+      "count": 13
+    },
+    {
+      "word": "ही",
+      "count": 12
+    },
+    {
+      "word": "का",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लेंस कार्ड",
+      "count": 10
+    },
+    {
+      "phrase": "और फिर",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 7
+    },
+    {
+      "phrase": "तो फिर",
+      "count": 6
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 6
+    },
+    {
+      "phrase": "रहा है",
+      "count": 6
+    },
+    {
+      "phrase": "आई टेस्ट",
+      "count": 5
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 5
+    },
+    {
+      "phrase": "लेंस कार्ट",
+      "count": 5
+    }
+  ],
+  "segment_count": 59
+}

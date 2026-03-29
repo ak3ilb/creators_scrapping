@@ -1,0 +1,148 @@
+{
+  "video_id": "5dK7jh0goIs",
+  "duration_seconds": 106,
+  "wps": 2.89,
+  "total_words": 306,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1197
+  },
+  "hook": {
+    "type": "question",
+    "text": "मॉडर्न रिलेशनशिप्स आखिर गलत कहां पे जा रहा है? क्यों इतने डिवोर्सेस और ब्रेकअप्स हो रहे हैं? सबसे बड़ा फैक्टर इन डिवोर्सेज को एकदम से जो स्पाइक कर रहा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बच्चे भी नहीं हुए हो। हम्म।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "ही",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "डिवोर्स",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "केसेस",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "बड़ा",
+      "count": 3
+    },
+    {
+      "word": "डिवोर्सेज",
+      "count": 3
+    },
+    {
+      "word": "स्पाइक",
+      "count": 3
+    },
+    {
+      "word": "एंपावरमेंट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "के केसेस",
+      "count": 4
+    },
+    {
+      "phrase": "डिवोर्स के",
+      "count": 3
+    },
+    {
+      "phrase": "के वक्त",
+      "count": 3
+    },
+    {
+      "phrase": "की शादी",
+      "count": 3
+    },
+    {
+      "phrase": "4 महीने",
+      "count": 3
+    },
+    {
+      "phrase": "एकदम से",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "केसेस भी",
+      "count": 2
+    },
+    {
+      "phrase": "एंपावरमेंट का",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

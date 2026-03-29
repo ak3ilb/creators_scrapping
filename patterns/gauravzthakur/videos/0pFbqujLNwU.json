@@ -1,0 +1,148 @@
+{
+  "video_id": "0pFbqujLNwU",
+  "duration_seconds": 96,
+  "wps": 2.93,
+  "total_words": 281,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1135
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मैं आपको क्रॉनिक इंफ्लेमेशन आपके शरीर के किन-किन अंगों को किस-किस तरह से तबाह करता है इसकी एक झलक दिखाता हूं। क्योंकि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बीमारियां होती है जो हार्ट अटैक्स का सबसे मेजर कारण"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "आपके",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "इनफ्लेमेशन",
+      "count": 5
+    },
+    {
+      "word": "क्रॉनिक",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "कैंसर",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 4
+    },
+    {
+      "word": "सेल्स",
+      "count": 4
+    },
+    {
+      "word": "शरीर",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "अब",
+      "count": 3
+    },
+    {
+      "word": "कॉज",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "आपके शरीर",
+      "count": 2
+    },
+    {
+      "phrase": "शरीर के",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "रेगुलरली स्मोकिंग",
+      "count": 2
+    },
+    {
+      "phrase": "है अब",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "सेल्स को",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

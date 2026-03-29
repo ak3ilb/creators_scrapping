@@ -1,0 +1,149 @@
+{
+  "video_id": "p60I9LNHNxg",
+  "duration_seconds": 970,
+  "wps": 2.99,
+  "total_words": 2903,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12377
+  },
+  "hook": {
+    "type": "question",
+    "text": "Ready?! I'm about to take you to the Olympic  trials with NBC and YouTube. Every four years,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you so much to YouTube and NBC  for making this video possible. These curlers that we met are officially going to the  Olympics and I'm going to be cheering for them."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 185
+    },
+    {
+      "word": "to",
+      "count": 89
+    },
+    {
+      "word": "and",
+      "count": 86
+    },
+    {
+      "word": "of",
+      "count": 67
+    },
+    {
+      "word": "that",
+      "count": 56
+    },
+    {
+      "word": "you",
+      "count": 53
+    },
+    {
+      "word": "it",
+      "count": 53
+    },
+    {
+      "word": "is",
+      "count": 50
+    },
+    {
+      "word": "this",
+      "count": 44
+    },
+    {
+      "word": "so",
+      "count": 35
+    },
+    {
+      "word": "stone",
+      "count": 35
+    },
+    {
+      "word": "ice",
+      "count": 31
+    },
+    {
+      "word": "curling",
+      "count": 30
+    },
+    {
+      "word": "in",
+      "count": 28
+    },
+    {
+      "word": "with",
+      "count": 24
+    },
+    {
+      "word": "it's",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 20
+    },
+    {
+      "word": "that's",
+      "count": 19
+    },
+    {
+      "word": "at",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the stone",
+      "count": 17
+    },
+    {
+      "phrase": "of the",
+      "count": 16
+    },
+    {
+      "phrase": "the ice",
+      "count": 14
+    },
+    {
+      "phrase": "this is",
+      "count": 12
+    },
+    {
+      "phrase": "at the",
+      "count": 10
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "with the",
+      "count": 10
+    },
+    {
+      "phrase": "to the",
+      "count": 9
+    },
+    {
+      "phrase": "curling is",
+      "count": 9
+    },
+    {
+      "phrase": "have to",
+      "count": 9
+    }
+  ],
+  "segment_count": 114
+}

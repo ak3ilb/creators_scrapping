@@ -1,0 +1,150 @@
+{
+  "video_id": "1Qcn1UPwMo4",
+  "duration_seconds": 105,
+  "wps": 4.05,
+  "total_words": 425,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1504
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जब भी आप किसी पार्टी या बड़े इवेंट में जाते हो तो आपने एक चीज तो जरूर नोटिस की होगी। वहां पर आने वाले जितने भी अमीर और नामी लोग हैं वो हमेशा कम समय के लिए आते"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "दोस्तों को, और जिन्होंने फॉलो नहीं किया वो फॉलो जरूर कर लेना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 13
+    },
+    {
+      "word": "हैं",
+      "count": 11
+    },
+    {
+      "word": "वो",
+      "count": 11
+    },
+    {
+      "word": "तो",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "या",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "ना",
+      "count": 7
+    },
+    {
+      "word": "किसी",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "लोग",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "टाइम",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "पार्टी",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "हैं वो",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "किसी को",
+      "count": 3
+    },
+    {
+      "phrase": "या ना",
+      "count": 3
+    },
+    {
+      "phrase": "जब भी",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "इसके पीछे",
+      "count": 2
+    },
+    {
+      "phrase": "आम लोग",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

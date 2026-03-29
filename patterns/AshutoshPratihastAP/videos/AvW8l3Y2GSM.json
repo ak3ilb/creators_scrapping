@@ -1,0 +1,149 @@
+{
+  "video_id": "AvW8l3Y2GSM",
+  "duration_seconds": 1151,
+  "wps": 2.91,
+  "total_words": 3350,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15485
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Every big company started out small. McDonald’s started with a single restaurant and today they have more than 36,000 outlets in more than 120 countries."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "We shall meet in India's biggest event, which is going to create history."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 149
+    },
+    {
+      "word": "and",
+      "count": 103
+    },
+    {
+      "word": "to",
+      "count": 101
+    },
+    {
+      "word": "of",
+      "count": 76
+    },
+    {
+      "word": "in",
+      "count": 65
+    },
+    {
+      "word": "amazon",
+      "count": 56
+    },
+    {
+      "word": "you",
+      "count": 48
+    },
+    {
+      "word": "it",
+      "count": 37
+    },
+    {
+      "word": "is",
+      "count": 36
+    },
+    {
+      "word": "that",
+      "count": 35
+    },
+    {
+      "word": "on",
+      "count": 35
+    },
+    {
+      "word": "this",
+      "count": 30
+    },
+    {
+      "word": "business",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 25
+    },
+    {
+      "word": "which",
+      "count": 23
+    },
+    {
+      "word": "was",
+      "count": 23
+    },
+    {
+      "word": "with",
+      "count": 22
+    },
+    {
+      "word": "market",
+      "count": 22
+    },
+    {
+      "word": "not",
+      "count": 22
+    },
+    {
+      "word": "company",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 19
+    },
+    {
+      "phrase": "the company",
+      "count": 10
+    },
+    {
+      "phrase": "on the",
+      "count": 10
+    },
+    {
+      "phrase": "a lot",
+      "count": 8
+    },
+    {
+      "phrase": "the market",
+      "count": 8
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "to the",
+      "count": 8
+    },
+    {
+      "phrase": "more than",
+      "count": 7
+    },
+    {
+      "phrase": "want to",
+      "count": 7
+    }
+  ],
+  "segment_count": 137
+}

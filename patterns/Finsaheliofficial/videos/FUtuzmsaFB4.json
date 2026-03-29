@@ -1,0 +1,148 @@
+{
+  "video_id": "FUtuzmsaFB4",
+  "duration_seconds": 92,
+  "wps": 4.13,
+  "total_words": 380,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1330
+  },
+  "hook": {
+    "type": "question",
+    "text": "इंडिया और यूरोपियन यूनियन की इस मदर डील के बाद अब ट्रम्प बाबा के पास रोने के अलावा कुछ नहीं बचा। और ट्रम्प बाबा की अब ये गलतफहमी भी दूर हो गई है कि अगर मैं"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "और बीियर पीने वाले लोग कितने खुश हैं वो भी मुझे कमेंट में बताना|"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "भी",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "इस",
+      "count": 8
+    },
+    {
+      "word": "अब",
+      "count": 8
+    },
+    {
+      "word": "हो",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "डील",
+      "count": 6
+    },
+    {
+      "word": "लोगों",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "वाले",
+      "count": 5
+    },
+    {
+      "word": "टेरिफ",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "बड़ी",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस बड़ी",
+      "count": 4
+    },
+    {
+      "phrase": "बड़ी डील",
+      "count": 4
+    },
+    {
+      "phrase": "की इस",
+      "count": 3
+    },
+    {
+      "phrase": "डील के",
+      "count": 3
+    },
+    {
+      "phrase": "के बाद",
+      "count": 3
+    },
+    {
+      "phrase": "पीने वाले",
+      "count": 3
+    },
+    {
+      "phrase": "लोगों के",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "हो जाएगी",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया और",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

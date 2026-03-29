@@ -1,0 +1,150 @@
+{
+  "video_id": "jfchC5Xu0aw",
+  "duration_seconds": 772,
+  "wps": 3.74,
+  "total_words": 2890,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 10910
+  },
+  "hook": {
+    "type": "statement",
+    "text": "उत्तर प्रदेश के एक छोटे से टाउन सिंभौली से आने वाले मनीष अग्रवाल यूपी रोडवेज में कंडक्टर थे। बचपन से ही वो अमिताभ बच्चन की मिमिक्री किया करते थे। उनकी मिमिक्री"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 79
+    },
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "है",
+      "count": 60
+    },
+    {
+      "word": "के",
+      "count": 57
+    },
+    {
+      "word": "एक",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "थे",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 36
+    },
+    {
+      "word": "था",
+      "count": 35
+    },
+    {
+      "word": "तो",
+      "count": 34
+    },
+    {
+      "word": "थी",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "हो",
+      "count": 30
+    },
+    {
+      "word": "कर",
+      "count": 27
+    },
+    {
+      "word": "ही",
+      "count": 25
+    },
+    {
+      "word": "हैं",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 8
+    },
+    {
+      "phrase": "परी तोमर",
+      "count": 8
+    },
+    {
+      "phrase": "में काम",
+      "count": 8
+    },
+    {
+      "phrase": "इन फिल्म्स",
+      "count": 8
+    },
+    {
+      "phrase": "फिल्म्स में",
+      "count": 8
+    },
+    {
+      "phrase": "थी और",
+      "count": 8
+    },
+    {
+      "phrase": "राज कुंद्रा",
+      "count": 8
+    },
+    {
+      "phrase": "होती है",
+      "count": 7
+    },
+    {
+      "phrase": "हो गया",
+      "count": 7
+    }
+  ],
+  "segment_count": 98
+}

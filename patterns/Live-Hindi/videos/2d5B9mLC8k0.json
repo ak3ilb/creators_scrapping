@@ -1,0 +1,148 @@
+{
+  "video_id": "2d5B9mLC8k0",
+  "duration_seconds": 1031,
+  "wps": 1.98,
+  "total_words": 2043,
+  "language_mix": {
+    "hindi": 98.1,
+    "english": 1.9,
+    "total_chars": 7987
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "jio1 कंपनीज ने घुटने टेक दिए थे वहां अकेला airtelhellotunes.in"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "को लीड कर रहा है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 61
+    },
+    {
+      "word": "और",
+      "count": 52
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "की",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "के",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 36
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "भी",
+      "count": 31
+    },
+    {
+      "word": "सुनील",
+      "count": 31
+    },
+    {
+      "word": "मित्तल",
+      "count": 28
+    },
+    {
+      "word": "ही",
+      "count": 28
+    },
+    {
+      "word": "था",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 27
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "उन्होंने",
+      "count": 18
+    },
+    {
+      "word": "लेकिन",
+      "count": 17
+    },
+    {
+      "word": "इस",
+      "count": 17
+    },
+    {
+      "word": "पर",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सुनील मित्तल",
+      "count": 27
+    },
+    {
+      "phrase": "मित्तल ने",
+      "count": 11
+    },
+    {
+      "phrase": "वजह से",
+      "count": 9
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 8
+    },
+    {
+      "phrase": "की वजह",
+      "count": 8
+    },
+    {
+      "phrase": "जो कि",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 7
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "था कि",
+      "count": 6
+    }
+  ],
+  "segment_count": 99
+}

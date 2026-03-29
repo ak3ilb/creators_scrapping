@@ -1,0 +1,149 @@
+{
+  "video_id": "yJF9-lu7oZU",
+  "duration_seconds": 1134,
+  "wps": 3.36,
+  "total_words": 3812,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 14811
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "स्विगी philpotts-page"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के पीछे का साइन समझना चाहते हो तो राइट वाली वीडियो जरूर देखना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 102
+    },
+    {
+      "word": "के",
+      "count": 89
+    },
+    {
+      "word": "और",
+      "count": 85
+    },
+    {
+      "word": "में",
+      "count": 73
+    },
+    {
+      "word": "से",
+      "count": 60
+    },
+    {
+      "word": "भी",
+      "count": 59
+    },
+    {
+      "word": "कि",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 54
+    },
+    {
+      "word": "हैं",
+      "count": 49
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "ही",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "जोहो",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 32
+    },
+    {
+      "word": "एंड",
+      "count": 31
+    },
+    {
+      "word": "इज",
+      "count": 29
+    },
+    {
+      "word": "करने",
+      "count": 27
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "कंपनी",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "करने के",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 12
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "भी नहीं",
+      "count": 8
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 8
+    },
+    {
+      "phrase": "के बाद",
+      "count": 8
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 7
+    },
+    {
+      "phrase": "किया कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 134
+}

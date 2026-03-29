@@ -1,0 +1,149 @@
+{
+  "video_id": "qbE0fzZ2Nfo",
+  "duration_seconds": 1910,
+  "wps": 3.23,
+  "total_words": 6177,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 26921
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "He sits behind the hospital's boundary and starts drinking alcohol. There's a red-light area named Sonagachi, where they plan to go."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "They should do something so that these things shouldn't be repeated."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 376
+    },
+    {
+      "word": "and",
+      "count": 196
+    },
+    {
+      "word": "to",
+      "count": 143
+    },
+    {
+      "word": "in",
+      "count": 141
+    },
+    {
+      "word": "was",
+      "count": 140
+    },
+    {
+      "word": "he",
+      "count": 120
+    },
+    {
+      "word": "that",
+      "count": 116
+    },
+    {
+      "word": "of",
+      "count": 106
+    },
+    {
+      "word": "this",
+      "count": 90
+    },
+    {
+      "word": "it",
+      "count": 80
+    },
+    {
+      "word": "so",
+      "count": 63
+    },
+    {
+      "word": "is",
+      "count": 53
+    },
+    {
+      "word": "at",
+      "count": 52
+    },
+    {
+      "word": "from",
+      "count": 48
+    },
+    {
+      "word": "college",
+      "count": 46
+    },
+    {
+      "word": "his",
+      "count": 45
+    },
+    {
+      "word": "then",
+      "count": 45
+    },
+    {
+      "word": "for",
+      "count": 44
+    },
+    {
+      "word": "had",
+      "count": 42
+    },
+    {
+      "word": "with",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 50
+    },
+    {
+      "phrase": "to the",
+      "count": 28
+    },
+    {
+      "phrase": "seminar hall",
+      "count": 26
+    },
+    {
+      "phrase": "the seminar",
+      "count": 24
+    },
+    {
+      "phrase": "of the",
+      "count": 23
+    },
+    {
+      "phrase": "and the",
+      "count": 22
+    },
+    {
+      "phrase": "sanjay roy",
+      "count": 22
+    },
+    {
+      "phrase": "rg kar",
+      "count": 22
+    },
+    {
+      "phrase": "he was",
+      "count": 20
+    },
+    {
+      "phrase": "the same",
+      "count": 18
+    }
+  ],
+  "segment_count": 226
+}

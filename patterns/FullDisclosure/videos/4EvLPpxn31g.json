@@ -1,0 +1,148 @@
+{
+  "video_id": "4EvLPpxn31g",
+  "duration_seconds": 65,
+  "wps": 2.71,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 823
+  },
+  "hook": {
+    "type": "question",
+    "text": "UPSC just changed the rules for civil services. Subscribe full disclosure and I'll quickly break down what actually changed in this notification. 2026"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "necessary to stop candidates from endlessly reattempting while blocking new aspirants? What are your thoughts on this? Comment below."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "for",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "cse",
+      "count": 5
+    },
+    {
+      "word": "from",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "2026",
+      "count": 4
+    },
+    {
+      "word": "ips",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "or",
+      "count": 3
+    },
+    {
+      "word": "again",
+      "count": 3
+    },
+    {
+      "word": "service",
+      "count": 3
+    },
+    {
+      "word": "changed",
+      "count": 2
+    },
+    {
+      "word": "rules",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "notification",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "cse 2026",
+      "count": 3
+    },
+    {
+      "phrase": "the exam",
+      "count": 2
+    },
+    {
+      "phrase": "in cse",
+      "count": 2
+    },
+    {
+      "phrase": "but from",
+      "count": 2
+    },
+    {
+      "phrase": "from cse",
+      "count": 2
+    },
+    {
+      "phrase": "group a",
+      "count": 2
+    },
+    {
+      "phrase": "a service",
+      "count": 2
+    },
+    {
+      "phrase": "upsc just",
+      "count": 1
+    },
+    {
+      "phrase": "just changed",
+      "count": 1
+    },
+    {
+      "phrase": "changed the",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

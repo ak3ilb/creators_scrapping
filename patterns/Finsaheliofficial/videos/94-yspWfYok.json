@@ -1,0 +1,148 @@
+{
+  "video_id": "94-yspWfYok",
+  "duration_seconds": 51,
+  "wps": 3.94,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 745
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप 18 इयर्स के हो चुके हो या फिर होने वाले हो तो ये पांच चीजें तो जरूर कर लेना वरना तो बाद में प्रॉब्लम होगी। तो"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियो को सेव कर लो और अपने सारे दोस्तों के साथ जरूर शेयर करना। एंड हां मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "हो",
+      "count": 11
+    },
+    {
+      "word": "आप",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 10
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "सकते",
+      "count": 6
+    },
+    {
+      "word": "अपना",
+      "count": 5
+    },
+    {
+      "word": "लो",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "बनवा",
+      "count": 4
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "कार्ड",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "क्योंकि",
+      "count": 3
+    },
+    {
+      "word": "अब",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "पासपोर्ट",
+      "count": 3
+    },
+    {
+      "word": "जरूर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकते हो",
+      "count": 6
+    },
+    {
+      "phrase": "हो तो",
+      "count": 4
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 4
+    },
+    {
+      "phrase": "बनवा लो",
+      "count": 3
+    },
+    {
+      "phrase": "इस वेबसाइट",
+      "count": 3
+    },
+    {
+      "phrase": "पैन कार्ड",
+      "count": 2
+    },
+    {
+      "phrase": "कार्ड बनवा",
+      "count": 2
+    },
+    {
+      "phrase": "लिए आप",
+      "count": 2
+    },
+    {
+      "phrase": "अब आप",
+      "count": 2
+    },
+    {
+      "phrase": "आप अपना",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

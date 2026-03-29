@@ -1,0 +1,148 @@
+{
+  "video_id": "VDrTJazJwiU",
+  "duration_seconds": 1021,
+  "wps": 2.9,
+  "total_words": 2962,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 11574
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "वीडियोक वो कंपनी जिसने इंडिया को पहली बार कलर टीवी दिखाया जिसने मिडिल क्लास लोगों को यह सिखाया कि इलेक्ट्रॉनिक्स कोई"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "जाती है। वैसे क्या आपके घर में अभी भी वीडियोक का कोई प्रोडक्ट है? हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 92
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "के",
+      "count": 86
+    },
+    {
+      "word": "से",
+      "count": 59
+    },
+    {
+      "word": "भी",
+      "count": 52
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "ने",
+      "count": 48
+    },
+    {
+      "word": "को",
+      "count": 47
+    },
+    {
+      "word": "था",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "वीडियो",
+      "count": 36
+    },
+    {
+      "word": "कंपनी",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 32
+    },
+    {
+      "word": "कि",
+      "count": 31
+    },
+    {
+      "word": "लेकिन",
+      "count": 27
+    },
+    {
+      "word": "थी",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "कर",
+      "count": 24
+    },
+    {
+      "word": "वीडियोक",
+      "count": 22
+    },
+    {
+      "word": "टीवी",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "के बाद",
+      "count": 14
+    },
+    {
+      "phrase": "कलर टीवी",
+      "count": 9
+    },
+    {
+      "phrase": "बाद से",
+      "count": 9
+    },
+    {
+      "phrase": "उस टाइम",
+      "count": 8
+    },
+    {
+      "phrase": "और फिर",
+      "count": 8
+    },
+    {
+      "phrase": "में भी",
+      "count": 8
+    },
+    {
+      "phrase": "वजह से",
+      "count": 8
+    },
+    {
+      "phrase": "वीडियो ने",
+      "count": 8
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 7
+    }
+  ],
+  "segment_count": 128
+}

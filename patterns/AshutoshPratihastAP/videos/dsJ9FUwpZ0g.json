@@ -1,0 +1,149 @@
+{
+  "video_id": "dsJ9FUwpZ0g",
+  "duration_seconds": 859,
+  "wps": 1.7,
+  "total_words": 1464,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 5105
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कि आदि जिसे इसमें लोग नाइट आउट प्लान करते हैं आपने उसे इसमें एक स्टार्टअप प्लान"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जानना है कि आखिर हुआ क्या हमको"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 60
+    },
+    {
+      "word": "तो",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 24
+    },
+    {
+      "word": "नहीं",
+      "count": 22
+    },
+    {
+      "word": "कर",
+      "count": 21
+    },
+    {
+      "word": "और",
+      "count": 18
+    },
+    {
+      "word": "मैं",
+      "count": 18
+    },
+    {
+      "word": "के",
+      "count": 17
+    },
+    {
+      "word": "आप",
+      "count": 16
+    },
+    {
+      "word": "वह",
+      "count": 16
+    },
+    {
+      "word": "हो",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "हैं",
+      "count": 14
+    },
+    {
+      "word": "मुझे",
+      "count": 14
+    },
+    {
+      "word": "पर",
+      "count": 14
+    },
+    {
+      "word": "क्या",
+      "count": 14
+    },
+    {
+      "word": "जो",
+      "count": 13
+    },
+    {
+      "word": "से",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 10
+    },
+    {
+      "phrase": "हुआ है",
+      "count": 7
+    },
+    {
+      "phrase": "हो जाएगा",
+      "count": 7
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 5
+    },
+    {
+      "phrase": "कर दो",
+      "count": 5
+    },
+    {
+      "phrase": "है तो",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "हेलो हेलो",
+      "count": 4
+    }
+  ],
+  "segment_count": 97
+}

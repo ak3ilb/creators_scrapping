@@ -1,0 +1,150 @@
+{
+  "video_id": "p6EcziWqXJU",
+  "duration_seconds": 8256,
+  "wps": 3.2,
+  "total_words": 26383,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 93329
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इवनिंग सबको गुड इवनिंग। बहुत सारे लोग हमारे साथ कनेक्ट हो चुके हैं। सबसे पहले मैं ये जानना चाहता हूं कि कितने लोग हमारे बीच में पहली बार इस तरह के किसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लव यू।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 1302
+    },
+    {
+      "word": "तो",
+      "count": 532
+    },
+    {
+      "word": "के",
+      "count": 429
+    },
+    {
+      "word": "कि",
+      "count": 415
+    },
+    {
+      "word": "नहीं",
+      "count": 413
+    },
+    {
+      "word": "हैं",
+      "count": 362
+    },
+    {
+      "word": "हो",
+      "count": 355
+    },
+    {
+      "word": "और",
+      "count": 348
+    },
+    {
+      "word": "से",
+      "count": 345
+    },
+    {
+      "word": "भी",
+      "count": 311
+    },
+    {
+      "word": "ना",
+      "count": 300
+    },
+    {
+      "word": "को",
+      "count": 289
+    },
+    {
+      "word": "में",
+      "count": 280
+    },
+    {
+      "word": "आप",
+      "count": 244
+    },
+    {
+      "word": "वो",
+      "count": 238
+    },
+    {
+      "word": "कर",
+      "count": 228
+    },
+    {
+      "word": "मैं",
+      "count": 227
+    },
+    {
+      "word": "एक",
+      "count": 216
+    },
+    {
+      "word": "क्या",
+      "count": 200
+    },
+    {
+      "word": "रहा",
+      "count": 198
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 120
+    },
+    {
+      "phrase": "है कि",
+      "count": 103
+    },
+    {
+      "phrase": "है तो",
+      "count": 87
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 82
+    },
+    {
+      "phrase": "रहा है",
+      "count": 81
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 79
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 76
+    },
+    {
+      "phrase": "होता है",
+      "count": 68
+    },
+    {
+      "phrase": "है ना",
+      "count": 68
+    },
+    {
+      "phrase": "है और",
+      "count": 61
+    }
+  ],
+  "segment_count": 1031
+}

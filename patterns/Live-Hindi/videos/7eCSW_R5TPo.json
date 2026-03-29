@@ -1,0 +1,148 @@
+{
+  "video_id": "7eCSW_R5TPo",
+  "duration_seconds": 848,
+  "wps": 3.48,
+  "total_words": 2950,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10797
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एसएस राजामौली एक ऐसा नाम जिनके साथ हॉलीवुड के फेमस डायरेक्टर से लेकर बॉलीवुड के सबसे बड़े एक्टर्स भी काम करने"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "सुपरहिट क्यों हो जाती हैं आप अपना ओपिनियन हमें कमेंट करके जरूर बताइएगा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 90
+    },
+    {
+      "word": "को",
+      "count": 69
+    },
+    {
+      "word": "में",
+      "count": 69
+    },
+    {
+      "word": "की",
+      "count": 58
+    },
+    {
+      "word": "कि",
+      "count": 56
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "ही",
+      "count": 53
+    },
+    {
+      "word": "फिल्म",
+      "count": 52
+    },
+    {
+      "word": "था",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 45
+    },
+    {
+      "word": "राजा",
+      "count": 40
+    },
+    {
+      "word": "मौली",
+      "count": 37
+    },
+    {
+      "word": "है",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 32
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "थी",
+      "count": 29
+    },
+    {
+      "word": "पर",
+      "count": 26
+    },
+    {
+      "word": "थे",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "राजा मौली",
+      "count": 37
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "था कि",
+      "count": 11
+    },
+    {
+      "phrase": "के बाद",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "मौली के",
+      "count": 8
+    },
+    {
+      "phrase": "बाद से",
+      "count": 8
+    },
+    {
+      "phrase": "मौली को",
+      "count": 8
+    },
+    {
+      "phrase": "मौली ने",
+      "count": 8
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 8
+    }
+  ],
+  "segment_count": 111
+}

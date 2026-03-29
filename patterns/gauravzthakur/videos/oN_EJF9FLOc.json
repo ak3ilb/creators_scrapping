@@ -1,0 +1,148 @@
+{
+  "video_id": "oN_EJF9FLOc",
+  "duration_seconds": 59,
+  "wps": 3.88,
+  "total_words": 229,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 810
+  },
+  "hook": {
+    "type": "question",
+    "text": "मरमेड या जलपरी है। क्या इसके पीछे कोई प्रूफ कभी देखा गया है? मरमेड इज़ लाइक एन हाइब्रिड ऑफ़ ह्यूमन एंड अ फिश। राइट? तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक्चुअल पाला पड़ा ही होता एक इंसान के साथ।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "हैं",
+      "count": 8
+    },
+    {
+      "word": "ह्यूमन",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "कभी",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "लाइक",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "ब्रेन",
+      "count": 4
+    },
+    {
+      "word": "उसमें",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ह्यूमन लाइक",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    },
+    {
+      "phrase": "उसमें ह्यूमन",
+      "count": 2
+    },
+    {
+      "phrase": "ह्यूमन लेवल",
+      "count": 2
+    },
+    {
+      "phrase": "ये है",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "है वो",
+      "count": 2
+    },
+    {
+      "phrase": "जो फीचर्स",
+      "count": 2
+    },
+    {
+      "phrase": "फीचर्स हैं",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

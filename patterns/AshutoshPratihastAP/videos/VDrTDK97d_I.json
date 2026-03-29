@@ -1,0 +1,149 @@
+{
+  "video_id": "VDrTDK97d_I",
+  "duration_seconds": 438,
+  "wps": 4.12,
+  "total_words": 1806,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 6419
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अभी कुछ ही समय पहले की बात है एक जबरदस्त इवेंट हम प्लान कर रहे द जिसका नाम है दी लीडरशिप कनक्लूज अब उसे कॉन्क्लेव को हमने दिमाग में सोच रखा था की इस कॉन्क्लेव को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इस तरह की कोई भी वीडियो अगर अपलोड होती है सबसे पहले आपके पास नोटिफिकेशन पहुंच जाए मैं मिलता हूं आपको अगली वीडियो के अंदर तेल डी टाइम प्ले बैक बड़ा खेलते हैं"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 84
+    },
+    {
+      "word": "की",
+      "count": 66
+    },
+    {
+      "word": "के",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "को",
+      "count": 30
+    },
+    {
+      "word": "आप",
+      "count": 25
+    },
+    {
+      "word": "बात",
+      "count": 24
+    },
+    {
+      "word": "अंदर",
+      "count": 23
+    },
+    {
+      "word": "आपको",
+      "count": 22
+    },
+    {
+      "word": "और",
+      "count": 21
+    },
+    {
+      "word": "बहुत",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 19
+    },
+    {
+      "word": "में",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "वो",
+      "count": 19
+    },
+    {
+      "word": "नहीं",
+      "count": 19
+    },
+    {
+      "word": "कर",
+      "count": 16
+    },
+    {
+      "word": "से",
+      "count": 16
+    },
+    {
+      "word": "था",
+      "count": 15
+    },
+    {
+      "word": "ये",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 22
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "है की",
+      "count": 12
+    },
+    {
+      "phrase": "सामने वाला",
+      "count": 10
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 8
+    },
+    {
+      "phrase": "होटल के",
+      "count": 7
+    },
+    {
+      "phrase": "मेरे को",
+      "count": 7
+    },
+    {
+      "phrase": "की बात",
+      "count": 6
+    },
+    {
+      "phrase": "होती है",
+      "count": 6
+    },
+    {
+      "phrase": "उसके बाद",
+      "count": 5
+    }
+  ],
+  "segment_count": 54
+}

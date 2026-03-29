@@ -1,0 +1,148 @@
+{
+  "video_id": "wjzgLkorwgA",
+  "duration_seconds": 81,
+  "wps": 3.62,
+  "total_words": 293,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1116
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप किराए के घर में रहते हो या एक मकान मालिक हो तो ये रील एंड तक जरूर देखना क्योंकि गवर्नमेंट ने रेंट एग्रीमेंट में कुछ चेंजेस पास किए हैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 9
+    },
+    {
+      "word": "अब",
+      "count": 8
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "रेंट",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "पे",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "एग्रीमेंट",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "महीने",
+      "count": 4
+    },
+    {
+      "word": "कोई",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "घर",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गवर्नमेंट ने",
+      "count": 6
+    },
+    {
+      "phrase": "रेंट एग्रीमेंट",
+      "count": 4
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 4
+    },
+    {
+      "phrase": "दी है",
+      "count": 3
+    },
+    {
+      "phrase": "सिक्योरिटी डिपॉजिट",
+      "count": 3
+    },
+    {
+      "phrase": "मकान मालिक",
+      "count": 2
+    },
+    {
+      "phrase": "ने रेंट",
+      "count": 2
+    },
+    {
+      "phrase": "किए हैं",
+      "count": 2
+    },
+    {
+      "phrase": "दिया है",
+      "count": 2
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

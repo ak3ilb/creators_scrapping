@@ -1,0 +1,149 @@
+{
+  "video_id": "Gd9qUYxOTdw",
+  "duration_seconds": 3574,
+  "wps": 3.02,
+  "total_words": 10797,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 48145
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Britishers knowingly created The Congress Party so that the situation would run according to them. There was a soldier named ....Pandey. He had eaten too much Bhang."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "So it is decided in this session that there will be complete boycott of the Simon commission."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 413
+    },
+    {
+      "word": "and",
+      "count": 279
+    },
+    {
+      "word": "in",
+      "count": 262
+    },
+    {
+      "word": "to",
+      "count": 255
+    },
+    {
+      "word": "that",
+      "count": 234
+    },
+    {
+      "word": "of",
+      "count": 229
+    },
+    {
+      "word": "this",
+      "count": 185
+    },
+    {
+      "word": "was",
+      "count": 177
+    },
+    {
+      "word": "so",
+      "count": 147
+    },
+    {
+      "word": "they",
+      "count": 147
+    },
+    {
+      "word": "britishers",
+      "count": 124
+    },
+    {
+      "word": "were",
+      "count": 120
+    },
+    {
+      "word": "it",
+      "count": 107
+    },
+    {
+      "word": "is",
+      "count": 98
+    },
+    {
+      "word": "then",
+      "count": 83
+    },
+    {
+      "word": "on",
+      "count": 83
+    },
+    {
+      "word": "but",
+      "count": 81
+    },
+    {
+      "word": "all",
+      "count": 80
+    },
+    {
+      "word": "now",
+      "count": 79
+    },
+    {
+      "word": "be",
+      "count": 78
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 41
+    },
+    {
+      "phrase": "all the",
+      "count": 26
+    },
+    {
+      "phrase": "will be",
+      "count": 25
+    },
+    {
+      "phrase": "and the",
+      "count": 24
+    },
+    {
+      "phrase": "there was",
+      "count": 21
+    },
+    {
+      "phrase": "east india",
+      "count": 21
+    },
+    {
+      "phrase": "after this",
+      "count": 21
+    },
+    {
+      "phrase": "these things",
+      "count": 21
+    },
+    {
+      "phrase": "due to",
+      "count": 20
+    },
+    {
+      "phrase": "used to",
+      "count": 20
+    }
+  ],
+  "segment_count": 484
+}

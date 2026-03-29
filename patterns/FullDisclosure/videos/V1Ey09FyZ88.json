@@ -1,0 +1,148 @@
+{
+  "video_id": "V1Ey09FyZ88",
+  "duration_seconds": 76,
+  "wps": 2.68,
+  "total_words": 204,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 929
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This 30-year-old trend is reversing and IITs are reversing the brain drain. For decades, IIT graduates saw the US as the"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "do you think? Can India attract this talent and capitalize on a rare moment? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "is",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "in",
+      "count": 7
+    },
+    {
+      "word": "this",
+      "count": 6
+    },
+    {
+      "word": "india",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "tech",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 3
+    },
+    {
+      "word": "reversing",
+      "count": 2
+    },
+    {
+      "word": "iit",
+      "count": 2
+    },
+    {
+      "word": "us",
+      "count": 2
+    },
+    {
+      "word": "get",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "job",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    },
+    {
+      "word": "h1b",
+      "count": 2
+    },
+    {
+      "word": "visa",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the us",
+      "count": 2
+    },
+    {
+      "phrase": "h1b visa",
+      "count": 2
+    },
+    {
+      "phrase": "india in",
+      "count": 2
+    },
+    {
+      "phrase": "tech centers",
+      "count": 2
+    },
+    {
+      "phrase": "centers in",
+      "count": 2
+    },
+    {
+      "phrase": "in india",
+      "count": 2
+    },
+    {
+      "phrase": "is more",
+      "count": 2
+    },
+    {
+      "phrase": "this talent",
+      "count": 2
+    },
+    {
+      "phrase": "this 30-year-old",
+      "count": 1
+    },
+    {
+      "phrase": "30-year-old trend",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

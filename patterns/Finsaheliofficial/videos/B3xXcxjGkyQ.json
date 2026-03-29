@@ -1,0 +1,148 @@
+{
+  "video_id": "B3xXcxjGkyQ",
+  "duration_seconds": 85,
+  "wps": 3.68,
+  "total_words": 313,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1109
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एसआईपी इन्वेस्ट करने से पहले ये वीडियो जरूर देख लेना। इससे आप अपने लाखों रुपए बचा सकते हो। तो आपने यहां पे तीन चीजों का ध्यान रखना है। जब भी आप एसआईपी करते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "तो",
+      "count": 12
+    },
+    {
+      "word": "फंड",
+      "count": 12
+    },
+    {
+      "word": "हो",
+      "count": 11
+    },
+    {
+      "word": "का",
+      "count": 8
+    },
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "एक्सपेंस",
+      "count": 4
+    },
+    {
+      "word": "रेश्यो",
+      "count": 4
+    },
+    {
+      "word": "बेटर",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हो तो",
+      "count": 6
+    },
+    {
+      "phrase": "फंड में",
+      "count": 4
+    },
+    {
+      "phrase": "एक्सपेंस रेश्यो",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "फंड बेटर",
+      "count": 3
+    },
+    {
+      "phrase": "इन्वेस्ट करने",
+      "count": 2
+    },
+    {
+      "phrase": "आप अपने",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "करते हो",
+      "count": 2
+    },
+    {
+      "phrase": "डायरेक्ट वर्ड",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

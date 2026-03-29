@@ -1,0 +1,148 @@
+{
+  "video_id": "Vj1PYHjh6VA",
+  "duration_seconds": 91,
+  "wps": 3.01,
+  "total_words": 274,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1112
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इस एरिया पर जरा नजर डालना। इसका साइज दो पाकिस्तान के जितना विशाल है, मगर यह कोई जमीन नहीं बल्कि कचरे का एक ढेर है। यस।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडिया में कोई रेगुलेशंस ही नहीं है ना। हवा पानी खाने किसी में भी"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "मछलियों",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "प्लास्टिक्स",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "मात्रा",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "माइक्रोप्लास्टिक्स",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दो पाकिस्तान",
+      "count": 2
+    },
+    {
+      "phrase": "जितना विशाल",
+      "count": 2
+    },
+    {
+      "phrase": "कचरे का",
+      "count": 2
+    },
+    {
+      "phrase": "का एक",
+      "count": 2
+    },
+    {
+      "phrase": "एक ढेर",
+      "count": 2
+    },
+    {
+      "phrase": "तो यह",
+      "count": 2
+    },
+    {
+      "phrase": "से भी",
+      "count": 2
+    },
+    {
+      "phrase": "में प्लास्टिक्स",
+      "count": 2
+    },
+    {
+      "phrase": "की मात्रा",
+      "count": 2
+    },
+    {
+      "phrase": "माइक्रोप्लास्टिक्स पाए",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

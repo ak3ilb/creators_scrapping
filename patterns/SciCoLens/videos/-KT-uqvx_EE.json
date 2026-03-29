@@ -1,0 +1,149 @@
+{
+  "video_id": "-KT-uqvx_EE",
+  "duration_seconds": 964,
+  "wps": 2.88,
+  "total_words": 2772,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 11049
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कैसे इंडिया के जासूस दूसरे देशों के लिए बिक जाते हैं और इंडिया के सारे खुफिया राज उगल देते हैं। अभी 2021 में ही"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लर्निंग समथिंग न्यू एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 104
+    },
+    {
+      "word": "में",
+      "count": 88
+    },
+    {
+      "word": "और",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 52
+    },
+    {
+      "word": "एक",
+      "count": 50
+    },
+    {
+      "word": "इंडिया",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "है",
+      "count": 41
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "ही",
+      "count": 35
+    },
+    {
+      "word": "थे",
+      "count": 34
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "ने",
+      "count": 27
+    },
+    {
+      "word": "वो",
+      "count": 27
+    },
+    {
+      "word": "लिए",
+      "count": 25
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "थी",
+      "count": 23
+    },
+    {
+      "word": "कर",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 16
+    },
+    {
+      "phrase": "इंदिरा गांधी",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "ऑफिसर्स को",
+      "count": 9
+    },
+    {
+      "phrase": "में एक",
+      "count": 9
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 8
+    },
+    {
+      "phrase": "केजीबी के",
+      "count": 8
+    },
+    {
+      "phrase": "थे और",
+      "count": 7
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 7
+    }
+  ],
+  "segment_count": 120
+}

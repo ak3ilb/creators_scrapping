@@ -1,0 +1,149 @@
+{
+  "video_id": "4OzdH3Ikmf0",
+  "duration_seconds": 53,
+  "wps": 2.85,
+  "total_words": 151,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 668
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "2026 is officially the year of the creator, and you can win $1 million just by writing an article. Elon Musk's X,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "It's becoming leverage. The only question is, are you ready to use it? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "creator",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "2026",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "$1",
+      "count": 2
+    },
+    {
+      "word": "million",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "article",
+      "count": 2
+    },
+    {
+      "word": "twitter",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "long-",
+      "count": 2
+    },
+    {
+      "word": "form",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "isn't",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the creator",
+      "count": 2
+    },
+    {
+      "phrase": "you can",
+      "count": 2
+    },
+    {
+      "phrase": "$1 million",
+      "count": 2
+    },
+    {
+      "phrase": "long- form",
+      "count": 2
+    },
+    {
+      "phrase": "2026 is",
+      "count": 1
+    },
+    {
+      "phrase": "is officially",
+      "count": 1
+    },
+    {
+      "phrase": "officially the",
+      "count": 1
+    },
+    {
+      "phrase": "the year",
+      "count": 1
+    },
+    {
+      "phrase": "year of",
+      "count": 1
+    },
+    {
+      "phrase": "of the",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "d_bvh0Op8sY",
+  "duration_seconds": 79,
+  "wps": 2.65,
+  "total_words": 209,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 991
+  },
+  "hook": {
+    "type": "question",
+    "text": "Still confused about what to do after 12th or during graduation? Subscribe full disclosure and I'll be sharing three international certifications that can help you earn in lack. First, ACCA."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "CFAs, and CPAs. For free career counseling, website link is in the pinned comment."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "in",
+      "count": 9
+    },
+    {
+      "word": "to",
+      "count": 8
+    },
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "can",
+      "count": 4
+    },
+    {
+      "word": "after",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "accounting",
+      "count": 3
+    },
+    {
+      "word": "start",
+      "count": 3
+    },
+    {
+      "word": "companies",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "salaries",
+      "count": 3
+    },
+    {
+      "word": "up",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "12th",
+      "count": 2
+    },
+    {
+      "word": "graduation",
+      "count": 2
+    },
+    {
+      "word": "be",
+      "count": 2
+    },
+    {
+      "word": "recognized",
+      "count": 2
+    },
+    {
+      "word": "plus",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in companies",
+      "count": 3
+    },
+    {
+      "phrase": "companies like",
+      "count": 3
+    },
+    {
+      "phrase": "with salaries",
+      "count": 3
+    },
+    {
+      "phrase": "up to",
+      "count": 3
+    },
+    {
+      "phrase": "after 12th",
+      "count": 2
+    },
+    {
+      "phrase": "you can",
+      "count": 2
+    },
+    {
+      "phrase": "can start",
+      "count": 2
+    },
+    {
+      "phrase": "start after",
+      "count": 2
+    },
+    {
+      "phrase": "and it",
+      "count": 2
+    },
+    {
+      "phrase": "work in",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

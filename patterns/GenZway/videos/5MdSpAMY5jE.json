@@ -1,0 +1,150 @@
+{
+  "video_id": "5MdSpAMY5jE",
+  "duration_seconds": 1095,
+  "wps": 4.27,
+  "total_words": 4678,
+  "language_mix": {
+    "hindi": 97.5,
+    "english": 2.5,
+    "total_chars": 16670
+  },
+  "hook": {
+    "type": "statement",
+    "text": "रतन टाटा सर को गए अभी सिर्फ एक ही साल हुआ और उनकी कंपनी के अंदर कुछ भी पहले जैसा नहीं रहा है। एंड टाटा वन ऑफ़ इंडिया बिगेस्ट इंटरनेशनल"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "मेन कंपनी को चेक आउट करना बिल्कुल मत भूलना लिंक तुम्हें डिस्क्रिप्शन में मिल जाएगा बाय-ब बाद"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 223
+    },
+    {
+      "word": "के",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 122
+    },
+    {
+      "word": "कि",
+      "count": 73
+    },
+    {
+      "word": "को",
+      "count": 71
+    },
+    {
+      "word": "हैं",
+      "count": 66
+    },
+    {
+      "word": "अंदर",
+      "count": 63
+    },
+    {
+      "word": "तो",
+      "count": 63
+    },
+    {
+      "word": "tata",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 62
+    },
+    {
+      "word": "नहीं",
+      "count": 61
+    },
+    {
+      "word": "भी",
+      "count": 58
+    },
+    {
+      "word": "कर",
+      "count": 57
+    },
+    {
+      "word": "लोग",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 43
+    },
+    {
+      "word": "टाटा",
+      "count": 42
+    },
+    {
+      "word": "की",
+      "count": 41
+    },
+    {
+      "word": "में",
+      "count": 40
+    },
+    {
+      "word": "वो",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 39
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 56
+    },
+    {
+      "phrase": "है और",
+      "count": 34
+    },
+    {
+      "phrase": "है कि",
+      "count": 31
+    },
+    {
+      "phrase": "रहा है",
+      "count": 26
+    },
+    {
+      "phrase": "टाटा सर",
+      "count": 21
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 21
+    },
+    {
+      "phrase": "रही है",
+      "count": 20
+    },
+    {
+      "phrase": "रतन टाटा",
+      "count": 19
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "ट्रस्ट के",
+      "count": 17
+    }
+  ],
+  "segment_count": 139
+}

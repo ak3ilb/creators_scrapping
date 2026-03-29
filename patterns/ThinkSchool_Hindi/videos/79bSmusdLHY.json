@@ -1,0 +1,148 @@
+{
+  "video_id": "79bSmusdLHY",
+  "duration_seconds": 699,
+  "wps": 2.65,
+  "total_words": 1849,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7628
+  },
+  "hook": {
+    "type": "question",
+    "text": "यू कैन डू वन मुंबई यू मे लूज बलचिस्तान। दोस्तों 10 साल पहले हमारे लेजेंड्री अजीत डोल सर ने पाकिस्तान से कहा था कि अगर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "थैंक यू सो मच फॉर वाचिंग। आई विल सी यू इन द नेक्स्ट वन। बाय बाय। ना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 91
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "के",
+      "count": 35
+    },
+    {
+      "word": "तो",
+      "count": 33
+    },
+    {
+      "word": "में",
+      "count": 33
+    },
+    {
+      "word": "को",
+      "count": 30
+    },
+    {
+      "word": "बलूचिस्तान",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 23
+    },
+    {
+      "word": "कि",
+      "count": 21
+    },
+    {
+      "word": "की",
+      "count": 21
+    },
+    {
+      "word": "यह",
+      "count": 20
+    },
+    {
+      "word": "एक",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 17
+    },
+    {
+      "word": "भारत",
+      "count": 16
+    },
+    {
+      "word": "बलोचिस्तान",
+      "count": 16
+    },
+    {
+      "word": "सकता",
+      "count": 15
+    },
+    {
+      "word": "भी",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकता है",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 9
+    },
+    {
+      "phrase": "पाकिस्तान का",
+      "count": 9
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    },
+    {
+      "phrase": "पाकिस्तान की",
+      "count": 6
+    },
+    {
+      "phrase": "बलूचिस्तान में",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    }
+  ],
+  "segment_count": 87
+}

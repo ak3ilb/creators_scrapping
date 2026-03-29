@@ -1,0 +1,150 @@
+{
+  "video_id": "iUGHd6m03Vg",
+  "duration_seconds": 727,
+  "wps": 4.05,
+  "total_words": 2943,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10872
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज की डेट में तुम्हें हर यूटर अपना कोई ना कोई कोर्स बेचता हुआ दिख जाएगा जो कि कोई गलत नहीं है बट प्रोब्लेमे िक उसके अंदर यह चीज है कि कोई भी बंदा पांच या 10"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लॉयल्टी है वहीं पे धंधा है"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 129
+    },
+    {
+      "word": "के",
+      "count": 95
+    },
+    {
+      "word": "और",
+      "count": 88
+    },
+    {
+      "word": "अंदर",
+      "count": 60
+    },
+    {
+      "word": "से",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "ये",
+      "count": 43
+    },
+    {
+      "word": "यूनिवर्सिटी",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "लोग",
+      "count": 28
+    },
+    {
+      "word": "में",
+      "count": 25
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "वो",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 50
+    },
+    {
+      "phrase": "है और",
+      "count": 27
+    },
+    {
+      "phrase": "यूनिवर्सिटी के",
+      "count": 21
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 15
+    },
+    {
+      "phrase": "है तो",
+      "count": 14
+    },
+    {
+      "phrase": "हैं और",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 10
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 9
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 9
+    }
+  ],
+  "segment_count": 90
+}

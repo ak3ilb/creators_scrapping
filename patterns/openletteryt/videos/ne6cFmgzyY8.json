@@ -1,0 +1,149 @@
+{
+  "video_id": "ne6cFmgzyY8",
+  "duration_seconds": 667,
+  "wps": 3.78,
+  "total_words": 2521,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9349
+  },
+  "hook": {
+    "type": "statement",
+    "text": "थोड़ी देर के लिए सोच के देखो कि आप अपनी क्लास में बैठे हो और क्लास के बाकी बच्चे आपके ऊपर एक के बाद एक जोक मारते जा रहे हैं और यह साइकिल पिछले कई सालों से हर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देखना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 79
+    },
+    {
+      "word": "है",
+      "count": 79
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "हैं",
+      "count": 45
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "भी",
+      "count": 30
+    },
+    {
+      "word": "बात",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 26
+    },
+    {
+      "word": "जोक्स",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 23
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "इस",
+      "count": 19
+    },
+    {
+      "word": "नहीं",
+      "count": 18
+    },
+    {
+      "word": "लोग",
+      "count": 18
+    },
+    {
+      "word": "लेकिन",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "की बात",
+      "count": 11
+    },
+    {
+      "phrase": "जाता है",
+      "count": 11
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 10
+    },
+    {
+      "phrase": "भारत के",
+      "count": 8
+    },
+    {
+      "phrase": "को लेकर",
+      "count": 7
+    },
+    {
+      "phrase": "हैं और",
+      "count": 6
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 6
+    }
+  ],
+  "segment_count": 84
+}

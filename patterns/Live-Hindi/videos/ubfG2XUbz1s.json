@@ -1,0 +1,149 @@
+{
+  "video_id": "ubfG2XUbz1s",
+  "duration_seconds": 1033,
+  "wps": 3.12,
+  "total_words": 3218,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12239
+  },
+  "hook": {
+    "type": "question",
+    "text": "कोई कंपनी ऐसी भी हो सकती है क्या जिसके प्रोडक्ट्स का इस्तेमाल दुनिया की आधी आबादी लगभग हर दिन करती हो चाहे आप सुबह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिवर हर घर में अपनी जगह बना चुका है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 112
+    },
+    {
+      "word": "के",
+      "count": 99
+    },
+    {
+      "word": "और",
+      "count": 87
+    },
+    {
+      "word": "को",
+      "count": 67
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "था",
+      "count": 53
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "ही",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 43
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "कंपनी",
+      "count": 36
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "ने",
+      "count": 36
+    },
+    {
+      "word": "है",
+      "count": 31
+    },
+    {
+      "word": "इस",
+      "count": 29
+    },
+    {
+      "word": "लिए",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 28
+    },
+    {
+      "word": "पर",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 28
+    },
+    {
+      "phrase": "जो कि",
+      "count": 14
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "हिंदुस्तान यूनिलीवर",
+      "count": 8
+    },
+    {
+      "phrase": "में भी",
+      "count": 8
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 8
+    },
+    {
+      "phrase": "था कि",
+      "count": 8
+    },
+    {
+      "phrase": "थी और",
+      "count": 8
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 8
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 8
+    }
+  ],
+  "segment_count": 133
+}

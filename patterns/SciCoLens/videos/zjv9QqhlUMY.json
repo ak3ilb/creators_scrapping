@@ -1,0 +1,148 @@
+{
+  "video_id": "zjv9QqhlUMY",
+  "duration_seconds": 569,
+  "wps": 3.15,
+  "total_words": 1794,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 6917
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जरा इस इमेज को देखिए। ये है वो स्ट्रक्चर्स जो क्रैब्स अपने अंडे देने के लिए पूरे बीच पर बनाते हैं। सो दैट उनके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एज ऑलवेज स्टे क्यूरियस, कीप लर्निंग, एंड कीप ग्रोइंग।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 83
+    },
+    {
+      "word": "है",
+      "count": 61
+    },
+    {
+      "word": "प्लूटो",
+      "count": 44
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "में",
+      "count": 39
+    },
+    {
+      "word": "और",
+      "count": 36
+    },
+    {
+      "word": "को",
+      "count": 22
+    },
+    {
+      "word": "पर",
+      "count": 22
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "एक",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 20
+    },
+    {
+      "word": "नासा",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 16
+    },
+    {
+      "word": "जो",
+      "count": 15
+    },
+    {
+      "word": "का",
+      "count": 15
+    },
+    {
+      "word": "वो",
+      "count": 14
+    },
+    {
+      "word": "हो",
+      "count": 14
+    },
+    {
+      "word": "यह",
+      "count": 14
+    },
+    {
+      "word": "हैं",
+      "count": 13
+    },
+    {
+      "word": "तो",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "प्लूटो के",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "प्लूटो की",
+      "count": 8
+    },
+    {
+      "phrase": "नासा के",
+      "count": 7
+    },
+    {
+      "phrase": "के अनुसार",
+      "count": 6
+    },
+    {
+      "phrase": "कि प्लूटो",
+      "count": 6
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "है और",
+      "count": 5
+    },
+    {
+      "phrase": "सोलर सिस्टम",
+      "count": 5
+    }
+  ],
+  "segment_count": 72
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "KhShxrHOmts",
+  "duration_seconds": 59,
+  "wps": 2.8,
+  "total_words": 165,
+  "language_mix": {
+    "hindi": 98.4,
+    "english": 1.6,
+    "total_chars": 805
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Google जस्ट किल्ड द ओल्ड वे ऑफ़ डिजाइनिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वुड यू डिजाइन विथ दिस?"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "विथ",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "दैट",
+      "count": 5
+    },
+    {
+      "word": "डिज़ाइन",
+      "count": 4
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "वन",
+      "count": 4
+    },
+    {
+      "word": "जस्ट",
+      "count": 3
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "डिजाइनिंग",
+      "count": 2
+    },
+    {
+      "word": "वाइब",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "हियर",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    },
+    {
+      "word": "एप",
+      "count": 2
+    },
+    {
+      "word": "स्टार्ट",
+      "count": 2
+    },
+    {
+      "word": "वायर",
+      "count": 2
+    },
+    {
+      "word": "फ्रेम्स",
+      "count": 2
+    },
+    {
+      "word": "स्टिच",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू स्टार्ट",
+      "count": 2
+    },
+    {
+      "phrase": "विथ वायर",
+      "count": 2
+    },
+    {
+      "phrase": "वायर फ्रेम्स",
+      "count": 2
+    },
+    {
+      "phrase": "google जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट किल्ड",
+      "count": 1
+    },
+    {
+      "phrase": "किल्ड द",
+      "count": 1
+    },
+    {
+      "phrase": "द ओल्ड",
+      "count": 1
+    },
+    {
+      "phrase": "ओल्ड वे",
+      "count": 1
+    },
+    {
+      "phrase": "वे ऑफ़",
+      "count": 1
+    },
+    {
+      "phrase": "ऑफ़ डिजाइनिंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 26
+}

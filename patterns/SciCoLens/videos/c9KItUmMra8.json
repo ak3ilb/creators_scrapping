@@ -1,0 +1,148 @@
+{
+  "video_id": "c9KItUmMra8",
+  "duration_seconds": 1838,
+  "wps": 2.9,
+  "total_words": 5339,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 21372
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या ईरान की सरकार जेस के वजह से बिखर सकती है? ईयर 2026 हैज़ [संगीत] कमेंस विथ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आइडेंटिटी क्राइसिस का गेम है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 182
+    },
+    {
+      "word": "है",
+      "count": 154
+    },
+    {
+      "word": "में",
+      "count": 135
+    },
+    {
+      "word": "और",
+      "count": 118
+    },
+    {
+      "word": "को",
+      "count": 111
+    },
+    {
+      "word": "ईरान",
+      "count": 84
+    },
+    {
+      "word": "से",
+      "count": 66
+    },
+    {
+      "word": "यूएस",
+      "count": 66
+    },
+    {
+      "word": "एक",
+      "count": 65
+    },
+    {
+      "word": "भी",
+      "count": 65
+    },
+    {
+      "word": "का",
+      "count": 64
+    },
+    {
+      "word": "कि",
+      "count": 56
+    },
+    {
+      "word": "की",
+      "count": 55
+    },
+    {
+      "word": "तो",
+      "count": 50
+    },
+    {
+      "word": "था",
+      "count": 49
+    },
+    {
+      "word": "कर",
+      "count": 45
+    },
+    {
+      "word": "लिए",
+      "count": 41
+    },
+    {
+      "word": "ही",
+      "count": 41
+    },
+    {
+      "word": "ने",
+      "count": 39
+    },
+    {
+      "word": "पर",
+      "count": 39
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 37
+    },
+    {
+      "phrase": "ईरान के",
+      "count": 24
+    },
+    {
+      "phrase": "रहा है",
+      "count": 21
+    },
+    {
+      "phrase": "है कि",
+      "count": 20
+    },
+    {
+      "phrase": "है और",
+      "count": 17
+    },
+    {
+      "phrase": "ईरान में",
+      "count": 16
+    },
+    {
+      "phrase": "करने के",
+      "count": 14
+    },
+    {
+      "phrase": "यूएस ने",
+      "count": 12
+    },
+    {
+      "phrase": "यूएस के",
+      "count": 11
+    },
+    {
+      "phrase": "ईरान को",
+      "count": 11
+    }
+  ],
+  "segment_count": 229
+}

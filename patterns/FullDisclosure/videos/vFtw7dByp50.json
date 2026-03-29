@@ -1,0 +1,148 @@
+{
+  "video_id": "vFtw7dByp50",
+  "duration_seconds": 50,
+  "wps": 2.76,
+  "total_words": 138,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 668
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डॉनल्ड ट्रंप इज नाउ एट वॉर विथ एंथ्रोपिक एंड डेजिसिजिग्नेटेड देम एस अ सप्लाई चेन रिस्क टू नेशनल सिक्योरिटी। फर्स्ट फॉलो फुल डिस्क्लोज़र एंड लेट मी टेल यू व्हाट्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अमोडेस ओनवर्ड्स देअर इस अ सुनामी अप्रोचिंग एंड सोसाइटी इजंट प्रिपेयर। ने|"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 8
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "एंथ्रोपिक",
+      "count": 3
+    },
+    {
+      "word": "सप्लाई",
+      "count": 2
+    },
+    {
+      "word": "चेन",
+      "count": 2
+    },
+    {
+      "word": "रिस्क",
+      "count": 2
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "लाइक",
+      "count": 2
+    },
+    {
+      "word": "कॉन्ट्रैक्ट",
+      "count": 2
+    },
+    {
+      "word": "नो",
+      "count": 2
+    },
+    {
+      "word": "डॉनल्ड",
+      "count": 1
+    },
+    {
+      "word": "ट्रंप",
+      "count": 1
+    },
+    {
+      "word": "इज",
+      "count": 1
+    },
+    {
+      "word": "नाउ",
+      "count": 1
+    },
+    {
+      "word": "एट",
+      "count": 1
+    },
+    {
+      "word": "वॉर",
+      "count": 1
+    },
+    {
+      "word": "विथ",
+      "count": 1
+    },
+    {
+      "word": "डेजिसिजिग्नेटेड",
+      "count": 1
+    },
+    {
+      "word": "देम",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अ सप्लाई",
+      "count": 2
+    },
+    {
+      "phrase": "सप्लाई चेन",
+      "count": 2
+    },
+    {
+      "phrase": "चेन रिस्क",
+      "count": 2
+    },
+    {
+      "phrase": "द कॉन्ट्रैक्ट",
+      "count": 2
+    },
+    {
+      "phrase": "डॉनल्ड ट्रंप",
+      "count": 1
+    },
+    {
+      "phrase": "ट्रंप इज",
+      "count": 1
+    },
+    {
+      "phrase": "इज नाउ",
+      "count": 1
+    },
+    {
+      "phrase": "नाउ एट",
+      "count": 1
+    },
+    {
+      "phrase": "एट वॉर",
+      "count": 1
+    },
+    {
+      "phrase": "वॉर विथ",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

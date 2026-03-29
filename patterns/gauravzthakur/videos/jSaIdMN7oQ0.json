@@ -1,0 +1,148 @@
+{
+  "video_id": "jSaIdMN7oQ0",
+  "duration_seconds": 27,
+  "wps": 3.19,
+  "total_words": 86,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 325
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हीलू केपरऑन करके एक शार्क थी। यह बेसिकली एक ऐसा शार्क था जिसके दांत आज तक हमने नहीं देखे। जैसे इमेजिन करिए जो विष्णु"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गया। जी। ये भी एक सैंपल है। ओशन लाइफ कितनी वियर्ड हो सकती है। बिल्कुल।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "शार्क",
+      "count": 2
+    },
+    {
+      "word": "ऐसा",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "दांत",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "हीलू",
+      "count": 1
+    },
+    {
+      "word": "केपरऑन",
+      "count": 1
+    },
+    {
+      "word": "करके",
+      "count": 1
+    },
+    {
+      "word": "थी",
+      "count": 1
+    },
+    {
+      "word": "यह",
+      "count": 1
+    },
+    {
+      "word": "बेसिकली",
+      "count": 1
+    },
+    {
+      "word": "जिसके",
+      "count": 1
+    },
+    {
+      "word": "आज",
+      "count": 1
+    },
+    {
+      "word": "तक",
+      "count": 1
+    },
+    {
+      "word": "हमने",
+      "count": 1
+    },
+    {
+      "word": "नहीं",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हीलू केपरऑन",
+      "count": 1
+    },
+    {
+      "phrase": "केपरऑन करके",
+      "count": 1
+    },
+    {
+      "phrase": "करके एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक शार्क",
+      "count": 1
+    },
+    {
+      "phrase": "शार्क थी",
+      "count": 1
+    },
+    {
+      "phrase": "थी यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह बेसिकली",
+      "count": 1
+    },
+    {
+      "phrase": "बेसिकली एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा शार्क",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

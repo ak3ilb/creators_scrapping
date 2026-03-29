@@ -1,0 +1,149 @@
+{
+  "video_id": "brchILVjj7s",
+  "duration_seconds": 2163,
+  "wps": 3.14,
+  "total_words": 6792,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 30327
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Ajit Doval was the mastermind behind it and he formed the PDP party in Kashmir. He gave UPSC's first attempt and cracked it in the 1st attempt itself."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "but they aren't visible. They're invisible. To book your free teeth scan, don't forget to click on the link given in the description. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 267
+    },
+    {
+      "word": "and",
+      "count": 239
+    },
+    {
+      "word": "to",
+      "count": 187
+    },
+    {
+      "word": "in",
+      "count": 177
+    },
+    {
+      "word": "ajit",
+      "count": 132
+    },
+    {
+      "word": "was",
+      "count": 130
+    },
+    {
+      "word": "of",
+      "count": 129
+    },
+    {
+      "word": "doval",
+      "count": 123
+    },
+    {
+      "word": "that",
+      "count": 99
+    },
+    {
+      "word": "he",
+      "count": 95
+    },
+    {
+      "word": "so",
+      "count": 83
+    },
+    {
+      "word": "this",
+      "count": 77
+    },
+    {
+      "word": "it",
+      "count": 74
+    },
+    {
+      "word": "then",
+      "count": 58
+    },
+    {
+      "word": "is",
+      "count": 55
+    },
+    {
+      "word": "time",
+      "count": 52
+    },
+    {
+      "word": "they",
+      "count": 51
+    },
+    {
+      "word": "with",
+      "count": 50
+    },
+    {
+      "word": "on",
+      "count": 49
+    },
+    {
+      "word": "as",
+      "count": 48
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ajit doval",
+      "count": 112
+    },
+    {
+      "phrase": "ajit doval's",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 18
+    },
+    {
+      "phrase": "as well",
+      "count": 17
+    },
+    {
+      "phrase": "doval was",
+      "count": 15
+    },
+    {
+      "phrase": "it was",
+      "count": 15
+    },
+    {
+      "phrase": "at that",
+      "count": 15
+    },
+    {
+      "phrase": "and then",
+      "count": 14
+    },
+    {
+      "phrase": "that time",
+      "count": 14
+    },
+    {
+      "phrase": "the government",
+      "count": 14
+    }
+  ],
+  "segment_count": 257
+}

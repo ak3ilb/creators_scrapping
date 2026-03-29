@@ -1,0 +1,148 @@
+{
+  "video_id": "A9z3-k03ick",
+  "duration_seconds": 75,
+  "wps": 3.29,
+  "total_words": 247,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 880
+  },
+  "hook": {
+    "type": "question",
+    "text": "डस आवर यूनिवर्स हैव अ वॉल एट इट्स एज?"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "फॉलो फॉर मोर कूल स्टफ लाइक दिस।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "वॉल",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "यूनिवर्स",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "वी",
+      "count": 5
+    },
+    {
+      "word": "स्पेस",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "आवर",
+      "count": 3
+    },
+    {
+      "word": "आउट",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "कॉल्ड",
+      "count": 3
+    },
+    {
+      "word": "जिसके",
+      "count": 3
+    },
+    {
+      "word": "बाय",
+      "count": 3
+    },
+    {
+      "word": "वे",
+      "count": 3
+    },
+    {
+      "word": "इफ",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "सुपर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कॉल्ड द",
+      "count": 3
+    },
+    {
+      "phrase": "बाय द",
+      "count": 3
+    },
+    {
+      "phrase": "द वे",
+      "count": 3
+    },
+    {
+      "phrase": "है एंड",
+      "count": 3
+    },
+    {
+      "phrase": "आवर यूनिवर्स",
+      "count": 2
+    },
+    {
+      "phrase": "एक वॉल",
+      "count": 2
+    },
+    {
+      "phrase": "इफ वी",
+      "count": 2
+    },
+    {
+      "phrase": "जिसके आगे",
+      "count": 2
+    },
+    {
+      "phrase": "वॉल ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "एम्प्टी स्पेस",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

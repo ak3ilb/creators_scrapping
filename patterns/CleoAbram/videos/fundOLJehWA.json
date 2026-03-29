@@ -1,0 +1,149 @@
+{
+  "video_id": "fundOLJehWA",
+  "duration_seconds": 515,
+  "wps": 2.68,
+  "total_words": 1382,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 5572
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This is my dog, Thor."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Okay, let's go play!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "that",
+      "count": 41
+    },
+    {
+      "word": "the",
+      "count": 39
+    },
+    {
+      "word": "to",
+      "count": 33
+    },
+    {
+      "word": "of",
+      "count": 27
+    },
+    {
+      "word": "and",
+      "count": 27
+    },
+    {
+      "word": "this",
+      "count": 22
+    },
+    {
+      "word": "is",
+      "count": 22
+    },
+    {
+      "word": "dogs",
+      "count": 22
+    },
+    {
+      "word": "we",
+      "count": 18
+    },
+    {
+      "word": "in",
+      "count": 17
+    },
+    {
+      "word": "dog",
+      "count": 16
+    },
+    {
+      "word": "but",
+      "count": 15
+    },
+    {
+      "word": "you",
+      "count": 15
+    },
+    {
+      "word": "it's",
+      "count": 15
+    },
+    {
+      "word": "live",
+      "count": 14
+    },
+    {
+      "word": "so",
+      "count": 14
+    },
+    {
+      "word": "at",
+      "count": 14
+    },
+    {
+      "word": "can",
+      "count": 13
+    },
+    {
+      "word": "for",
+      "count": 12
+    },
+    {
+      "word": "on",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your dog",
+      "count": 7
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    },
+    {
+      "phrase": "we can",
+      "count": 5
+    },
+    {
+      "phrase": "trying to",
+      "count": 4
+    },
+    {
+      "phrase": "of a",
+      "count": 4
+    },
+    {
+      "phrase": "kind of",
+      "count": 3
+    },
+    {
+      "phrase": "of the",
+      "count": 3
+    },
+    {
+      "phrase": "our dogs",
+      "count": 3
+    },
+    {
+      "phrase": "dogs live",
+      "count": 3
+    },
+    {
+      "phrase": "shorter lives",
+      "count": 3
+    }
+  ],
+  "segment_count": 123
+}

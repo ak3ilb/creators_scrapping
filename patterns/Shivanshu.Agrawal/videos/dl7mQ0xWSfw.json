@@ -1,0 +1,149 @@
+{
+  "video_id": "dl7mQ0xWSfw",
+  "duration_seconds": 918,
+  "wps": 2.91,
+  "total_words": 2674,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12333
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In the year 1982,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked this video, then I recommend that you next watch this video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 130
+    },
+    {
+      "word": "and",
+      "count": 89
+    },
+    {
+      "word": "of",
+      "count": 73
+    },
+    {
+      "word": "in",
+      "count": 67
+    },
+    {
+      "word": "to",
+      "count": 63
+    },
+    {
+      "word": "he",
+      "count": 57
+    },
+    {
+      "word": "that",
+      "count": 56
+    },
+    {
+      "word": "was",
+      "count": 46
+    },
+    {
+      "word": "his",
+      "count": 40
+    },
+    {
+      "word": "this",
+      "count": 34
+    },
+    {
+      "word": "is",
+      "count": 34
+    },
+    {
+      "word": "wafers",
+      "count": 33
+    },
+    {
+      "word": "their",
+      "count": 27
+    },
+    {
+      "word": "for",
+      "count": 25
+    },
+    {
+      "word": "they",
+      "count": 21
+    },
+    {
+      "word": "chandubhai",
+      "count": 21
+    },
+    {
+      "word": "with",
+      "count": 18
+    },
+    {
+      "word": "chips",
+      "count": 18
+    },
+    {
+      "word": "but",
+      "count": 18
+    },
+    {
+      "word": "balaji",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "balaji wafers",
+      "count": 14
+    },
+    {
+      "phrase": "in the",
+      "count": 13
+    },
+    {
+      "phrase": "that is",
+      "count": 12
+    },
+    {
+      "phrase": "is why",
+      "count": 12
+    },
+    {
+      "phrase": "because of",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "of balaji",
+      "count": 6
+    },
+    {
+      "phrase": "he would",
+      "count": 6
+    },
+    {
+      "phrase": "and the",
+      "count": 6
+    },
+    {
+      "phrase": "and his",
+      "count": 5
+    }
+  ],
+  "segment_count": 250
+}

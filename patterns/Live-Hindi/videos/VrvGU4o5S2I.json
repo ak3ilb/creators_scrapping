@@ -1,0 +1,149 @@
+{
+  "video_id": "VrvGU4o5S2I",
+  "duration_seconds": 987,
+  "wps": 3.25,
+  "total_words": 3211,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 12202
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों आज भले ही आप निर्मा यूज करते हो या नहीं पर मुझे उम्मीद है कि बचपन में देखा गया यह ऐड आपको जरूर याद होगा पाउडर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चलते यह आज आज के जनरेशन के लिए भी आइडल हैं"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 102
+    },
+    {
+      "word": "के",
+      "count": 96
+    },
+    {
+      "word": "निर्मा",
+      "count": 76
+    },
+    {
+      "word": "से",
+      "count": 65
+    },
+    {
+      "word": "की",
+      "count": 65
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "को",
+      "count": 62
+    },
+    {
+      "word": "कि",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "था",
+      "count": 45
+    },
+    {
+      "word": "ने",
+      "count": 42
+    },
+    {
+      "word": "ही",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 34
+    },
+    {
+      "word": "एक",
+      "count": 33
+    },
+    {
+      "word": "लेकिन",
+      "count": 31
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "इस",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भाई पटेल",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 17
+    },
+    {
+      "phrase": "निर्मा को",
+      "count": 13
+    },
+    {
+      "phrase": "निर्मा के",
+      "count": 11
+    },
+    {
+      "phrase": "कर्स भाई",
+      "count": 11
+    },
+    {
+      "phrase": "बाद से",
+      "count": 10
+    },
+    {
+      "phrase": "में निर्मा",
+      "count": 10
+    },
+    {
+      "phrase": "के बाद",
+      "count": 9
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 9
+    }
+  ],
+  "segment_count": 128
+}

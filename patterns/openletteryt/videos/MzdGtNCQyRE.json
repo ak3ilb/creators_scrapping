@@ -1,0 +1,149 @@
+{
+  "video_id": "MzdGtNCQyRE",
+  "duration_seconds": 993,
+  "wps": 3.64,
+  "total_words": 3618,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 13826
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आजकल दुनिया की हालत ऐसी है कि सांस लेता हूं तो एक नया कॉन्फ्लिक्ट शुरू हो जाता है। द यूएस मिलिट्री कैप्चरर्ड वेनेजुवेलिन प्रेसिडेंट निकोस मधुरो एंड हिज़ वाइफ।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 142
+    },
+    {
+      "word": "के",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 74
+    },
+    {
+      "word": "और",
+      "count": 71
+    },
+    {
+      "word": "हैं",
+      "count": 58
+    },
+    {
+      "word": "हो",
+      "count": 52
+    },
+    {
+      "word": "से",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 35
+    },
+    {
+      "word": "कर",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "नहीं",
+      "count": 27
+    },
+    {
+      "word": "था",
+      "count": 27
+    },
+    {
+      "word": "ये",
+      "count": 26
+    },
+    {
+      "word": "रहा",
+      "count": 26
+    },
+    {
+      "word": "का",
+      "count": 24
+    },
+    {
+      "word": "ट्रंप",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 17
+    },
+    {
+      "phrase": "रहा है",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "के साथ",
+      "count": 10
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 9
+    },
+    {
+      "phrase": "रहा था",
+      "count": 8
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 7
+    }
+  ],
+  "segment_count": 124
+}

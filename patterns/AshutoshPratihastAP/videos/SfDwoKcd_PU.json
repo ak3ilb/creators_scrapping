@@ -1,0 +1,149 @@
+{
+  "video_id": "SfDwoKcd_PU",
+  "duration_seconds": 438,
+  "wps": 2.25,
+  "total_words": 985,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 3205
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भाई सुन वेबसाइट का सीन सर्ड है हां मैंने कल उससे रात को बात करी थी दूसरे डेवलपर से बात कर थी तो उसको कोड दिया था व थोड़ा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टाइम लग गया था डेढ़ महीना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "तो",
+      "count": 25
+    },
+    {
+      "word": "हो",
+      "count": 24
+    },
+    {
+      "word": "ना",
+      "count": 20
+    },
+    {
+      "word": "था",
+      "count": 16
+    },
+    {
+      "word": "कर",
+      "count": 15
+    },
+    {
+      "word": "भाई",
+      "count": 14
+    },
+    {
+      "word": "को",
+      "count": 14
+    },
+    {
+      "word": "क्या",
+      "count": 14
+    },
+    {
+      "word": "जाएगा",
+      "count": 13
+    },
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "वो",
+      "count": 12
+    },
+    {
+      "word": "ठीक",
+      "count": 12
+    },
+    {
+      "word": "नहीं",
+      "count": 11
+    },
+    {
+      "word": "जो",
+      "count": 11
+    },
+    {
+      "word": "ही",
+      "count": 10
+    },
+    {
+      "word": "कि",
+      "count": 9
+    },
+    {
+      "word": "दो",
+      "count": 9
+    },
+    {
+      "word": "मैं",
+      "count": 9
+    },
+    {
+      "word": "मतलब",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 12
+    },
+    {
+      "phrase": "है ना",
+      "count": 10
+    },
+    {
+      "phrase": "हो जाएगा",
+      "count": 8
+    },
+    {
+      "phrase": "हो गई",
+      "count": 6
+    },
+    {
+      "phrase": "दो घंटे",
+      "count": 5
+    },
+    {
+      "phrase": "घंटे में",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 5
+    },
+    {
+      "phrase": "है ठीक",
+      "count": 5
+    },
+    {
+      "phrase": "दिया था",
+      "count": 4
+    },
+    {
+      "phrase": "में हो",
+      "count": 4
+    }
+  ],
+  "segment_count": 52
+}

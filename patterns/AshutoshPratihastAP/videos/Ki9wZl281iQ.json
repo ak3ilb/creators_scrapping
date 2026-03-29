@@ -1,0 +1,149 @@
+{
+  "video_id": "Ki9wZl281iQ",
+  "duration_seconds": 1206,
+  "wps": 3.13,
+  "total_words": 3780,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 14683
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पिछले 70 सालों में इसे लेकर सैकड़ों स्टडीज हुई हैं ऐसे कंटेंट कंसंट की वजह से बच्चों में सेंसिटिविटी बिल्कुल खत्म"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपको क्या करने की जरूरत है अगर आप एआई से बचना चाहते हो राइट वाली वीडियो पर क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 110
+    },
+    {
+      "word": "में",
+      "count": 101
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "की",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 77
+    },
+    {
+      "word": "को",
+      "count": 60
+    },
+    {
+      "word": "कि",
+      "count": 59
+    },
+    {
+      "word": "एक",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 50
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "पर",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 35
+    },
+    {
+      "word": "ने",
+      "count": 29
+    },
+    {
+      "word": "तो",
+      "count": 25
+    },
+    {
+      "word": "जो",
+      "count": 25
+    },
+    {
+      "word": "ही",
+      "count": 25
+    },
+    {
+      "word": "गया",
+      "count": 25
+    },
+    {
+      "word": "बहुत",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "किया गया",
+      "count": 10
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    },
+    {
+      "phrase": "की गई",
+      "count": 8
+    },
+    {
+      "phrase": "कॉमिक बुक्स",
+      "count": 7
+    },
+    {
+      "phrase": "गया था",
+      "count": 7
+    },
+    {
+      "phrase": "गया कि",
+      "count": 7
+    },
+    {
+      "phrase": "कहा कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 147
+}

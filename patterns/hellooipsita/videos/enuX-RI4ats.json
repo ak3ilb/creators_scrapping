@@ -1,0 +1,149 @@
+{
+  "video_id": "enuX-RI4ats",
+  "duration_seconds": 899,
+  "wps": 2.84,
+  "total_words": 2556,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11059
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Welcome back and this is part two of how"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "video. Bye."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 122
+    },
+    {
+      "word": "you",
+      "count": 105
+    },
+    {
+      "word": "to",
+      "count": 87
+    },
+    {
+      "word": "that",
+      "count": 86
+    },
+    {
+      "word": "and",
+      "count": 81
+    },
+    {
+      "word": "is",
+      "count": 57
+    },
+    {
+      "word": "of",
+      "count": 48
+    },
+    {
+      "word": "in",
+      "count": 43
+    },
+    {
+      "word": "it",
+      "count": 34
+    },
+    {
+      "word": "now",
+      "count": 31
+    },
+    {
+      "word": "this",
+      "count": 30
+    },
+    {
+      "word": "your",
+      "count": 28
+    },
+    {
+      "word": "what",
+      "count": 27
+    },
+    {
+      "word": "or",
+      "count": 25
+    },
+    {
+      "word": "overthinking",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "about",
+      "count": 22
+    },
+    {
+      "word": "on",
+      "count": 21
+    },
+    {
+      "word": "you're",
+      "count": 21
+    },
+    {
+      "word": "my",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "that you",
+      "count": 20
+    },
+    {
+      "phrase": "going to",
+      "count": 17
+    },
+    {
+      "phrase": "based on",
+      "count": 14
+    },
+    {
+      "phrase": "of the",
+      "count": 14
+    },
+    {
+      "phrase": "in the",
+      "count": 12
+    },
+    {
+      "phrase": "and the",
+      "count": 10
+    },
+    {
+      "phrase": "need to",
+      "count": 9
+    },
+    {
+      "phrase": "that i",
+      "count": 9
+    },
+    {
+      "phrase": "overthinking based",
+      "count": 8
+    },
+    {
+      "phrase": "the future",
+      "count": 8
+    }
+  ],
+  "segment_count": 366
+}

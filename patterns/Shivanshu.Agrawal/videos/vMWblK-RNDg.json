@@ -1,0 +1,148 @@
+{
+  "video_id": "vMWblK-RNDg",
+  "duration_seconds": 323,
+  "wps": 3.15,
+  "total_words": 1019,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 4115
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "9 दिसंबर 2022 सुबह के 3:00 कुछ 300 से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडियन नहीं है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 53
+    },
+    {
+      "word": "है",
+      "count": 42
+    },
+    {
+      "word": "को",
+      "count": 29
+    },
+    {
+      "word": "में",
+      "count": 26
+    },
+    {
+      "word": "और",
+      "count": 26
+    },
+    {
+      "word": "अरुणाचल",
+      "count": 25
+    },
+    {
+      "word": "प्रदेश",
+      "count": 25
+    },
+    {
+      "word": "चीन",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 17
+    },
+    {
+      "word": "भी",
+      "count": 15
+    },
+    {
+      "word": "लिए",
+      "count": 15
+    },
+    {
+      "word": "से",
+      "count": 14
+    },
+    {
+      "word": "तिब्बत",
+      "count": 14
+    },
+    {
+      "word": "इंडिया",
+      "count": 13
+    },
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "का",
+      "count": 10
+    },
+    {
+      "word": "करने",
+      "count": 9
+    },
+    {
+      "word": "नहीं",
+      "count": 9
+    },
+    {
+      "word": "ने",
+      "count": 9
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अरुणाचल प्रदेश",
+      "count": 24
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "प्रदेश के",
+      "count": 6
+    },
+    {
+      "phrase": "करने के",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "प्रदेश को",
+      "count": 5
+    },
+    {
+      "phrase": "चीन के",
+      "count": 5
+    },
+    {
+      "phrase": "हैं और",
+      "count": 4
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 4
+    },
+    {
+      "phrase": "वो अरुणाचल",
+      "count": 4
+    }
+  ],
+  "segment_count": 136
+}

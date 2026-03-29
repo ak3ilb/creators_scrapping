@@ -1,0 +1,148 @@
+{
+  "video_id": "IspUiRUiXOo",
+  "duration_seconds": 45,
+  "wps": 3.49,
+  "total_words": 157,
+  "language_mix": {
+    "hindi": 94.9,
+    "english": 5.1,
+    "total_chars": 525
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आजकल लोगों में Land Rover डिफेंडर कार का तो अलग ही क्रेज चल रहा है। तो चलो यह देखते हैं कि एक Land Rover डिफेंडर अफोर्ड करने के लिए आपकी सैलरी या आपकी"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "हो। तो कमेंट में बताओ कौन-कौन यह डिफेंडर लेने वाला है? एंड वीडियो पसंद आई तो लाइक एंड शेयर करना और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "डिफेंडर",
+      "count": 5
+    },
+    {
+      "word": "आपकी",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "land",
+      "count": 3
+    },
+    {
+      "word": "rover",
+      "count": 3
+    },
+    {
+      "word": "इनकम",
+      "count": 3
+    },
+    {
+      "word": "चाहिए",
+      "count": 3
+    },
+    {
+      "word": "लगभग",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "अफोर्ड",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "होनी",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "रूल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "land rover",
+      "count": 3
+    },
+    {
+      "phrase": "rover डिफेंडर",
+      "count": 3
+    },
+    {
+      "phrase": "डिफेंडर अफोर्ड",
+      "count": 2
+    },
+    {
+      "phrase": "आपकी इनकम",
+      "count": 2
+    },
+    {
+      "phrase": "होनी चाहिए",
+      "count": 2
+    },
+    {
+      "phrase": "महीने की",
+      "count": 2
+    },
+    {
+      "phrase": "बनती है",
+      "count": 2
+    },
+    {
+      "phrase": "आजकल लोगों",
+      "count": 1
+    },
+    {
+      "phrase": "लोगों में",
+      "count": 1
+    },
+    {
+      "phrase": "में land",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

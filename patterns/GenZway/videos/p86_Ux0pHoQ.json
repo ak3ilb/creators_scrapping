@@ -1,0 +1,150 @@
+{
+  "video_id": "p86_Ux0pHoQ",
+  "duration_seconds": 841,
+  "wps": 4.13,
+  "total_words": 3477,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12456
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "₹1 लाख हर महीने बहुत ही मीडियो करर लोग कमाते हैं और हमारे देश के अंदर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के ऊपर काम करो और कॉलेज विद्या को चेक आउट करना बिल्कुल भी मत भूलना और मैं तुम लोगों से मिलता हूं अगले हफ्ते एक नई और इंटरेस्टिंग वीडियो के साथ"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 184
+    },
+    {
+      "word": "के",
+      "count": 133
+    },
+    {
+      "word": "और",
+      "count": 74
+    },
+    {
+      "word": "भी",
+      "count": 60
+    },
+    {
+      "word": "अंदर",
+      "count": 57
+    },
+    {
+      "word": "तो",
+      "count": 56
+    },
+    {
+      "word": "हो",
+      "count": 55
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "लोग",
+      "count": 52
+    },
+    {
+      "word": "से",
+      "count": 48
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 41
+    },
+    {
+      "word": "वो",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 39
+    },
+    {
+      "word": "जो",
+      "count": 32
+    },
+    {
+      "word": "ऊपर",
+      "count": 31
+    },
+    {
+      "word": "तुम",
+      "count": 30
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "जॉब",
+      "count": 28
+    },
+    {
+      "word": "में",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 47
+    },
+    {
+      "phrase": "है और",
+      "count": 28
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 27
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 21
+    },
+    {
+      "phrase": "है तो",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "जो भी",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 14
+    },
+    {
+      "phrase": "वाली है",
+      "count": 12
+    }
+  ],
+  "segment_count": 103
+}

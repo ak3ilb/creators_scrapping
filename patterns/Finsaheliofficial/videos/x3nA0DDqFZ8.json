@@ -1,0 +1,148 @@
+{
+  "video_id": "x3nA0DDqFZ8",
+  "duration_seconds": 60,
+  "wps": 3.35,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 610
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आप या तो ₹10 करोड़ ले लो या फिर एक दूसरा ऑप्शन है कि आप डेली ₹1 ले लो 30 दिन तक जो हर रोज डबल होगा। तो आप कौन सा ऑप्शन"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में यस लिखना। वीडियो को सेव एंड शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "डबल",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "₹1",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "₹10",
+      "count": 3
+    },
+    {
+      "word": "ले",
+      "count": 3
+    },
+    {
+      "word": "ऑप्शन",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "रोज",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "पावर",
+      "count": 3
+    },
+    {
+      "word": "कंपाउंडिंग",
+      "count": 3
+    },
+    {
+      "word": "होकर",
+      "count": 3
+    },
+    {
+      "word": "बनेगा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "₹10 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "डबल होकर",
+      "count": 3
+    },
+    {
+      "phrase": "का बनेगा",
+      "count": 3
+    },
+    {
+      "phrase": "ले लो",
+      "count": 2
+    },
+    {
+      "phrase": "30 दिन",
+      "count": 2
+    },
+    {
+      "phrase": "हर रोज",
+      "count": 2
+    },
+    {
+      "phrase": "रोज डबल",
+      "count": 2
+    },
+    {
+      "phrase": "ऑप्शन चूज़",
+      "count": 2
+    },
+    {
+      "phrase": "पावर ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ कंपाउंडिंग",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

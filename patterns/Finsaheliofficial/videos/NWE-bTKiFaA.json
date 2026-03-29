@@ -1,0 +1,148 @@
+{
+  "video_id": "NWE-bTKiFaA",
+  "duration_seconds": 97,
+  "wps": 3.95,
+  "total_words": 383,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 1360
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अब एआई से डरना शुरू कर दो क्योंकि अब एआई वह कर रहा है जो तुम कभी सोच भी नहीं सकते थे। अभी आपको एक लेटेस्ट केस बताती हूं। Facebook के जो 10थ एंप्लॉय थे आदित्य"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "बट मेक श्योर आपने मुझे पहले फॉलो कर लिया हो तभी आपको डीएम आएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "एआई",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 10
+    },
+    {
+      "word": "कि",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "हो",
+      "count": 8
+    },
+    {
+      "word": "नहीं",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "यह",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "इतना",
+      "count": 5
+    },
+    {
+      "word": "अब",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "क्योंकि",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "हो सकता",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 3
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "अब एआई",
+      "count": 2
+    },
+    {
+      "phrase": "भी नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "कह रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

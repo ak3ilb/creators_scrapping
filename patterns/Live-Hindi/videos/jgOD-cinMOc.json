@@ -1,0 +1,148 @@
+{
+  "video_id": "jgOD-cinMOc",
+  "duration_seconds": 1022,
+  "wps": 3.1,
+  "total_words": 3168,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 12037
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बात है 2015 की आईआईटी से ग्रेजुएट किया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भी कह पाना मुश्किल ही है हे"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 98
+    },
+    {
+      "word": "में",
+      "count": 79
+    },
+    {
+      "word": "है",
+      "count": 76
+    },
+    {
+      "word": "को",
+      "count": 60
+    },
+    {
+      "word": "की",
+      "count": 58
+    },
+    {
+      "word": "रैपिडो",
+      "count": 56
+    },
+    {
+      "word": "से",
+      "count": 54
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "और",
+      "count": 52
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 43
+    },
+    {
+      "word": "ही",
+      "count": 41
+    },
+    {
+      "word": "कर",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 36
+    },
+    {
+      "word": "ने",
+      "count": 32
+    },
+    {
+      "word": "हैं",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "पर",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 21
+    },
+    {
+      "phrase": "रैपिडो की",
+      "count": 12
+    },
+    {
+      "phrase": "रैपिडो के",
+      "count": 11
+    },
+    {
+      "phrase": "टैक्सी सर्विस",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 10
+    },
+    {
+      "phrase": "रैपिडो ने",
+      "count": 9
+    },
+    {
+      "phrase": "बाइक टैक्सी",
+      "count": 8
+    },
+    {
+      "phrase": "तो फिर",
+      "count": 8
+    },
+    {
+      "phrase": "ऐसे में",
+      "count": 8
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 8
+    }
+  ],
+  "segment_count": 400
+}

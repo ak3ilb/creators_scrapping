@@ -1,0 +1,150 @@
+{
+  "video_id": "4WyLWRnFtRc",
+  "duration_seconds": 81,
+  "wps": 4.32,
+  "total_words": 350,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1301
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या रॉ आईएसआई को पास्ट में काफी बार आउटस्मार्ट कर चुकी है? आपके हिसाब से स्कोर कार्ड क्या चल रहा है इनका?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वॉर में उनका एयर स्पेस खत्म कर दिया सर हमने"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "करके",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "एक",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "कर",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "तुम",
+      "count": 6
+    },
+    {
+      "word": "प्लेन",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "क्या",
+      "count": 4
+    },
+    {
+      "word": "हुआ",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "उन्होंने",
+      "count": 4
+    },
+    {
+      "word": "कुरैशी",
+      "count": 4
+    },
+    {
+      "word": "नाम",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑपरेशन गंगा",
+      "count": 2
+    },
+    {
+      "phrase": "एक ग्रुप",
+      "count": 2
+    },
+    {
+      "phrase": "हासिम कुरैशी",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "एक काम",
+      "count": 2
+    },
+    {
+      "phrase": "राजीव गांधी",
+      "count": 2
+    },
+    {
+      "phrase": "जैसे ही",
+      "count": 2
+    },
+    {
+      "phrase": "हमारी एजेंसी",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

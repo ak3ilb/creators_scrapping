@@ -1,0 +1,148 @@
+{
+  "video_id": "JSNPdn8x23o",
+  "duration_seconds": 885,
+  "wps": 2.95,
+  "total_words": 2613,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 10282
+  },
+  "hook": {
+    "type": "question",
+    "text": "भारत के हर घर में हर फर्स्ट ऐड बॉक्स में हर स्कूल, हॉस्पिटल और क्लीनिक में एक बोतल जरूर होती है डेटोल। लेकिन क्या आपने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक इमोशन, एक आदत और एक इंपैक्ट बन जाए तो वह मार्केट नहीं बल्कि दिलों पर राज करता है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 73
+    },
+    {
+      "word": "के",
+      "count": 63
+    },
+    {
+      "word": "की",
+      "count": 61
+    },
+    {
+      "word": "डेटोल",
+      "count": 49
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 44
+    },
+    {
+      "word": "को",
+      "count": 43
+    },
+    {
+      "word": "था",
+      "count": 41
+    },
+    {
+      "word": "कि",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "ने",
+      "count": 32
+    },
+    {
+      "word": "है",
+      "count": 29
+    },
+    {
+      "word": "से",
+      "count": 28
+    },
+    {
+      "word": "थी",
+      "count": 27
+    },
+    {
+      "word": "थे",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 23
+    },
+    {
+      "word": "नहीं",
+      "count": 21
+    },
+    {
+      "word": "रैकेट",
+      "count": 20
+    },
+    {
+      "word": "पर",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डेटोल की",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "नहीं बल्कि",
+      "count": 7
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 7
+    },
+    {
+      "phrase": "रही थी",
+      "count": 7
+    },
+    {
+      "phrase": "और दोस्तों",
+      "count": 7
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 6
+    },
+    {
+      "phrase": "के साथ",
+      "count": 6
+    },
+    {
+      "phrase": "साफ सफाई",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    }
+  ],
+  "segment_count": 111
+}

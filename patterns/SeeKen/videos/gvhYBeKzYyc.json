@@ -1,0 +1,149 @@
+{
+  "video_id": "gvhYBeKzYyc",
+  "duration_seconds": 798,
+  "wps": 4.03,
+  "total_words": 3212,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13091
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, what is this 7 Days Ultimate Challenge?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "from today. See you in the next video with your weekly reminder. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 115
+    },
+    {
+      "word": "you",
+      "count": 98
+    },
+    {
+      "word": "to",
+      "count": 84
+    },
+    {
+      "word": "and",
+      "count": 73
+    },
+    {
+      "word": "it",
+      "count": 52
+    },
+    {
+      "word": "in",
+      "count": 52
+    },
+    {
+      "word": "that",
+      "count": 44
+    },
+    {
+      "word": "for",
+      "count": 41
+    },
+    {
+      "word": "your",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 40
+    },
+    {
+      "word": "do",
+      "count": 33
+    },
+    {
+      "word": "of",
+      "count": 32
+    },
+    {
+      "word": "is",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 25
+    },
+    {
+      "word": "will",
+      "count": 24
+    },
+    {
+      "word": "so",
+      "count": 22
+    },
+    {
+      "word": "on",
+      "count": 22
+    },
+    {
+      "word": "if",
+      "count": 22
+    },
+    {
+      "word": "just",
+      "count": 21
+    },
+    {
+      "word": "even",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "to the",
+      "count": 10
+    },
+    {
+      "phrase": "if you",
+      "count": 10
+    },
+    {
+      "phrase": "in your",
+      "count": 9
+    },
+    {
+      "phrase": "able to",
+      "count": 9
+    },
+    {
+      "phrase": "many times",
+      "count": 8
+    },
+    {
+      "phrase": "— and",
+      "count": 8
+    },
+    {
+      "phrase": "need to",
+      "count": 8
+    },
+    {
+      "phrase": "for example",
+      "count": 8
+    },
+    {
+      "phrase": "a new",
+      "count": 8
+    }
+  ],
+  "segment_count": 281
+}

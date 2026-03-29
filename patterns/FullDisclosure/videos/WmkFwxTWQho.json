@@ -1,0 +1,148 @@
+{
+  "video_id": "WmkFwxTWQho",
+  "duration_seconds": 58,
+  "wps": 2.71,
+  "total_words": 157,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 801
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This New Year's Eve, you might not be able to order food or groceries online because delivery gig workers across India are calling for a nationwide"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "you think about this issue? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "workers",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "delivery",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "gig",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "say",
+      "count": 2
+    },
+    {
+      "word": "being",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "their",
+      "count": 2
+    },
+    {
+      "word": "an",
+      "count": 2
+    },
+    {
+      "word": "issue",
+      "count": 2
+    },
+    {
+      "word": "new",
+      "count": 1
+    },
+    {
+      "word": "year's",
+      "count": 1
+    },
+    {
+      "word": "eve",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this issue",
+      "count": 2
+    },
+    {
+      "phrase": "this new",
+      "count": 1
+    },
+    {
+      "phrase": "new year's",
+      "count": 1
+    },
+    {
+      "phrase": "year's eve",
+      "count": 1
+    },
+    {
+      "phrase": "eve you",
+      "count": 1
+    },
+    {
+      "phrase": "you might",
+      "count": 1
+    },
+    {
+      "phrase": "might not",
+      "count": 1
+    },
+    {
+      "phrase": "not be",
+      "count": 1
+    },
+    {
+      "phrase": "be able",
+      "count": 1
+    },
+    {
+      "phrase": "able to",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

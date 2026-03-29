@@ -1,0 +1,148 @@
+{
+  "video_id": "L2t9ZG5Xgrk",
+  "duration_seconds": 54,
+  "wps": 2.7,
+  "total_words": 146,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 599
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हार्ट अटैक्स आर कमिंग बिकॉज़ वी आर ईटिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एंड प्रिवेंट द प्रोग्रेशन ऑफ हार्ट अटैक।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "आर",
+      "count": 3
+    },
+    {
+      "word": "ऑयल",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "कैन",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "हार्ट",
+      "count": 2
+    },
+    {
+      "word": "शुगर",
+      "count": 2
+    },
+    {
+      "word": "फूड्स",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "रिसर्च",
+      "count": 2
+    },
+    {
+      "word": "शोन",
+      "count": 2
+    },
+    {
+      "word": "फॉर्मेशन",
+      "count": 2
+    },
+    {
+      "word": "रिवर्स",
+      "count": 2
+    },
+    {
+      "word": "अटैक्स",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "शोन दैट",
+      "count": 2
+    },
+    {
+      "phrase": "हार्ट अटैक्स",
+      "count": 1
+    },
+    {
+      "phrase": "अटैक्स आर",
+      "count": 1
+    },
+    {
+      "phrase": "आर कमिंग",
+      "count": 1
+    },
+    {
+      "phrase": "कमिंग बिकॉज़",
+      "count": 1
+    },
+    {
+      "phrase": "बिकॉज़ वी",
+      "count": 1
+    },
+    {
+      "phrase": "वी आर",
+      "count": 1
+    },
+    {
+      "phrase": "आर ईटिंग",
+      "count": 1
+    },
+    {
+      "phrase": "ईटिंग टू",
+      "count": 1
+    },
+    {
+      "phrase": "टू हाई",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

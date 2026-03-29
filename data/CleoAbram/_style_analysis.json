@@ -1,0 +1,34 @@
+{
+  "creator": "CleoAbram",
+  "total_videos_analyzed": 41,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 41,
+      "avg_wps": 2.997286189471932,
+      "avg_duration": 1112.0487804878048,
+      "common_hook_patterns": [
+        "this is",
+        "about to",
+        "going to",
+        "of the",
+        "of a",
+        "is the",
+        "to the",
+        "this this",
+        "right now",
+        "on the",
+        "the world's",
+        "have to",
+        "we're going",
+        "in this",
+        "look at"
+      ],
+      "sample_hooks": [
+        "Wait, listen to this: This sounds exactly  like Frank Sinatra is singing Get Low by Lil Jon... \"To t",
+        "Okay, ready? Today we're going to take the stuff that's in those boxes and we're going to",
+        "Time to talk about AI. Right now, we're  in this weird moment where lots of smart people agree that "
+      ]
+    }
+  },
+  "overall_avg_wps": 2.997286189471932
+}

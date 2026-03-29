@@ -1,0 +1,148 @@
+{
+  "video_id": "I1xQ3dIdUhw",
+  "duration_seconds": 37,
+  "wps": 3.05,
+  "total_words": 113,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 527
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अपग्रेड जस्ट अक्वायर्ड Unacademy."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "ब्रांड। वुड यू ट्रस्ट वन प्लेटफार्म फॉर योर एंटायर जर्नी फ्रॉम एग्जाम प्रेप टू योर फर्स्ट जॉब। लेट मी नो इन द कमेंट्स बिलो।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "अपग्रेड",
+      "count": 4
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "फुल",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 2
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "अनअकैडमी",
+      "count": 2
+    },
+    {
+      "word": "ऑन",
+      "count": 2
+    },
+    {
+      "word": "प्रेप",
+      "count": 2
+    },
+    {
+      "word": "वन",
+      "count": 2
+    },
+    {
+      "word": "फ्रॉम",
+      "count": 2
+    },
+    {
+      "word": "योर",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 1
+    },
+    {
+      "word": "अक्वायर्ड",
+      "count": 1
+    },
+    {
+      "word": "unacademy",
+      "count": 1
+    },
+    {
+      "word": "सब्सक्राइब",
+      "count": 1
+    },
+    {
+      "word": "डिस्क्लोज़र",
+      "count": 1
+    },
+    {
+      "word": "आई",
+      "count": 1
+    },
+    {
+      "word": "विल",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अपग्रेड जस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "जस्ट अक्वायर्ड",
+      "count": 1
+    },
+    {
+      "phrase": "अक्वायर्ड unacademy",
+      "count": 1
+    },
+    {
+      "phrase": "unacademy सब्सक्राइब",
+      "count": 1
+    },
+    {
+      "phrase": "सब्सक्राइब फुल",
+      "count": 1
+    },
+    {
+      "phrase": "फुल डिस्क्लोज़र",
+      "count": 1
+    },
+    {
+      "phrase": "डिस्क्लोज़र एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड आई",
+      "count": 1
+    },
+    {
+      "phrase": "आई विल",
+      "count": 1
+    },
+    {
+      "phrase": "विल ब्रेक",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

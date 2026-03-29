@@ -1,0 +1,148 @@
+{
+  "video_id": "jtzmqcjVi80",
+  "duration_seconds": 69,
+  "wps": 3.65,
+  "total_words": 252,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 924
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सेल्स के नाम पर ब्रांड्स आपको कितना पागल बना रही है, आपको पता भी नहीं है। आप यह देख के शॉक हो जाओगे कि सेल में इस टीवी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "करने से पहले स्मार्ट कस्टमर बनो एंड अपने और पैसे बचाओ और हां मुझे फॉलो करना मत भूलना। हां।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "प्राइस",
+      "count": 16
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "आप",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "सकते",
+      "count": 6
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "सेल",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "लोएस्ट",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर सकते",
+      "count": 5
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 5
+    },
+    {
+      "phrase": "का प्राइस",
+      "count": 3
+    },
+    {
+      "phrase": "हो कि",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "तो आप",
+      "count": 3
+    },
+    {
+      "phrase": "के नाम",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "कि सेल",
+      "count": 2
+    },
+    {
+      "phrase": "सेल में",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

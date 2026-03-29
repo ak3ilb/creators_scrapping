@@ -1,0 +1,149 @@
+{
+  "video_id": "79wvIU2XZjM",
+  "duration_seconds": 1135,
+  "wps": 2.59,
+  "total_words": 2937,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14407
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Dhirubhai Ambani was one of India’s greatest businessmen."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked the video, I would recommend watching this video next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 149
+    },
+    {
+      "word": "to",
+      "count": 78
+    },
+    {
+      "word": "was",
+      "count": 71
+    },
+    {
+      "word": "in",
+      "count": 69
+    },
+    {
+      "word": "of",
+      "count": 55
+    },
+    {
+      "word": "he",
+      "count": 55
+    },
+    {
+      "word": "and",
+      "count": 52
+    },
+    {
+      "word": "dhirubhai",
+      "count": 40
+    },
+    {
+      "word": "this",
+      "count": 34
+    },
+    {
+      "word": "his",
+      "count": 32
+    },
+    {
+      "word": "for",
+      "count": 32
+    },
+    {
+      "word": "that",
+      "count": 28
+    },
+    {
+      "word": "reliance",
+      "count": 23
+    },
+    {
+      "word": "had",
+      "count": 23
+    },
+    {
+      "word": "at",
+      "count": 23
+    },
+    {
+      "word": "but",
+      "count": 22
+    },
+    {
+      "word": "from",
+      "count": 21
+    },
+    {
+      "word": "as",
+      "count": 19
+    },
+    {
+      "word": "with",
+      "count": 19
+    },
+    {
+      "word": "on",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "at the",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "in aden",
+      "count": 6
+    },
+    {
+      "phrase": "on the",
+      "count": 6
+    },
+    {
+      "phrase": "it was",
+      "count": 6
+    },
+    {
+      "phrase": "reliance shares",
+      "count": 6
+    },
+    {
+      "phrase": "he had",
+      "count": 5
+    },
+    {
+      "phrase": "as a",
+      "count": 5
+    },
+    {
+      "phrase": "percent of",
+      "count": 5
+    }
+  ],
+  "segment_count": 302
+}

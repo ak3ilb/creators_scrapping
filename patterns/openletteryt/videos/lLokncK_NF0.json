@@ -1,0 +1,150 @@
+{
+  "video_id": "lLokncK_NF0",
+  "duration_seconds": 1416,
+  "wps": 3.89,
+  "total_words": 5512,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 20536
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ऐसी बहुत सारी चीजें पिछले दो-तीन हफ्तों में हुई हैं जिस पे साफ-साफ ऑफिशियल सोर्सेस के थ्रू बात करनी जरूरी है। क्योंकि हमारी मीडिया से लेकर हमारे सोशल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वाचिंग।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 153
+    },
+    {
+      "word": "के",
+      "count": 129
+    },
+    {
+      "word": "और",
+      "count": 107
+    },
+    {
+      "word": "में",
+      "count": 105
+    },
+    {
+      "word": "तो",
+      "count": 102
+    },
+    {
+      "word": "कि",
+      "count": 83
+    },
+    {
+      "word": "से",
+      "count": 80
+    },
+    {
+      "word": "भी",
+      "count": 71
+    },
+    {
+      "word": "को",
+      "count": 70
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 69
+    },
+    {
+      "word": "की",
+      "count": 67
+    },
+    {
+      "word": "ने",
+      "count": 63
+    },
+    {
+      "word": "पर",
+      "count": 63
+    },
+    {
+      "word": "हो",
+      "count": 62
+    },
+    {
+      "word": "कर",
+      "count": 62
+    },
+    {
+      "word": "हैं",
+      "count": 60
+    },
+    {
+      "word": "था",
+      "count": 55
+    },
+    {
+      "word": "ये",
+      "count": 52
+    },
+    {
+      "word": "नहीं",
+      "count": 46
+    },
+    {
+      "word": "जो",
+      "count": 45
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "सीज फायर",
+      "count": 18
+    },
+    {
+      "phrase": "है तो",
+      "count": 18
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 17
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 14
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 14
+    },
+    {
+      "phrase": "पाकिस्तान ने",
+      "count": 12
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 12
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 11
+    }
+  ],
+  "segment_count": 179
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "vCrQkTJpKCU",
+  "duration_seconds": 91,
+  "wps": 3.78,
+  "total_words": 344,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1239
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एसआईपी करना हमेशा से ही एक अच्छा ऑप्शन"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अपडेट्स के लिए मुझे फॉलो जरूर कर लेना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 21
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "फंड",
+      "count": 9
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "इयर्स",
+      "count": 7
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "इन्वेस्टमेंट",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "रिबैलेंस",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस फंड",
+      "count": 3
+    },
+    {
+      "phrase": "फाइव इयर्स",
+      "count": 3
+    },
+    {
+      "phrase": "एक अच्छा",
+      "count": 2
+    },
+    {
+      "phrase": "अच्छा ऑप्शन",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "ग्लोबल क्राइसिस",
+      "count": 2
+    },
+    {
+      "phrase": "क्राइसिस के",
+      "count": 2
+    },
+    {
+      "phrase": "के टाइम",
+      "count": 2
+    },
+    {
+      "phrase": "टाइम पर",
+      "count": 2
+    },
+    {
+      "phrase": "पर भी",
+      "count": 2
+    }
+  ],
+  "segment_count": 41
+}

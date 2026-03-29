@@ -1,0 +1,149 @@
+{
+  "video_id": "9-EQOk-6_RI",
+  "duration_seconds": 889,
+  "wps": 3.62,
+  "total_words": 3215,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13656
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, when a tired Vikram once again reached"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "We’ll do it every Sunday together. Till then, bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 105
+    },
+    {
+      "word": "to",
+      "count": 94
+    },
+    {
+      "word": "you",
+      "count": 66
+    },
+    {
+      "word": "and",
+      "count": 63
+    },
+    {
+      "word": "he",
+      "count": 50
+    },
+    {
+      "word": "that",
+      "count": 48
+    },
+    {
+      "word": "his",
+      "count": 45
+    },
+    {
+      "word": "this",
+      "count": 45
+    },
+    {
+      "word": "in",
+      "count": 43
+    },
+    {
+      "word": "for",
+      "count": 35
+    },
+    {
+      "word": "it",
+      "count": 32
+    },
+    {
+      "word": "is",
+      "count": 31
+    },
+    {
+      "word": "on",
+      "count": 30
+    },
+    {
+      "word": "do",
+      "count": 29
+    },
+    {
+      "word": "but",
+      "count": 27
+    },
+    {
+      "word": "vikram",
+      "count": 26
+    },
+    {
+      "word": "of",
+      "count": 26
+    },
+    {
+      "word": "with",
+      "count": 26
+    },
+    {
+      "word": "at",
+      "count": 24
+    },
+    {
+      "word": "can",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "to the",
+      "count": 20
+    },
+    {
+      "phrase": "the gym",
+      "count": 16
+    },
+    {
+      "phrase": "go to",
+      "count": 14
+    },
+    {
+      "phrase": "you can",
+      "count": 13
+    },
+    {
+      "phrase": "in the",
+      "count": 13
+    },
+    {
+      "phrase": "do it",
+      "count": 9
+    },
+    {
+      "phrase": "if you",
+      "count": 8
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "to go",
+      "count": 8
+    },
+    {
+      "phrase": "the office",
+      "count": 7
+    }
+  ],
+  "segment_count": 318
+}

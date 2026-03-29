@@ -1,0 +1,148 @@
+{
+  "video_id": "U4OsMLDRJeE",
+  "duration_seconds": 746,
+  "wps": 2.96,
+  "total_words": 2208,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8925
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया पाकिस्तान का वॉर अब भी जारी है। ऑपरेशन बाम पाकिस्तान के इतिहास का सबसे बड़ा आतंकी हमला बलूचिस्तान को पाकिस्तान"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बिलो एंड सी यू नेक्स्ट टाइम।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "है",
+      "count": 77
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 52
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "ही",
+      "count": 32
+    },
+    {
+      "word": "और",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "पर",
+      "count": 28
+    },
+    {
+      "word": "की",
+      "count": 27
+    },
+    {
+      "word": "नहीं",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "हैं",
+      "count": 24
+    },
+    {
+      "word": "ने",
+      "count": 21
+    },
+    {
+      "word": "इस",
+      "count": 21
+    },
+    {
+      "word": "तो",
+      "count": 20
+    },
+    {
+      "word": "का",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 18
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    },
+    {
+      "phrase": "ऑपरेशन बाम",
+      "count": 7
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 7
+    },
+    {
+      "phrase": "पहले ही",
+      "count": 6
+    },
+    {
+      "phrase": "बलूचिस्तान को",
+      "count": 5
+    },
+    {
+      "phrase": "पाकिस्तान से",
+      "count": 5
+    },
+    {
+      "phrase": "दिया है",
+      "count": 5
+    }
+  ],
+  "segment_count": 96
+}

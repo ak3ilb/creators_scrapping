@@ -1,0 +1,150 @@
+{
+  "video_id": "ofuAoC3Qky4",
+  "duration_seconds": 742,
+  "wps": 4.45,
+  "total_words": 3301,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 12097
+  },
+  "hook": {
+    "type": "question",
+    "text": "पीछे एक न्यूज़ निकल के आई थी कि ईलॉन मस्क की नेटवर्थ 750 बिलियन से भी ज्यादा हो गई है। बट अगर हम लोग आज से कुछ टाइम पहले देखें तो ईलॉन मस्क और डोनल्ड ट्रंप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अंदर इन्वेस्ट किया करो। बाकी मैं मिलता हूं तुमसे अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 152
+    },
+    {
+      "word": "है",
+      "count": 147
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "अंदर",
+      "count": 89
+    },
+    {
+      "word": "की",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 53
+    },
+    {
+      "word": "तो",
+      "count": 53
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "यूएस",
+      "count": 49
+    },
+    {
+      "word": "लोग",
+      "count": 47
+    },
+    {
+      "word": "हो",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 41
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "वो",
+      "count": 36
+    },
+    {
+      "word": "कर",
+      "count": 35
+    },
+    {
+      "word": "हैं",
+      "count": 34
+    },
+    {
+      "word": "डॉलर",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 32
+    },
+    {
+      "word": "का",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 81
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "यूएस डॉलर",
+      "count": 23
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 20
+    },
+    {
+      "phrase": "अंदर इन्वेस्ट",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "स्टॉक मार्केट",
+      "count": 16
+    },
+    {
+      "phrase": "मार्केट के",
+      "count": 15
+    },
+    {
+      "phrase": "है तो",
+      "count": 15
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 14
+    }
+  ],
+  "segment_count": 94
+}

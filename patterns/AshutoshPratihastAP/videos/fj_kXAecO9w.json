@@ -1,0 +1,148 @@
+{
+  "video_id": "fj_kXAecO9w",
+  "duration_seconds": 104,
+  "wps": 3.12,
+  "total_words": 324,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1259
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एंप्लॉयज कितने हैं 1 लाख प्लस कहिए अभी एक लाख प्लस हो चुके हैं बहुत-बहुत मुबारक हो आपको मेनी कांग्रेचुलेशन 00 से मैंने"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "में दिए गए लिंक को फॉलो करें या youtube1 मेरा द रेज"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "आज",
+      "count": 4
+    },
+    {
+      "word": "बिजनेस",
+      "count": 4
+    },
+    {
+      "word": "प्लस",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "सूरत",
+      "count": 3
+    },
+    {
+      "word": "सर",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "दिखने",
+      "count": 3
+    },
+    {
+      "word": "अजमेरा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लाख प्लस",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "है सर",
+      "count": 2
+    },
+    {
+      "phrase": "जी दिखने",
+      "count": 2
+    },
+    {
+      "phrase": "वाली है",
+      "count": 2
+    },
+    {
+      "phrase": "आज हम",
+      "count": 2
+    },
+    {
+      "phrase": "से भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "एंप्लॉयज कितने",
+      "count": 1
+    }
+  ],
+  "segment_count": 13
+}

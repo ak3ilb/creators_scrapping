@@ -1,0 +1,148 @@
+{
+  "video_id": "4gGtswJmKm4",
+  "duration_seconds": 59,
+  "wps": 3.22,
+  "total_words": 190,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 662
+  },
+  "hook": {
+    "type": "statement",
+    "text": "जब आप पहले दिन स्पेशल फोर्सेस ट्रेनिंग जिसमें आपका सिलेक्शन प्रोसेस है आप उसके लिए पहुंचते हैं। पहले दिन ही आपका एक बडी नियुक्त कर देंगे। कई केसेस में व्हाट दे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ये आपने मिस कर दिया था"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "पहले",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "कई",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "सिलेक्शन",
+      "count": 3
+    },
+    {
+      "word": "प्रोसेस",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "व्हाट",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "बार",
+      "count": 3
+    },
+    {
+      "word": "स्पेशल",
+      "count": 2
+    },
+    {
+      "word": "जिसमें",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पहले दिन",
+      "count": 3
+    },
+    {
+      "phrase": "सिलेक्शन प्रोसेस",
+      "count": 3
+    },
+    {
+      "phrase": "हो रहे",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    },
+    {
+      "phrase": "कई बार",
+      "count": 3
+    },
+    {
+      "phrase": "दिन ही",
+      "count": 2
+    },
+    {
+      "phrase": "एक बडी",
+      "count": 2
+    },
+    {
+      "phrase": "लॉग ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "कंधे पे",
+      "count": 2
+    },
+    {
+      "phrase": "हैं कई",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

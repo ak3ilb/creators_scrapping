@@ -1,0 +1,149 @@
+{
+  "video_id": "yTbRXsicpMc",
+  "duration_seconds": 1159,
+  "wps": 3.1,
+  "total_words": 3591,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15574
+  },
+  "hook": {
+    "type": "question",
+    "text": "A happily living home, 2 small kids, and their happy parents. These 4 people were living their life very happily,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "if you want to know then click on the right side video, you’ll understand."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 117
+    },
+    {
+      "word": "to",
+      "count": 104
+    },
+    {
+      "word": "the",
+      "count": 94
+    },
+    {
+      "word": "of",
+      "count": 94
+    },
+    {
+      "word": "this",
+      "count": 66
+    },
+    {
+      "word": "you",
+      "count": 63
+    },
+    {
+      "word": "in",
+      "count": 54
+    },
+    {
+      "word": "is",
+      "count": 45
+    },
+    {
+      "word": "your",
+      "count": 45
+    },
+    {
+      "word": "that",
+      "count": 44
+    },
+    {
+      "word": "but",
+      "count": 40
+    },
+    {
+      "word": "then",
+      "count": 40
+    },
+    {
+      "word": "it",
+      "count": 36
+    },
+    {
+      "word": "for",
+      "count": 35
+    },
+    {
+      "word": "on",
+      "count": 30
+    },
+    {
+      "word": "money",
+      "count": 29
+    },
+    {
+      "word": "or",
+      "count": 28
+    },
+    {
+      "word": "if",
+      "count": 27
+    },
+    {
+      "word": "are",
+      "count": 25
+    },
+    {
+      "word": "credit",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "credit card",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 12
+    },
+    {
+      "phrase": "you’ve to",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "because of",
+      "count": 10
+    },
+    {
+      "phrase": "this video",
+      "count": 10
+    },
+    {
+      "phrase": "want to",
+      "count": 10
+    },
+    {
+      "phrase": "if you",
+      "count": 9
+    },
+    {
+      "phrase": "a credit",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 7
+    }
+  ],
+  "segment_count": 145
+}

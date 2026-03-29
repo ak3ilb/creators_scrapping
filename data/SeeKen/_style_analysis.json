@@ -1,0 +1,34 @@
+{
+  "creator": "SeeKen",
+  "total_videos_analyzed": 43,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 43,
+      "avg_wps": 3.7043478505579754,
+      "avg_duration": 1120.1162790697674,
+      "common_hook_patterns": [
+        "hey friends",
+        "हे दोस्तों",
+        "friends do",
+        "do you",
+        "you know",
+        "हुई थी।",
+        "in the",
+        "रहा था",
+        "रहे थे।",
+        "it was",
+        "के बारे",
+        "बारे में",
+        "what you",
+        "you can",
+        "of people"
+      ],
+      "sample_hooks": [
+        "A very interesting story has been shared in a book about Janice Schonfeld, a 46-year-old woman who h",
+        "एक बहुत ही ठंडी रात थी। फार्म हाउस के बाहर जानवर खड़े थे। जिन्हें रोशनी में कुछ परछाइयां दिख रही थी।",
+        "Hey friends, one evening in **Baghdad**, a poor fisherman was trying to catch fish in the **River Ti"
+      ]
+    }
+  },
+  "overall_avg_wps": 3.7043478505579754
+}

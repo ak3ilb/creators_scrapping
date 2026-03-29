@@ -1,0 +1,149 @@
+{
+  "video_id": "wYWL1B6Zw00",
+  "duration_seconds": 769,
+  "wps": 2.77,
+  "total_words": 2130,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8385
+  },
+  "hook": {
+    "type": "statement",
+    "text": "फरवरी 2018 डॉनल्ड ट्रंप के यूएस के 45वें प्रेसिडेंट बनने के सिर्फ एक ही साल बाद"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिए स्टे क्यूरियस, कीप लर्निंग, जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 73
+    },
+    {
+      "word": "के",
+      "count": 62
+    },
+    {
+      "word": "चाइना",
+      "count": 55
+    },
+    {
+      "word": "में",
+      "count": 50
+    },
+    {
+      "word": "और",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "इंडिया",
+      "count": 24
+    },
+    {
+      "word": "को",
+      "count": 23
+    },
+    {
+      "word": "हैं",
+      "count": 23
+    },
+    {
+      "word": "ही",
+      "count": 20
+    },
+    {
+      "word": "भी",
+      "count": 20
+    },
+    {
+      "word": "ने",
+      "count": 18
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "तो",
+      "count": 17
+    },
+    {
+      "word": "कि",
+      "count": 16
+    },
+    {
+      "word": "देश",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "चाइना ने",
+      "count": 8
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 7
+    },
+    {
+      "phrase": "चाइना की",
+      "count": 6
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 6
+    },
+    {
+      "phrase": "चाइना के",
+      "count": 6
+    },
+    {
+      "phrase": "और इसीलिए",
+      "count": 6
+    },
+    {
+      "phrase": "सिर्फ एक",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    }
+  ],
+  "segment_count": 95
+}

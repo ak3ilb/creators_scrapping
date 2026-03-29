@@ -1,0 +1,149 @@
+{
+  "video_id": "5__3bGp7yoU",
+  "duration_seconds": 1078,
+  "wps": 3.63,
+  "total_words": 3917,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 15285
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आपने फेमस पास्टर बजिंदर सिंह की रील जरूर देखी होगी। हाथ उठाओ और देखो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिए नहीं बने थे। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 167
+    },
+    {
+      "word": "के",
+      "count": 135
+    },
+    {
+      "word": "में",
+      "count": 108
+    },
+    {
+      "word": "और",
+      "count": 96
+    },
+    {
+      "word": "हैं",
+      "count": 89
+    },
+    {
+      "word": "को",
+      "count": 59
+    },
+    {
+      "word": "से",
+      "count": 59
+    },
+    {
+      "word": "कि",
+      "count": 58
+    },
+    {
+      "word": "भी",
+      "count": 53
+    },
+    {
+      "word": "की",
+      "count": 52
+    },
+    {
+      "word": "जो",
+      "count": 42
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "हो",
+      "count": 40
+    },
+    {
+      "word": "तो",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "लिए",
+      "count": 35
+    },
+    {
+      "word": "क्रिश्चियनिटी",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 31
+    },
+    {
+      "word": "वो",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 33
+    },
+    {
+      "phrase": "के लिए",
+      "count": 30
+    },
+    {
+      "phrase": "हैं और",
+      "count": 18
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "रहा है",
+      "count": 15
+    },
+    {
+      "phrase": "जाता है",
+      "count": 15
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 12
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 12
+    },
+    {
+      "phrase": "भारत में",
+      "count": 11
+    }
+  ],
+  "segment_count": 134
+}

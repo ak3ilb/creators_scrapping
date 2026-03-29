@@ -1,0 +1,149 @@
+{
+  "video_id": "vlrQ7jSxPkk",
+  "duration_seconds": 931,
+  "wps": 3.07,
+  "total_words": 2855,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10927
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक गरीब किसान का बेटा जो सिनेमा हॉल में चौकीदारी करके महीने के सिर्फ 90 कमाता था कौन यकीन करेगा कि एक दिन वो ऐसी कंपनी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जज्बे की कहानी भी है जो कि हर मु को अवसर में बदल देती है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 89
+    },
+    {
+      "word": "में",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 76
+    },
+    {
+      "word": "को",
+      "count": 58
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "कि",
+      "count": 49
+    },
+    {
+      "word": "है",
+      "count": 49
+    },
+    {
+      "word": "भी",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "का",
+      "count": 45
+    },
+    {
+      "word": "ही",
+      "count": 40
+    },
+    {
+      "word": "वेफर्स",
+      "count": 37
+    },
+    {
+      "word": "भाई",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "ने",
+      "count": 29
+    },
+    {
+      "word": "बालाजी",
+      "count": 29
+    },
+    {
+      "word": "चंदू",
+      "count": 28
+    },
+    {
+      "word": "था",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "नहीं",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चंदू भाई",
+      "count": 28
+    },
+    {
+      "phrase": "बालाजी वेफर्स",
+      "count": 16
+    },
+    {
+      "phrase": "और फिर",
+      "count": 13
+    },
+    {
+      "phrase": "पोटैटो वेफर्स",
+      "count": 12
+    },
+    {
+      "phrase": "वेफर्स की",
+      "count": 11
+    },
+    {
+      "phrase": "भाई ने",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 10
+    },
+    {
+      "phrase": "जो कि",
+      "count": 9
+    },
+    {
+      "phrase": "के बाद",
+      "count": 9
+    }
+  ],
+  "segment_count": 119
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "z4BCBRGhycY",
+  "duration_seconds": 747,
+  "wps": 2.85,
+  "total_words": 2126,
+  "language_mix": {
+    "hindi": 96.5,
+    "english": 3.5,
+    "total_chars": 8142
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "तूफान यह जब भी उठा करते हैं या हवाओं की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "को",
+      "count": 56
+    },
+    {
+      "word": "में",
+      "count": 52
+    },
+    {
+      "word": "के",
+      "count": 42
+    },
+    {
+      "word": "है",
+      "count": 41
+    },
+    {
+      "word": "थम्स",
+      "count": 41
+    },
+    {
+      "word": "अप",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 25
+    },
+    {
+      "word": "से",
+      "count": 23
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "नहीं",
+      "count": 22
+    },
+    {
+      "word": "मार्केट",
+      "count": 21
+    },
+    {
+      "word": "ने",
+      "count": 21
+    },
+    {
+      "word": "का",
+      "count": 21
+    },
+    {
+      "word": "एक",
+      "count": 20
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "हैं",
+      "count": 17
+    },
+    {
+      "word": "ही",
+      "count": 17
+    },
+    {
+      "word": "लेकिन",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "थम्स अप",
+      "count": 37
+    },
+    {
+      "phrase": "को c",
+      "count": 10
+    },
+    {
+      "phrase": "c को",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "होती है",
+      "count": 6
+    },
+    {
+      "phrase": "कोका कोला",
+      "count": 6
+    },
+    {
+      "phrase": "के पास",
+      "count": 5
+    },
+    {
+      "phrase": "अप को",
+      "count": 5
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 5
+    }
+  ],
+  "segment_count": 281
+}

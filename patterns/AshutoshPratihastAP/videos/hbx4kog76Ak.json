@@ -1,0 +1,149 @@
+{
+  "video_id": "hbx4kog76Ak",
+  "duration_seconds": 1237,
+  "wps": 3.02,
+  "total_words": 3735,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15830
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Albania GDP 17.74 billion US Dollars."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you want to know, watch the video at the right. You will understand."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 160
+    },
+    {
+      "word": "the",
+      "count": 138
+    },
+    {
+      "word": "to",
+      "count": 105
+    },
+    {
+      "word": "is",
+      "count": 93
+    },
+    {
+      "word": "of",
+      "count": 87
+    },
+    {
+      "word": "that",
+      "count": 81
+    },
+    {
+      "word": "and",
+      "count": 74
+    },
+    {
+      "word": "this",
+      "count": 69
+    },
+    {
+      "word": "money",
+      "count": 57
+    },
+    {
+      "word": "it",
+      "count": 53
+    },
+    {
+      "word": "in",
+      "count": 52
+    },
+    {
+      "word": "have",
+      "count": 44
+    },
+    {
+      "word": "your",
+      "count": 44
+    },
+    {
+      "word": "will",
+      "count": 42
+    },
+    {
+      "word": "if",
+      "count": 39
+    },
+    {
+      "word": "are",
+      "count": 36
+    },
+    {
+      "word": "for",
+      "count": 34
+    },
+    {
+      "word": "all",
+      "count": 30
+    },
+    {
+      "word": "be",
+      "count": 28
+    },
+    {
+      "word": "not",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 21
+    },
+    {
+      "phrase": "you will",
+      "count": 19
+    },
+    {
+      "phrase": "a lot",
+      "count": 18
+    },
+    {
+      "phrase": "that you",
+      "count": 16
+    },
+    {
+      "phrase": "have to",
+      "count": 14
+    },
+    {
+      "phrase": "lot of",
+      "count": 14
+    },
+    {
+      "phrase": "you can",
+      "count": 13
+    },
+    {
+      "phrase": "this is",
+      "count": 12
+    },
+    {
+      "phrase": "of money",
+      "count": 12
+    },
+    {
+      "phrase": "is a",
+      "count": 12
+    }
+  ],
+  "segment_count": 156
+}

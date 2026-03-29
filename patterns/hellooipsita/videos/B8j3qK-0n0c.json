@@ -1,0 +1,148 @@
+{
+  "video_id": "B8j3qK-0n0c",
+  "duration_seconds": 569,
+  "wps": 2.78,
+  "total_words": 1583,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 5506
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इफट यू सीम लाइक सच अ काम पर्सन हाउ डिड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यू इन द नेक्स्ट वीडियो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 51
+    },
+    {
+      "word": "आई",
+      "count": 46
+    },
+    {
+      "word": "दैट",
+      "count": 38
+    },
+    {
+      "word": "यू",
+      "count": 35
+    },
+    {
+      "word": "एंड",
+      "count": 32
+    },
+    {
+      "word": "इज",
+      "count": 31
+    },
+    {
+      "word": "ऑफ",
+      "count": 24
+    },
+    {
+      "word": "माय",
+      "count": 23
+    },
+    {
+      "word": "इन",
+      "count": 20
+    },
+    {
+      "word": "इट",
+      "count": 18
+    },
+    {
+      "word": "दिस",
+      "count": 18
+    },
+    {
+      "word": "टाइम",
+      "count": 18
+    },
+    {
+      "word": "एम",
+      "count": 17
+    },
+    {
+      "word": "बी",
+      "count": 16
+    },
+    {
+      "word": "ऑन",
+      "count": 15
+    },
+    {
+      "word": "फॉर",
+      "count": 14
+    },
+    {
+      "word": "योर",
+      "count": 14
+    },
+    {
+      "word": "मी",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "सेम",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आई एम",
+      "count": 16
+    },
+    {
+      "phrase": "व्हाट एवर",
+      "count": 9
+    },
+    {
+      "phrase": "द सेम",
+      "count": 8
+    },
+    {
+      "phrase": "दैट आई",
+      "count": 8
+    },
+    {
+      "phrase": "मे बी",
+      "count": 8
+    },
+    {
+      "phrase": "इज द",
+      "count": 7
+    },
+    {
+      "phrase": "गिव इट",
+      "count": 7
+    },
+    {
+      "phrase": "गोइंग टू",
+      "count": 7
+    },
+    {
+      "phrase": "वे दैट",
+      "count": 6
+    },
+    {
+      "phrase": "यू आर",
+      "count": 5
+    }
+  ],
+  "segment_count": 189
+}

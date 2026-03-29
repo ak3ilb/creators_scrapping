@@ -1,0 +1,149 @@
+{
+  "video_id": "h_F0AMqGKLk",
+  "duration_seconds": 42,
+  "wps": 3.1,
+  "total_words": 130,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 721
+  },
+  "hook": {
+    "type": "question",
+    "text": "This internship portal could land you an internship at Google and Salesforce. If you're in college, the real problem isn't lack of opportunities, it's a lack"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "earlier, many early career mistakes [music] wouldn't even happen. So, don't treat this as just another government portal. The link [music] is in the pinned comment below."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "government",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "internship",
+      "count": 3
+    },
+    {
+      "word": "portal",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "salesforce",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "lack",
+      "count": 2
+    },
+    {
+      "word": "opportunities",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "internships",
+      "count": 2
+    },
+    {
+      "word": "companies",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "internship portal",
+      "count": 2
+    },
+    {
+      "phrase": "lack of",
+      "count": 2
+    },
+    {
+      "phrase": "government music",
+      "count": 2
+    },
+    {
+      "phrase": "struggle because",
+      "count": 2
+    },
+    {
+      "phrase": "this internship",
+      "count": 1
+    },
+    {
+      "phrase": "portal could",
+      "count": 1
+    },
+    {
+      "phrase": "could land",
+      "count": 1
+    },
+    {
+      "phrase": "land you",
+      "count": 1
+    },
+    {
+      "phrase": "you an",
+      "count": 1
+    },
+    {
+      "phrase": "an internship",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

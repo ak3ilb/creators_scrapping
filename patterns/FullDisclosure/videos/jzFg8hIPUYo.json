@@ -1,0 +1,148 @@
+{
+  "video_id": "jzFg8hIPUYo",
+  "duration_seconds": 62,
+  "wps": 2.79,
+  "total_words": 173,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 816
+  },
+  "hook": {
+    "type": "question",
+    "text": "Is an MBA still worth it in 2026?"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "world, is an MBA still relevant or just expensive validation? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "top",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "still",
+      "count": 4
+    },
+    {
+      "word": "schools",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "hire",
+      "count": 4
+    },
+    {
+      "word": "an",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "from",
+      "count": 3
+    },
+    {
+      "word": "lak",
+      "count": 3
+    },
+    {
+      "word": "rupees",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "mba",
+      "count": 2
+    },
+    {
+      "word": "2026",
+      "count": 2
+    },
+    {
+      "word": "im",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "average",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "b schools",
+      "count": 3
+    },
+    {
+      "phrase": "lak rupees",
+      "count": 3
+    },
+    {
+      "phrase": "is an",
+      "count": 2
+    },
+    {
+      "phrase": "an mba",
+      "count": 2
+    },
+    {
+      "phrase": "mba still",
+      "count": 2
+    },
+    {
+      "phrase": "in 2026",
+      "count": 2
+    },
+    {
+      "phrase": "campuses so",
+      "count": 2
+    },
+    {
+      "phrase": "they hire",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "still worth",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

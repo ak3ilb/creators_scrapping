@@ -1,0 +1,150 @@
+{
+  "video_id": "TicGulBsnLc",
+  "duration_seconds": 2014,
+  "wps": 4.55,
+  "total_words": 9157,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 32461
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "और इस कांसेप्ट के अंदर कुछ गलत भी नहीं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो तो जाके जरूर से चेक आउट करना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 420
+    },
+    {
+      "word": "के",
+      "count": 330
+    },
+    {
+      "word": "और",
+      "count": 199
+    },
+    {
+      "word": "तो",
+      "count": 192
+    },
+    {
+      "word": "हैं",
+      "count": 139
+    },
+    {
+      "word": "को",
+      "count": 136
+    },
+    {
+      "word": "हो",
+      "count": 134
+    },
+    {
+      "word": "नहीं",
+      "count": 127
+    },
+    {
+      "word": "अंदर",
+      "count": 124
+    },
+    {
+      "word": "कि",
+      "count": 122
+    },
+    {
+      "word": "लोग",
+      "count": 122
+    },
+    {
+      "word": "से",
+      "count": 117
+    },
+    {
+      "word": "भी",
+      "count": 115
+    },
+    {
+      "word": "भैया",
+      "count": 98
+    },
+    {
+      "word": "ना",
+      "count": 91
+    },
+    {
+      "word": "एक",
+      "count": 88
+    },
+    {
+      "word": "की",
+      "count": 84
+    },
+    {
+      "word": "वो",
+      "count": 77
+    },
+    {
+      "word": "आप",
+      "count": 75
+    },
+    {
+      "word": "का",
+      "count": 74
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 111
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 66
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 51
+    },
+    {
+      "phrase": "है और",
+      "count": 45
+    },
+    {
+      "phrase": "है कि",
+      "count": 40
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 39
+    },
+    {
+      "phrase": "के लिए",
+      "count": 36
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 35
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 34
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 26
+    }
+  ],
+  "segment_count": 1086
+}

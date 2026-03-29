@@ -1,0 +1,149 @@
+{
+  "video_id": "LbSFLEadK8Y",
+  "duration_seconds": 1148,
+  "wps": 3.63,
+  "total_words": 4168,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 17823
+  },
+  "hook": {
+    "type": "question",
+    "text": "“Hey friends, do you know who the most powerful person in the"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Alright, that’s it for today. See you in the next video. Bye-bye!”"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 155
+    },
+    {
+      "word": "and",
+      "count": 133
+    },
+    {
+      "word": "you",
+      "count": 123
+    },
+    {
+      "word": "to",
+      "count": 91
+    },
+    {
+      "word": "he",
+      "count": 74
+    },
+    {
+      "word": "that",
+      "count": 62
+    },
+    {
+      "word": "in",
+      "count": 59
+    },
+    {
+      "word": "it",
+      "count": 59
+    },
+    {
+      "word": "of",
+      "count": 57
+    },
+    {
+      "word": "this",
+      "count": 53
+    },
+    {
+      "word": "one",
+      "count": 49
+    },
+    {
+      "word": "is",
+      "count": 47
+    },
+    {
+      "word": "for",
+      "count": 42
+    },
+    {
+      "word": "your",
+      "count": 41
+    },
+    {
+      "word": "his",
+      "count": 36
+    },
+    {
+      "word": "was",
+      "count": 33
+    },
+    {
+      "word": "what",
+      "count": 33
+    },
+    {
+      "word": "write",
+      "count": 33
+    },
+    {
+      "word": "do",
+      "count": 29
+    },
+    {
+      "word": "many",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "if you",
+      "count": 14
+    },
+    {
+      "phrase": "in his",
+      "count": 13
+    },
+    {
+      "phrase": "one minute",
+      "count": 12
+    },
+    {
+      "phrase": "you know",
+      "count": 11
+    },
+    {
+      "phrase": "you can",
+      "count": 11
+    },
+    {
+      "phrase": "is the",
+      "count": 11
+    },
+    {
+      "phrase": "and the",
+      "count": 9
+    },
+    {
+      "phrase": "for just",
+      "count": 9
+    },
+    {
+      "phrase": "just one",
+      "count": 9
+    }
+  ],
+  "segment_count": 390
+}

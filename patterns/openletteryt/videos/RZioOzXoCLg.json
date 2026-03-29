@@ -1,0 +1,149 @@
+{
+  "video_id": "RZioOzXoCLg",
+  "duration_seconds": 704,
+  "wps": 4.26,
+  "total_words": 3001,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 11250
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हर जनरेशन के पेरेंट अपनी पैरेंटिंग को तो बेस्ट बताते हैं, लेकिन अपने से पहले जनरेशन वाले पेरेंट्स की पैरेंटिंग को प्रॉब्लमैटिक बताते हैं। आज इंडियन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लो। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 117
+    },
+    {
+      "word": "हैं",
+      "count": 80
+    },
+    {
+      "word": "के",
+      "count": 70
+    },
+    {
+      "word": "में",
+      "count": 64
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "तो",
+      "count": 54
+    },
+    {
+      "word": "भी",
+      "count": 52
+    },
+    {
+      "word": "नहीं",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "पेरेंट्स",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "बच्चे",
+      "count": 36
+    },
+    {
+      "word": "बच्चों",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 26
+    },
+    {
+      "word": "रहे",
+      "count": 23
+    },
+    {
+      "word": "बच्चा",
+      "count": 20
+    },
+    {
+      "word": "करने",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "है और",
+      "count": 19
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 16
+    },
+    {
+      "phrase": "हैं और",
+      "count": 14
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "बच्चों के",
+      "count": 11
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "न्यू एज",
+      "count": 8
+    }
+  ],
+  "segment_count": 88
+}

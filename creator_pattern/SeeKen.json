@@ -1,0 +1,29 @@
+{
+  "creator": "SeeKen",
+  "last_updated": "2026-03-29T14:31:24.709413",
+  "pacing": {
+    "avg_wps": 3.7043478505579754,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.7043478505579754,
+        "duration": 1120.1162790697674
+      }
+    }
+  },
+  "signature_hooks": [
+    "के बारे",
+    "it was",
+    "बारे में",
+    "what you",
+    "do you",
+    "hey friends",
+    "हे दोस्तों",
+    "friends do",
+    "हुई थी।",
+    "रहे थे।"
+  ],
+  "uniqueness_traits": [
+    "High Energy / Fast Paced",
+    "Storytelling Specialist"
+  ]
+}

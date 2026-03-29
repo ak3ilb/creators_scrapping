@@ -1,0 +1,149 @@
+{
+  "video_id": "7YhZpGhj4TQ",
+  "duration_seconds": 607,
+  "wps": 3.17,
+  "total_words": 1927,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 8018
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hi, I'm Ipsida Daz. You might know me as"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I'll see you in the next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 78
+    },
+    {
+      "word": "to",
+      "count": 71
+    },
+    {
+      "word": "and",
+      "count": 61
+    },
+    {
+      "word": "that",
+      "count": 58
+    },
+    {
+      "word": "the",
+      "count": 57
+    },
+    {
+      "word": "of",
+      "count": 39
+    },
+    {
+      "word": "this",
+      "count": 36
+    },
+    {
+      "word": "it",
+      "count": 32
+    },
+    {
+      "word": "is",
+      "count": 28
+    },
+    {
+      "word": "in",
+      "count": 23
+    },
+    {
+      "word": "i'm",
+      "count": 22
+    },
+    {
+      "word": "for",
+      "count": 21
+    },
+    {
+      "word": "or",
+      "count": 21
+    },
+    {
+      "word": "my",
+      "count": 20
+    },
+    {
+      "word": "so",
+      "count": 16
+    },
+    {
+      "word": "something",
+      "count": 16
+    },
+    {
+      "word": "at",
+      "count": 15
+    },
+    {
+      "word": "what",
+      "count": 15
+    },
+    {
+      "word": "was",
+      "count": 14
+    },
+    {
+      "word": "when",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 13
+    },
+    {
+      "phrase": "something that",
+      "count": 8
+    },
+    {
+      "phrase": "you know",
+      "count": 7
+    },
+    {
+      "phrase": "this is",
+      "count": 7
+    },
+    {
+      "phrase": "and you",
+      "count": 7
+    },
+    {
+      "phrase": "to do",
+      "count": 6
+    },
+    {
+      "phrase": "a lot",
+      "count": 6
+    },
+    {
+      "phrase": "lot of",
+      "count": 6
+    },
+    {
+      "phrase": "to get",
+      "count": 6
+    },
+    {
+      "phrase": "want to",
+      "count": 6
+    }
+  ],
+  "segment_count": 267
+}

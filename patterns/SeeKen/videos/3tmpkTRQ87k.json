@@ -1,0 +1,149 @@
+{
+  "video_id": "3tmpkTRQ87k",
+  "duration_seconds": 2207,
+  "wps": 3.36,
+  "total_words": 7409,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 34008
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, a few days ago, I came across a piece of news that I found quite shocking. You might have heard about it too."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Okay, that’s all for now. Thanks for watching!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 231
+    },
+    {
+      "word": "to",
+      "count": 205
+    },
+    {
+      "word": "you",
+      "count": 154
+    },
+    {
+      "word": "in",
+      "count": 142
+    },
+    {
+      "word": "and",
+      "count": 142
+    },
+    {
+      "word": "that",
+      "count": 141
+    },
+    {
+      "word": "is",
+      "count": 141
+    },
+    {
+      "word": "of",
+      "count": 134
+    },
+    {
+      "word": "this",
+      "count": 114
+    },
+    {
+      "word": "it",
+      "count": 89
+    },
+    {
+      "word": "addiction",
+      "count": 83
+    },
+    {
+      "word": "are",
+      "count": 83
+    },
+    {
+      "word": "they",
+      "count": 68
+    },
+    {
+      "word": "people",
+      "count": 66
+    },
+    {
+      "word": "or",
+      "count": 65
+    },
+    {
+      "word": "if",
+      "count": 64
+    },
+    {
+      "word": "with",
+      "count": 58
+    },
+    {
+      "word": "but",
+      "count": 58
+    },
+    {
+      "word": "them",
+      "count": 57
+    },
+    {
+      "word": "will",
+      "count": 55
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 29
+    },
+    {
+      "phrase": "in the",
+      "count": 21
+    },
+    {
+      "phrase": "this is",
+      "count": 20
+    },
+    {
+      "phrase": "is a",
+      "count": 16
+    },
+    {
+      "phrase": "says that",
+      "count": 16
+    },
+    {
+      "phrase": "need to",
+      "count": 15
+    },
+    {
+      "phrase": "gabor says",
+      "count": 14
+    },
+    {
+      "phrase": "to understand",
+      "count": 13
+    },
+    {
+      "phrase": "many times",
+      "count": 13
+    },
+    {
+      "phrase": "you can",
+      "count": 13
+    }
+  ],
+  "segment_count": 290
+}

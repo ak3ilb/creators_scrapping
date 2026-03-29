@@ -1,0 +1,148 @@
+{
+  "video_id": "ii_g_lk1N9M",
+  "duration_seconds": 90,
+  "wps": 3.38,
+  "total_words": 304,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1042
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या शेव करने से बाल और ज्यादा फास्ट और घने ग्रो होते हैं? अगर आपको दाढ़ी नहीं आ रही तो आपके दोस्त बोलते हैं एक बार रेजर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "समझा देना एंड फॉलो फॉर मोर सच कंटेंट।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "बाल",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "बालों",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "घने",
+      "count": 3
+    },
+    {
+      "word": "होते",
+      "count": 3
+    },
+    {
+      "word": "बार",
+      "count": 3
+    },
+    {
+      "word": "पहले",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "एक बार",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "बालों को",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाता",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "बालों का",
+      "count": 2
+    },
+    {
+      "phrase": "का एंड",
+      "count": 2
+    },
+    {
+      "phrase": "चपटा और",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

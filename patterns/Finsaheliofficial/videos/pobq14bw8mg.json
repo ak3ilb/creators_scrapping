@@ -1,0 +1,148 @@
+{
+  "video_id": "pobq14bw8mg",
+  "duration_seconds": 61,
+  "wps": 3.56,
+  "total_words": 217,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 736
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अब गवर्नमेंट दे रही है ₹0 लाख आपके गर्ल चाइल्ड को गवर्नमेंट की इस स्कीम के अंडर जिसका नाम है सुकन्या समृद्धि योजना। इसके"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "सेव कर लो, शेयर कर लो एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "इस",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "अकाउंट",
+      "count": 5
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "या",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "गर्ल",
+      "count": 3
+    },
+    {
+      "word": "चाइल्ड",
+      "count": 3
+    },
+    {
+      "word": "स्कीम",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गर्ल चाइल्ड",
+      "count": 3
+    },
+    {
+      "phrase": "इस स्कीम",
+      "count": 3
+    },
+    {
+      "phrase": "अकाउंट में",
+      "count": 3
+    },
+    {
+      "phrase": "आपके गर्ल",
+      "count": 2
+    },
+    {
+      "phrase": "स्कीम के",
+      "count": 2
+    },
+    {
+      "phrase": "10 साल",
+      "count": 2
+    },
+    {
+      "phrase": "और इस",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

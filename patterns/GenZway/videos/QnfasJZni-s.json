@@ -1,0 +1,150 @@
+{
+  "video_id": "QnfasJZni-s",
+  "duration_seconds": 572,
+  "wps": 3.65,
+  "total_words": 2089,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 7558
+  },
+  "hook": {
+    "type": "statement",
+    "text": "तुम ये दो लोग देख रहे हो इन्होंने इंडियन ई-कॉमर्स मार्केट में वो चीज कर दी है जो आज तक किसी भी ब्रांड ने नहीं की है और वो चीज है मुनाफा इंडियन ई-कॉमर्स वर्ल्ड के"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "जाओ और अभी नेक्स्ट वीडियो में किसकी केस स्टडी चाहिए मुझे कमेंट सेक्शन में बताओ और अगर घर बैठे पैसा कमाना चाहते हो तो यह वाली वीडियो देख लेना बाय"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "है",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 61
+    },
+    {
+      "word": "को",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 36
+    },
+    {
+      "word": "हैं",
+      "count": 34
+    },
+    {
+      "word": "वो",
+      "count": 27
+    },
+    {
+      "word": "की",
+      "count": 27
+    },
+    {
+      "word": "ये",
+      "count": 25
+    },
+    {
+      "word": "तो",
+      "count": 25
+    },
+    {
+      "word": "में",
+      "count": 24
+    },
+    {
+      "word": "अंदर",
+      "count": 24
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "ऊपर",
+      "count": 23
+    },
+    {
+      "word": "नहीं",
+      "count": 21
+    },
+    {
+      "word": "कर",
+      "count": 20
+    },
+    {
+      "word": "जो",
+      "count": 20
+    },
+    {
+      "word": "लोग",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऊपर",
+      "count": 21
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 18
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 11
+    },
+    {
+      "phrase": "वजह से",
+      "count": 10
+    },
+    {
+      "phrase": "और ये",
+      "count": 10
+    },
+    {
+      "phrase": "या फिर",
+      "count": 9
+    },
+    {
+      "phrase": "हैं और",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    }
+  ],
+  "segment_count": 66
+}

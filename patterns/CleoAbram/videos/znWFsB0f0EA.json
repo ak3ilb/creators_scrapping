@@ -1,0 +1,149 @@
+{
+  "video_id": "znWFsB0f0EA",
+  "duration_seconds": 661,
+  "wps": 3.31,
+  "total_words": 2191,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 9363
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Okay, let's go. Right now, I am scanning my  brain inside a plane that's about to dive"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "if you want more optimistic science  and tech stories, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 103
+    },
+    {
+      "word": "to",
+      "count": 83
+    },
+    {
+      "word": "and",
+      "count": 68
+    },
+    {
+      "word": "this",
+      "count": 57
+    },
+    {
+      "word": "of",
+      "count": 54
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "it",
+      "count": 36
+    },
+    {
+      "word": "in",
+      "count": 35
+    },
+    {
+      "word": "is",
+      "count": 35
+    },
+    {
+      "word": "you",
+      "count": 33
+    },
+    {
+      "word": "so",
+      "count": 26
+    },
+    {
+      "word": "space",
+      "count": 22
+    },
+    {
+      "word": "on",
+      "count": 20
+    },
+    {
+      "word": "your",
+      "count": 19
+    },
+    {
+      "word": "we",
+      "count": 19
+    },
+    {
+      "word": "all",
+      "count": 17
+    },
+    {
+      "word": "for",
+      "count": 16
+    },
+    {
+      "word": "like",
+      "count": 16
+    },
+    {
+      "word": "my",
+      "count": 15
+    },
+    {
+      "word": "if",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "all of",
+      "count": 10
+    },
+    {
+      "phrase": "your brain",
+      "count": 8
+    },
+    {
+      "phrase": "this is",
+      "count": 8
+    },
+    {
+      "phrase": "to move",
+      "count": 8
+    },
+    {
+      "phrase": "in space",
+      "count": 8
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "if you",
+      "count": 7
+    },
+    {
+      "phrase": "the plane",
+      "count": 6
+    },
+    {
+      "phrase": "and then",
+      "count": 6
+    }
+  ],
+  "segment_count": 127
+}

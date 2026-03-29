@@ -1,0 +1,149 @@
+{
+  "video_id": "RYWWyWBVz7o",
+  "duration_seconds": 586,
+  "wps": 2.98,
+  "total_words": 1749,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7179
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मणिपुर तबाह हो रहा है। इस पे आपने बहुत सारे वीडियोस देखे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दिल तो दुख होता है ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 51
+    },
+    {
+      "word": "और",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 46
+    },
+    {
+      "word": "को",
+      "count": 44
+    },
+    {
+      "word": "है",
+      "count": 41
+    },
+    {
+      "word": "हैं",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 28
+    },
+    {
+      "word": "भी",
+      "count": 24
+    },
+    {
+      "word": "का",
+      "count": 23
+    },
+    {
+      "word": "मणिपुर",
+      "count": 21
+    },
+    {
+      "word": "कि",
+      "count": 20
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "इस",
+      "count": 17
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 15
+    },
+    {
+      "word": "पर",
+      "count": 15
+    },
+    {
+      "word": "एक",
+      "count": 14
+    },
+    {
+      "word": "था",
+      "count": 14
+    },
+    {
+      "word": "जो",
+      "count": 13
+    },
+    {
+      "word": "की",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "हो रहा",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "एसटी स्टेटस",
+      "count": 5
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 5
+    },
+    {
+      "phrase": "हैं और",
+      "count": 5
+    },
+    {
+      "phrase": "गवर्नमेंट ने",
+      "count": 5
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "मणिपुर में",
+      "count": 5
+    }
+  ],
+  "segment_count": 75
+}

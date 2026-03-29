@@ -1,0 +1,149 @@
+{
+  "video_id": "2pxggOLzhf4",
+  "duration_seconds": 56,
+  "wps": 2.57,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 711
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Now you can earn side income using government apps. And this is the best time to be Gen Z because you have access to opportunities millennials simply didn't have. Today you can earn, learn,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "this with someone who needs it. Follow full disclosure for real money and career insights."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "can",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "earn",
+      "count": 3
+    },
+    {
+      "word": "government",
+      "count": 3
+    },
+    {
+      "word": "side",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "gen",
+      "count": 2
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "opportunities",
+      "count": 2
+    },
+    {
+      "word": "learn",
+      "count": 2
+    },
+    {
+      "word": "directly",
+      "count": 2
+    },
+    {
+      "word": "by",
+      "count": 2
+    },
+    {
+      "word": "digital",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "rupees",
+      "count": 2
+    },
+    {
+      "word": "now",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you can",
+      "count": 4
+    },
+    {
+      "phrase": "can earn",
+      "count": 3
+    },
+    {
+      "phrase": "gen z",
+      "count": 2
+    },
+    {
+      "phrase": "now you",
+      "count": 1
+    },
+    {
+      "phrase": "earn side",
+      "count": 1
+    },
+    {
+      "phrase": "side income",
+      "count": 1
+    },
+    {
+      "phrase": "income using",
+      "count": 1
+    },
+    {
+      "phrase": "using government",
+      "count": 1
+    },
+    {
+      "phrase": "government apps",
+      "count": 1
+    },
+    {
+      "phrase": "apps and",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

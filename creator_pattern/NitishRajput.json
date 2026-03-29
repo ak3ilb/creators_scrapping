@@ -1,0 +1,28 @@
+{
+  "creator": "NitishRajput",
+  "last_updated": "2026-03-29T14:31:24.615487",
+  "pacing": {
+    "avg_wps": 3.081933313131367,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.081933313131367,
+        "duration": 2179.1627906976746
+      }
+    }
+  },
+  "signature_hooks": [
+    "prime minister",
+    "all the",
+    "to the",
+    "is a",
+    "such a",
+    "soon as",
+    "in a",
+    "in which",
+    "of the",
+    "at that"
+  ],
+  "uniqueness_traits": [
+    "Storytelling Specialist"
+  ]
+}

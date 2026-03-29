@@ -1,0 +1,148 @@
+{
+  "video_id": "pNZVJbIW9Ig",
+  "duration_seconds": 1224,
+  "wps": 3.07,
+  "total_words": 3755,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 14080
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों जब भी चॉकलेट की बात आती है तो सबसे पहले हमारे दिमाग में क्या आता है ओबवियसली कैट बरी के इन चॉकलेट्स में से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इसकी कहानी सिर्फ चॉकलेट तक नहीं बल्कि डेडिकेशन इनोवेशन और नेवर गिव अप एटीट्यूड की भी है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 106
+    },
+    {
+      "word": "और",
+      "count": 104
+    },
+    {
+      "word": "की",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 72
+    },
+    {
+      "word": "को",
+      "count": 72
+    },
+    {
+      "word": "चॉकलेट",
+      "count": 69
+    },
+    {
+      "word": "कैडबरी",
+      "count": 63
+    },
+    {
+      "word": "था",
+      "count": 61
+    },
+    {
+      "word": "से",
+      "count": 59
+    },
+    {
+      "word": "कि",
+      "count": 53
+    },
+    {
+      "word": "थी",
+      "count": 53
+    },
+    {
+      "word": "भी",
+      "count": 52
+    },
+    {
+      "word": "का",
+      "count": 48
+    },
+    {
+      "word": "ही",
+      "count": 47
+    },
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "ने",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 42
+    },
+    {
+      "word": "लेकिन",
+      "count": 36
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "पर",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कैडबरी ने",
+      "count": 23
+    },
+    {
+      "phrase": "कैट बरी",
+      "count": 21
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "था कि",
+      "count": 12
+    },
+    {
+      "phrase": "डेरी मिल्क",
+      "count": 11
+    },
+    {
+      "phrase": "और फिर",
+      "count": 11
+    },
+    {
+      "phrase": "गया था",
+      "count": 8
+    },
+    {
+      "phrase": "चॉकलेट को",
+      "count": 8
+    },
+    {
+      "phrase": "सबसे बड़ा",
+      "count": 8
+    },
+    {
+      "phrase": "थी लेकिन",
+      "count": 8
+    }
+  ],
+  "segment_count": 155
+}

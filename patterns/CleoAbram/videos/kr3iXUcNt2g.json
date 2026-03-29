@@ -1,0 +1,149 @@
+{
+  "video_id": "kr3iXUcNt2g",
+  "duration_seconds": 1063,
+  "wps": 2.69,
+  "total_words": 2859,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12326
+  },
+  "hook": {
+    "type": "question",
+    "text": "Ready? Right here, out in the middle  of the desert, miles from any city,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "If you believe that there should be more optimistic  science and tech stories...subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 145
+    },
+    {
+      "word": "and",
+      "count": 89
+    },
+    {
+      "word": "to",
+      "count": 65
+    },
+    {
+      "word": "that",
+      "count": 64
+    },
+    {
+      "word": "of",
+      "count": 54
+    },
+    {
+      "word": "this",
+      "count": 50
+    },
+    {
+      "word": "it",
+      "count": 47
+    },
+    {
+      "word": "is",
+      "count": 39
+    },
+    {
+      "word": "we",
+      "count": 34
+    },
+    {
+      "word": "they",
+      "count": 33
+    },
+    {
+      "word": "you",
+      "count": 33
+    },
+    {
+      "word": "but",
+      "count": 26
+    },
+    {
+      "word": "in",
+      "count": 25
+    },
+    {
+      "word": "on",
+      "count": 23
+    },
+    {
+      "word": "so",
+      "count": 22
+    },
+    {
+      "word": "laser",
+      "count": 21
+    },
+    {
+      "word": "light",
+      "count": 20
+    },
+    {
+      "word": "now",
+      "count": 18
+    },
+    {
+      "word": "about",
+      "count": 18
+    },
+    {
+      "word": "these",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 19
+    },
+    {
+      "phrase": "the laser",
+      "count": 12
+    },
+    {
+      "phrase": "in the",
+      "count": 9
+    },
+    {
+      "phrase": "at the",
+      "count": 9
+    },
+    {
+      "phrase": "this is",
+      "count": 8
+    },
+    {
+      "phrase": "this machine",
+      "count": 7
+    },
+    {
+      "phrase": "to the",
+      "count": 7
+    },
+    {
+      "phrase": "the arms",
+      "count": 7
+    },
+    {
+      "phrase": "and then",
+      "count": 6
+    },
+    {
+      "phrase": "all of",
+      "count": 6
+    }
+  ],
+  "segment_count": 130
+}

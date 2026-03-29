@@ -1,0 +1,148 @@
+{
+  "video_id": "5J9ZunuXku4",
+  "duration_seconds": 61,
+  "wps": 2.54,
+  "total_words": 155,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 718
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "An AI just sent its first message from space. Greetings, Earthlings. A fascinating collection of blue and green. That message came from an AI"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "orbit above us. What do you think about AI moving to space?"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "space",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "an",
+      "count": 3
+    },
+    {
+      "word": "from",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "message",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "model",
+      "count": 2
+    },
+    {
+      "word": "above",
+      "count": 2
+    },
+    {
+      "word": "earth",
+      "count": 2
+    },
+    {
+      "word": "starcloud",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "centers",
+      "count": 2
+    },
+    {
+      "word": "orbit",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "water",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "an ai",
+      "count": 2
+    },
+    {
+      "phrase": "ai data",
+      "count": 2
+    },
+    {
+      "phrase": "data centers",
+      "count": 2
+    },
+    {
+      "phrase": "to space",
+      "count": 2
+    },
+    {
+      "phrase": "ai just",
+      "count": 1
+    },
+    {
+      "phrase": "just sent",
+      "count": 1
+    },
+    {
+      "phrase": "sent its",
+      "count": 1
+    },
+    {
+      "phrase": "its first",
+      "count": 1
+    },
+    {
+      "phrase": "first message",
+      "count": 1
+    },
+    {
+      "phrase": "message from",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

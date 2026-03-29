@@ -1,0 +1,148 @@
+{
+  "video_id": "pNy7QTfmx_s",
+  "duration_seconds": 574,
+  "wps": 3.33,
+  "total_words": 1913,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7253
+  },
+  "hook": {
+    "type": "statement",
+    "text": "साल 2010 में पेरिस में एक 91 साल की बूढ़ी औरत की मौत होती है और उसके बाद उसकी फैमिली को यह पता चलता है कि उसके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वेज फ्रेंड्स स्टे क्यूरियस कीप लर्निंग एंड कीप ग्रोइंग जय हिंद"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 91
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "में",
+      "count": 54
+    },
+    {
+      "word": "पेरिस",
+      "count": 46
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "को",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 29
+    },
+    {
+      "word": "एक",
+      "count": 27
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "घर",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 24
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 21
+    },
+    {
+      "word": "से",
+      "count": 21
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "अब",
+      "count": 16
+    },
+    {
+      "word": "रेंट",
+      "count": 16
+    },
+    {
+      "word": "लिए",
+      "count": 14
+    },
+    {
+      "word": "लेकिन",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पेरिस में",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "पेरिस के",
+      "count": 9
+    },
+    {
+      "phrase": "रही है",
+      "count": 7
+    },
+    {
+      "phrase": "करने के",
+      "count": 7
+    },
+    {
+      "phrase": "होता है",
+      "count": 7
+    },
+    {
+      "phrase": "में पेरिस",
+      "count": 6
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 6
+    }
+  ],
+  "segment_count": 74
+}

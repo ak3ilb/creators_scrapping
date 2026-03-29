@@ -1,0 +1,149 @@
+{
+  "video_id": "FaFIH80ieRk",
+  "duration_seconds": 71,
+  "wps": 2.45,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 914
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Three sectors could fuel India's next leg of market growth and open new job opportunities. After lagging global markets in 2024, India is now seeing a"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "full disclosure for more such"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 12
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "for",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "could",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "demand",
+      "count": 3
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "sectors",
+      "count": 2
+    },
+    {
+      "word": "india's",
+      "count": 2
+    },
+    {
+      "word": "next",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "market",
+      "count": 2
+    },
+    {
+      "word": "growth",
+      "count": 2
+    },
+    {
+      "word": "job",
+      "count": 2
+    },
+    {
+      "word": "earnings",
+      "count": 2
+    },
+    {
+      "word": "stronger",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "by",
+      "count": 2
+    },
+    {
+      "word": "financials",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "three sectors",
+      "count": 2
+    },
+    {
+      "phrase": "india's next",
+      "count": 2
+    },
+    {
+      "phrase": "hiring in",
+      "count": 2
+    },
+    {
+      "phrase": "and ev",
+      "count": 2
+    },
+    {
+      "phrase": "consumer discretionary",
+      "count": 2
+    },
+    {
+      "phrase": "sectors could",
+      "count": 1
+    },
+    {
+      "phrase": "could fuel",
+      "count": 1
+    },
+    {
+      "phrase": "fuel india's",
+      "count": 1
+    },
+    {
+      "phrase": "next leg",
+      "count": 1
+    },
+    {
+      "phrase": "leg of",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

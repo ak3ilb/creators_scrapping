@@ -1,0 +1,148 @@
+{
+  "video_id": "64d6L6aFz00",
+  "duration_seconds": 588,
+  "wps": 3.32,
+  "total_words": 1951,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 7592
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और साल 1988"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जय"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 80
+    },
+    {
+      "word": "है",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "को",
+      "count": 41
+    },
+    {
+      "word": "एक",
+      "count": 40
+    },
+    {
+      "word": "और",
+      "count": 38
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "में",
+      "count": 36
+    },
+    {
+      "word": "हैं",
+      "count": 33
+    },
+    {
+      "word": "हम",
+      "count": 26
+    },
+    {
+      "word": "सन",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "ऑर्बिट",
+      "count": 18
+    },
+    {
+      "word": "अगर",
+      "count": 18
+    },
+    {
+      "word": "कि",
+      "count": 15
+    },
+    {
+      "word": "की",
+      "count": 15
+    },
+    {
+      "word": "भी",
+      "count": 15
+    },
+    {
+      "word": "ही",
+      "count": 14
+    },
+    {
+      "word": "ये",
+      "count": 14
+    },
+    {
+      "word": "कर",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऑर्बिट",
+      "count": 11
+    },
+    {
+      "phrase": "सोलर सिस्टम",
+      "count": 10
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 8
+    },
+    {
+      "phrase": "मदद से",
+      "count": 7
+    },
+    {
+      "phrase": "अगर हम",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 7
+    },
+    {
+      "phrase": "नेप्च्यून के",
+      "count": 6
+    },
+    {
+      "phrase": "ऑर्बिट को",
+      "count": 6
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 6
+    }
+  ],
+  "segment_count": 249
+}

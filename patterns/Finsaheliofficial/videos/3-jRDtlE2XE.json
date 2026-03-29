@@ -1,0 +1,148 @@
+{
+  "video_id": "3-jRDtlE2XE",
+  "duration_seconds": 84,
+  "wps": 3.69,
+  "total_words": 310,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1180
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अब आपके बैंक अकाउंट बंद होने वाले हैं और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जा सकते हैं।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "भी",
+      "count": 12
+    },
+    {
+      "word": "नहीं",
+      "count": 9
+    },
+    {
+      "word": "कोई",
+      "count": 9
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "अकाउंट",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "बंद",
+      "count": 6
+    },
+    {
+      "word": "आरबीआई",
+      "count": 6
+    },
+    {
+      "word": "अकाउंट्स",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "आपके",
+      "count": 5
+    },
+    {
+      "word": "साथ",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "ट्रांजैक्शन",
+      "count": 5
+    },
+    {
+      "word": "अब",
+      "count": 4
+    },
+    {
+      "word": "बैंक",
+      "count": 4
+    },
+    {
+      "word": "ऐसा",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोई भी",
+      "count": 4
+    },
+    {
+      "phrase": "नहीं की",
+      "count": 4
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "बंद हो",
+      "count": 3
+    },
+    {
+      "phrase": "की है",
+      "count": 3
+    },
+    {
+      "phrase": "अकाउंट बंद",
+      "count": 2
+    },
+    {
+      "phrase": "बंद होने",
+      "count": 2
+    },
+    {
+      "phrase": "होने वाले",
+      "count": 2
+    },
+    {
+      "phrase": "वाले हैं",
+      "count": 2
+    },
+    {
+      "phrase": "जीरो बैलेंस",
+      "count": 2
+    }
+  ],
+  "segment_count": 40
+}

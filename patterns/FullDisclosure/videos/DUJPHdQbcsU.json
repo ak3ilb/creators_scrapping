@@ -1,0 +1,148 @@
+{
+  "video_id": "DUJPHdQbcsU",
+  "duration_seconds": 49,
+  "wps": 3.04,
+  "total_words": 149,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 668
+  },
+  "hook": {
+    "type": "imagination",
+    "text": "India just beat major countries in global AI ranking. [music] EY released its 2025 work re-imagined survey. India"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "how long does that last if we're not investing enough [music] time in learning? What do you think about it? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "ai",
+      "count": 7
+    },
+    {
+      "word": "music",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "here's",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "india",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "employees",
+      "count": 3
+    },
+    {
+      "word": "say",
+      "count": 3
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "advantage",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "time",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ai advantage",
+      "count": 2
+    },
+    {
+      "phrase": "so here's",
+      "count": 2
+    },
+    {
+      "phrase": "at work",
+      "count": 2
+    },
+    {
+      "phrase": "of indian",
+      "count": 2
+    },
+    {
+      "phrase": "employees say",
+      "count": 2
+    },
+    {
+      "phrase": "india just",
+      "count": 1
+    },
+    {
+      "phrase": "just beat",
+      "count": 1
+    },
+    {
+      "phrase": "beat major",
+      "count": 1
+    },
+    {
+      "phrase": "major countries",
+      "count": 1
+    },
+    {
+      "phrase": "countries in",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

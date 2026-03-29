@@ -1,0 +1,150 @@
+{
+  "video_id": "PrvqG6TgzrA",
+  "duration_seconds": 882,
+  "wps": 3.45,
+  "total_words": 3040,
+  "language_mix": {
+    "hindi": 98.2,
+    "english": 1.8,
+    "total_chars": 10547
+  },
+  "hook": {
+    "type": "question",
+    "text": "समय रहना कि पिछले छ महीनों के अंदर जिंदगी बदल चुकी हो और अगले दो महीनों में इसका पूरा का पूरा बिजनेस करियर खत्म भी हो जाएगा अगर इसने संदीप महेश्वरी वाली"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "पिन कमेंट में मिल जाएगा"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 109
+    },
+    {
+      "word": "के",
+      "count": 84
+    },
+    {
+      "word": "और",
+      "count": 79
+    },
+    {
+      "word": "को",
+      "count": 57
+    },
+    {
+      "word": "तो",
+      "count": 56
+    },
+    {
+      "word": "कि",
+      "count": 48
+    },
+    {
+      "word": "लोग",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "नहीं",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 44
+    },
+    {
+      "word": "अंदर",
+      "count": 39
+    },
+    {
+      "word": "हैं",
+      "count": 39
+    },
+    {
+      "word": "हो",
+      "count": 38
+    },
+    {
+      "word": "ना",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 34
+    },
+    {
+      "word": "वो",
+      "count": 31
+    },
+    {
+      "word": "ये",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "में",
+      "count": 27
+    },
+    {
+      "word": "मैं",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    },
+    {
+      "phrase": "समय रहना",
+      "count": 10
+    },
+    {
+      "phrase": "है तो",
+      "count": 10
+    },
+    {
+      "phrase": "समय भाई",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 9
+    }
+  ],
+  "segment_count": 102
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "MQ41iw2ykiM",
+  "duration_seconds": 75,
+  "wps": 2.32,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 889
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "A Bengaluru startup just beat Chat GPT and Google Gemini. Server AI released two [music] models Serum Vision and Bulbull V3. Servision achieved 84.3%"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "music",
+      "count": 5
+    },
+    {
+      "word": "models",
+      "count": 5
+    },
+    {
+      "word": "on",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "global",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "chat",
+      "count": 2
+    },
+    {
+      "word": "gpt",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "gemini",
+      "count": 2
+    },
+    {
+      "word": "server",
+      "count": 2
+    },
+    {
+      "word": "v3",
+      "count": 2
+    },
+    {
+      "word": "ocr",
+      "count": 2
+    },
+    {
+      "word": "bench",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "content",
+      "count": 2
+    },
+    {
+      "word": "across",
+      "count": 2
+    },
+    {
+      "word": "all",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "chat gpt",
+      "count": 2
+    },
+    {
+      "phrase": "gpt and",
+      "count": 2
+    },
+    {
+      "phrase": "global models",
+      "count": 2
+    },
+    {
+      "phrase": "across all",
+      "count": 2
+    },
+    {
+      "phrase": "sovereign ai",
+      "count": 2
+    },
+    {
+      "phrase": "ai models",
+      "count": 2
+    },
+    {
+      "phrase": "on local",
+      "count": 2
+    },
+    {
+      "phrase": "a bengaluru",
+      "count": 1
+    },
+    {
+      "phrase": "bengaluru startup",
+      "count": 1
+    },
+    {
+      "phrase": "startup just",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

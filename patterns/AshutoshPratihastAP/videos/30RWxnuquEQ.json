@@ -1,0 +1,149 @@
+{
+  "video_id": "30RWxnuquEQ",
+  "duration_seconds": 366,
+  "wps": 3.99,
+  "total_words": 1461,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 5085
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं बोला था कि इस वीडियो के अंदर हम बात करने वाले हैं उस वाले मोमेंट की जब आप पूरी मेहनत कर चुके हैं और अपने सेल के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बहुत ज्यादा सेल्स लेकर आए बाल तो आपको वीडियो के अंदर टला टाइम प्लेबैक बड़ा फील्ड है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 105
+    },
+    {
+      "word": "तो",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 32
+    },
+    {
+      "word": "को",
+      "count": 25
+    },
+    {
+      "word": "नहीं",
+      "count": 25
+    },
+    {
+      "word": "आपको",
+      "count": 23
+    },
+    {
+      "word": "पर",
+      "count": 20
+    },
+    {
+      "word": "ऐसा",
+      "count": 19
+    },
+    {
+      "word": "कर",
+      "count": 18
+    },
+    {
+      "word": "से",
+      "count": 18
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "जो",
+      "count": 18
+    },
+    {
+      "word": "और",
+      "count": 17
+    },
+    {
+      "word": "रहा",
+      "count": 17
+    },
+    {
+      "word": "कोई",
+      "count": 16
+    },
+    {
+      "word": "हैं",
+      "count": 13
+    },
+    {
+      "word": "कुछ",
+      "count": 13
+    },
+    {
+      "word": "वह",
+      "count": 13
+    },
+    {
+      "word": "इस",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 10
+    },
+    {
+      "phrase": "है कि",
+      "count": 9
+    },
+    {
+      "phrase": "है जो",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 8
+    },
+    {
+      "phrase": "सामने वाला",
+      "count": 7
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 6
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 5
+    },
+    {
+      "phrase": "सामने वाले",
+      "count": 5
+    },
+    {
+      "phrase": "होता है",
+      "count": 5
+    }
+  ],
+  "segment_count": 46
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "65KChIszsDo",
+  "duration_seconds": 789,
+  "wps": 2.72,
+  "total_words": 2149,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 8684
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इन कच्छ गुजरात अडानी ग्रीन वी आर डेवलपिंग वर्ल्ड्स लार्जेस्ट 55000"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना!"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 105
+    },
+    {
+      "word": "और",
+      "count": 62
+    },
+    {
+      "word": "में",
+      "count": 58
+    },
+    {
+      "word": "के",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "हैं",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 28
+    },
+    {
+      "word": "एनर्जी",
+      "count": 27
+    },
+    {
+      "word": "सोलर",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 23
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "की",
+      "count": 21
+    },
+    {
+      "word": "कि",
+      "count": 19
+    },
+    {
+      "word": "यह",
+      "count": 19
+    },
+    {
+      "word": "कच्छ",
+      "count": 17
+    },
+    {
+      "word": "इंडिया",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 12
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "यह है",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 9
+    },
+    {
+      "phrase": "होती है",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "कच्छ में",
+      "count": 7
+    },
+    {
+      "phrase": "और अडानी",
+      "count": 7
+    },
+    {
+      "phrase": "हो तो",
+      "count": 7
+    }
+  ],
+  "segment_count": 97
+}

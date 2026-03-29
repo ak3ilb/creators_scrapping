@@ -1,0 +1,149 @@
+{
+  "video_id": "GN2JJFQtZBU",
+  "duration_seconds": 788,
+  "wps": 3.3,
+  "total_words": 2599,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9792
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आई थिंक यह बात थोड़ी कड़वी है लेकिन हम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिस्क्रिप्शन में अवेलेबल है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 99
+    },
+    {
+      "word": "में",
+      "count": 65
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "को",
+      "count": 58
+    },
+    {
+      "word": "से",
+      "count": 58
+    },
+    {
+      "word": "की",
+      "count": 50
+    },
+    {
+      "word": "है",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "दीक्षित",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 33
+    },
+    {
+      "word": "राजीव",
+      "count": 33
+    },
+    {
+      "word": "ही",
+      "count": 31
+    },
+    {
+      "word": "हैं",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 29
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "था",
+      "count": 24
+    },
+    {
+      "word": "इंडिया",
+      "count": 20
+    },
+    {
+      "word": "लेकिन",
+      "count": 19
+    },
+    {
+      "word": "एक",
+      "count": 19
+    },
+    {
+      "word": "पर",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "राजीव दीक्षित",
+      "count": 27
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "दीक्षित जी",
+      "count": 10
+    },
+    {
+      "phrase": "के बाद",
+      "count": 10
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 10
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "विदेशी कंपनियों",
+      "count": 8
+    },
+    {
+      "phrase": "दीक्षित ने",
+      "count": 7
+    },
+    {
+      "phrase": "जी की",
+      "count": 6
+    }
+  ],
+  "segment_count": 323
+}

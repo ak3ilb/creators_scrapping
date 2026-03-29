@@ -1,0 +1,150 @@
+{
+  "video_id": "HI0A10xBrlQ",
+  "duration_seconds": 800,
+  "wps": 3.65,
+  "total_words": 2916,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 10529
+  },
+  "hook": {
+    "type": "question",
+    "text": "सोचिए दुनिया में जब हवा तक बेची जा रही है बैलून के अंदर भर के तो बैंक आपको कैशबैक रिवॉर्ड पॉइंट्स फ्री में मूवी टिकट्स और नो कॉस्ट ईएमआई ये सब क्यों दे रहा है? क्या बैंक चैरिटी कर रहा है क्या?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अपने बच्चे को नहीं सिखा पाता अमीर अमीर क्यों बनते चले जा रहे है गरीब गरीब क्यों होते चले जा रहे है राइट वाली वीडियो पे क्लिक कर देना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 143
+    },
+    {
+      "word": "एक",
+      "count": 69
+    },
+    {
+      "word": "और",
+      "count": 58
+    },
+    {
+      "word": "में",
+      "count": 55
+    },
+    {
+      "word": "आप",
+      "count": 46
+    },
+    {
+      "word": "तो",
+      "count": 42
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "का",
+      "count": 41
+    },
+    {
+      "word": "के",
+      "count": 39
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "नहीं",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "आपको",
+      "count": 34
+    },
+    {
+      "word": "हैं",
+      "count": 34
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "भी",
+      "count": 27
+    },
+    {
+      "word": "आपके",
+      "count": 24
+    },
+    {
+      "word": "अगर",
+      "count": 24
+    },
+    {
+      "word": "ईएमआई",
+      "count": 22
+    },
+    {
+      "word": "कर",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 19
+    },
+    {
+      "phrase": "क्रेडिट कार्ड",
+      "count": 17
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 12
+    },
+    {
+      "phrase": "असल में",
+      "count": 10
+    },
+    {
+      "phrase": "जाता है",
+      "count": 10
+    },
+    {
+      "phrase": "हो तो",
+      "count": 9
+    },
+    {
+      "phrase": "होता है",
+      "count": 9
+    },
+    {
+      "phrase": "रहा है",
+      "count": 8
+    },
+    {
+      "phrase": "नो कॉस्ट",
+      "count": 7
+    }
+  ],
+  "segment_count": 101
+}

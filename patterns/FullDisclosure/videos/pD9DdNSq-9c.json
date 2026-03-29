@@ -1,0 +1,148 @@
+{
+  "video_id": "pD9DdNSq-9c",
+  "duration_seconds": 68,
+  "wps": 2.78,
+  "total_words": 189,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 912
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "After years of rivalry, Apple just picked Google to power series AI. For the past 2 years, Apple has been quietly testing AI models from OpenAI,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "partly through deals like the one with Apple. And this deal might dent Apple's reputation. What do you think? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "apple",
+      "count": 7
+    },
+    {
+      "word": "google",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "siri",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "now",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "year",
+      "count": 3
+    },
+    {
+      "word": "per",
+      "count": 3
+    },
+    {
+      "word": "after",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "power",
+      "count": 2
+    },
+    {
+      "word": "testing",
+      "count": 2
+    },
+    {
+      "word": "openai",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "to power",
+      "count": 2
+    },
+    {
+      "phrase": "billion per",
+      "count": 2
+    },
+    {
+      "phrase": "per year",
+      "count": 2
+    },
+    {
+      "phrase": "year to",
+      "count": 2
+    },
+    {
+      "phrase": "after years",
+      "count": 1
+    },
+    {
+      "phrase": "years of",
+      "count": 1
+    },
+    {
+      "phrase": "of rivalry",
+      "count": 1
+    },
+    {
+      "phrase": "rivalry apple",
+      "count": 1
+    },
+    {
+      "phrase": "apple just",
+      "count": 1
+    },
+    {
+      "phrase": "just picked",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

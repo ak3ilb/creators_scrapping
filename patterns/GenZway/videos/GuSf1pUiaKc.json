@@ -1,0 +1,150 @@
+{
+  "video_id": "GuSf1pUiaKc",
+  "duration_seconds": 649,
+  "wps": 4.01,
+  "total_words": 2600,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 9194
+  },
+  "hook": {
+    "type": "statement",
+    "text": "तुम लोगों को हर महीने ₹1 लाख कमाने का तरीका बता देता हूं और ये तरीका वर्क करेगा इस चीज की मेरी गारंटी है बस आगे बढ़ने से पहले सिर्फ दो रूल्स है पहला कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पैसा चाहिए और स्कैम करके कमाना चाहते हो तो यहां पे एक वीडियो आ रही होगी तुम उसको देख सकते हो और मैं मिलता हूं तुम्हें नेक्स्ट वीडियो के अंदर तब तक के लिए बाय"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 120
+    },
+    {
+      "word": "और",
+      "count": 78
+    },
+    {
+      "word": "के",
+      "count": 66
+    },
+    {
+      "word": "तो",
+      "count": 61
+    },
+    {
+      "word": "को",
+      "count": 47
+    },
+    {
+      "word": "कर",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 36
+    },
+    {
+      "word": "तुम",
+      "count": 34
+    },
+    {
+      "word": "तुम्हें",
+      "count": 34
+    },
+    {
+      "word": "एक",
+      "count": 32
+    },
+    {
+      "word": "वो",
+      "count": 32
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "हैं",
+      "count": 29
+    },
+    {
+      "word": "काम",
+      "count": 29
+    },
+    {
+      "word": "कि",
+      "count": 27
+    },
+    {
+      "word": "लिए",
+      "count": 24
+    },
+    {
+      "word": "जो",
+      "count": 24
+    },
+    {
+      "word": "लोगों",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 26
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 17
+    },
+    {
+      "phrase": "है तो",
+      "count": 17
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 14
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "तुम लोगों",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 10
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 10
+    },
+    {
+      "phrase": "करने के",
+      "count": 9
+    }
+  ],
+  "segment_count": 78
+}

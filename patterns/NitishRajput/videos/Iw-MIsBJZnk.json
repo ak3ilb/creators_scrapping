@@ -1,0 +1,149 @@
+{
+  "video_id": "Iw-MIsBJZnk",
+  "duration_seconds": 1219,
+  "wps": 3.1,
+  "total_words": 3777,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16303
+  },
+  "hook": {
+    "type": "question",
+    "text": "Now after this, on 3rd October Sharukh Khan messages Sameer Wankhede but NCB does an entirely different thing here."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "*Ek film sitare se siyasat ki sartaaz *- From a filmy start to The crown of politics I've given its link in the description below. Do listen it once. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 172
+    },
+    {
+      "word": "and",
+      "count": 93
+    },
+    {
+      "word": "that",
+      "count": 88
+    },
+    {
+      "word": "in",
+      "count": 79
+    },
+    {
+      "word": "of",
+      "count": 75
+    },
+    {
+      "word": "to",
+      "count": 74
+    },
+    {
+      "word": "was",
+      "count": 59
+    },
+    {
+      "word": "this",
+      "count": 51
+    },
+    {
+      "word": "is",
+      "count": 45
+    },
+    {
+      "word": "he",
+      "count": 44
+    },
+    {
+      "word": "on",
+      "count": 43
+    },
+    {
+      "word": "ncb",
+      "count": 37
+    },
+    {
+      "word": "they",
+      "count": 37
+    },
+    {
+      "word": "at",
+      "count": 34
+    },
+    {
+      "word": "aryan",
+      "count": 32
+    },
+    {
+      "word": "as",
+      "count": 32
+    },
+    {
+      "word": "khan",
+      "count": 31
+    },
+    {
+      "word": "were",
+      "count": 28
+    },
+    {
+      "word": "prabhakar",
+      "count": 27
+    },
+    {
+      "word": "but",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "aryan khan",
+      "count": 25
+    },
+    {
+      "phrase": "in the",
+      "count": 22
+    },
+    {
+      "phrase": "sameer wankhede",
+      "count": 20
+    },
+    {
+      "phrase": "as well",
+      "count": 16
+    },
+    {
+      "phrase": "kiran gosavi",
+      "count": 16
+    },
+    {
+      "phrase": "prabhakar sail",
+      "count": 12
+    },
+    {
+      "phrase": "to be",
+      "count": 11
+    },
+    {
+      "phrase": "at the",
+      "count": 9
+    },
+    {
+      "phrase": "that he",
+      "count": 9
+    },
+    {
+      "phrase": "in which",
+      "count": 8
+    }
+  ],
+  "segment_count": 157
+}

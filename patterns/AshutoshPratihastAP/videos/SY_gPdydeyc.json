@@ -1,0 +1,150 @@
+{
+  "video_id": "SY_gPdydeyc",
+  "duration_seconds": 1283,
+  "wps": 3.35,
+  "total_words": 4297,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 15837
+  },
+  "hook": {
+    "type": "statement",
+    "text": "2001 में लाइट कटी थी लाइट कटी थी 21 साल से लाइट ना है ये घर है ये घर है हजारों है इसमें तो एक आदमी के सोने की जगह है"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "पाता है तो अपना जवाब कमेंट में जरूर बताइएगा थैंक यू एंड जय हिंद"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 200
+    },
+    {
+      "word": "के",
+      "count": 112
+    },
+    {
+      "word": "की",
+      "count": 94
+    },
+    {
+      "word": "में",
+      "count": 82
+    },
+    {
+      "word": "से",
+      "count": 76
+    },
+    {
+      "word": "भी",
+      "count": 71
+    },
+    {
+      "word": "कि",
+      "count": 66
+    },
+    {
+      "word": "इंडिया",
+      "count": 63
+    },
+    {
+      "word": "तो",
+      "count": 59
+    },
+    {
+      "word": "को",
+      "count": 59
+    },
+    {
+      "word": "और",
+      "count": 56
+    },
+    {
+      "word": "नहीं",
+      "count": 55
+    },
+    {
+      "word": "पर",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "हैं",
+      "count": 38
+    },
+    {
+      "word": "एंड",
+      "count": 37
+    },
+    {
+      "word": "ये",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "देश",
+      "count": 29
+    },
+    {
+      "word": "यह",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 29
+    },
+    {
+      "phrase": "इंडिया की",
+      "count": 16
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 15
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "ट्रिलियन डॉलर",
+      "count": 11
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 10
+    },
+    {
+      "phrase": "यह है",
+      "count": 10
+    },
+    {
+      "phrase": "है जो",
+      "count": 10
+    },
+    {
+      "phrase": "पर कैपिटा",
+      "count": 10
+    }
+  ],
+  "segment_count": 158
+}

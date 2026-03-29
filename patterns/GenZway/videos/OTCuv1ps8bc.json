@@ -1,0 +1,150 @@
+{
+  "video_id": "OTCuv1ps8bc",
+  "duration_seconds": 1232,
+  "wps": 4.57,
+  "total_words": 5628,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 20349
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस वीडियो को देखने के बाद तुम लोगों को लगेगा कि मैंने इस वीडियो के अंदर कुछ ज्यादा ही कर दिया जो अभी शूट करने के बाद मुझे भी फील आ रही है। क्योंकि सिर्फ ओनली फैंस वाले पार्ट को लिखने के लिए मेरी टीम"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "के अंदर लिंक मिल जाएगा और मैं तुमसे मिलता हूं ओडू कम्युनिटी डेज के अंदर।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 284
+    },
+    {
+      "word": "के",
+      "count": 166
+    },
+    {
+      "word": "और",
+      "count": 151
+    },
+    {
+      "word": "लोग",
+      "count": 104
+    },
+    {
+      "word": "को",
+      "count": 91
+    },
+    {
+      "word": "नहीं",
+      "count": 88
+    },
+    {
+      "word": "हो",
+      "count": 86
+    },
+    {
+      "word": "तो",
+      "count": 79
+    },
+    {
+      "word": "ना",
+      "count": 73
+    },
+    {
+      "word": "भी",
+      "count": 72
+    },
+    {
+      "word": "हैं",
+      "count": 69
+    },
+    {
+      "word": "ये",
+      "count": 68
+    },
+    {
+      "word": "अंदर",
+      "count": 67
+    },
+    {
+      "word": "से",
+      "count": 62
+    },
+    {
+      "word": "कि",
+      "count": 60
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "आप",
+      "count": 59
+    },
+    {
+      "word": "वो",
+      "count": 58
+    },
+    {
+      "word": "कर",
+      "count": 54
+    },
+    {
+      "word": "आपको",
+      "count": 54
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 58
+    },
+    {
+      "phrase": "है और",
+      "count": 44
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 43
+    },
+    {
+      "phrase": "है कि",
+      "count": 27
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 26
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 26
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 25
+    },
+    {
+      "phrase": "है तो",
+      "count": 25
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 20
+    }
+  ],
+  "segment_count": 155
+}

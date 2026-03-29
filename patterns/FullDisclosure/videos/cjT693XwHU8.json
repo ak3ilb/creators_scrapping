@@ -1,0 +1,148 @@
+{
+  "video_id": "cjT693XwHU8",
+  "duration_seconds": 59,
+  "wps": 3.03,
+  "total_words": 179,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 741
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "फॉर द फर्स्ट टाइम एवर वाई कॉम्बिनेटर इज कमिंग टू इंडिया एंड यू कैन सिक्योर अ डायरेक्ट इंटरव्यू फॉर एन अपकमिंग वाई"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "इफ यू थिंक यू आर वन ऑफ़ दी टॉप बिल्डर्स इन इंडिया, नाउ इज योर चांस टू प्रूव इट। लिंक इज इन द पिनड कमेंट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 10
+    },
+    {
+      "word": "इन",
+      "count": 6
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "वाई",
+      "count": 4
+    },
+    {
+      "word": "टॉप",
+      "count": 4
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "कॉम्बिनेटर",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "कैन",
+      "count": 2
+    },
+    {
+      "word": "इंटरव्यू",
+      "count": 2
+    },
+    {
+      "word": "एन",
+      "count": 2
+    },
+    {
+      "word": "अपकमिंग",
+      "count": 2
+    },
+    {
+      "word": "बैच",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "दे",
+      "count": 2
+    },
+    {
+      "word": "मूव",
+      "count": 2
+    },
+    {
+      "word": "ऑन",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वाई कॉम्बिनेटर",
+      "count": 3
+    },
+    {
+      "phrase": "टू इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरव्यू फॉर",
+      "count": 2
+    },
+    {
+      "phrase": "फॉर एन",
+      "count": 2
+    },
+    {
+      "phrase": "एन अपकमिंग",
+      "count": 2
+    },
+    {
+      "phrase": "अपकमिंग वाई",
+      "count": 2
+    },
+    {
+      "phrase": "कॉम्बिनेटर बैच",
+      "count": 2
+    },
+    {
+      "phrase": "इन बैंगलोर",
+      "count": 2
+    },
+    {
+      "phrase": "द टॉप",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्डर्स इन",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

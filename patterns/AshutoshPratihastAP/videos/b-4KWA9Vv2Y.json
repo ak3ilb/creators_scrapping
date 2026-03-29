@@ -1,0 +1,149 @@
+{
+  "video_id": "b-4KWA9Vv2Y",
+  "duration_seconds": 875,
+  "wps": 2.99,
+  "total_words": 2613,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11584
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Recently, the wrestlers’ protest took place in which wrestlers were detained. Wrestlers took a selfie to convey this information to people."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "From behind a veil. Have you heard about this secret society? If not, then click on the video on the right and watch how a major truth of the lives of all of us has been hidden from us till date."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 107
+    },
+    {
+      "word": "and",
+      "count": 78
+    },
+    {
+      "word": "to",
+      "count": 69
+    },
+    {
+      "word": "of",
+      "count": 62
+    },
+    {
+      "word": "in",
+      "count": 53
+    },
+    {
+      "word": "ai",
+      "count": 47
+    },
+    {
+      "word": "that",
+      "count": 42
+    },
+    {
+      "word": "you",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 38
+    },
+    {
+      "word": "it",
+      "count": 35
+    },
+    {
+      "word": "is",
+      "count": 34
+    },
+    {
+      "word": "we",
+      "count": 32
+    },
+    {
+      "word": "be",
+      "count": 27
+    },
+    {
+      "word": "on",
+      "count": 26
+    },
+    {
+      "word": "are",
+      "count": 26
+    },
+    {
+      "word": "have",
+      "count": 25
+    },
+    {
+      "word": "all",
+      "count": 24
+    },
+    {
+      "word": "not",
+      "count": 24
+    },
+    {
+      "word": "our",
+      "count": 23
+    },
+    {
+      "word": "but",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "artificial intelligence",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 12
+    },
+    {
+      "phrase": "on the",
+      "count": 7
+    },
+    {
+      "phrase": "of ai",
+      "count": 7
+    },
+    {
+      "phrase": "can be",
+      "count": 6
+    },
+    {
+      "phrase": "something like",
+      "count": 6
+    },
+    {
+      "phrase": "and in",
+      "count": 5
+    },
+    {
+      "phrase": "and the",
+      "count": 5
+    },
+    {
+      "phrase": "to be",
+      "count": 5
+    },
+    {
+      "phrase": "in our",
+      "count": 5
+    }
+  ],
+  "segment_count": 106
+}

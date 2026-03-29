@@ -1,0 +1,149 @@
+{
+  "video_id": "KmxNtDMAj2A",
+  "duration_seconds": 890,
+  "wps": 3.3,
+  "total_words": 2941,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12564
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Right now, you and I are living through one of  the most pivotal moments in food history and"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "that, the best thing that you can do to support  us is to subscribe. See you for the next one..."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 126
+    },
+    {
+      "word": "to",
+      "count": 97
+    },
+    {
+      "word": "and",
+      "count": 96
+    },
+    {
+      "word": "of",
+      "count": 81
+    },
+    {
+      "word": "that",
+      "count": 64
+    },
+    {
+      "word": "is",
+      "count": 53
+    },
+    {
+      "word": "this",
+      "count": 44
+    },
+    {
+      "word": "we",
+      "count": 38
+    },
+    {
+      "word": "it",
+      "count": 35
+    },
+    {
+      "word": "in",
+      "count": 30
+    },
+    {
+      "word": "so",
+      "count": 25
+    },
+    {
+      "word": "on",
+      "count": 25
+    },
+    {
+      "word": "can",
+      "count": 25
+    },
+    {
+      "word": "you",
+      "count": 24
+    },
+    {
+      "word": "but",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "people",
+      "count": 21
+    },
+    {
+      "word": "are",
+      "count": 20
+    },
+    {
+      "word": "with",
+      "count": 19
+    },
+    {
+      "word": "just",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 14
+    },
+    {
+      "phrase": "a lot",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "going to",
+      "count": 10
+    },
+    {
+      "phrase": "need to",
+      "count": 8
+    },
+    {
+      "phrase": "lot of",
+      "count": 8
+    },
+    {
+      "phrase": "we can",
+      "count": 8
+    },
+    {
+      "phrase": "on the",
+      "count": 7
+    },
+    {
+      "phrase": "the field",
+      "count": 7
+    },
+    {
+      "phrase": "right now",
+      "count": 6
+    }
+  ],
+  "segment_count": 174
+}

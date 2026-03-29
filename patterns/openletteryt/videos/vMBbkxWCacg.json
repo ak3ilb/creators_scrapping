@@ -1,0 +1,148 @@
+{
+  "video_id": "vMBbkxWCacg",
+  "duration_seconds": 1056,
+  "wps": 3.61,
+  "total_words": 3808,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 14879
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मुझे पता है कि टाइटल देखकर ही आपको ये"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "में ADO साइन एप का लिंक अवेलेबल है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 166
+    },
+    {
+      "word": "में",
+      "count": 93
+    },
+    {
+      "word": "के",
+      "count": 88
+    },
+    {
+      "word": "और",
+      "count": 84
+    },
+    {
+      "word": "भी",
+      "count": 66
+    },
+    {
+      "word": "से",
+      "count": 58
+    },
+    {
+      "word": "हो",
+      "count": 57
+    },
+    {
+      "word": "नहीं",
+      "count": 53
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "हैं",
+      "count": 45
+    },
+    {
+      "word": "कर",
+      "count": 44
+    },
+    {
+      "word": "पर",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "ही",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "तो",
+      "count": 36
+    },
+    {
+      "word": "देश",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 27
+    },
+    {
+      "word": "लेकिन",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 19
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 17
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "जाता है",
+      "count": 11
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "रहा है",
+      "count": 10
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 9
+    }
+  ],
+  "segment_count": 494
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "Ey75Xw_ikqs",
+  "duration_seconds": 810,
+  "wps": 3.13,
+  "total_words": 2536,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 10736
+  },
+  "hook": {
+    "type": "question",
+    "text": "Wait, listen to this: This sounds exactly  like Frank Sinatra is singing Get Low by Lil Jon... \"To the window to the wall, 'til the sweat drops down my -\" No?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "coming up I can't tell you about yet but they're  going to be amazing and I just I feel really"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 90
+    },
+    {
+      "word": "to",
+      "count": 74
+    },
+    {
+      "word": "that",
+      "count": 65
+    },
+    {
+      "word": "and",
+      "count": 63
+    },
+    {
+      "word": "of",
+      "count": 52
+    },
+    {
+      "word": "is",
+      "count": 42
+    },
+    {
+      "word": "in",
+      "count": 37
+    },
+    {
+      "word": "ai",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 37
+    },
+    {
+      "word": "you",
+      "count": 35
+    },
+    {
+      "word": "music",
+      "count": 29
+    },
+    {
+      "word": "but",
+      "count": 27
+    },
+    {
+      "word": "this",
+      "count": 24
+    },
+    {
+      "word": "or",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 24
+    },
+    {
+      "word": "we",
+      "count": 23
+    },
+    {
+      "word": "if",
+      "count": 22
+    },
+    {
+      "word": "not",
+      "count": 21
+    },
+    {
+      "word": "like",
+      "count": 20
+    },
+    {
+      "word": "what",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "i think",
+      "count": 7
+    },
+    {
+      "phrase": "a lot",
+      "count": 7
+    },
+    {
+      "phrase": "the original",
+      "count": 7
+    },
+    {
+      "phrase": "ai music",
+      "count": 6
+    },
+    {
+      "phrase": "the music",
+      "count": 6
+    },
+    {
+      "phrase": "had a",
+      "count": 6
+    },
+    {
+      "phrase": "lot of",
+      "count": 6
+    }
+  ],
+  "segment_count": 107
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "JbtkM6YP5nk",
+  "duration_seconds": 79,
+  "wps": 3.52,
+  "total_words": 278,
+  "language_mix": {
+    "hindi": 97.5,
+    "english": 2.5,
+    "total_chars": 1070
+  },
+  "hook": {
+    "type": "question",
+    "text": "चाइना ने 158 कि.मी. लंबा बीजिंग हांगकांग हाईवे बिना किसी मजदूर के सिर्फ एआई और रोबोट से बना दिया। है ना दिस इज शॉकिंग?"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट करो जॉब। मैं आपको इसका लिंक डीएम कर दूंगी। वीडियो को सेव करना, शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "ना",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "चाइना",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "एआई",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दिया है",
+      "count": 2
+    },
+    {
+      "phrase": "ने पूरी",
+      "count": 2
+    },
+    {
+      "phrase": "और यह",
+      "count": 2
+    },
+    {
+      "phrase": "ना कोई",
+      "count": 2
+    },
+    {
+      "phrase": "में भी",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हो",
+      "count": 2
+    },
+    {
+      "phrase": "बेसिक से",
+      "count": 2
+    },
+    {
+      "phrase": "सीख सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

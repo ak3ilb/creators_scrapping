@@ -1,0 +1,148 @@
+{
+  "video_id": "PfQCAWErhd0",
+  "duration_seconds": 57,
+  "wps": 2.86,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 782
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Upगrड इज़ नाउ मेकिंग द वर्ल्ड्स लार्जेस्ट अर्ली करियर मार्केट प्लेस। Upगrड जस्ट अक्वायर्ड 90% ऑफ़ इंटर्नशाला इन एन एंटायरली एज स्टॉक स्वाप डील। इंटर्नशाला"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "टू क्लेम देयर कोर्सेज लीड टू जॉब्स। डू यू थिंक इट विल चेंज द जॉब आउटलुक इन इंडिया? लेट मी नो इन द कमेंट्स।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "इंटर्नशाला",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "मिलियन",
+      "count": 3
+    },
+    {
+      "word": "जॉब",
+      "count": 3
+    },
+    {
+      "word": "upगrड",
+      "count": 2
+    },
+    {
+      "word": "नाउ",
+      "count": 2
+    },
+    {
+      "word": "मेकिंग",
+      "count": 2
+    },
+    {
+      "word": "लार्जेस्ट",
+      "count": 2
+    },
+    {
+      "word": "अर्ली",
+      "count": 2
+    },
+    {
+      "word": "करियर",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "प्लेटफार्म",
+      "count": 2
+    },
+    {
+      "word": "34",
+      "count": 2
+    },
+    {
+      "word": "ट्रैफिक",
+      "count": 2
+    },
+    {
+      "word": "टिएर",
+      "count": 2
+    },
+    {
+      "word": "अपग्रेड",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अर्ली करियर",
+      "count": 2
+    },
+    {
+      "phrase": "34 मिलियन",
+      "count": 2
+    },
+    {
+      "phrase": "upगrड इज़",
+      "count": 1
+    },
+    {
+      "phrase": "इज़ नाउ",
+      "count": 1
+    },
+    {
+      "phrase": "नाउ मेकिंग",
+      "count": 1
+    },
+    {
+      "phrase": "मेकिंग द",
+      "count": 1
+    },
+    {
+      "phrase": "द वर्ल्ड्स",
+      "count": 1
+    },
+    {
+      "phrase": "वर्ल्ड्स लार्जेस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "लार्जेस्ट अर्ली",
+      "count": 1
+    },
+    {
+      "phrase": "करियर मार्केट",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

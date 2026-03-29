@@ -1,0 +1,148 @@
+{
+  "video_id": "aJ5ODGvtptI",
+  "duration_seconds": 100,
+  "wps": 4.01,
+  "total_words": 401,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1447
+  },
+  "hook": {
+    "type": "question",
+    "text": "यह ₹1000 के कैश और ₹1000 की यूपीआई की वैल्यू सेम नहीं होती। अब आप कहोगे कि मैं कैसी बातें कर रही हूं? चलो आगे समझते"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में जरूर टैग करना जिनके चाय और सिगरेट की वजह से आपका मंथली एक्सपेंस बढ़ रहा है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "की",
+      "count": 10
+    },
+    {
+      "word": "से",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "हैं",
+      "count": 8
+    },
+    {
+      "word": "संगीत",
+      "count": 8
+    },
+    {
+      "word": "नहीं",
+      "count": 7
+    },
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "कैश",
+      "count": 6
+    },
+    {
+      "word": "यूपीआई",
+      "count": 6
+    },
+    {
+      "word": "होता",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "खर्चे",
+      "count": 4
+    },
+    {
+      "word": "चाय",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यूपीआई की",
+      "count": 3
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 3
+    },
+    {
+      "phrase": "कैश में",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं होता",
+      "count": 3
+    },
+    {
+      "phrase": "की वजह",
+      "count": 3
+    },
+    {
+      "phrase": "की यूपीआई",
+      "count": 2
+    },
+    {
+      "phrase": "अब आप",
+      "count": 2
+    },
+    {
+      "phrase": "होगा कि",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "तो आपको",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

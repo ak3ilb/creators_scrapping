@@ -1,0 +1,149 @@
+{
+  "video_id": "r8-s2GxO--o",
+  "duration_seconds": 783,
+  "wps": 3.04,
+  "total_words": 2380,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 9309
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "वी बिलीव दैट द मोस्ट नंबर ऑफ पीपल इन द वर्ल्ड टेस्टेड देयर फर्स्ट क्लास ऑफ वाइन हियर एट सूला।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "को",
+      "count": 47
+    },
+    {
+      "word": "वाइन",
+      "count": 43
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "के",
+      "count": 41
+    },
+    {
+      "word": "की",
+      "count": 35
+    },
+    {
+      "word": "सुला",
+      "count": 34
+    },
+    {
+      "word": "तो",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 30
+    },
+    {
+      "word": "कि",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 29
+    },
+    {
+      "word": "हैं",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "एक",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 21
+    },
+    {
+      "word": "था",
+      "count": 19
+    },
+    {
+      "word": "यह",
+      "count": 19
+    },
+    {
+      "word": "पर",
+      "count": 19
+    },
+    {
+      "word": "नहीं",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 8
+    },
+    {
+      "phrase": "यह है",
+      "count": 7
+    },
+    {
+      "phrase": "राजीव जी",
+      "count": 7
+    },
+    {
+      "phrase": "वजह से",
+      "count": 6
+    },
+    {
+      "phrase": "सुला को",
+      "count": 6
+    },
+    {
+      "phrase": "एंड दैट",
+      "count": 6
+    },
+    {
+      "phrase": "जी ने",
+      "count": 6
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 6
+    }
+  ],
+  "segment_count": 97
+}

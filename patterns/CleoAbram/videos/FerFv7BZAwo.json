@@ -1,0 +1,149 @@
+{
+  "video_id": "FerFv7BZAwo",
+  "duration_seconds": 1515,
+  "wps": 3.08,
+  "total_words": 4671,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 19316
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Only 12 people have ever walked on the Moon and  they all did it within just 4 years of each other..."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "optimistic stories about space and our future,  subscribe. We've got so much in the works for you."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 214
+    },
+    {
+      "word": "to",
+      "count": 163
+    },
+    {
+      "word": "and",
+      "count": 120
+    },
+    {
+      "word": "that",
+      "count": 105
+    },
+    {
+      "word": "of",
+      "count": 102
+    },
+    {
+      "word": "you",
+      "count": 95
+    },
+    {
+      "word": "this",
+      "count": 90
+    },
+    {
+      "word": "is",
+      "count": 89
+    },
+    {
+      "word": "in",
+      "count": 68
+    },
+    {
+      "word": "it",
+      "count": 58
+    },
+    {
+      "word": "so",
+      "count": 49
+    },
+    {
+      "word": "suit",
+      "count": 44
+    },
+    {
+      "word": "like",
+      "count": 43
+    },
+    {
+      "word": "on",
+      "count": 41
+    },
+    {
+      "word": "space",
+      "count": 39
+    },
+    {
+      "word": "for",
+      "count": 37
+    },
+    {
+      "word": "do",
+      "count": 35
+    },
+    {
+      "word": "but",
+      "count": 34
+    },
+    {
+      "word": "your",
+      "count": 33
+    },
+    {
+      "word": "be",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 28
+    },
+    {
+      "phrase": "this is",
+      "count": 25
+    },
+    {
+      "phrase": "the suit",
+      "count": 18
+    },
+    {
+      "phrase": "on the",
+      "count": 17
+    },
+    {
+      "phrase": "the moon",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "to the",
+      "count": 12
+    },
+    {
+      "phrase": "to be",
+      "count": 12
+    },
+    {
+      "phrase": "in space",
+      "count": 12
+    },
+    {
+      "phrase": "a spacesuit",
+      "count": 11
+    }
+  ],
+  "segment_count": 272
+}

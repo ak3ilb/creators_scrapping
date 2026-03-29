@@ -1,0 +1,149 @@
+{
+  "video_id": "-0NtDdchl7s",
+  "duration_seconds": 1641,
+  "wps": 3.23,
+  "total_words": 5295,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 23351
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "That's why the newspapers that were earlier printed before selling"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 283
+    },
+    {
+      "word": "of",
+      "count": 130
+    },
+    {
+      "word": "and",
+      "count": 115
+    },
+    {
+      "word": "to",
+      "count": 103
+    },
+    {
+      "word": "that",
+      "count": 96
+    },
+    {
+      "word": "news",
+      "count": 95
+    },
+    {
+      "word": "in",
+      "count": 95
+    },
+    {
+      "word": "is",
+      "count": 78
+    },
+    {
+      "word": "they",
+      "count": 69
+    },
+    {
+      "word": "so",
+      "count": 63
+    },
+    {
+      "word": "it",
+      "count": 59
+    },
+    {
+      "word": "then",
+      "count": 55
+    },
+    {
+      "word": "this",
+      "count": 52
+    },
+    {
+      "word": "for",
+      "count": 52
+    },
+    {
+      "word": "you",
+      "count": 47
+    },
+    {
+      "word": "government",
+      "count": 46
+    },
+    {
+      "word": "was",
+      "count": 44
+    },
+    {
+      "word": "which",
+      "count": 41
+    },
+    {
+      "word": "if",
+      "count": 39
+    },
+    {
+      "word": "are",
+      "count": 37
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the news",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 19
+    },
+    {
+      "phrase": "that -",
+      "count": 18
+    },
+    {
+      "phrase": "news agencies",
+      "count": 16
+    },
+    {
+      "phrase": "the government",
+      "count": 16
+    },
+    {
+      "phrase": "as well",
+      "count": 15
+    },
+    {
+      "phrase": "and the",
+      "count": 15
+    },
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "news media",
+      "count": 14
+    },
+    {
+      "phrase": "of india",
+      "count": 14
+    }
+  ],
+  "segment_count": 393
+}

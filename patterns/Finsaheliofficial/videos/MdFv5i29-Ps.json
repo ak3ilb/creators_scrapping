@@ -1,0 +1,148 @@
+{
+  "video_id": "MdFv5i29-Ps",
+  "duration_seconds": 84,
+  "wps": 3.61,
+  "total_words": 303,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1091
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पहले इस इमेज को देखो। आपके पास 3 सेकंड है कोई भी ब्लू चीज नोटिस करने के लिए। अब आप मुझे यह बताओ कि आपको कोई येलो कलर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "में लिखना यस आई एम द विनर और ऐसी रील्स के लिए मुझे फॉलो जरूर कर लेना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "संगीत",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "कोई",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "कभी",
+      "count": 4
+    },
+    {
+      "word": "रियलिटी",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कोई",
+      "count": 2
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "कलर की",
+      "count": 2
+    },
+    {
+      "phrase": "हो आप",
+      "count": 2
+    },
+    {
+      "phrase": "देखते हो",
+      "count": 2
+    },
+    {
+      "phrase": "आप कभी",
+      "count": 2
+    },
+    {
+      "phrase": "कभी भी",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

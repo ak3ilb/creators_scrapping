@@ -1,0 +1,148 @@
+{
+  "video_id": "TFkTVp1sEnk",
+  "duration_seconds": 52,
+  "wps": 3.87,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 762
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इससे पहले कि मुकेश अंबानी वर्ल्ड का सारा कॉपर खरीद ले यह वीडियो देख लो। क्योंकि रिच लोग 2026 में सिल्वर या गोल्ड नहीं"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "मुझे कमेंट करो कॉपर एंड मैं आपको डीएम में सारी डिटेल्स भेज दूंगी। बट हां, मेक शोर आपने मुझे फॉलो किया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "कॉपर",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "क्योंकि",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "म्यूच्यूल",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "2026",
+      "count": 2
+    },
+    {
+      "word": "सिल्वर",
+      "count": 2
+    },
+    {
+      "word": "या",
+      "count": 2
+    },
+    {
+      "word": "गोल्ड",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "खरीदने",
+      "count": 2
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कॉपर में",
+      "count": 3
+    },
+    {
+      "phrase": "में इन्वेस्ट",
+      "count": 3
+    },
+    {
+      "phrase": "2026 में",
+      "count": 2
+    },
+    {
+      "phrase": "खरीदने वाले",
+      "count": 2
+    },
+    {
+      "phrase": "वाले हैं",
+      "count": 2
+    },
+    {
+      "phrase": "क्योंकि कॉपर",
+      "count": 2
+    },
+    {
+      "phrase": "कॉपर का",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "इन्वेस्ट कर",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

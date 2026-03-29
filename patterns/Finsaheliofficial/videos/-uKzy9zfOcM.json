@@ -1,0 +1,148 @@
+{
+  "video_id": "-uKzy9zfOcM",
+  "duration_seconds": 49,
+  "wps": 3.43,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 583
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर तुम्हारी नेटवर्थ 1 करोड़ है ना तब भी तुम गरीब हो। गरीब? आप ही किस बेसिस पे कह रहे हो?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "किस कैटेगरी में आते"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "आते",
+      "count": 8
+    },
+    {
+      "word": "करोड़",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "नेटवर्थ",
+      "count": 6
+    },
+    {
+      "word": "कैटेगरी",
+      "count": 6
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "तुम",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "मिडिल",
+      "count": 4
+    },
+    {
+      "word": "क्लास",
+      "count": 4
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "वाले",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "गरीब",
+      "count": 3
+    },
+    {
+      "word": "10",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कैटेगरी में",
+      "count": 6
+    },
+    {
+      "phrase": "करोड़ तो",
+      "count": 4
+    },
+    {
+      "phrase": "आते हो",
+      "count": 4
+    },
+    {
+      "phrase": "मिडिल क्लास",
+      "count": 4
+    },
+    {
+      "phrase": "1 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "तो तुम",
+      "count": 3
+    },
+    {
+      "phrase": "तुम आते",
+      "count": 3
+    },
+    {
+      "phrase": "में और",
+      "count": 3
+    },
+    {
+      "phrase": "आते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "पुअर कैटेगरी",
+      "count": 3
+    }
+  ],
+  "segment_count": 7
+}

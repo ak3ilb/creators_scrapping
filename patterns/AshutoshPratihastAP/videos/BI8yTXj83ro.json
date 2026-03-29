@@ -1,0 +1,148 @@
+{
+  "video_id": "BI8yTXj83ro",
+  "duration_seconds": 588,
+  "wps": 3.63,
+  "total_words": 2137,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 7771
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "तो तक नहीं खेलूंगा नीड्स आफ तत्काल लगाने देगा ना बहुत दोस्तों आपने आज की इस वीडियो के अंदर आपके लिए बहुत स्पेशल चीज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हुआ है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 63
+    },
+    {
+      "word": "के",
+      "count": 39
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 33
+    },
+    {
+      "word": "अंदर",
+      "count": 29
+    },
+    {
+      "word": "आपको",
+      "count": 29
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "बहुत",
+      "count": 28
+    },
+    {
+      "word": "कर",
+      "count": 28
+    },
+    {
+      "word": "यह",
+      "count": 28
+    },
+    {
+      "word": "हैं",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 27
+    },
+    {
+      "word": "जो",
+      "count": 24
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "मैं",
+      "count": 21
+    },
+    {
+      "word": "वह",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "किया",
+      "count": 19
+    },
+    {
+      "word": "आप",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 23
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 9
+    },
+    {
+      "phrase": "रहा हूं",
+      "count": 8
+    },
+    {
+      "phrase": "देख सकते",
+      "count": 8
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 7
+    },
+    {
+      "phrase": "सच में",
+      "count": 7
+    },
+    {
+      "phrase": "लाख रुपए",
+      "count": 6
+    },
+    {
+      "phrase": "मैं आपको",
+      "count": 6
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 6
+    }
+  ],
+  "segment_count": 73
+}

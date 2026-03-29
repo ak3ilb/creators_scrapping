@@ -1,0 +1,149 @@
+{
+  "video_id": "ZUq_ZIphLqs",
+  "duration_seconds": 1810,
+  "wps": 3.11,
+  "total_words": 5631,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 24513
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why was only Kerala targeted in the whole India? The word 'love-jihad' was first invented in Kerala."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And not only this but there are many reports"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 233
+    },
+    {
+      "word": "in",
+      "count": 178
+    },
+    {
+      "word": "to",
+      "count": 140
+    },
+    {
+      "word": "that",
+      "count": 116
+    },
+    {
+      "word": "and",
+      "count": 116
+    },
+    {
+      "word": "of",
+      "count": 110
+    },
+    {
+      "word": "this",
+      "count": 84
+    },
+    {
+      "word": "they",
+      "count": 77
+    },
+    {
+      "word": "was",
+      "count": 75
+    },
+    {
+      "word": "is",
+      "count": 63
+    },
+    {
+      "word": "kerala",
+      "count": 62
+    },
+    {
+      "word": "were",
+      "count": 57
+    },
+    {
+      "word": "people",
+      "count": 47
+    },
+    {
+      "word": "it",
+      "count": 45
+    },
+    {
+      "word": "with",
+      "count": 45
+    },
+    {
+      "word": "isis",
+      "count": 43
+    },
+    {
+      "word": "from",
+      "count": 42
+    },
+    {
+      "word": "there",
+      "count": 42
+    },
+    {
+      "word": "on",
+      "count": 42
+    },
+    {
+      "word": "you",
+      "count": 42
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 37
+    },
+    {
+      "phrase": "in kerala",
+      "count": 31
+    },
+    {
+      "phrase": "of pfi",
+      "count": 15
+    },
+    {
+      "phrase": "in india",
+      "count": 15
+    },
+    {
+      "phrase": "all these",
+      "count": 14
+    },
+    {
+      "phrase": "kerala story",
+      "count": 13
+    },
+    {
+      "phrase": "if you",
+      "count": 13
+    },
+    {
+      "phrase": "due to",
+      "count": 12
+    },
+    {
+      "phrase": "these things",
+      "count": 11
+    },
+    {
+      "phrase": "there were",
+      "count": 11
+    }
+  ],
+  "segment_count": 223
+}

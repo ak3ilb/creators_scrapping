@@ -1,0 +1,148 @@
+{
+  "video_id": "JlX9iQK-WJM",
+  "duration_seconds": 769,
+  "wps": 3.0,
+  "total_words": 2309,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 9349
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "योर एक्सीलेंसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नेक्स्ट वन। बाय-बाय।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 101
+    },
+    {
+      "word": "और",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 45
+    },
+    {
+      "word": "तो",
+      "count": 43
+    },
+    {
+      "word": "के",
+      "count": 43
+    },
+    {
+      "word": "हैं",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "को",
+      "count": 31
+    },
+    {
+      "word": "इंडिया",
+      "count": 28
+    },
+    {
+      "word": "हो",
+      "count": 25
+    },
+    {
+      "word": "की",
+      "count": 24
+    },
+    {
+      "word": "ट्रेड",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 23
+    },
+    {
+      "word": "कि",
+      "count": 22
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "चाइना",
+      "count": 18
+    },
+    {
+      "word": "लेकिन",
+      "count": 17
+    },
+    {
+      "word": "फ्री",
+      "count": 16
+    },
+    {
+      "word": "बहुत",
+      "count": 15
+    },
+    {
+      "word": "फायदा",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ट्रेड एग्रीमेंट",
+      "count": 13
+    },
+    {
+      "phrase": "फ्री ट्रेड",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "वजह से",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 8
+    },
+    {
+      "phrase": "रही है",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 7
+    },
+    {
+      "phrase": "जाता है",
+      "count": 7
+    },
+    {
+      "phrase": "की वजह",
+      "count": 6
+    }
+  ],
+  "segment_count": 315
+}

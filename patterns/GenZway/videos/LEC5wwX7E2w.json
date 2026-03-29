@@ -1,0 +1,150 @@
+{
+  "video_id": "LEC5wwX7E2w",
+  "duration_seconds": 1322,
+  "wps": 4.62,
+  "total_words": 6111,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 22319
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन बॉलीवुड हीरोइंस बनना लिटरली एक श्रापित बिजनेस है क्योंकि ना ही आपकी वैल्यू ज्यादा होती है ना ही आपको पैसा ज्यादा मिलता है और आपका करियर भी इतना सा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कर सकते"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 316
+    },
+    {
+      "word": "के",
+      "count": 222
+    },
+    {
+      "word": "और",
+      "count": 147
+    },
+    {
+      "word": "तो",
+      "count": 132
+    },
+    {
+      "word": "को",
+      "count": 89
+    },
+    {
+      "word": "हैं",
+      "count": 88
+    },
+    {
+      "word": "अंदर",
+      "count": 85
+    },
+    {
+      "word": "का",
+      "count": 78
+    },
+    {
+      "word": "नहीं",
+      "count": 78
+    },
+    {
+      "word": "लोग",
+      "count": 72
+    },
+    {
+      "word": "भी",
+      "count": 71
+    },
+    {
+      "word": "ना",
+      "count": 65
+    },
+    {
+      "word": "से",
+      "count": 64
+    },
+    {
+      "word": "ये",
+      "count": 58
+    },
+    {
+      "word": "एक",
+      "count": 53
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "हो",
+      "count": 51
+    },
+    {
+      "word": "ब्रांड",
+      "count": 50
+    },
+    {
+      "word": "में",
+      "count": 49
+    },
+    {
+      "word": "कर",
+      "count": 49
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 73
+    },
+    {
+      "phrase": "है और",
+      "count": 38
+    },
+    {
+      "phrase": "के लिए",
+      "count": 33
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 29
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 26
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 25
+    },
+    {
+      "phrase": "है तो",
+      "count": 25
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 24
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 20
+    },
+    {
+      "phrase": "होता है",
+      "count": 19
+    }
+  ],
+  "segment_count": 166
+}

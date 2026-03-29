@@ -1,0 +1,149 @@
+{
+  "video_id": "7D-y4lN6ujw",
+  "duration_seconds": 797,
+  "wps": 3.14,
+  "total_words": 2499,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 9798
+  },
+  "hook": {
+    "type": "statement",
+    "text": "और ये है मॉडर्न टाइम्स के दो सबसे बड़े"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देन टेक केयर। जय हिंद।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 71
+    },
+    {
+      "word": "में",
+      "count": 54
+    },
+    {
+      "word": "और",
+      "count": 49
+    },
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "कि",
+      "count": 39
+    },
+    {
+      "word": "था",
+      "count": 37
+    },
+    {
+      "word": "है",
+      "count": 35
+    },
+    {
+      "word": "भी",
+      "count": 30
+    },
+    {
+      "word": "पर",
+      "count": 30
+    },
+    {
+      "word": "नहीं",
+      "count": 27
+    },
+    {
+      "word": "वो",
+      "count": 27
+    },
+    {
+      "word": "थे",
+      "count": 27
+    },
+    {
+      "word": "तो",
+      "count": 25
+    },
+    {
+      "word": "उड़ने",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 22
+    },
+    {
+      "word": "इस",
+      "count": 22
+    },
+    {
+      "word": "की",
+      "count": 22
+    },
+    {
+      "word": "जो",
+      "count": 20
+    },
+    {
+      "word": "ही",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "उड़ने वाले",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "उड़ सकता",
+      "count": 8
+    },
+    {
+      "phrase": "सकता था",
+      "count": 8
+    },
+    {
+      "phrase": "वाले डायनासोर्स",
+      "count": 8
+    },
+    {
+      "phrase": "साइज में",
+      "count": 6
+    },
+    {
+      "phrase": "और इसीलिए",
+      "count": 6
+    },
+    {
+      "phrase": "सकते थे",
+      "count": 6
+    },
+    {
+      "phrase": "के साथ",
+      "count": 6
+    }
+  ],
+  "segment_count": 320
+}

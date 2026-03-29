@@ -1,0 +1,149 @@
+{
+  "video_id": "enevSuDgf3U",
+  "duration_seconds": 977,
+  "wps": 3.09,
+  "total_words": 3017,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12553
+  },
+  "hook": {
+    "type": "question",
+    "text": "Ready? This is the world's most realistic  lightsaber and I'm holding it because today"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to just be a kid. It's a reminder of how important  it is to find ways to just feel... joy."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 112
+    },
+    {
+      "word": "to",
+      "count": 107
+    },
+    {
+      "word": "and",
+      "count": 74
+    },
+    {
+      "word": "that",
+      "count": 65
+    },
+    {
+      "word": "of",
+      "count": 62
+    },
+    {
+      "word": "is",
+      "count": 54
+    },
+    {
+      "word": "it",
+      "count": 52
+    },
+    {
+      "word": "you",
+      "count": 48
+    },
+    {
+      "word": "this",
+      "count": 46
+    },
+    {
+      "word": "in",
+      "count": 45
+    },
+    {
+      "word": "so",
+      "count": 35
+    },
+    {
+      "word": "we",
+      "count": 31
+    },
+    {
+      "word": "for",
+      "count": 28
+    },
+    {
+      "word": "how",
+      "count": 25
+    },
+    {
+      "word": "they",
+      "count": 24
+    },
+    {
+      "word": "on",
+      "count": 23
+    },
+    {
+      "word": "can",
+      "count": 23
+    },
+    {
+      "word": "i'm",
+      "count": 22
+    },
+    {
+      "word": "but",
+      "count": 20
+    },
+    {
+      "word": "it's",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "this is",
+      "count": 13
+    },
+    {
+      "phrase": "of the",
+      "count": 13
+    },
+    {
+      "phrase": "going to",
+      "count": 11
+    },
+    {
+      "phrase": "in a",
+      "count": 10
+    },
+    {
+      "phrase": "and that",
+      "count": 8
+    },
+    {
+      "phrase": "a little",
+      "count": 8
+    },
+    {
+      "phrase": "i was",
+      "count": 7
+    },
+    {
+      "phrase": "you can",
+      "count": 7
+    },
+    {
+      "phrase": "is the",
+      "count": 6
+    }
+  ],
+  "segment_count": 122
+}

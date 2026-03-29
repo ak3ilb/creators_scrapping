@@ -1,0 +1,150 @@
+{
+  "video_id": "1SovPw15jk0",
+  "duration_seconds": 1331,
+  "wps": 4.85,
+  "total_words": 6456,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 22756
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सनी लियोन के रेस्टोरेंट के ऊपर मैं बाद में जाऊंगा। पहले तुम विराट कोहली के रेस्टोरेंट को देखो। ₹150 का एक मोमो बेच रहे हैं। और मैं मोमोज़ के प्लेट की बात"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आ रही होगी। और हां जाने से पहले स्लाइस को चेक आउट करना बिल्कुल ही मत भूलना। उनके एफडी ग्रेट्स काफी ज्यादा अच्छे हैं। तुम लोग जाके एक्सप्लोर कर सकते हो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 286
+    },
+    {
+      "word": "के",
+      "count": 207
+    },
+    {
+      "word": "और",
+      "count": 158
+    },
+    {
+      "word": "ना",
+      "count": 133
+    },
+    {
+      "word": "तो",
+      "count": 131
+    },
+    {
+      "word": "को",
+      "count": 93
+    },
+    {
+      "word": "नहीं",
+      "count": 90
+    },
+    {
+      "word": "हैं",
+      "count": 88
+    },
+    {
+      "word": "भी",
+      "count": 86
+    },
+    {
+      "word": "अंदर",
+      "count": 82
+    },
+    {
+      "word": "मैं",
+      "count": 70
+    },
+    {
+      "word": "में",
+      "count": 69
+    },
+    {
+      "word": "कि",
+      "count": 69
+    },
+    {
+      "word": "पे",
+      "count": 67
+    },
+    {
+      "word": "था",
+      "count": 67
+    },
+    {
+      "word": "लोग",
+      "count": 66
+    },
+    {
+      "word": "ये",
+      "count": 66
+    },
+    {
+      "word": "जो",
+      "count": 65
+    },
+    {
+      "word": "ही",
+      "count": 65
+    },
+    {
+      "word": "की",
+      "count": 64
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 60
+    },
+    {
+      "phrase": "है ना",
+      "count": 33
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 30
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 30
+    },
+    {
+      "phrase": "है और",
+      "count": 27
+    },
+    {
+      "phrase": "हैं और",
+      "count": 22
+    },
+    {
+      "phrase": "वहां पे",
+      "count": 22
+    },
+    {
+      "phrase": "या फिर",
+      "count": 21
+    },
+    {
+      "phrase": "के लिए",
+      "count": 20
+    },
+    {
+      "phrase": "होता है",
+      "count": 20
+    }
+  ],
+  "segment_count": 167
+}

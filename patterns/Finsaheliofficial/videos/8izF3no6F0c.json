@@ -1,0 +1,150 @@
+{
+  "video_id": "8izF3no6F0c",
+  "duration_seconds": 108,
+  "wps": 4.01,
+  "total_words": 433,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1516
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ट्रंप का खेल तो ऑलमोस्ट खत्म क्योंकि ईरान ने अब एक ऐसा मूव खेला है जो यूएस एंड डॉलर की पावर को हिला सकता है। समझो"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अपडेट्स के लिए मुझे फॉलो कर लेना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 25
+    },
+    {
+      "word": "तो",
+      "count": 15
+    },
+    {
+      "word": "अब",
+      "count": 11
+    },
+    {
+      "word": "डॉलर",
+      "count": 11
+    },
+    {
+      "word": "ऑयल",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "की",
+      "count": 9
+    },
+    {
+      "word": "रहा",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "ही",
+      "count": 6
+    },
+    {
+      "word": "ईरान",
+      "count": 5
+    },
+    {
+      "word": "यूएस",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "एलपीजी",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "रही है",
+      "count": 4
+    },
+    {
+      "phrase": "डॉलर की",
+      "count": 3
+    },
+    {
+      "phrase": "है अब",
+      "count": 3
+    },
+    {
+      "phrase": "पेमेंट डॉलर",
+      "count": 3
+    },
+    {
+      "phrase": "डॉलर में",
+      "count": 3
+    },
+    {
+      "phrase": "वजह से",
+      "count": 3
+    },
+    {
+      "phrase": "डॉलर सिस्टम",
+      "count": 3
+    }
+  ],
+  "segment_count": 14
+}

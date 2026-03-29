@@ -1,0 +1,150 @@
+{
+  "video_id": "Omv6odsFMjU",
+  "duration_seconds": 850,
+  "wps": 4.98,
+  "total_words": 4230,
+  "language_mix": {
+    "hindi": 97.8,
+    "english": 2.2,
+    "total_chars": 14567
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये फोन ऑर्डर करने के 10 मिनट के अंदर-अंदर घर पे आ गया था। पर जब चालू करके देखा तो चल नहीं रहा है। फिर इसको चार्जिंग पे लगा के चलाने की कोशिश करी तो"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "एक्चुअल में सस्ता कहां मिल रहा है और इसका लिंक मैं डिस्क्रिप्शन और पिन कमेंट के अंदर दे दूंगा। मैं तुमसे मिलता हूं अगली वीडियो में। तब तक के लिए पैसे बचा के रखो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 149
+    },
+    {
+      "word": "के",
+      "count": 119
+    },
+    {
+      "word": "और",
+      "count": 107
+    },
+    {
+      "word": "तो",
+      "count": 76
+    },
+    {
+      "word": "लोग",
+      "count": 67
+    },
+    {
+      "word": "भी",
+      "count": 62
+    },
+    {
+      "word": "कर",
+      "count": 58
+    },
+    {
+      "word": "ना",
+      "count": 57
+    },
+    {
+      "word": "हैं",
+      "count": 55
+    },
+    {
+      "word": "अंदर",
+      "count": 55
+    },
+    {
+      "word": "को",
+      "count": 53
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "हो",
+      "count": 49
+    },
+    {
+      "word": "ये",
+      "count": 43
+    },
+    {
+      "word": "का",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "भैया",
+      "count": 40
+    },
+    {
+      "word": "की",
+      "count": 39
+    },
+    {
+      "word": "में",
+      "count": 39
+    },
+    {
+      "word": "नहीं",
+      "count": 38
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 40
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 30
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 23
+    },
+    {
+      "phrase": "रहा है",
+      "count": 18
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 18
+    },
+    {
+      "phrase": "या फिर",
+      "count": 17
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 14
+    },
+    {
+      "phrase": "है तो",
+      "count": 13
+    }
+  ],
+  "segment_count": 109
+}

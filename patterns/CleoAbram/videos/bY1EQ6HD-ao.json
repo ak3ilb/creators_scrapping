@@ -1,0 +1,149 @@
+{
+  "video_id": "bY1EQ6HD-ao",
+  "duration_seconds": 4414,
+  "wps": 2.9,
+  "total_words": 12779,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 53641
+  },
+  "hook": {
+    "type": "question",
+    "text": "Imagine that you and I are on a mission  to fall into a black hole. It's a bit nasty   around these things! You cease to right stick  stay together. We're one long string of atoms?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "mysterious and magical it becomes it's a beautiful  place then thank you so much for your time"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 773
+    },
+    {
+      "word": "and",
+      "count": 402
+    },
+    {
+      "word": "of",
+      "count": 375
+    },
+    {
+      "word": "you",
+      "count": 337
+    },
+    {
+      "word": "that",
+      "count": 335
+    },
+    {
+      "word": "so",
+      "count": 312
+    },
+    {
+      "word": "is",
+      "count": 298
+    },
+    {
+      "word": "it",
+      "count": 240
+    },
+    {
+      "word": "to",
+      "count": 231
+    },
+    {
+      "word": "it's",
+      "count": 223
+    },
+    {
+      "word": "in",
+      "count": 206
+    },
+    {
+      "word": "this",
+      "count": 191
+    },
+    {
+      "word": "we",
+      "count": 167
+    },
+    {
+      "word": "what",
+      "count": 129
+    },
+    {
+      "word": "black",
+      "count": 112
+    },
+    {
+      "word": "but",
+      "count": 109
+    },
+    {
+      "word": "about",
+      "count": 92
+    },
+    {
+      "word": "hole",
+      "count": 89
+    },
+    {
+      "word": "from",
+      "count": 82
+    },
+    {
+      "word": "um",
+      "count": 80
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 92
+    },
+    {
+      "phrase": "black hole",
+      "count": 89
+    },
+    {
+      "phrase": "in the",
+      "count": 50
+    },
+    {
+      "phrase": "it's a",
+      "count": 46
+    },
+    {
+      "phrase": "you can",
+      "count": 40
+    },
+    {
+      "phrase": "the black",
+      "count": 39
+    },
+    {
+      "phrase": "if you",
+      "count": 38
+    },
+    {
+      "phrase": "the the",
+      "count": 38
+    },
+    {
+      "phrase": "a black",
+      "count": 37
+    },
+    {
+      "phrase": "at the",
+      "count": 35
+    }
+  ],
+  "segment_count": 611
+}

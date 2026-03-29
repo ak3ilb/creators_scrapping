@@ -1,0 +1,149 @@
+{
+  "video_id": "0HlLwG2xN_c",
+  "duration_seconds": 1087,
+  "wps": 2.96,
+  "total_words": 3217,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 13618
+  },
+  "hook": {
+    "type": "question",
+    "text": "Ready? Inside the stomach of a sperm whale,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Heat."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 127
+    },
+    {
+      "word": "and",
+      "count": 102
+    },
+    {
+      "word": "to",
+      "count": 87
+    },
+    {
+      "word": "of",
+      "count": 86
+    },
+    {
+      "word": "that",
+      "count": 65
+    },
+    {
+      "word": "we",
+      "count": 62
+    },
+    {
+      "word": "in",
+      "count": 53
+    },
+    {
+      "word": "is",
+      "count": 52
+    },
+    {
+      "word": "this",
+      "count": 51
+    },
+    {
+      "word": "but",
+      "count": 41
+    },
+    {
+      "word": "it",
+      "count": 38
+    },
+    {
+      "word": "for",
+      "count": 33
+    },
+    {
+      "word": "so",
+      "count": 31
+    },
+    {
+      "word": "our",
+      "count": 31
+    },
+    {
+      "word": "can",
+      "count": 30
+    },
+    {
+      "word": "you",
+      "count": 30
+    },
+    {
+      "word": "here",
+      "count": 27
+    },
+    {
+      "word": "all",
+      "count": 27
+    },
+    {
+      "word": "they",
+      "count": 27
+    },
+    {
+      "word": "it's",
+      "count": 26
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 18
+    },
+    {
+      "phrase": "down here",
+      "count": 12
+    },
+    {
+      "phrase": "that we",
+      "count": 12
+    },
+    {
+      "phrase": "this is",
+      "count": 11
+    },
+    {
+      "phrase": "colossal squid",
+      "count": 10
+    },
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "we can",
+      "count": 10
+    },
+    {
+      "phrase": "the ocean",
+      "count": 9
+    },
+    {
+      "phrase": "for the",
+      "count": 9
+    },
+    {
+      "phrase": "to the",
+      "count": 8
+    }
+  ],
+  "segment_count": 144
+}

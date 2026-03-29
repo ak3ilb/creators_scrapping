@@ -1,0 +1,149 @@
+{
+  "video_id": "vOErjUJthWY",
+  "duration_seconds": 5103,
+  "wps": 3.66,
+  "total_words": 18684,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 68554
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, वेलकम बैक टू द बुक पॉडकास्ट जहां हम इस अमेजिंग बुक के बारे में आज बात करने वाले हैं, द लॉ ऑफ़ अट्रैक्शन के बारे में जिनके ऑथर है मितेश खत्री जी और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यू सो मच अपना टाइम देने के लिए। इट्स अ प्लेज डॉक्टर। थैंक यू। थैंक यू। थैंक यू। थैंक यू वै मच। थैंक। थैंक यू फॉर लिसनिंग।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 780
+    },
+    {
+      "word": "तो",
+      "count": 373
+    },
+    {
+      "word": "में",
+      "count": 284
+    },
+    {
+      "word": "और",
+      "count": 252
+    },
+    {
+      "word": "के",
+      "count": 249
+    },
+    {
+      "word": "एक",
+      "count": 242
+    },
+    {
+      "word": "हैं",
+      "count": 206
+    },
+    {
+      "word": "हो",
+      "count": 205
+    },
+    {
+      "word": "नहीं",
+      "count": 200
+    },
+    {
+      "word": "से",
+      "count": 196
+    },
+    {
+      "word": "भी",
+      "count": 193
+    },
+    {
+      "word": "वो",
+      "count": 190
+    },
+    {
+      "word": "को",
+      "count": 189
+    },
+    {
+      "word": "मैं",
+      "count": 189
+    },
+    {
+      "word": "ये",
+      "count": 174
+    },
+    {
+      "word": "कि",
+      "count": 173
+    },
+    {
+      "word": "आप",
+      "count": 172
+    },
+    {
+      "word": "कर",
+      "count": 157
+    },
+    {
+      "word": "ही",
+      "count": 149
+    },
+    {
+      "word": "जो",
+      "count": 144
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 61
+    },
+    {
+      "phrase": "रहा है",
+      "count": 58
+    },
+    {
+      "phrase": "के लिए",
+      "count": 43
+    },
+    {
+      "phrase": "होता है",
+      "count": 42
+    },
+    {
+      "phrase": "है और",
+      "count": 38
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 37
+    },
+    {
+      "phrase": "है कि",
+      "count": 34
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 33
+    },
+    {
+      "phrase": "रही है",
+      "count": 33
+    },
+    {
+      "phrase": "आई एम",
+      "count": 33
+    }
+  ],
+  "segment_count": 644
+}

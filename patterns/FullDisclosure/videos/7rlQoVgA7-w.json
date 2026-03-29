@@ -1,0 +1,148 @@
+{
+  "video_id": "7rlQoVgA7-w",
+  "duration_seconds": 45,
+  "wps": 2.89,
+  "total_words": 130,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 598
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "India has thousands of [music]"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "lead in technology and innovation? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "top",
+      "count": 6
+    },
+    {
+      "word": "music",
+      "count": 5
+    },
+    {
+      "word": "india",
+      "count": 3
+    },
+    {
+      "word": "global",
+      "count": 3
+    },
+    {
+      "word": "100",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "universities",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "only",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "rankings",
+      "count": 2
+    },
+    {
+      "word": "11",
+      "count": 2
+    },
+    {
+      "word": "subjects",
+      "count": 2
+    },
+    {
+      "word": "leads",
+      "count": 2
+    },
+    {
+      "word": "10",
+      "count": 2
+    },
+    {
+      "word": "reward",
+      "count": 2
+    },
+    {
+      "word": "innovation",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the global",
+      "count": 3
+    },
+    {
+      "phrase": "global top",
+      "count": 3
+    },
+    {
+      "phrase": "top 100",
+      "count": 3
+    },
+    {
+      "phrase": "only one",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "and innovation",
+      "count": 2
+    },
+    {
+      "phrase": "india has",
+      "count": 1
+    },
+    {
+      "phrase": "has thousands",
+      "count": 1
+    },
+    {
+      "phrase": "thousands of",
+      "count": 1
+    },
+    {
+      "phrase": "of music",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

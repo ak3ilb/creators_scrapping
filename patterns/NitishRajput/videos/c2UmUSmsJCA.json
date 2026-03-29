@@ -1,0 +1,149 @@
+{
+  "video_id": "c2UmUSmsJCA",
+  "duration_seconds": 2498,
+  "wps": 2.88,
+  "total_words": 7199,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 33208
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "At night, they sneaked in by swimming and planted limpet mines on the ships. And then they exploded."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Sales — and over 45 such apps — is integrated for every big and small business. Do try it out. Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 369
+    },
+    {
+      "word": "and",
+      "count": 215
+    },
+    {
+      "word": "was",
+      "count": 205
+    },
+    {
+      "word": "to",
+      "count": 173
+    },
+    {
+      "word": "of",
+      "count": 137
+    },
+    {
+      "word": "it",
+      "count": 119
+    },
+    {
+      "word": "ins",
+      "count": 112
+    },
+    {
+      "word": "that",
+      "count": 110
+    },
+    {
+      "word": "in",
+      "count": 101
+    },
+    {
+      "word": "this",
+      "count": 98
+    },
+    {
+      "word": "pakistan",
+      "count": 87
+    },
+    {
+      "word": "ghazi",
+      "count": 87
+    },
+    {
+      "word": "vikrant",
+      "count": 81
+    },
+    {
+      "word": "on",
+      "count": 69
+    },
+    {
+      "word": "pns",
+      "count": 69
+    },
+    {
+      "word": "had",
+      "count": 67
+    },
+    {
+      "word": "were",
+      "count": 65
+    },
+    {
+      "word": "for",
+      "count": 63
+    },
+    {
+      "word": "they",
+      "count": 61
+    },
+    {
+      "word": "at",
+      "count": 59
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ins vikrant",
+      "count": 80
+    },
+    {
+      "phrase": "pns ghazi",
+      "count": 66
+    },
+    {
+      "phrase": "it was",
+      "count": 32
+    },
+    {
+      "phrase": "in the",
+      "count": 28
+    },
+    {
+      "phrase": "ins rajput",
+      "count": 25
+    },
+    {
+      "phrase": "east pakistan",
+      "count": 25
+    },
+    {
+      "phrase": "and the",
+      "count": 22
+    },
+    {
+      "phrase": "on the",
+      "count": 21
+    },
+    {
+      "phrase": "the indian",
+      "count": 20
+    },
+    {
+      "phrase": "the bay",
+      "count": 19
+    }
+  ],
+  "segment_count": 307
+}

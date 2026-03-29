@@ -1,0 +1,148 @@
+{
+  "video_id": "cdfX_4Zb8zU",
+  "duration_seconds": 495,
+  "wps": 3.28,
+  "total_words": 1623,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 6213
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मान लो इजराइल ईरान के अंडरग्राउंड न्यूक्लियर साइट को बॉम्ब कर भी लेता है। तब भी इजराइल को एक घंटा लगेगा अपने एयरबेस पर वापस लौटने के लिए। लेकिन ईरानी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ठोकना। सी यू नेक्स्ट टाइम। टिल देन एज ऑलवेज स्टे क्यूरियस, कीप लर्निंग एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "के",
+      "count": 50
+    },
+    {
+      "word": "ईरान",
+      "count": 48
+    },
+    {
+      "word": "और",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 34
+    },
+    {
+      "word": "को",
+      "count": 33
+    },
+    {
+      "word": "में",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "ही",
+      "count": 18
+    },
+    {
+      "word": "का",
+      "count": 18
+    },
+    {
+      "word": "यह",
+      "count": 17
+    },
+    {
+      "word": "एक",
+      "count": 16
+    },
+    {
+      "word": "पर",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 16
+    },
+    {
+      "word": "मिसाइल",
+      "count": 14
+    },
+    {
+      "word": "यूएस",
+      "count": 14
+    },
+    {
+      "word": "अंडरग्राउंड",
+      "count": 13
+    },
+    {
+      "word": "न्यूक्लियर",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "ईरान के",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "से ईरान",
+      "count": 6
+    },
+    {
+      "phrase": "ईरान ने",
+      "count": 6
+    },
+    {
+      "phrase": "सकता है",
+      "count": 5
+    },
+    {
+      "phrase": "अंडरग्राउंड न्यूक्लियर",
+      "count": 4
+    },
+    {
+      "phrase": "इजराइल को",
+      "count": 4
+    },
+    {
+      "phrase": "में ही",
+      "count": 4
+    }
+  ],
+  "segment_count": 63
+}

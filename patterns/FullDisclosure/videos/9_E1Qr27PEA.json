@@ -1,0 +1,148 @@
+{
+  "video_id": "9_E1Qr27PEA",
+  "duration_seconds": 51,
+  "wps": 2.82,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 744
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Claude just saved a dying tomato plant in 13 minutes without any human help. A project called Saul Biodome gave Claude"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Then what will humans do if AI becomes the perfect operator? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "claude",
+      "count": 4
+    },
+    {
+      "word": "plant",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "13",
+      "count": 2
+    },
+    {
+      "word": "minutes",
+      "count": 2
+    },
+    {
+      "word": "human",
+      "count": 2
+    },
+    {
+      "word": "environment",
+      "count": 2
+    },
+    {
+      "word": "music",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "where",
+      "count": 2
+    },
+    {
+      "word": "humans",
+      "count": 2
+    },
+    {
+      "word": "saved",
+      "count": 1
+    },
+    {
+      "word": "dying",
+      "count": 1
+    },
+    {
+      "word": "tomato",
+      "count": 1
+    },
+    {
+      "word": "without",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in 13",
+      "count": 2
+    },
+    {
+      "phrase": "13 minutes",
+      "count": 2
+    },
+    {
+      "phrase": "the plant",
+      "count": 2
+    },
+    {
+      "phrase": "in a",
+      "count": 2
+    },
+    {
+      "phrase": "claude just",
+      "count": 1
+    },
+    {
+      "phrase": "just saved",
+      "count": 1
+    },
+    {
+      "phrase": "saved a",
+      "count": 1
+    },
+    {
+      "phrase": "a dying",
+      "count": 1
+    },
+    {
+      "phrase": "dying tomato",
+      "count": 1
+    },
+    {
+      "phrase": "tomato plant",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

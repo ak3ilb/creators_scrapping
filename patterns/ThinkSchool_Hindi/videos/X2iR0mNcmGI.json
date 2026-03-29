@@ -1,0 +1,148 @@
+{
+  "video_id": "X2iR0mNcmGI",
+  "duration_seconds": 1142,
+  "wps": 2.83,
+  "total_words": 3228,
+  "language_mix": {
+    "hindi": 94.2,
+    "english": 5.8,
+    "total_chars": 12998
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों भारत में Tesla की एंट्री होने जा रही है और इस खबर के आते ही पूरे देश की ईवी मार्केट में तहलका मच चुका है। Tes्ला"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 102
+    },
+    {
+      "word": "और",
+      "count": 100
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "के",
+      "count": 65
+    },
+    {
+      "word": "tesla",
+      "count": 64
+    },
+    {
+      "word": "भारत",
+      "count": 62
+    },
+    {
+      "word": "की",
+      "count": 48
+    },
+    {
+      "word": "एक",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 40
+    },
+    {
+      "word": "से",
+      "count": 38
+    },
+    {
+      "word": "को",
+      "count": 37
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "तो",
+      "count": 30
+    },
+    {
+      "word": "हैं",
+      "count": 28
+    },
+    {
+      "word": "सिर्फ",
+      "count": 27
+    },
+    {
+      "word": "इन",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 25
+    },
+    {
+      "word": "इंडिया",
+      "count": 21
+    },
+    {
+      "word": "दोस्तों",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भारत में",
+      "count": 30
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "tesla की",
+      "count": 13
+    },
+    {
+      "phrase": "ईलॉन मस्क",
+      "count": 12
+    },
+    {
+      "phrase": "tesla के",
+      "count": 12
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "में एक",
+      "count": 10
+    },
+    {
+      "phrase": "भारत के",
+      "count": 9
+    }
+  ],
+  "segment_count": 144
+}

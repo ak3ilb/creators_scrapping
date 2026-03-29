@@ -1,0 +1,148 @@
+{
+  "video_id": "LYDphGCFkJ4",
+  "duration_seconds": 51,
+  "wps": 3.55,
+  "total_words": 181,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 652
+  },
+  "hook": {
+    "type": "question",
+    "text": "जैसे अगर किसी को अपनी आइज का कलर चेंज करना है, ब्लू या फिर ग्रीन आइज बनाना है तो क्या इसके लिए कोई सर्जरी आती है? क्या कोई ट्रीटमेंट प्लान है जो परमानेंटली आई कलर को चेंज?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ब्लॉक कर देता है। और इससे ग्लूकोमा काले मोतिया की प्रॉब्लम आ सकती है। ओके।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "कलर",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "बोलो",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "चेंज",
+      "count": 3
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "ड्रेनेज",
+      "count": 3
+    },
+    {
+      "word": "आइज",
+      "count": 2
+    },
+    {
+      "word": "ब्लू",
+      "count": 2
+    },
+    {
+      "word": "ग्रीन",
+      "count": 2
+    },
+    {
+      "word": "सर्जरी",
+      "count": 2
+    },
+    {
+      "word": "परमानेंटली",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "आई कलर",
+      "count": 2
+    },
+    {
+      "phrase": "कलर को",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "एक पतला",
+      "count": 2
+    },
+    {
+      "phrase": "पतला सा",
+      "count": 2
+    },
+    {
+      "phrase": "सा पीस",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "जैसे अगर",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

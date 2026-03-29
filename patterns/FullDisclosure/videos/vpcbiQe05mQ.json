@@ -1,0 +1,148 @@
+{
+  "video_id": "vpcbiQe05mQ",
+  "duration_seconds": 68,
+  "wps": 2.62,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 896
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "India and the US just finalized a trade deal and it may give the Indian electronic sector a $100 billion opportunity. Here's what's actually"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "target. What do you think about this deal? Let me know in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "india",
+      "count": 5
+    },
+    {
+      "word": "us",
+      "count": 4
+    },
+    {
+      "word": "billion",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "trade",
+      "count": 3
+    },
+    {
+      "word": "sector",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "deal",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "indian",
+      "count": 2
+    },
+    {
+      "word": "electronic",
+      "count": 2
+    },
+    {
+      "word": "$100",
+      "count": 2
+    },
+    {
+      "word": "tariffs",
+      "count": 2
+    },
+    {
+      "word": "18%",
+      "count": 2
+    },
+    {
+      "word": "electronics",
+      "count": 2
+    },
+    {
+      "word": "competitive",
+      "count": 2
+    },
+    {
+      "word": "faces",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the us",
+      "count": 3
+    },
+    {
+      "phrase": "electronic sector",
+      "count": 2
+    },
+    {
+      "phrase": "$100 billion",
+      "count": 2
+    },
+    {
+      "phrase": "where to",
+      "count": 2
+    },
+    {
+      "phrase": "india and",
+      "count": 1
+    },
+    {
+      "phrase": "and the",
+      "count": 1
+    },
+    {
+      "phrase": "us just",
+      "count": 1
+    },
+    {
+      "phrase": "just finalized",
+      "count": 1
+    },
+    {
+      "phrase": "finalized a",
+      "count": 1
+    },
+    {
+      "phrase": "a trade",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

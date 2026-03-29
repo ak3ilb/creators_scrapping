@@ -1,0 +1,150 @@
+{
+  "video_id": "wWDql6HCS7E",
+  "duration_seconds": 1255,
+  "wps": 4.64,
+  "total_words": 5821,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 20433
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये जो तुम लोग घर देख रहे हो ना ये हर उस आदमी को फ्री में मिलेगा जो गरीब होने की क्रेजी एक्टिंग करके दिखाएगा और ये प्रोफेशनल मजबूर लोगों को घर पता है किसके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भूलना और मैं तुमसे मिलता हूं अगली वीडियो में तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 255
+    },
+    {
+      "word": "के",
+      "count": 207
+    },
+    {
+      "word": "हैं",
+      "count": 139
+    },
+    {
+      "word": "और",
+      "count": 131
+    },
+    {
+      "word": "लोग",
+      "count": 116
+    },
+    {
+      "word": "से",
+      "count": 86
+    },
+    {
+      "word": "को",
+      "count": 83
+    },
+    {
+      "word": "अंदर",
+      "count": 82
+    },
+    {
+      "word": "नहीं",
+      "count": 77
+    },
+    {
+      "word": "भी",
+      "count": 75
+    },
+    {
+      "word": "तो",
+      "count": 72
+    },
+    {
+      "word": "हो",
+      "count": 66
+    },
+    {
+      "word": "ये",
+      "count": 64
+    },
+    {
+      "word": "घर",
+      "count": 60
+    },
+    {
+      "word": "जो",
+      "count": 59
+    },
+    {
+      "word": "रहे",
+      "count": 53
+    },
+    {
+      "word": "सरकार",
+      "count": 52
+    },
+    {
+      "word": "का",
+      "count": 52
+    },
+    {
+      "word": "एक",
+      "count": 52
+    },
+    {
+      "word": "भैया",
+      "count": 51
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 75
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 35
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 29
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 28
+    },
+    {
+      "phrase": "रहा है",
+      "count": 27
+    },
+    {
+      "phrase": "के लिए",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 23
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 22
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 21
+    }
+  ],
+  "segment_count": 160
+}

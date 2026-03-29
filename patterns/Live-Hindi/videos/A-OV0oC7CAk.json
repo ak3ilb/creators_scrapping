@@ -1,0 +1,149 @@
+{
+  "video_id": "A-OV0oC7CAk",
+  "duration_seconds": 835,
+  "wps": 3.13,
+  "total_words": 2617,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 10225
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "पान की गुमटी पर बैठने वाले इन दो लोगों ने कैसे खड़ी कर दी 10,000 करोड़ की एंपायर। असल में यह कारनामा कर दिखाया है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वह लाउड नहीं होता और उसके रिजल्ट पूरे बाजार को सुनाई देते"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 87
+    },
+    {
+      "word": "में",
+      "count": 61
+    },
+    {
+      "word": "से",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 47
+    },
+    {
+      "word": "की",
+      "count": 44
+    },
+    {
+      "word": "था",
+      "count": 41
+    },
+    {
+      "word": "कि",
+      "count": 40
+    },
+    {
+      "word": "को",
+      "count": 33
+    },
+    {
+      "word": "है",
+      "count": 32
+    },
+    {
+      "word": "भी",
+      "count": 32
+    },
+    {
+      "word": "ही",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 30
+    },
+    {
+      "word": "यह",
+      "count": 29
+    },
+    {
+      "word": "ग्रुप",
+      "count": 29
+    },
+    {
+      "word": "ने",
+      "count": 28
+    },
+    {
+      "word": "डीएस",
+      "count": 28
+    },
+    {
+      "word": "फिर",
+      "count": 24
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 22
+    },
+    {
+      "word": "कर",
+      "count": 21
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डीएस ग्रुप",
+      "count": 27
+    },
+    {
+      "phrase": "पान मसाला",
+      "count": 12
+    },
+    {
+      "phrase": "और फिर",
+      "count": 12
+    },
+    {
+      "phrase": "ग्रुप ने",
+      "count": 11
+    },
+    {
+      "phrase": "के साथ",
+      "count": 10
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 10
+    },
+    {
+      "phrase": "है और",
+      "count": 9
+    },
+    {
+      "phrase": "के लिए",
+      "count": 9
+    },
+    {
+      "phrase": "था और",
+      "count": 7
+    },
+    {
+      "phrase": "शुरू कर",
+      "count": 7
+    }
+  ],
+  "segment_count": 107
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "pWyEJZICo0A",
+  "duration_seconds": 65,
+  "wps": 2.63,
+  "total_words": 171,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 929
+  },
+  "hook": {
+    "type": "question",
+    "text": "One entrance exam can unlock a highpaying futurep proof career in fintech and artificial intelligence. In management careers, finance is already"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "school of Bits Pilani. Classes are fully online, and there's an optional Mumbai campus immersion for networking and exposure. The link is in the pinned comment below."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 13
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "fintech",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "career",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "gap",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "from",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 1
+    },
+    {
+      "word": "entrance",
+      "count": 1
+    },
+    {
+      "word": "exam",
+      "count": 1
+    },
+    {
+      "word": "can",
+      "count": 1
+    },
+    {
+      "word": "unlock",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "fintech and",
+      "count": 2
+    },
+    {
+      "phrase": "and ai",
+      "count": 2
+    },
+    {
+      "phrase": "one entrance",
+      "count": 1
+    },
+    {
+      "phrase": "entrance exam",
+      "count": 1
+    },
+    {
+      "phrase": "exam can",
+      "count": 1
+    },
+    {
+      "phrase": "can unlock",
+      "count": 1
+    },
+    {
+      "phrase": "unlock a",
+      "count": 1
+    },
+    {
+      "phrase": "a highpaying",
+      "count": 1
+    },
+    {
+      "phrase": "highpaying futurep",
+      "count": 1
+    },
+    {
+      "phrase": "futurep proof",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "1uDgFvI8jd8",
+  "duration_seconds": 2479,
+  "wps": 3.68,
+  "total_words": 9113,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 32273
+  },
+  "hook": {
+    "type": "question",
+    "text": "आपको पता है ये आईएसआई इस दुनिया में जब भी वॉर होता है ना ईद मनाते हैं। क्यों चाहेंगे हिंदुस्तान और पाकिस्तान में शांति हो जाए। क्यों अगर हिंदुस्तान और पाकिस्तान में शांति हो जाएगी तो आर्मी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चाहिए सर। बस जय हिंद। ठीक है, जय हिंद सर।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 487
+    },
+    {
+      "word": "के",
+      "count": 216
+    },
+    {
+      "word": "में",
+      "count": 183
+    },
+    {
+      "word": "तो",
+      "count": 166
+    },
+    {
+      "word": "एक",
+      "count": 154
+    },
+    {
+      "word": "कि",
+      "count": 144
+    },
+    {
+      "word": "भी",
+      "count": 135
+    },
+    {
+      "word": "सर",
+      "count": 135
+    },
+    {
+      "word": "को",
+      "count": 134
+    },
+    {
+      "word": "हैं",
+      "count": 128
+    },
+    {
+      "word": "नहीं",
+      "count": 127
+    },
+    {
+      "word": "वो",
+      "count": 108
+    },
+    {
+      "word": "से",
+      "count": 97
+    },
+    {
+      "word": "और",
+      "count": 89
+    },
+    {
+      "word": "आप",
+      "count": 85
+    },
+    {
+      "word": "मैं",
+      "count": 80
+    },
+    {
+      "word": "ये",
+      "count": 79
+    },
+    {
+      "word": "क्या",
+      "count": 79
+    },
+    {
+      "word": "ना",
+      "count": 77
+    },
+    {
+      "word": "मतलब",
+      "count": 72
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 52
+    },
+    {
+      "phrase": "है कि",
+      "count": 45
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 45
+    },
+    {
+      "phrase": "रहा है",
+      "count": 35
+    },
+    {
+      "phrase": "है तो",
+      "count": 34
+    },
+    {
+      "phrase": "है सर",
+      "count": 32
+    },
+    {
+      "phrase": "है ना",
+      "count": 29
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 27
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 25
+    },
+    {
+      "phrase": "होता है",
+      "count": 23
+    }
+  ],
+  "segment_count": 311
+}

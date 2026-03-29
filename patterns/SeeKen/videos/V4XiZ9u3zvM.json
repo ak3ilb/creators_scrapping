@@ -1,0 +1,148 @@
+{
+  "video_id": "V4XiZ9u3zvM",
+  "duration_seconds": 509,
+  "wps": 4.42,
+  "total_words": 2250,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8239
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह बात रिलाइज होने में मुझे 16 साल लग गए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलते हैं नेक्स्ट वीडियो में बा बाय"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 66
+    },
+    {
+      "word": "में",
+      "count": 41
+    },
+    {
+      "word": "हैं",
+      "count": 40
+    },
+    {
+      "word": "आप",
+      "count": 38
+    },
+    {
+      "word": "मैं",
+      "count": 37
+    },
+    {
+      "word": "मुझे",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 36
+    },
+    {
+      "word": "ये",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 29
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    },
+    {
+      "word": "के",
+      "count": 27
+    },
+    {
+      "word": "और",
+      "count": 27
+    },
+    {
+      "word": "भी",
+      "count": 27
+    },
+    {
+      "word": "हो",
+      "count": 27
+    },
+    {
+      "word": "हूं",
+      "count": 26
+    },
+    {
+      "word": "पे",
+      "count": 26
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "जो",
+      "count": 21
+    },
+    {
+      "word": "को",
+      "count": 21
+    },
+    {
+      "word": "कर",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पे काम",
+      "count": 13
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 11
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 10
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 10
+    },
+    {
+      "phrase": "ये चीज",
+      "count": 9
+    },
+    {
+      "phrase": "काम करते",
+      "count": 9
+    },
+    {
+      "phrase": "लाइफ में",
+      "count": 8
+    },
+    {
+      "phrase": "21 डेज",
+      "count": 8
+    },
+    {
+      "phrase": "डेज चैलेंज",
+      "count": 8
+    },
+    {
+      "phrase": "हूं कि",
+      "count": 6
+    }
+  ],
+  "segment_count": 272
+}

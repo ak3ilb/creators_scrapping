@@ -1,0 +1,149 @@
+{
+  "video_id": "FqOi3NsT8cY",
+  "duration_seconds": 837,
+  "wps": 2.73,
+  "total_words": 2288,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11054
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Around 1,200 years ago in India, a temple was constructed that still astonishes people to this day. It is the Kailāśa Temple of Ellora."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Finally, let me remind you once again that you can register for free for the Odoo Community Days event. The registration link is in the description and pinned comment below."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 178
+    },
+    {
+      "word": "and",
+      "count": 56
+    },
+    {
+      "word": "of",
+      "count": 55
+    },
+    {
+      "word": "in",
+      "count": 49
+    },
+    {
+      "word": "temple",
+      "count": 47
+    },
+    {
+      "word": "to",
+      "count": 45
+    },
+    {
+      "word": "was",
+      "count": 32
+    },
+    {
+      "word": "this",
+      "count": 28
+    },
+    {
+      "word": "that",
+      "count": 26
+    },
+    {
+      "word": "is",
+      "count": 26
+    },
+    {
+      "word": "from",
+      "count": 25
+    },
+    {
+      "word": "it",
+      "count": 23
+    },
+    {
+      "word": "kailāśa",
+      "count": 21
+    },
+    {
+      "word": "were",
+      "count": 20
+    },
+    {
+      "word": "you",
+      "count": 16
+    },
+    {
+      "word": "at",
+      "count": 16
+    },
+    {
+      "word": "for",
+      "count": 16
+    },
+    {
+      "word": "rock",
+      "count": 15
+    },
+    {
+      "word": "years",
+      "count": 14
+    },
+    {
+      "word": "by",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "kailāśa temple",
+      "count": 21
+    },
+    {
+      "phrase": "of the",
+      "count": 19
+    },
+    {
+      "phrase": "the kailāśa",
+      "count": 18
+    },
+    {
+      "phrase": "in the",
+      "count": 13
+    },
+    {
+      "phrase": "temple was",
+      "count": 10
+    },
+    {
+      "phrase": "the temple",
+      "count": 10
+    },
+    {
+      "phrase": "from the",
+      "count": 9
+    },
+    {
+      "phrase": "that the",
+      "count": 9
+    },
+    {
+      "phrase": "krishna raja",
+      "count": 9
+    },
+    {
+      "phrase": "on the",
+      "count": 8
+    }
+  ],
+  "segment_count": 113
+}

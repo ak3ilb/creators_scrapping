@@ -1,0 +1,148 @@
+{
+  "video_id": "2Kd30CgdEXY",
+  "duration_seconds": 59,
+  "wps": 3.71,
+  "total_words": 219,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 889
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "99% स्टूडेंट्स को इन तीन वेबसाइट्स के बारे में पता ही नहीं है और वह अपना पैसा और टाइम दोनों खराब कर रहे हैं। इन वेबसाइट्स में 3 लाख से भी ज्यादा फ्री"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "वेबसाइट्स का डायरेक्ट लिंक जानने के लिए कमेंट में आप मुझे लिंक लिखना और इस वीडियो को सेव करना, शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "वेबसाइट्स",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "इंग्लिश",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वेबसाइट है",
+      "count": 3
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 3
+    },
+    {
+      "phrase": "मिल जाते",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "वो भी",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "पर आप",
+      "count": 2
+    },
+    {
+      "phrase": "हो और",
+      "count": 2
+    },
+    {
+      "phrase": "आपको मिल",
+      "count": 2
+    },
+    {
+      "phrase": "99% स्टूडेंट्स",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

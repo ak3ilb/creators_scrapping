@@ -1,0 +1,148 @@
+{
+  "video_id": "aKAzKY2-kag",
+  "duration_seconds": 636,
+  "wps": 3.18,
+  "total_words": 2024,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 7546
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हेलो फ्रेंड्स, मैं हूं गौरव और मुझे ना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कीप लर्निंग, एंड कीप ग्रोइंग। जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 67
+    },
+    {
+      "word": "और",
+      "count": 57
+    },
+    {
+      "word": "को",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 53
+    },
+    {
+      "word": "के",
+      "count": 46
+    },
+    {
+      "word": "लाइट",
+      "count": 45
+    },
+    {
+      "word": "स्पीड",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 42
+    },
+    {
+      "word": "में",
+      "count": 37
+    },
+    {
+      "word": "पर",
+      "count": 35
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "ही",
+      "count": 24
+    },
+    {
+      "word": "कि",
+      "count": 23
+    },
+    {
+      "word": "अब",
+      "count": 21
+    },
+    {
+      "word": "टाइम",
+      "count": 20
+    },
+    {
+      "word": "कर",
+      "count": 19
+    },
+    {
+      "word": "तो",
+      "count": 17
+    },
+    {
+      "word": "भी",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 16
+    },
+    {
+      "word": "इस",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की स्पीड",
+      "count": 22
+    },
+    {
+      "phrase": "लाइट की",
+      "count": 21
+    },
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "स्टॉप वॉच",
+      "count": 10
+    },
+    {
+      "phrase": "कि लाइट",
+      "count": 9
+    },
+    {
+      "phrase": "कि.मी पर",
+      "count": 9
+    },
+    {
+      "phrase": "स्पीड को",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "पर आर",
+      "count": 7
+    }
+  ],
+  "segment_count": 254
+}

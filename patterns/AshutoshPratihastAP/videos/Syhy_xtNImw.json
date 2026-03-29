@@ -1,0 +1,148 @@
+{
+  "video_id": "Syhy_xtNImw",
+  "duration_seconds": 397,
+  "wps": 2.11,
+  "total_words": 837,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 2922
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ऑडियो रोल कैमरा रोल एंड आई डिजिटल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "h"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "एक",
+      "count": 16
+    },
+    {
+      "word": "के",
+      "count": 16
+    },
+    {
+      "word": "नहीं",
+      "count": 12
+    },
+    {
+      "word": "हम",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 12
+    },
+    {
+      "word": "की",
+      "count": 11
+    },
+    {
+      "word": "था",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "लिए",
+      "count": 10
+    },
+    {
+      "word": "ऐसा",
+      "count": 9
+    },
+    {
+      "word": "कुछ",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 9
+    },
+    {
+      "word": "ये",
+      "count": 8
+    },
+    {
+      "word": "थी",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "पर",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "ही",
+      "count": 7
+    },
+    {
+      "word": "आई",
+      "count": 6
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कुछ ऐसा",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "करना है",
+      "count": 6
+    },
+    {
+      "phrase": "ऐसा करना",
+      "count": 5
+    },
+    {
+      "phrase": "आई डिजिटल",
+      "count": 4
+    },
+    {
+      "phrase": "है ये",
+      "count": 3
+    },
+    {
+      "phrase": "था जब",
+      "count": 3
+    },
+    {
+      "phrase": "है जिससे",
+      "count": 3
+    },
+    {
+      "phrase": "डिजिटल प्रनर",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 2
+    }
+  ],
+  "segment_count": 45
+}

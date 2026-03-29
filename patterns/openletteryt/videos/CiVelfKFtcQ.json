@@ -1,0 +1,149 @@
+{
+  "video_id": "CiVelfKFtcQ",
+  "duration_seconds": 1001,
+  "wps": 3.79,
+  "total_words": 3798,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 14096
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आयतुल्लाह खमे इज डेड। लेकिन ये वॉर खत्म नहीं होने वाली है। ट्रंप बार-बार वीडियो मैसेजेस के थ्रू बता रहा है कि ये वॉर तब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 152
+    },
+    {
+      "word": "और",
+      "count": 108
+    },
+    {
+      "word": "के",
+      "count": 103
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "से",
+      "count": 66
+    },
+    {
+      "word": "ईरान",
+      "count": 62
+    },
+    {
+      "word": "हैं",
+      "count": 59
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "कर",
+      "count": 43
+    },
+    {
+      "word": "तो",
+      "count": 40
+    },
+    {
+      "word": "का",
+      "count": 39
+    },
+    {
+      "word": "यह",
+      "count": 39
+    },
+    {
+      "word": "रहा",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 38
+    },
+    {
+      "word": "था",
+      "count": 37
+    },
+    {
+      "word": "ने",
+      "count": 37
+    },
+    {
+      "word": "की",
+      "count": 37
+    },
+    {
+      "word": "जो",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "भी",
+      "count": 34
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 29
+    },
+    {
+      "phrase": "है और",
+      "count": 22
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 22
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 17
+    },
+    {
+      "phrase": "ईरान के",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "रही है",
+      "count": 13
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 12
+    },
+    {
+      "phrase": "ईरान ने",
+      "count": 11
+    }
+  ],
+  "segment_count": 127
+}

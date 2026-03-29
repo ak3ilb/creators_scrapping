@@ -1,0 +1,149 @@
+{
+  "video_id": "faItjdg2JyI",
+  "duration_seconds": 680,
+  "wps": 3.71,
+  "total_words": 2522,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 9291
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अरे ₹10 ज्यादा ले लियो भाई बट आराम से चला ले। ई रिक्शा वाले से मेरी लास्ट बातचीत थी। उस दिन के बाद से मैं आज तक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 139
+    },
+    {
+      "word": "में",
+      "count": 68
+    },
+    {
+      "word": "और",
+      "count": 59
+    },
+    {
+      "word": "के",
+      "count": 50
+    },
+    {
+      "word": "रिक्शा",
+      "count": 46
+    },
+    {
+      "word": "से",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 39
+    },
+    {
+      "word": "तो",
+      "count": 34
+    },
+    {
+      "word": "हैं",
+      "count": 33
+    },
+    {
+      "word": "की",
+      "count": 32
+    },
+    {
+      "word": "भी",
+      "count": 28
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "कि",
+      "count": 26
+    },
+    {
+      "word": "कोई",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "पे",
+      "count": 23
+    },
+    {
+      "word": "जो",
+      "count": 21
+    },
+    {
+      "word": "लेकिन",
+      "count": 18
+    },
+    {
+      "word": "वो",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ई रिक्शा",
+      "count": 26
+    },
+    {
+      "phrase": "है और",
+      "count": 23
+    },
+    {
+      "phrase": "है वो",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "है जो",
+      "count": 7
+    },
+    {
+      "phrase": "होता है",
+      "count": 6
+    },
+    {
+      "phrase": "रिक्शा को",
+      "count": 5
+    }
+  ],
+  "segment_count": 85
+}

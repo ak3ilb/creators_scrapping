@@ -1,0 +1,150 @@
+{
+  "video_id": "x98vtsLbZ8M",
+  "duration_seconds": 1567,
+  "wps": 4.37,
+  "total_words": 6854,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 24287
+  },
+  "hook": {
+    "type": "statement",
+    "text": "शार्कटैंक इंडिया के अंदर एक रेवोल्यूशन की तरह शुरू हुआ था और एंड के अंदर ये सिर्फ एक स्कैम बन के रह गया है और इसको स्कैम बनाने में हमारे शार्क्स का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भूलना और मैं तुमसे मिलता हूं एक अलग वीडियो में।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 295
+    },
+    {
+      "word": "के",
+      "count": 211
+    },
+    {
+      "word": "और",
+      "count": 184
+    },
+    {
+      "word": "हैं",
+      "count": 133
+    },
+    {
+      "word": "अंदर",
+      "count": 105
+    },
+    {
+      "word": "भी",
+      "count": 103
+    },
+    {
+      "word": "से",
+      "count": 92
+    },
+    {
+      "word": "लोग",
+      "count": 88
+    },
+    {
+      "word": "नहीं",
+      "count": 83
+    },
+    {
+      "word": "ये",
+      "count": 81
+    },
+    {
+      "word": "का",
+      "count": 81
+    },
+    {
+      "word": "तो",
+      "count": 77
+    },
+    {
+      "word": "करोड़",
+      "count": 74
+    },
+    {
+      "word": "कर",
+      "count": 72
+    },
+    {
+      "word": "हो",
+      "count": 72
+    },
+    {
+      "word": "जो",
+      "count": 71
+    },
+    {
+      "word": "को",
+      "count": 70
+    },
+    {
+      "word": "ना",
+      "count": 64
+    },
+    {
+      "word": "वो",
+      "count": 61
+    },
+    {
+      "word": "में",
+      "count": 59
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 80
+    },
+    {
+      "phrase": "है और",
+      "count": 37
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 35
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 30
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 29
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 25
+    },
+    {
+      "phrase": "हैं और",
+      "count": 22
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 20
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 18
+    }
+  ],
+  "segment_count": 199
+}

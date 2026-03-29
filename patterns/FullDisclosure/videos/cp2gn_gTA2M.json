@@ -1,0 +1,149 @@
+{
+  "video_id": "cp2gn_gTA2M",
+  "duration_seconds": 53,
+  "wps": 2.74,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 629
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Infosys just offered [music] freshers 21 lakh rupees per year. That's the highest entry-level salary in Indian IT right"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Do you think this becomes the new normal for IT [music] hiring or stays limited to a small elite group? Comment below."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 9
+    },
+    {
+      "word": "it",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "now",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "fresher",
+      "count": 2
+    },
+    {
+      "word": "pay",
+      "count": 2
+    },
+    {
+      "word": "lakhs",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "which",
+      "count": 2
+    },
+    {
+      "word": "infosys",
+      "count": 1
+    },
+    {
+      "word": "just",
+      "count": 1
+    },
+    {
+      "word": "offered",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "music it",
+      "count": 2
+    },
+    {
+      "phrase": "infosys just",
+      "count": 1
+    },
+    {
+      "phrase": "just offered",
+      "count": 1
+    },
+    {
+      "phrase": "offered music",
+      "count": 1
+    },
+    {
+      "phrase": "music freshers",
+      "count": 1
+    },
+    {
+      "phrase": "freshers 21",
+      "count": 1
+    },
+    {
+      "phrase": "21 lakh",
+      "count": 1
+    },
+    {
+      "phrase": "lakh rupees",
+      "count": 1
+    },
+    {
+      "phrase": "rupees per",
+      "count": 1
+    },
+    {
+      "phrase": "per year",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "xmi2Qldzlaw",
+  "duration_seconds": 76,
+  "wps": 2.76,
+  "total_words": 210,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 832
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पीओके की आवाम ने खुद यह एक्सेप्ट किया है कि यस वह भी इंडिया के साथ जुड़ना चाहते हैं और पाकिस्तान के साथ नहीं।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यूनिफाई करने के लिए रेजोलशंस पास हो भी चुके"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "पीओके",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 3
+    },
+    {
+      "word": "मिनिस्टर",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "भारत",
+      "count": 3
+    },
+    {
+      "word": "वह",
+      "count": 2
+    },
+    {
+      "word": "साथ",
+      "count": 2
+    },
+    {
+      "word": "चाहते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "पाकिस्तान के",
+      "count": 2
+    },
+    {
+      "phrase": "में ओपनली",
+      "count": 2
+    },
+    {
+      "phrase": "में पीओके",
+      "count": 2
+    },
+    {
+      "phrase": "अब तक",
+      "count": 2
+    },
+    {
+      "phrase": "भारत का",
+      "count": 2
+    },
+    {
+      "phrase": "पीओके की",
+      "count": 1
+    },
+    {
+      "phrase": "की आवाम",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

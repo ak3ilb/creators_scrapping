@@ -1,0 +1,149 @@
+{
+  "video_id": "ISesWeCiP7M",
+  "duration_seconds": 61,
+  "wps": 4.23,
+  "total_words": 258,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 921
+  },
+  "hook": {
+    "type": "question",
+    "text": "एक रॉ एजेंट बेसिकली लेट्स से कि अगर वो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडक्ट्रिनेशन चालू करते हैं। बिलकुल"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "मतलब",
+      "count": 4
+    },
+    {
+      "word": "सर",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "राइट",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "किसी",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "करना है",
+      "count": 3
+    },
+    {
+      "phrase": "क्या है",
+      "count": 3
+    },
+    {
+      "phrase": "वो कोई",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "है वो",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "लिए काम",
+      "count": 2
+    },
+    {
+      "phrase": "काम करना",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रेन करना",
+      "count": 2
+    }
+  ],
+  "segment_count": 31
+}

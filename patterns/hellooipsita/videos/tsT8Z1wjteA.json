@@ -1,0 +1,148 @@
+{
+  "video_id": "tsT8Z1wjteA",
+  "duration_seconds": 569,
+  "wps": 3.12,
+  "total_words": 1777,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 6536
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इफ स्टार्ट यू सीइंग लाइक सच अ काम पर्सन,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन द नेक्स्ट"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 56
+    },
+    {
+      "word": "आई",
+      "count": 54
+    },
+    {
+      "word": "यू",
+      "count": 48
+    },
+    {
+      "word": "एंड",
+      "count": 38
+    },
+    {
+      "word": "दैट",
+      "count": 33
+    },
+    {
+      "word": "दिस",
+      "count": 24
+    },
+    {
+      "word": "टाइम",
+      "count": 22
+    },
+    {
+      "word": "बी",
+      "count": 20
+    },
+    {
+      "word": "एम",
+      "count": 20
+    },
+    {
+      "word": "इज",
+      "count": 20
+    },
+    {
+      "word": "इट",
+      "count": 19
+    },
+    {
+      "word": "ऑन",
+      "count": 19
+    },
+    {
+      "word": "आर",
+      "count": 18
+    },
+    {
+      "word": "ऑफ़",
+      "count": 17
+    },
+    {
+      "word": "हैव",
+      "count": 17
+    },
+    {
+      "word": "इन",
+      "count": 17
+    },
+    {
+      "word": "इज़",
+      "count": 17
+    },
+    {
+      "word": "नॉट",
+      "count": 17
+    },
+    {
+      "word": "हाउ",
+      "count": 16
+    },
+    {
+      "word": "फॉर",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आई एम",
+      "count": 13
+    },
+    {
+      "phrase": "मे बी",
+      "count": 9
+    },
+    {
+      "phrase": "आई आई",
+      "count": 9
+    },
+    {
+      "phrase": "द सेम",
+      "count": 8
+    },
+    {
+      "phrase": "यू आर",
+      "count": 7
+    },
+    {
+      "phrase": "गिव इट",
+      "count": 7
+    },
+    {
+      "phrase": "दैट यू",
+      "count": 7
+    },
+    {
+      "phrase": "गोइंग टू",
+      "count": 7
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 6
+    },
+    {
+      "phrase": "आई हैव",
+      "count": 6
+    }
+  ],
+  "segment_count": 215
+}

@@ -5,16 +5,16 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:28:04.033455+00:00",
+  "last_updated": "2026-03-29T16:23:14.570952+00:00",
   "total_discovered": 27,
   "ingestion_stats": {
-    "total": 15,
-    "ok": 14,
+    "total": 17,
+    "ok": 16,
     "low_quality": 0,
     "no_transcript": 1,
     "no_speech": 0
   },
-  "completion_percentage": "55.6%",
+  "completion_percentage": "63.0%",
   "videos": [
     {
       "video_id": "PMZJdZGr9g4",
@@ -39,7 +39,7 @@
     {
       "video_id": "dl7mQ0xWSfw",
       "title": "How An Indian Chips Company Destroyed Lay's",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "FqOi3NsT8cY",
@@ -63,13 +63,13 @@
     },
     {
       "video_id": "wtv1M5vyg3E",
-      "title": "The Depressing Downfall of Nirma",
+      "title": "The Shocking Small Mistake That Killed Nirma",
       "status": "pending"
     },
     {
       "video_id": "e8e4IrSzyC8",
       "title": "How A Poor Boy Created Rolex",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "TFDM5iZLUvE",

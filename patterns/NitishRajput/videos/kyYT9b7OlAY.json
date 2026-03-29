@@ -1,0 +1,148 @@
+{
+  "video_id": "kyYT9b7OlAY",
+  "duration_seconds": 1964,
+  "wps": 3.68,
+  "total_words": 7231,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 27998
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "व्हाइट हाउस से निकलते ही यूएस का प्रेसिडेंट दुनिया का मोस्ट गार्डेड इंसान बन जाता है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फिर से आपको बता दूं बीटो ऐप को एक बार जरूर ट्राई करिएगा। थैंक यू।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 388
+    },
+    {
+      "word": "के",
+      "count": 231
+    },
+    {
+      "word": "हैं",
+      "count": 179
+    },
+    {
+      "word": "और",
+      "count": 161
+    },
+    {
+      "word": "में",
+      "count": 153
+    },
+    {
+      "word": "से",
+      "count": 120
+    },
+    {
+      "word": "भी",
+      "count": 112
+    },
+    {
+      "word": "जो",
+      "count": 109
+    },
+    {
+      "word": "प्रेसिडेंट",
+      "count": 101
+    },
+    {
+      "word": "की",
+      "count": 100
+    },
+    {
+      "word": "तो",
+      "count": 98
+    },
+    {
+      "word": "होता",
+      "count": 92
+    },
+    {
+      "word": "को",
+      "count": 86
+    },
+    {
+      "word": "पे",
+      "count": 86
+    },
+    {
+      "word": "ये",
+      "count": 82
+    },
+    {
+      "word": "होती",
+      "count": 82
+    },
+    {
+      "word": "का",
+      "count": 76
+    },
+    {
+      "word": "यूएस",
+      "count": 74
+    },
+    {
+      "word": "होते",
+      "count": 73
+    },
+    {
+      "word": "जाता",
+      "count": 60
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 85
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 69
+    },
+    {
+      "phrase": "होती है",
+      "count": 67
+    },
+    {
+      "phrase": "जाता है",
+      "count": 59
+    },
+    {
+      "phrase": "है और",
+      "count": 47
+    },
+    {
+      "phrase": "है तो",
+      "count": 44
+    },
+    {
+      "phrase": "यूएस प्रेसिडेंट",
+      "count": 32
+    },
+    {
+      "phrase": "हैं और",
+      "count": 27
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 27
+    },
+    {
+      "phrase": "होस्ट कंट्री",
+      "count": 25
+    }
+  ],
+  "segment_count": 317
+}

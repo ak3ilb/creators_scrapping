@@ -1,0 +1,149 @@
+{
+  "video_id": "FrAQ1KSwKRU",
+  "duration_seconds": 631,
+  "wps": 2.86,
+  "total_words": 1803,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 7711
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "So one night I was sleeping and I"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 65
+    },
+    {
+      "word": "the",
+      "count": 51
+    },
+    {
+      "word": "to",
+      "count": 50
+    },
+    {
+      "word": "of",
+      "count": 47
+    },
+    {
+      "word": "that",
+      "count": 45
+    },
+    {
+      "word": "and",
+      "count": 44
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "your",
+      "count": 30
+    },
+    {
+      "word": "it",
+      "count": 23
+    },
+    {
+      "word": "what",
+      "count": 22
+    },
+    {
+      "word": "in",
+      "count": 20
+    },
+    {
+      "word": "now",
+      "count": 19
+    },
+    {
+      "word": "do",
+      "count": 17
+    },
+    {
+      "word": "was",
+      "count": 16
+    },
+    {
+      "word": "you're",
+      "count": 15
+    },
+    {
+      "word": "are",
+      "count": 15
+    },
+    {
+      "word": "if",
+      "count": 14
+    },
+    {
+      "word": "have",
+      "count": 13
+    },
+    {
+      "word": "but",
+      "count": 13
+    },
+    {
+      "word": "people",
+      "count": 13
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you're",
+      "count": 8
+    },
+    {
+      "phrase": "going to",
+      "count": 8
+    },
+    {
+      "phrase": "how do",
+      "count": 8
+    },
+    {
+      "phrase": "of the",
+      "count": 7
+    },
+    {
+      "phrase": "afraid of",
+      "count": 7
+    },
+    {
+      "phrase": "the monster",
+      "count": 6
+    },
+    {
+      "phrase": "you have",
+      "count": 6
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    },
+    {
+      "phrase": "you can",
+      "count": 6
+    },
+    {
+      "phrase": "it is",
+      "count": 6
+    }
+  ],
+  "segment_count": 257
+}

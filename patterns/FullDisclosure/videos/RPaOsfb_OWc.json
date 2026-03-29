@@ -1,0 +1,149 @@
+{
+  "video_id": "RPaOsfb_OWc",
+  "duration_seconds": 90,
+  "wps": 2.56,
+  "total_words": 230,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 951
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This is a tier This is a tier one Indian city."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Lvina Kamat and here's the full disclosure."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 9
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "of",
+      "count": 6
+    },
+    {
+      "word": "music",
+      "count": 5
+    },
+    {
+      "word": "that",
+      "count": 5
+    },
+    {
+      "word": "will",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "good",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "do",
+      "count": 3
+    },
+    {
+      "word": "get",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "be",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "tier",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "life",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 2
+    },
+    {
+      "phrase": "is a",
+      "count": 2
+    },
+    {
+      "phrase": "a tier",
+      "count": 2
+    },
+    {
+      "phrase": "that if",
+      "count": 2
+    },
+    {
+      "phrase": "a good",
+      "count": 2
+    },
+    {
+      "phrase": "in india",
+      "count": 2
+    },
+    {
+      "phrase": "tier this",
+      "count": 1
+    },
+    {
+      "phrase": "tier one",
+      "count": 1
+    },
+    {
+      "phrase": "one indian",
+      "count": 1
+    },
+    {
+      "phrase": "indian city",
+      "count": 1
+    }
+  ],
+  "segment_count": 13
+}

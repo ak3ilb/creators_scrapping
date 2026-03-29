@@ -1,0 +1,149 @@
+{
+  "video_id": "eAJ30sL-ZsM",
+  "duration_seconds": 1291,
+  "wps": 2.5,
+  "total_words": 3226,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16114
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "On December 18, 2015,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "If you liked the video, I recommend you watch this next."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 151
+    },
+    {
+      "word": "to",
+      "count": 84
+    },
+    {
+      "word": "and",
+      "count": 80
+    },
+    {
+      "word": "in",
+      "count": 63
+    },
+    {
+      "word": "of",
+      "count": 60
+    },
+    {
+      "word": "he",
+      "count": 55
+    },
+    {
+      "word": "was",
+      "count": 49
+    },
+    {
+      "word": "mallya",
+      "count": 48
+    },
+    {
+      "word": "his",
+      "count": 48
+    },
+    {
+      "word": "kingfisher",
+      "count": 33
+    },
+    {
+      "word": "that",
+      "count": 31
+    },
+    {
+      "word": "had",
+      "count": 31
+    },
+    {
+      "word": "this",
+      "count": 29
+    },
+    {
+      "word": "from",
+      "count": 22
+    },
+    {
+      "word": "not",
+      "count": 21
+    },
+    {
+      "word": "but",
+      "count": 21
+    },
+    {
+      "word": "by",
+      "count": 21
+    },
+    {
+      "word": "on",
+      "count": 18
+    },
+    {
+      "word": "for",
+      "count": 18
+    },
+    {
+      "word": "crore",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "kingfisher airlines",
+      "count": 10
+    },
+    {
+      "phrase": "the banks",
+      "count": 10
+    },
+    {
+      "phrase": "vijay mallya",
+      "count": 8
+    },
+    {
+      "phrase": "from the",
+      "count": 8
+    },
+    {
+      "phrase": "in india",
+      "count": 8
+    },
+    {
+      "phrase": "of his",
+      "count": 7
+    },
+    {
+      "phrase": "at the",
+      "count": 6
+    },
+    {
+      "phrase": "did not",
+      "count": 6
+    },
+    {
+      "phrase": "he was",
+      "count": 6
+    }
+  ],
+  "segment_count": 378
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "aGsy1wZYWlE",
+  "duration_seconds": 890,
+  "wps": 3.91,
+  "total_words": 3481,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 13459
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भारत के पड़ोस में आग लगी है। द होल बिल्डिंग इज थ्रू।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 122
+    },
+    {
+      "word": "में",
+      "count": 109
+    },
+    {
+      "word": "है",
+      "count": 105
+    },
+    {
+      "word": "और",
+      "count": 91
+    },
+    {
+      "word": "की",
+      "count": 66
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "हो",
+      "count": 37
+    },
+    {
+      "word": "था",
+      "count": 36
+    },
+    {
+      "word": "हैं",
+      "count": 36
+    },
+    {
+      "word": "पर",
+      "count": 35
+    },
+    {
+      "word": "प्रोटेस्ट",
+      "count": 35
+    },
+    {
+      "word": "थे",
+      "count": 34
+    },
+    {
+      "word": "ने",
+      "count": 32
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 31
+    },
+    {
+      "word": "कि",
+      "count": 29
+    },
+    {
+      "word": "थी",
+      "count": 29
+    },
+    {
+      "word": "कुछ",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे थे",
+      "count": 18
+    },
+    {
+      "phrase": "बांग्लादेश में",
+      "count": 13
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 13
+    },
+    {
+      "phrase": "शेख हसीना",
+      "count": 13
+    },
+    {
+      "phrase": "नेपाल के",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 11
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "थी और",
+      "count": 10
+    },
+    {
+      "phrase": "रिजीम चेंज",
+      "count": 9
+    },
+    {
+      "phrase": "में भी",
+      "count": 9
+    }
+  ],
+  "segment_count": 111
+}

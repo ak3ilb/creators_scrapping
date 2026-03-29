@@ -1,0 +1,149 @@
+{
+  "video_id": "HN8Aaq864Mk",
+  "duration_seconds": 1129,
+  "wps": 2.5,
+  "total_words": 2819,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 11315
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आई एंडेड से वॉर्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 65
+    },
+    {
+      "word": "में",
+      "count": 64
+    },
+    {
+      "word": "को",
+      "count": 59
+    },
+    {
+      "word": "वॉर",
+      "count": 46
+    },
+    {
+      "word": "है",
+      "count": 46
+    },
+    {
+      "word": "के",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "ने",
+      "count": 34
+    },
+    {
+      "word": "तो",
+      "count": 33
+    },
+    {
+      "word": "अमेरिका",
+      "count": 28
+    },
+    {
+      "word": "यूएस",
+      "count": 24
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 23
+    },
+    {
+      "word": "का",
+      "count": 22
+    },
+    {
+      "word": "वियतनाम",
+      "count": 22
+    },
+    {
+      "word": "इन",
+      "count": 21
+    },
+    {
+      "word": "पर",
+      "count": 20
+    },
+    {
+      "word": "एंड",
+      "count": 19
+    },
+    {
+      "word": "एक",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अमेरिका ने",
+      "count": 13
+    },
+    {
+      "phrase": "इन द",
+      "count": 8
+    },
+    {
+      "phrase": "यूनाइटेड स्टेट्स",
+      "count": 7
+    },
+    {
+      "phrase": "कंपनीज़ को",
+      "count": 7
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    },
+    {
+      "phrase": "सदाम हुसैन",
+      "count": 6
+    }
+  ],
+  "segment_count": 392
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "7H_1u4mgR_M",
+  "duration_seconds": 514,
+  "wps": 1.2,
+  "total_words": 619,
+  "language_mix": {
+    "hindi": 98.7,
+    "english": 1.3,
+    "total_chars": 2002
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कि चलो भाई सारा काम हो गया है अब हम बाहर बता दूं ऑन करते हैं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ही देते हैं यह शनिवार की सुबह शाम होती है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 47
+    },
+    {
+      "word": "कर",
+      "count": 20
+    },
+    {
+      "word": "तो",
+      "count": 18
+    },
+    {
+      "word": "कि",
+      "count": 17
+    },
+    {
+      "word": "दो",
+      "count": 17
+    },
+    {
+      "word": "यह",
+      "count": 14
+    },
+    {
+      "word": "हो",
+      "count": 12
+    },
+    {
+      "word": "हेलो",
+      "count": 11
+    },
+    {
+      "word": "ठीक",
+      "count": 10
+    },
+    {
+      "word": "हां",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "मैं",
+      "count": 8
+    },
+    {
+      "word": "अब",
+      "count": 7
+    },
+    {
+      "word": "हम",
+      "count": 7
+    },
+    {
+      "word": "अच्छा",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "अभी",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "भाई",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर दो",
+      "count": 15
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 10
+    },
+    {
+      "phrase": "हेलो हेलो",
+      "count": 6
+    },
+    {
+      "phrase": "दो कर",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "है तो",
+      "count": 5
+    },
+    {
+      "phrase": "है अच्छा",
+      "count": 5
+    },
+    {
+      "phrase": "अब हम",
+      "count": 4
+    },
+    {
+      "phrase": "हो गई",
+      "count": 4
+    },
+    {
+      "phrase": "अ कर",
+      "count": 4
+    }
+  ],
+  "segment_count": 53
+}

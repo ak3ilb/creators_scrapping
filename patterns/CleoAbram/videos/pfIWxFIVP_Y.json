@@ -1,0 +1,149 @@
+{
+  "video_id": "pfIWxFIVP_Y",
+  "duration_seconds": 947,
+  "wps": 2.92,
+  "total_words": 2762,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11928
+  },
+  "hook": {
+    "type": "question",
+    "text": "I'm wearing the real Team USA Olympic uniforms  with one of the world's fastest super shoes and"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That's gonna be the ending!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 121
+    },
+    {
+      "word": "to",
+      "count": 81
+    },
+    {
+      "word": "and",
+      "count": 57
+    },
+    {
+      "word": "that",
+      "count": 55
+    },
+    {
+      "word": "of",
+      "count": 50
+    },
+    {
+      "word": "it",
+      "count": 43
+    },
+    {
+      "word": "in",
+      "count": 39
+    },
+    {
+      "word": "you",
+      "count": 38
+    },
+    {
+      "word": "this",
+      "count": 36
+    },
+    {
+      "word": "is",
+      "count": 35
+    },
+    {
+      "word": "they",
+      "count": 32
+    },
+    {
+      "word": "but",
+      "count": 32
+    },
+    {
+      "word": "so",
+      "count": 23
+    },
+    {
+      "word": "was",
+      "count": 23
+    },
+    {
+      "word": "what",
+      "count": 21
+    },
+    {
+      "word": "it's",
+      "count": 19
+    },
+    {
+      "word": "at",
+      "count": 19
+    },
+    {
+      "word": "like",
+      "count": 18
+    },
+    {
+      "word": "for",
+      "count": 18
+    },
+    {
+      "word": "not",
+      "count": 18
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 12
+    },
+    {
+      "phrase": "in the",
+      "count": 9
+    },
+    {
+      "phrase": "the olympics",
+      "count": 8
+    },
+    {
+      "phrase": "to make",
+      "count": 8
+    },
+    {
+      "phrase": "energy return",
+      "count": 8
+    },
+    {
+      "phrase": "is the",
+      "count": 7
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    },
+    {
+      "phrase": "part of",
+      "count": 5
+    },
+    {
+      "phrase": "show you",
+      "count": 5
+    },
+    {
+      "phrase": "let me",
+      "count": 5
+    }
+  ],
+  "segment_count": 166
+}

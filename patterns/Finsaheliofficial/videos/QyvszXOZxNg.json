@@ -1,0 +1,148 @@
+{
+  "video_id": "QyvszXOZxNg",
+  "duration_seconds": 64,
+  "wps": 3.61,
+  "total_words": 231,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 859
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जितने भी सेलिब्रिटीज हैं या रिच पीपल है या बड़े बिजनेसमैन हैं इनका फोन हमेशा साइलेंट पे होता है बट इनसे कभी भी कोई इंपॉर्टेंट कॉल मिस नहीं होती क्योंकि"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "साथ शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "फोन",
+      "count": 7
+    },
+    {
+      "word": "आपको",
+      "count": 7
+    },
+    {
+      "word": "कॉल",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "मिस",
+      "count": 3
+    },
+    {
+      "word": "सेटिंग",
+      "count": 3
+    },
+    {
+      "word": "चाहते",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "फेवरेट",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिस नहीं",
+      "count": 3
+    },
+    {
+      "phrase": "जितने भी",
+      "count": 2
+    },
+    {
+      "phrase": "इनका फोन",
+      "count": 2
+    },
+    {
+      "phrase": "है बट",
+      "count": 2
+    },
+    {
+      "phrase": "कोई इंपॉर्टेंट",
+      "count": 2
+    },
+    {
+      "phrase": "इंपॉर्टेंट कॉल",
+      "count": 2
+    },
+    {
+      "phrase": "कॉल मिस",
+      "count": 2
+    },
+    {
+      "phrase": "फोन रिंग",
+      "count": 2
+    },
+    {
+      "phrase": "सीक्रेट सेटिंग",
+      "count": 2
+    },
+    {
+      "phrase": "करना चाहते",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

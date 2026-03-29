@@ -1,0 +1,148 @@
+{
+  "video_id": "fFr29cg8lOs",
+  "duration_seconds": 43,
+  "wps": 2.56,
+  "total_words": 110,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 463
+  },
+  "hook": {
+    "type": "statement",
+    "text": "1958 में एक बहुत ही बड़ा डेवलपमेंट हुआ। एक्सेस इंस्ट्रूमेंट्स के जैक किलवी ने इंटीग्रेटेड सर्किट्स यानी कि आईसी का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हुआ करती थी को बस कुछ लाख रुपयों तक ही पहुंचा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "कम",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "डेवलपमेंट",
+      "count": 2
+    },
+    {
+      "word": "हुआ",
+      "count": 2
+    },
+    {
+      "word": "जैक",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "इन्वेंट",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 2
+    },
+    {
+      "word": "कंप्यूटर",
+      "count": 2
+    },
+    {
+      "word": "1958",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "1958 में",
+      "count": 1
+    },
+    {
+      "phrase": "में एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक बहुत",
+      "count": 1
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 1
+    },
+    {
+      "phrase": "ही बड़ा",
+      "count": 1
+    },
+    {
+      "phrase": "बड़ा डेवलपमेंट",
+      "count": 1
+    },
+    {
+      "phrase": "डेवलपमेंट हुआ",
+      "count": 1
+    },
+    {
+      "phrase": "हुआ एक्सेस",
+      "count": 1
+    },
+    {
+      "phrase": "एक्सेस इंस्ट्रूमेंट्स",
+      "count": 1
+    },
+    {
+      "phrase": "इंस्ट्रूमेंट्स के",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

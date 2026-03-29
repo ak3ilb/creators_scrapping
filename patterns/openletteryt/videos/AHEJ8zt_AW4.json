@@ -1,0 +1,149 @@
+{
+  "video_id": "AHEJ8zt_AW4",
+  "duration_seconds": 838,
+  "wps": 3.58,
+  "total_words": 3001,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 11380
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज की वीडियो डेडिकेटेड है हमारे सरकारी बाबुओं के ऊपर। जैसा कि हमें पता है कि हमारे पूरे देश का भार इन्हीं के नाजुक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 141
+    },
+    {
+      "word": "के",
+      "count": 92
+    },
+    {
+      "word": "में",
+      "count": 83
+    },
+    {
+      "word": "हैं",
+      "count": 48
+    },
+    {
+      "word": "की",
+      "count": 47
+    },
+    {
+      "word": "भी",
+      "count": 46
+    },
+    {
+      "word": "और",
+      "count": 44
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "नहीं",
+      "count": 37
+    },
+    {
+      "word": "एक",
+      "count": 37
+    },
+    {
+      "word": "को",
+      "count": 35
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "हमारे",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "से",
+      "count": 28
+    },
+    {
+      "word": "देखो",
+      "count": 25
+    },
+    {
+      "word": "लेकिन",
+      "count": 23
+    },
+    {
+      "word": "देश",
+      "count": 22
+    },
+    {
+      "word": "ही",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 11
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 11
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 8
+    },
+    {
+      "phrase": "लगता है",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "हमारे देश",
+      "count": 7
+    },
+    {
+      "phrase": "देश के",
+      "count": 7
+    }
+  ],
+  "segment_count": 107
+}

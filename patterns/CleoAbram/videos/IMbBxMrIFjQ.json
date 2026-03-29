@@ -1,0 +1,148 @@
+{
+  "video_id": "IMbBxMrIFjQ",
+  "duration_seconds": 497,
+  "wps": 3.25,
+  "total_words": 1613,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 7000
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[Ticking]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "pushing forward what humans can do. And all of  this tech, it's just a new way to appreciate that."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 103
+    },
+    {
+      "word": "and",
+      "count": 40
+    },
+    {
+      "word": "to",
+      "count": 40
+    },
+    {
+      "word": "that",
+      "count": 40
+    },
+    {
+      "word": "of",
+      "count": 35
+    },
+    {
+      "word": "it",
+      "count": 26
+    },
+    {
+      "word": "is",
+      "count": 25
+    },
+    {
+      "word": "this",
+      "count": 25
+    },
+    {
+      "word": "in",
+      "count": 23
+    },
+    {
+      "word": "with",
+      "count": 18
+    },
+    {
+      "word": "it's",
+      "count": 16
+    },
+    {
+      "word": "we",
+      "count": 16
+    },
+    {
+      "word": "you",
+      "count": 15
+    },
+    {
+      "word": "can",
+      "count": 14
+    },
+    {
+      "word": "just",
+      "count": 13
+    },
+    {
+      "word": "system",
+      "count": 12
+    },
+    {
+      "word": "but",
+      "count": 11
+    },
+    {
+      "word": "human",
+      "count": 11
+    },
+    {
+      "word": "are",
+      "count": 11
+    },
+    {
+      "word": "like",
+      "count": 11
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 10
+    },
+    {
+      "phrase": "in the",
+      "count": 7
+    },
+    {
+      "phrase": "the ball",
+      "count": 7
+    },
+    {
+      "phrase": "the game",
+      "count": 6
+    },
+    {
+      "phrase": "this is",
+      "count": 6
+    },
+    {
+      "phrase": "with the",
+      "count": 5
+    },
+    {
+      "phrase": "we can",
+      "count": 5
+    },
+    {
+      "phrase": "the us",
+      "count": 4
+    },
+    {
+      "phrase": "the line",
+      "count": 4
+    },
+    {
+      "phrase": "you can",
+      "count": 4
+    }
+  ],
+  "segment_count": 65
+}

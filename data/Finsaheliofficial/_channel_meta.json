@@ -5,17 +5,37 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-23T04:31:46.940850+00:00",
-  "total_discovered": 150,
+  "last_updated": "2026-03-29T16:27:30.986065+00:00",
+  "total_discovered": 154,
   "ingestion_stats": {
-    "total": 59,
-    "ok": 59,
+    "total": 63,
+    "ok": 63,
     "low_quality": 0,
     "no_transcript": 0,
     "no_speech": 0
   },
-  "completion_percentage": "39.3%",
+  "completion_percentage": "40.9%",
   "videos": [
+    {
+      "video_id": "ysK1n5JR-dE",
+      "title": "Your Salary is Increasing from 1st April #incometax #finsaheli",
+      "status": "OK"
+    },
+    {
+      "video_id": "WEBNWi4M_ZM",
+      "title": "Money is the Power ! Be Rich and Successful #success #rich #finsaheli",
+      "status": "OK"
+    },
+    {
+      "video_id": "p8mtSiD--h0",
+      "title": "Goa Waste  Management #GoaForGoodGovernance #ViksitGoa",
+      "status": "OK"
+    },
+    {
+      "video_id": "vCrQkTJpKCU",
+      "title": "New Mutual Fund by SEBI #mutualfunds #sip #finsaheli",
+      "status": "OK"
+    },
     {
       "video_id": "1Qcn1UPwMo4",
       "title": "Value Your Time #Success #richmindset #finsaheli",
@@ -363,7 +383,7 @@
     },
     {
       "video_id": "GeRQFDTLhtI",
-      "title": "Earn money and move ahead: No one belongs to anyone #motivation #success #successmindset #motivat...",
+      "title": "पैसा कमाओ और आगे बढ़ो: कोई किसी का नहीं होता #motivation #success #successmindset #motivationalvideo",
       "status": "pending"
     },
     {

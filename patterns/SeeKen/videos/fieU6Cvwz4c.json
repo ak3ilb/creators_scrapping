@@ -1,0 +1,149 @@
+{
+  "video_id": "fieU6Cvwz4c",
+  "duration_seconds": 1244,
+  "wps": 3.51,
+  "total_words": 4364,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 18906
+  },
+  "hook": {
+    "type": "question",
+    "text": "21 life skills — if you learn them, they will give you a huge advantage"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "See you in that **live masterclass**."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 179
+    },
+    {
+      "word": "the",
+      "count": 129
+    },
+    {
+      "word": "and",
+      "count": 111
+    },
+    {
+      "word": "to",
+      "count": 108
+    },
+    {
+      "word": "in",
+      "count": 82
+    },
+    {
+      "word": "is",
+      "count": 67
+    },
+    {
+      "word": "that",
+      "count": 64
+    },
+    {
+      "word": "if",
+      "count": 56
+    },
+    {
+      "word": "your",
+      "count": 55
+    },
+    {
+      "word": "are",
+      "count": 54
+    },
+    {
+      "word": "of",
+      "count": 52
+    },
+    {
+      "word": "this",
+      "count": 49
+    },
+    {
+      "word": "they",
+      "count": 48
+    },
+    {
+      "word": "it",
+      "count": 43
+    },
+    {
+      "word": "will",
+      "count": 39
+    },
+    {
+      "word": "skill",
+      "count": 38
+    },
+    {
+      "word": "can",
+      "count": 36
+    },
+    {
+      "word": "have",
+      "count": 34
+    },
+    {
+      "word": "but",
+      "count": 33
+    },
+    {
+      "word": "just",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 38
+    },
+    {
+      "phrase": "in your",
+      "count": 20
+    },
+    {
+      "phrase": "the next",
+      "count": 20
+    },
+    {
+      "phrase": "next skill",
+      "count": 19
+    },
+    {
+      "phrase": "you can",
+      "count": 18
+    },
+    {
+      "phrase": "you want",
+      "count": 14
+    },
+    {
+      "phrase": "want to",
+      "count": 14
+    },
+    {
+      "phrase": "you are",
+      "count": 13
+    },
+    {
+      "phrase": "a lot",
+      "count": 12
+    },
+    {
+      "phrase": "lot of",
+      "count": 12
+    }
+  ],
+  "segment_count": 396
+}

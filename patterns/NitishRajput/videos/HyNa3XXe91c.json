@@ -1,0 +1,150 @@
+{
+  "video_id": "HyNa3XXe91c",
+  "duration_seconds": 1963,
+  "wps": 3.83,
+  "total_words": 7527,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 27871
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "युगांडा के 11 मिग फाइटर्स जो खड़े थे उनको लाइन से उड़ा दिया। बेंजमिन नेतन याू के पीएम बनने में इस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ओनली टर्म इंश्योरेंस इज 100% प्योर लाइफ इंश्योरेंस। थैंक यू।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 217
+    },
+    {
+      "word": "है",
+      "count": 177
+    },
+    {
+      "word": "था",
+      "count": 174
+    },
+    {
+      "word": "और",
+      "count": 162
+    },
+    {
+      "word": "जो",
+      "count": 158
+    },
+    {
+      "word": "में",
+      "count": 158
+    },
+    {
+      "word": "ये",
+      "count": 144
+    },
+    {
+      "word": "से",
+      "count": 132
+    },
+    {
+      "word": "तो",
+      "count": 129
+    },
+    {
+      "word": "हैं",
+      "count": 120
+    },
+    {
+      "word": "थे",
+      "count": 118
+    },
+    {
+      "word": "को",
+      "count": 94
+    },
+    {
+      "word": "की",
+      "count": 94
+    },
+    {
+      "word": "भी",
+      "count": 84
+    },
+    {
+      "word": "कि",
+      "count": 81
+    },
+    {
+      "word": "एक",
+      "count": 80
+    },
+    {
+      "word": "थी",
+      "count": 76
+    },
+    {
+      "word": "पे",
+      "count": 71
+    },
+    {
+      "word": "प्लेन",
+      "count": 68
+    },
+    {
+      "word": "यह",
+      "count": 64
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 33
+    },
+    {
+      "phrase": "था कि",
+      "count": 27
+    },
+    {
+      "phrase": "के बाद",
+      "count": 25
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 25
+    },
+    {
+      "phrase": "ईदी अमीन",
+      "count": 23
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 23
+    },
+    {
+      "phrase": "के लिए",
+      "count": 21
+    },
+    {
+      "phrase": "हैं और",
+      "count": 21
+    },
+    {
+      "phrase": "जाता है",
+      "count": 20
+    },
+    {
+      "phrase": "है तो",
+      "count": 19
+    }
+  ],
+  "segment_count": 246
+}

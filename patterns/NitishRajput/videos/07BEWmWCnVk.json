@@ -1,0 +1,149 @@
+{
+  "video_id": "07BEWmWCnVk",
+  "duration_seconds": 985,
+  "wps": 3.26,
+  "total_words": 3214,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14040
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "And he confirmed that he was given the green signal to move forward on that track."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "telecom and infotech. He isn't bale to focus that's why he should leave one department."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 226
+    },
+    {
+      "word": "and",
+      "count": 74
+    },
+    {
+      "word": "in",
+      "count": 68
+    },
+    {
+      "word": "that",
+      "count": 64
+    },
+    {
+      "word": "to",
+      "count": 63
+    },
+    {
+      "word": "train",
+      "count": 60
+    },
+    {
+      "word": "of",
+      "count": 59
+    },
+    {
+      "word": "it",
+      "count": 59
+    },
+    {
+      "word": "is",
+      "count": 58
+    },
+    {
+      "word": "this",
+      "count": 53
+    },
+    {
+      "word": "was",
+      "count": 35
+    },
+    {
+      "word": "on",
+      "count": 34
+    },
+    {
+      "word": "railway",
+      "count": 34
+    },
+    {
+      "word": "accident",
+      "count": 30
+    },
+    {
+      "word": "then",
+      "count": 30
+    },
+    {
+      "word": "track",
+      "count": 29
+    },
+    {
+      "word": "line",
+      "count": 28
+    },
+    {
+      "word": "station",
+      "count": 27
+    },
+    {
+      "word": "as",
+      "count": 25
+    },
+    {
+      "word": "if",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the train",
+      "count": 23
+    },
+    {
+      "phrase": "loop line",
+      "count": 16
+    },
+    {
+      "phrase": "as well",
+      "count": 16
+    },
+    {
+      "phrase": "of the",
+      "count": 16
+    },
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "railway station",
+      "count": 13
+    },
+    {
+      "phrase": "to the",
+      "count": 13
+    },
+    {
+      "phrase": "the track",
+      "count": 13
+    },
+    {
+      "phrase": "and the",
+      "count": 12
+    },
+    {
+      "phrase": "coromandel express",
+      "count": 11
+    }
+  ],
+  "segment_count": 126
+}

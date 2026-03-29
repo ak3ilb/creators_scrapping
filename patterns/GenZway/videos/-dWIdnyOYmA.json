@@ -1,0 +1,150 @@
+{
+  "video_id": "-dWIdnyOYmA",
+  "duration_seconds": 773,
+  "wps": 3.9,
+  "total_words": 3011,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 10190
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये स्टब की कॉफी और डोली की चाय दोनों ही लीगल ड्रग्स हैं फर्क सिर्फ इतना है कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चाय की टपरी है तो अपने नाम के आगे से अपनी डिग्री हटाओ"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 140
+    },
+    {
+      "word": "के",
+      "count": 97
+    },
+    {
+      "word": "कॉफी",
+      "count": 68
+    },
+    {
+      "word": "और",
+      "count": 68
+    },
+    {
+      "word": "तो",
+      "count": 62
+    },
+    {
+      "word": "की",
+      "count": 60
+    },
+    {
+      "word": "को",
+      "count": 55
+    },
+    {
+      "word": "चाय",
+      "count": 53
+    },
+    {
+      "word": "अंदर",
+      "count": 46
+    },
+    {
+      "word": "ये",
+      "count": 44
+    },
+    {
+      "word": "हैं",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 41
+    },
+    {
+      "word": "से",
+      "count": 39
+    },
+    {
+      "word": "लोग",
+      "count": 37
+    },
+    {
+      "word": "में",
+      "count": 37
+    },
+    {
+      "word": "भी",
+      "count": 35
+    },
+    {
+      "word": "कि",
+      "count": 34
+    },
+    {
+      "word": "ना",
+      "count": 34
+    },
+    {
+      "word": "का",
+      "count": 34
+    },
+    {
+      "word": "कर",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 33
+    },
+    {
+      "phrase": "जाता है",
+      "count": 24
+    },
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 17
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 16
+    },
+    {
+      "phrase": "है तो",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "चाय के",
+      "count": 13
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 12
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 12
+    }
+  ],
+  "segment_count": 89
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "-AvwuKlyQ60",
+  "duration_seconds": 86,
+  "wps": 4.13,
+  "total_words": 355,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1359
+  },
+  "hook": {
+    "type": "statement",
+    "text": "टॉप थ्री मिस्टेक्स जो लोग 20ज में है वो बार-बार दोहरा रहे हैं जिससे उनका फ्यूचर इफेक्ट हो रहा है। आई थिंक द बिगेस्ट मिस्टेक इज लेट रियलाइजेशन। यह एक चीज है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टर्म वेल्थ प्रोस्पेक्ट्स को काफी हार्म कर देते हैं।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "हैं",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "लाइफस्टाइल",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "बट",
+      "count": 4
+    },
+    {
+      "word": "बिगेस्ट",
+      "count": 3
+    },
+    {
+      "word": "मिस्टेक",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिगेस्ट मिस्टेक",
+      "count": 3
+    },
+    {
+      "phrase": "फ्यूचर्स एंड",
+      "count": 3
+    },
+    {
+      "phrase": "एंड ऑप्शंस",
+      "count": 3
+    },
+    {
+      "phrase": "ऑप्शंस में",
+      "count": 3
+    },
+    {
+      "phrase": "है वो",
+      "count": 2
+    },
+    {
+      "phrase": "मिस्टेक इज",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "करती है",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी लाइफ",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "dgMTvcjAKnE",
+  "duration_seconds": 74,
+  "wps": 3.58,
+  "total_words": 265,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 991
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जितने भी सेलिब्रिटीज हैं, रिच पीपल हैं या बड़े बिजनेसमैन हैं, यह लोग कभी नहीं चाहेंगे कि इन तीन मूवीज को देखकर आप इनके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मैं आपको डीएम नहीं कर पाऊंगी।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "मूवी",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "जाता",
+      "count": 4
+    },
+    {
+      "word": "कैसे",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "मूवीस",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "इसमें",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाता है",
+      "count": 4
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "इन मूवीस",
+      "count": 3
+    },
+    {
+      "phrase": "मूवी जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो चाइना",
+      "count": 2
+    },
+    {
+      "phrase": "चाइना में",
+      "count": 2
+    },
+    {
+      "phrase": "में बैन",
+      "count": 2
+    },
+    {
+      "phrase": "बैन है",
+      "count": 2
+    },
+    {
+      "phrase": "आप बहुत",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

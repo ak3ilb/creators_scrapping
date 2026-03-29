@@ -1,0 +1,149 @@
+{
+  "video_id": "Aviga-8Vcp4",
+  "duration_seconds": 978,
+  "wps": 3.43,
+  "total_words": 3354,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 12857
+  },
+  "hook": {
+    "type": "question",
+    "text": "सोचो अगर एक दिन आपको पता चले कि जो चीज आप बचपन से पसंद करते आए हैं जो हर शादी हर पार्टी और कॉलेज कैंटीन में इजली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो और यह जानना चाहते हो कि कैसे आप अपनी फैमिली को अपने मां-बाप को अपने बच्चों को लंबी उम्र का तोहफा दे सकते हैं तो राइट वाली वीडियो को जरूर देखना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 92
+    },
+    {
+      "word": "के",
+      "count": 86
+    },
+    {
+      "word": "में",
+      "count": 73
+    },
+    {
+      "word": "को",
+      "count": 68
+    },
+    {
+      "word": "है",
+      "count": 62
+    },
+    {
+      "word": "एक",
+      "count": 60
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "था",
+      "count": 49
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 43
+    },
+    {
+      "word": "का",
+      "count": 42
+    },
+    {
+      "word": "कोका",
+      "count": 41
+    },
+    {
+      "word": "ने",
+      "count": 39
+    },
+    {
+      "word": "कोला",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 36
+    },
+    {
+      "word": "नहीं",
+      "count": 32
+    },
+    {
+      "word": "ये",
+      "count": 32
+    },
+    {
+      "word": "पर",
+      "count": 31
+    },
+    {
+      "word": "ही",
+      "count": 30
+    },
+    {
+      "word": "हो",
+      "count": 29
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोका कोला",
+      "count": 37
+    },
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "है कि",
+      "count": 14
+    },
+    {
+      "phrase": "के बाद",
+      "count": 13
+    },
+    {
+      "phrase": "रहा था",
+      "count": 11
+    },
+    {
+      "phrase": "सिर्फ एक",
+      "count": 8
+    },
+    {
+      "phrase": "कोला को",
+      "count": 8
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 7
+    },
+    {
+      "phrase": "न्यू कोक",
+      "count": 7
+    }
+  ],
+  "segment_count": 121
+}

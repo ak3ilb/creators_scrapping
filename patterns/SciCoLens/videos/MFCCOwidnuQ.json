@@ -1,0 +1,148 @@
+{
+  "video_id": "MFCCOwidnuQ",
+  "duration_seconds": 899,
+  "wps": 2.93,
+  "total_words": 2630,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 9760
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मुंबई शहर में घटे इस बड़े ट्रेन हादसे ने भारत की एक बहुत ही कड़वी सच्चाई को सामने लाकर रख दिया है। 9 जून 2025 सुबह के 8:30"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलते हैं अगले वीडियो में। तब तक के लिए जय हिंद।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 77
+    },
+    {
+      "word": "में",
+      "count": 67
+    },
+    {
+      "word": "के",
+      "count": 67
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "और",
+      "count": 42
+    },
+    {
+      "word": "एक",
+      "count": 41
+    },
+    {
+      "word": "हैं",
+      "count": 37
+    },
+    {
+      "word": "का",
+      "count": 32
+    },
+    {
+      "word": "को",
+      "count": 31
+    },
+    {
+      "word": "भी",
+      "count": 30
+    },
+    {
+      "word": "ही",
+      "count": 27
+    },
+    {
+      "word": "पर",
+      "count": 24
+    },
+    {
+      "word": "यह",
+      "count": 23
+    },
+    {
+      "word": "नहीं",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 21
+    },
+    {
+      "word": "हो",
+      "count": 17
+    },
+    {
+      "word": "मुंबई",
+      "count": 16
+    },
+    {
+      "word": "लिए",
+      "count": 16
+    },
+    {
+      "word": "डैम",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "वजह से",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 8
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 7
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 7
+    },
+    {
+      "phrase": "हैं और",
+      "count": 7
+    },
+    {
+      "phrase": "रहा है",
+      "count": 7
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 7
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    }
+  ],
+  "segment_count": 113
+}

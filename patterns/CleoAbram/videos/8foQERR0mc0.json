@@ -1,0 +1,149 @@
+{
+  "video_id": "8foQERR0mc0",
+  "duration_seconds": 828,
+  "wps": 3.42,
+  "total_words": 2829,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11807
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "\"The green flag is waved...\" \"All five lights are off...\" \"And we've got green in Mexico City...\" \"Green in London!\" \"Green in Seoul!\""
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "You hear that? Watch a race! So now you know more about the future of cars and I really gotta get out of pit lane  because they're gonna start racing!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 157
+    },
+    {
+      "word": "and",
+      "count": 70
+    },
+    {
+      "word": "that",
+      "count": 54
+    },
+    {
+      "word": "to",
+      "count": 54
+    },
+    {
+      "word": "in",
+      "count": 50
+    },
+    {
+      "word": "you",
+      "count": 50
+    },
+    {
+      "word": "of",
+      "count": 48
+    },
+    {
+      "word": "is",
+      "count": 45
+    },
+    {
+      "word": "formula",
+      "count": 41
+    },
+    {
+      "word": "this",
+      "count": 39
+    },
+    {
+      "word": "car",
+      "count": 32
+    },
+    {
+      "word": "electric",
+      "count": 31
+    },
+    {
+      "word": "cars",
+      "count": 29
+    },
+    {
+      "word": "they",
+      "count": 29
+    },
+    {
+      "word": "for",
+      "count": 29
+    },
+    {
+      "word": "it",
+      "count": 28
+    },
+    {
+      "word": "so",
+      "count": 25
+    },
+    {
+      "word": "on",
+      "count": 20
+    },
+    {
+      "word": "we",
+      "count": 20
+    },
+    {
+      "word": "have",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "formula e",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 15
+    },
+    {
+      "phrase": "formula 1",
+      "count": 13
+    },
+    {
+      "phrase": "the future",
+      "count": 13
+    },
+    {
+      "phrase": "electric cars",
+      "count": 11
+    },
+    {
+      "phrase": "in the",
+      "count": 10
+    },
+    {
+      "phrase": "this is",
+      "count": 9
+    },
+    {
+      "phrase": "and the",
+      "count": 8
+    },
+    {
+      "phrase": "if you",
+      "count": 8
+    },
+    {
+      "phrase": "cars that",
+      "count": 7
+    }
+  ],
+  "segment_count": 100
+}

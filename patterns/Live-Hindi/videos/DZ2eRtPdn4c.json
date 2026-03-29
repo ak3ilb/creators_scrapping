@@ -1,0 +1,149 @@
+{
+  "video_id": "DZ2eRtPdn4c",
+  "duration_seconds": 1078,
+  "wps": 2.98,
+  "total_words": 3212,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 13023
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों भले ही आज पैसों के मामले में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिप्टो में इन्वेस्टमेंट स्टार्ट करिए"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 113
+    },
+    {
+      "word": "और",
+      "count": 90
+    },
+    {
+      "word": "बिरला",
+      "count": 87
+    },
+    {
+      "word": "में",
+      "count": 83
+    },
+    {
+      "word": "की",
+      "count": 72
+    },
+    {
+      "word": "को",
+      "count": 63
+    },
+    {
+      "word": "से",
+      "count": 47
+    },
+    {
+      "word": "का",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "ने",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 42
+    },
+    {
+      "word": "है",
+      "count": 34
+    },
+    {
+      "word": "बिजनेस",
+      "count": 34
+    },
+    {
+      "word": "हैं",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 30
+    },
+    {
+      "word": "उन्होंने",
+      "count": 26
+    },
+    {
+      "word": "ही",
+      "count": 25
+    },
+    {
+      "word": "अपने",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 24
+    },
+    {
+      "word": "था",
+      "count": 24
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिरला ने",
+      "count": 17
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "बिरला ग्रुप",
+      "count": 14
+    },
+    {
+      "phrase": "और फिर",
+      "count": 13
+    },
+    {
+      "phrase": "कई सारे",
+      "count": 13
+    },
+    {
+      "phrase": "जीडी बिरला",
+      "count": 13
+    },
+    {
+      "phrase": "की शुरुआत",
+      "count": 12
+    },
+    {
+      "phrase": "जो कि",
+      "count": 12
+    },
+    {
+      "phrase": "शुरुआत की",
+      "count": 10
+    },
+    {
+      "phrase": "बिजनेस को",
+      "count": 9
+    }
+  ],
+  "segment_count": 428
+}

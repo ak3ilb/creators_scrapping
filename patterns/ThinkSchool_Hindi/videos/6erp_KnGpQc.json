@@ -1,0 +1,149 @@
+{
+  "video_id": "6erp_KnGpQc",
+  "duration_seconds": 3939,
+  "wps": 3.08,
+  "total_words": 12121,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 44580
+  },
+  "hook": {
+    "type": "question",
+    "text": "हाउ डिड यू गो फ्रॉम 6 एंड हाफ करोड़ इन डेप्ट टु 275 करोड़ इन रेवेन्यू? मैं 29 इयर्स के उम्र में बैंकप्ट हो गया। इफ यू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो नो नो"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 274
+    },
+    {
+      "word": "एंड",
+      "count": 250
+    },
+    {
+      "word": "टू",
+      "count": 247
+    },
+    {
+      "word": "आई",
+      "count": 223
+    },
+    {
+      "word": "दैट",
+      "count": 180
+    },
+    {
+      "word": "वी",
+      "count": 176
+    },
+    {
+      "word": "इन",
+      "count": 149
+    },
+    {
+      "word": "इट",
+      "count": 149
+    },
+    {
+      "word": "इज़",
+      "count": 129
+    },
+    {
+      "word": "है",
+      "count": 124
+    },
+    {
+      "word": "आर",
+      "count": 113
+    },
+    {
+      "word": "कि",
+      "count": 105
+    },
+    {
+      "word": "ऑफ़",
+      "count": 96
+    },
+    {
+      "word": "हैव",
+      "count": 95
+    },
+    {
+      "word": "में",
+      "count": 87
+    },
+    {
+      "word": "फॉर",
+      "count": 87
+    },
+    {
+      "word": "तो",
+      "count": 87
+    },
+    {
+      "word": "सो",
+      "count": 81
+    },
+    {
+      "word": "व्हिच",
+      "count": 77
+    },
+    {
+      "word": "था",
+      "count": 77
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वी आर",
+      "count": 38
+    },
+    {
+      "phrase": "टू बी",
+      "count": 31
+    },
+    {
+      "phrase": "ऑफ़ द",
+      "count": 30
+    },
+    {
+      "phrase": "यू आर",
+      "count": 29
+    },
+    {
+      "phrase": "द बेस्ट",
+      "count": 24
+    },
+    {
+      "phrase": "इन द",
+      "count": 24
+    },
+    {
+      "phrase": "वी हैव",
+      "count": 23
+    },
+    {
+      "phrase": "वांट टू",
+      "count": 22
+    },
+    {
+      "phrase": "यू हैव",
+      "count": 22
+    },
+    {
+      "phrase": "एंड आई",
+      "count": 21
+    }
+  ],
+  "segment_count": 496
+}

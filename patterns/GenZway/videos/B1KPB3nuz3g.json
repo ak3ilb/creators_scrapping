@@ -1,0 +1,150 @@
+{
+  "video_id": "B1KPB3nuz3g",
+  "duration_seconds": 1028,
+  "wps": 3.98,
+  "total_words": 4094,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 14600
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह मिस्टर बीस की फी स्टेबल कंपनी तो एक चॉकलेट कंपनी है भी नहीं यह एक्चुअल में एक मार्केटिंग कंपनी है सबको इंडिया के अंदर आके बस एक मीठी गोली पकड़ा के चले गए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एकदम चॉकलेट जैसा ही टेस्ट करता है य ये गैलेक्सी ले लेना ₹1000000"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 185
+    },
+    {
+      "word": "के",
+      "count": 170
+    },
+    {
+      "word": "और",
+      "count": 136
+    },
+    {
+      "word": "अंदर",
+      "count": 86
+    },
+    {
+      "word": "को",
+      "count": 82
+    },
+    {
+      "word": "तो",
+      "count": 65
+    },
+    {
+      "word": "भी",
+      "count": 61
+    },
+    {
+      "word": "इंडिया",
+      "count": 54
+    },
+    {
+      "word": "लोग",
+      "count": 54
+    },
+    {
+      "word": "की",
+      "count": 53
+    },
+    {
+      "word": "ये",
+      "count": 50
+    },
+    {
+      "word": "हैं",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "में",
+      "count": 46
+    },
+    {
+      "word": "एक",
+      "count": 42
+    },
+    {
+      "word": "ना",
+      "count": 35
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "अगर",
+      "count": 32
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 78
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 37
+    },
+    {
+      "phrase": "है और",
+      "count": 35
+    },
+    {
+      "phrase": "एक्चुअल में",
+      "count": 17
+    },
+    {
+      "phrase": "है तो",
+      "count": 17
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 17
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 16
+    },
+    {
+      "phrase": "या फिर",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 16
+    },
+    {
+      "phrase": "हैं और",
+      "count": 15
+    }
+  ],
+  "segment_count": 122
+}

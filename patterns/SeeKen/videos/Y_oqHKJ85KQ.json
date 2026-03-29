@@ -1,0 +1,149 @@
+{
+  "video_id": "Y_oqHKJ85KQ",
+  "duration_seconds": 1096,
+  "wps": 3.64,
+  "total_words": 3986,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 16820
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "“Friends, just one month is left for the end of 2025."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "See you then. In the next video, bye-bye.”"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 167
+    },
+    {
+      "word": "you",
+      "count": 129
+    },
+    {
+      "word": "to",
+      "count": 112
+    },
+    {
+      "word": "and",
+      "count": 83
+    },
+    {
+      "word": "it",
+      "count": 75
+    },
+    {
+      "word": "that",
+      "count": 63
+    },
+    {
+      "word": "of",
+      "count": 54
+    },
+    {
+      "word": "he",
+      "count": 54
+    },
+    {
+      "word": "this",
+      "count": 51
+    },
+    {
+      "word": "resistance",
+      "count": 48
+    },
+    {
+      "word": "in",
+      "count": 44
+    },
+    {
+      "word": "is",
+      "count": 42
+    },
+    {
+      "word": "will",
+      "count": 37
+    },
+    {
+      "word": "from",
+      "count": 31
+    },
+    {
+      "word": "his",
+      "count": 31
+    },
+    {
+      "word": "but",
+      "count": 30
+    },
+    {
+      "word": "for",
+      "count": 27
+    },
+    {
+      "word": "your",
+      "count": 27
+    },
+    {
+      "word": "ramesh",
+      "count": 27
+    },
+    {
+      "word": "seed",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 19
+    },
+    {
+      "phrase": "in the",
+      "count": 14
+    },
+    {
+      "phrase": "of resistance",
+      "count": 12
+    },
+    {
+      "phrase": "you can",
+      "count": 11
+    },
+    {
+      "phrase": "the golden",
+      "count": 11
+    },
+    {
+      "phrase": "the book",
+      "count": 9
+    },
+    {
+      "phrase": "of the",
+      "count": 9
+    },
+    {
+      "phrase": "from the",
+      "count": 8
+    },
+    {
+      "phrase": "resistance will",
+      "count": 8
+    },
+    {
+      "phrase": "try to",
+      "count": 8
+    }
+  ],
+  "segment_count": 156
+}

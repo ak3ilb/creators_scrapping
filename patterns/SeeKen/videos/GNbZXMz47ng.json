@@ -1,0 +1,149 @@
+{
+  "video_id": "GNbZXMz47ng",
+  "duration_seconds": 1554,
+  "wps": 3.55,
+  "total_words": 5523,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 24151
+  },
+  "hook": {
+    "type": "question",
+    "text": "Hey friends, do you know someone who wants to eliminate bad"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s all for now, bye bye."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 203
+    },
+    {
+      "word": "to",
+      "count": 160
+    },
+    {
+      "word": "he",
+      "count": 150
+    },
+    {
+      "word": "you",
+      "count": 147
+    },
+    {
+      "word": "and",
+      "count": 142
+    },
+    {
+      "word": "that",
+      "count": 91
+    },
+    {
+      "word": "this",
+      "count": 76
+    },
+    {
+      "word": "his",
+      "count": 67
+    },
+    {
+      "word": "of",
+      "count": 66
+    },
+    {
+      "word": "your",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 56
+    },
+    {
+      "word": "for",
+      "count": 55
+    },
+    {
+      "word": "doctor",
+      "count": 54
+    },
+    {
+      "word": "but",
+      "count": 52
+    },
+    {
+      "word": "david",
+      "count": 49
+    },
+    {
+      "word": "had",
+      "count": 49
+    },
+    {
+      "word": "was",
+      "count": 48
+    },
+    {
+      "word": "is",
+      "count": 47
+    },
+    {
+      "word": "will",
+      "count": 45
+    },
+    {
+      "word": "him",
+      "count": 43
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the doctor",
+      "count": 46
+    },
+    {
+      "phrase": "he had",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 18
+    },
+    {
+      "phrase": "to the",
+      "count": 16
+    },
+    {
+      "phrase": "he was",
+      "count": 15
+    },
+    {
+      "phrase": "this is",
+      "count": 14
+    },
+    {
+      "phrase": "doctor said",
+      "count": 14
+    },
+    {
+      "phrase": "if you",
+      "count": 14
+    },
+    {
+      "phrase": "keystone habit",
+      "count": 13
+    },
+    {
+      "phrase": "you can",
+      "count": 12
+    }
+  ],
+  "segment_count": 540
+}

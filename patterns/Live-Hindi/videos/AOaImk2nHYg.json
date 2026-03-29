@@ -1,0 +1,149 @@
+{
+  "video_id": "AOaImk2nHYg",
+  "duration_seconds": 987,
+  "wps": 2.94,
+  "total_words": 2903,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11560
+  },
+  "hook": {
+    "type": "question",
+    "text": "दोस्तों नटराज और अप्सरा पेंसिल्स हम सभी के बचपन की साथी रही है लेकिन क्या आपको पता है जब तीन दोस्तों ने इस कंपनी की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बन चुका है"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 97
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "के",
+      "count": 64
+    },
+    {
+      "word": "था",
+      "count": 56
+    },
+    {
+      "word": "कि",
+      "count": 56
+    },
+    {
+      "word": "की",
+      "count": 49
+    },
+    {
+      "word": "को",
+      "count": 49
+    },
+    {
+      "word": "ही",
+      "count": 44
+    },
+    {
+      "word": "थी",
+      "count": 42
+    },
+    {
+      "word": "भी",
+      "count": 38
+    },
+    {
+      "word": "पेंसिल",
+      "count": 37
+    },
+    {
+      "word": "पेंसिल्स",
+      "count": 33
+    },
+    {
+      "word": "का",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 33
+    },
+    {
+      "word": "लेकिन",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 29
+    },
+    {
+      "word": "ने",
+      "count": 26
+    },
+    {
+      "word": "है",
+      "count": 24
+    },
+    {
+      "word": "तो",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 19
+    },
+    {
+      "phrase": "हिंदुस्तान पेंसिल्स",
+      "count": 13
+    },
+    {
+      "phrase": "और फिर",
+      "count": 13
+    },
+    {
+      "phrase": "थी और",
+      "count": 11
+    },
+    {
+      "phrase": "जो कि",
+      "count": 9
+    },
+    {
+      "phrase": "था कि",
+      "count": 9
+    },
+    {
+      "phrase": "थी कि",
+      "count": 8
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 8
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "बीजे सांगवी",
+      "count": 7
+    }
+  ],
+  "segment_count": 127
+}

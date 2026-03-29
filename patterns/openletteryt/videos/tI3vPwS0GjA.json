@@ -1,0 +1,149 @@
+{
+  "video_id": "tI3vPwS0GjA",
+  "duration_seconds": 802,
+  "wps": 4.11,
+  "total_words": 3300,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11738
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर मैं दुनिया के मोस्ट चैरिटेबल देशों की बात करूं तो उसमें भारत बहुत हाई रैंक करता है लेकिन एक और लिस्ट है जिसमें हम काफी ऊपर रैंक करते हैं और इसके लिए हमें"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में सोच के देखना। अगर यह वाला वीडियो आपको अच्छा लगा तो अगला वीडियो आपको और अच्छा लगेगा। स्क्रीन पे लगा दिया है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 147
+    },
+    {
+      "word": "हैं",
+      "count": 78
+    },
+    {
+      "word": "के",
+      "count": 75
+    },
+    {
+      "word": "में",
+      "count": 73
+    },
+    {
+      "word": "और",
+      "count": 63
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "तो",
+      "count": 48
+    },
+    {
+      "word": "ये",
+      "count": 47
+    },
+    {
+      "word": "नहीं",
+      "count": 47
+    },
+    {
+      "word": "लोग",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 39
+    },
+    {
+      "word": "जो",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 35
+    },
+    {
+      "word": "से",
+      "count": 32
+    },
+    {
+      "word": "चोरी",
+      "count": 31
+    },
+    {
+      "word": "हो",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 28
+    },
+    {
+      "word": "को",
+      "count": 28
+    },
+    {
+      "word": "वो",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 25
+    },
+    {
+      "phrase": "है और",
+      "count": 20
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 14
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 14
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 11
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 11
+    },
+    {
+      "phrase": "लगता है",
+      "count": 11
+    },
+    {
+      "phrase": "है तो",
+      "count": 11
+    },
+    {
+      "phrase": "जाती है",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    }
+  ],
+  "segment_count": 102
+}

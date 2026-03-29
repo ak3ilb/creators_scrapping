@@ -1,0 +1,149 @@
+{
+  "video_id": "9u2f-pSo200",
+  "duration_seconds": 1003,
+  "wps": 2.44,
+  "total_words": 2444,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 11692
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In 2012, a thirteen-year-old boy was unable to speak to others due to his extreme shyness."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "This was the story of MrBeast. If you liked this video, I recommend you watch this next video."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 108
+    },
+    {
+      "word": "he",
+      "count": 90
+    },
+    {
+      "word": "in",
+      "count": 66
+    },
+    {
+      "word": "to",
+      "count": 61
+    },
+    {
+      "word": "and",
+      "count": 61
+    },
+    {
+      "word": "his",
+      "count": 54
+    },
+    {
+      "word": "that",
+      "count": 42
+    },
+    {
+      "word": "of",
+      "count": 39
+    },
+    {
+      "word": "videos",
+      "count": 32
+    },
+    {
+      "word": "this",
+      "count": 30
+    },
+    {
+      "word": "mrbeast",
+      "count": 30
+    },
+    {
+      "word": "was",
+      "count": 29
+    },
+    {
+      "word": "on",
+      "count": 27
+    },
+    {
+      "word": "video",
+      "count": 26
+    },
+    {
+      "word": "youtube",
+      "count": 21
+    },
+    {
+      "word": "with",
+      "count": 20
+    },
+    {
+      "word": "is",
+      "count": 19
+    },
+    {
+      "word": "these",
+      "count": 15
+    },
+    {
+      "word": "so",
+      "count": 14
+    },
+    {
+      "word": "him",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "the video",
+      "count": 11
+    },
+    {
+      "phrase": "in this",
+      "count": 9
+    },
+    {
+      "phrase": "the story",
+      "count": 8
+    },
+    {
+      "phrase": "these videos",
+      "count": 7
+    },
+    {
+      "phrase": "this video",
+      "count": 7
+    },
+    {
+      "phrase": "so he",
+      "count": 6
+    },
+    {
+      "phrase": "he was",
+      "count": 6
+    },
+    {
+      "phrase": "his mother",
+      "count": 6
+    },
+    {
+      "phrase": "that the",
+      "count": 6
+    }
+  ],
+  "segment_count": 136
+}

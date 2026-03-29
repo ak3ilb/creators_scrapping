@@ -1,0 +1,148 @@
+{
+  "video_id": "P9wPSzs0UBg",
+  "duration_seconds": 921,
+  "wps": 3.95,
+  "total_words": 3636,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 13342
+  },
+  "hook": {
+    "type": "question",
+    "text": "हे दोस्तों क्या आपके साथ भी कभी ऐसा होता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नेक्स्ट बुक समरी में। टिल देन, बाय।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 177
+    },
+    {
+      "word": "और",
+      "count": 80
+    },
+    {
+      "word": "हो",
+      "count": 73
+    },
+    {
+      "word": "भी",
+      "count": 65
+    },
+    {
+      "word": "में",
+      "count": 65
+    },
+    {
+      "word": "आप",
+      "count": 54
+    },
+    {
+      "word": "जो",
+      "count": 54
+    },
+    {
+      "word": "को",
+      "count": 54
+    },
+    {
+      "word": "से",
+      "count": 53
+    },
+    {
+      "word": "हैं",
+      "count": 53
+    },
+    {
+      "word": "कर",
+      "count": 50
+    },
+    {
+      "word": "तो",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 48
+    },
+    {
+      "word": "एक",
+      "count": 45
+    },
+    {
+      "word": "वो",
+      "count": 44
+    },
+    {
+      "word": "नहीं",
+      "count": 44
+    },
+    {
+      "word": "काम",
+      "count": 39
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "आपको",
+      "count": 36
+    },
+    {
+      "word": "करना",
+      "count": 32
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 18
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 18
+    },
+    {
+      "phrase": "करना है",
+      "count": 17
+    },
+    {
+      "phrase": "है वो",
+      "count": 17
+    },
+    {
+      "phrase": "रहा है",
+      "count": 16
+    },
+    {
+      "phrase": "जो भी",
+      "count": 16
+    },
+    {
+      "phrase": "दिमाग में",
+      "count": 15
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 15
+    },
+    {
+      "phrase": "होता है",
+      "count": 13
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 13
+    }
+  ],
+  "segment_count": 441
+}

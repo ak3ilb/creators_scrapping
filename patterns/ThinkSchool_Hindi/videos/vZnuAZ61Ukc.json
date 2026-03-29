@@ -1,0 +1,149 @@
+{
+  "video_id": "vZnuAZ61Ukc",
+  "duration_seconds": 779,
+  "wps": 2.69,
+  "total_words": 2093,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 7370
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों 4 अक्टूबर 1957 का दिन था जिसने पूरी दुनिया को एक नए जंग के मैदान में खेल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बाय ननो नो"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 85
+    },
+    {
+      "word": "और",
+      "count": 63
+    },
+    {
+      "word": "के",
+      "count": 44
+    },
+    {
+      "word": "एआई",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 29
+    },
+    {
+      "word": "डीप",
+      "count": 29
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "यह",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 26
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "से",
+      "count": 23
+    },
+    {
+      "word": "सीक",
+      "count": 23
+    },
+    {
+      "word": "में",
+      "count": 22
+    },
+    {
+      "word": "कि",
+      "count": 22
+    },
+    {
+      "word": "तो",
+      "count": 22
+    },
+    {
+      "word": "की",
+      "count": 15
+    },
+    {
+      "word": "इस",
+      "count": 14
+    },
+    {
+      "word": "सबसे",
+      "count": 14
+    },
+    {
+      "word": "लिए",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डीप सीक",
+      "count": 23
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "है कि",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 11
+    },
+    {
+      "phrase": "सीक एआई",
+      "count": 11
+    },
+    {
+      "phrase": "एआई मॉडल्स",
+      "count": 9
+    },
+    {
+      "phrase": "पर है",
+      "count": 9
+    },
+    {
+      "phrase": "सीक r1",
+      "count": 8
+    },
+    {
+      "phrase": "यह है",
+      "count": 7
+    },
+    {
+      "phrase": "चैट जीपीटी",
+      "count": 7
+    }
+  ],
+  "segment_count": 91
+}

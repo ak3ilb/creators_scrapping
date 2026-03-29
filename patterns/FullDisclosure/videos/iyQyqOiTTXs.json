@@ -1,0 +1,148 @@
+{
+  "video_id": "iyQyqOiTTXs",
+  "duration_seconds": 64,
+  "wps": 2.48,
+  "total_words": 159,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 791
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "As kids, many of us wanted to be an astronaut. Now, ISRO is making sure those dreams actually come true. First,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "actually works. Applications open February 27, 2026 and deadline is March 31st, 2026."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "isro",
+      "count": 5
+    },
+    {
+      "word": "2026",
+      "count": 5
+    },
+    {
+      "word": "space",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "center",
+      "count": 3
+    },
+    {
+      "word": "india",
+      "count": 3
+    },
+    {
+      "word": "how",
+      "count": 3
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "be",
+      "count": 2
+    },
+    {
+      "word": "actually",
+      "count": 2
+    },
+    {
+      "word": "program",
+      "count": 2
+    },
+    {
+      "word": "class",
+      "count": 2
+    },
+    {
+      "word": "students",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "applications",
+      "count": 2
+    },
+    {
+      "word": "may",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "two weeks",
+      "count": 2
+    },
+    {
+      "phrase": "space center",
+      "count": 2
+    },
+    {
+      "phrase": "india space",
+      "count": 2
+    },
+    {
+      "phrase": "as kids",
+      "count": 1
+    },
+    {
+      "phrase": "kids many",
+      "count": 1
+    },
+    {
+      "phrase": "many of",
+      "count": 1
+    },
+    {
+      "phrase": "of us",
+      "count": 1
+    },
+    {
+      "phrase": "us wanted",
+      "count": 1
+    },
+    {
+      "phrase": "wanted to",
+      "count": 1
+    },
+    {
+      "phrase": "to be",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

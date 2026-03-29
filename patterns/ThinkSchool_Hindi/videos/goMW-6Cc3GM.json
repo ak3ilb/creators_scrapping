@@ -1,0 +1,149 @@
+{
+  "video_id": "goMW-6Cc3GM",
+  "duration_seconds": 861,
+  "wps": 2.68,
+  "total_words": 2311,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 9093
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डायमंड है स्टोरी पीपल बैक होम नेवर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "डायमंड",
+      "count": 71
+    },
+    {
+      "word": "में",
+      "count": 66
+    },
+    {
+      "word": "डायमंड्स",
+      "count": 49
+    },
+    {
+      "word": "और",
+      "count": 49
+    },
+    {
+      "word": "के",
+      "count": 45
+    },
+    {
+      "word": "है",
+      "count": 44
+    },
+    {
+      "word": "तो",
+      "count": 40
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "लैब",
+      "count": 33
+    },
+    {
+      "word": "ग्रोन",
+      "count": 30
+    },
+    {
+      "word": "कि",
+      "count": 29
+    },
+    {
+      "word": "मार्केट",
+      "count": 26
+    },
+    {
+      "word": "हैं",
+      "count": 25
+    },
+    {
+      "word": "ने",
+      "count": 23
+    },
+    {
+      "word": "एक",
+      "count": 20
+    },
+    {
+      "word": "की",
+      "count": 20
+    },
+    {
+      "word": "लिए",
+      "count": 20
+    },
+    {
+      "word": "भी",
+      "count": 20
+    },
+    {
+      "word": "यह",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लैब ग्रोन",
+      "count": 30
+    },
+    {
+      "phrase": "ग्रोन डायमंड्स",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 12
+    },
+    {
+      "phrase": "नेचुरल डायमंड्स",
+      "count": 7
+    },
+    {
+      "phrase": "डायमंड मार्केट",
+      "count": 6
+    },
+    {
+      "phrase": "ग्रोन डायमंड",
+      "count": 6
+    },
+    {
+      "phrase": "कि लैब",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 5
+    }
+  ],
+  "segment_count": 104
+}

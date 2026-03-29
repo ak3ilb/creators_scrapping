@@ -1,0 +1,149 @@
+{
+  "video_id": "cJRoG2EHT64",
+  "duration_seconds": 966,
+  "wps": 3.1,
+  "total_words": 2994,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 11441
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों, मार्केट में चाहे दाल चावल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के नमक का इस्तेमाल होता है?"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 78
+    },
+    {
+      "word": "में",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 66
+    },
+    {
+      "word": "था",
+      "count": 58
+    },
+    {
+      "word": "को",
+      "count": 57
+    },
+    {
+      "word": "नमक",
+      "count": 51
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "ने",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "एक",
+      "count": 42
+    },
+    {
+      "word": "कि",
+      "count": 38
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "है",
+      "count": 35
+    },
+    {
+      "word": "टाटा",
+      "count": 35
+    },
+    {
+      "word": "ही",
+      "count": 34
+    },
+    {
+      "word": "साल्ट",
+      "count": 32
+    },
+    {
+      "word": "लेकिन",
+      "count": 28
+    },
+    {
+      "word": "तो",
+      "count": 28
+    },
+    {
+      "word": "नहीं",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कैप्टन कुक",
+      "count": 22
+    },
+    {
+      "phrase": "के लिए",
+      "count": 18
+    },
+    {
+      "phrase": "के बाद",
+      "count": 9
+    },
+    {
+      "phrase": "लेकिन दोस्तों",
+      "count": 8
+    },
+    {
+      "phrase": "tata ने",
+      "count": 8
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 7
+    },
+    {
+      "phrase": "और फिर",
+      "count": 7
+    },
+    {
+      "phrase": "टाटा ने",
+      "count": 7
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 7
+    },
+    {
+      "phrase": "असल में",
+      "count": 7
+    }
+  ],
+  "segment_count": 376
+}

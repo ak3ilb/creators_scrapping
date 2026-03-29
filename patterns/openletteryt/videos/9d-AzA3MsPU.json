@@ -1,0 +1,149 @@
+{
+  "video_id": "9d-AzA3MsPU",
+  "duration_seconds": 831,
+  "wps": 3.94,
+  "total_words": 3270,
+  "language_mix": {
+    "hindi": 98.3,
+    "english": 1.7,
+    "total_chars": 12098
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आप पहले यह वीडियो देखो। यह लड़का कोई एक्टिंग नहीं कर रहा है। इसे एने का नशा इतना ज्यादा चढ़ गया है कि यह रियल लाइफ में भी एे कैरेक्टर बन चुका है। आप इस"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अपने आप यह एडिक्शन छूट जाएगा। बाकी ओन स्कूल का लिंक डिस्क्रिप्शन में है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 148
+    },
+    {
+      "word": "हो",
+      "count": 86
+    },
+    {
+      "word": "के",
+      "count": 64
+    },
+    {
+      "word": "हैं",
+      "count": 57
+    },
+    {
+      "word": "में",
+      "count": 55
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "और",
+      "count": 43
+    },
+    {
+      "word": "भी",
+      "count": 42
+    },
+    {
+      "word": "आप",
+      "count": 39
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "की",
+      "count": 36
+    },
+    {
+      "word": "एक",
+      "count": 35
+    },
+    {
+      "word": "कर",
+      "count": 33
+    },
+    {
+      "word": "तो",
+      "count": 33
+    },
+    {
+      "word": "नहीं",
+      "count": 31
+    },
+    {
+      "word": "फोन",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "यह",
+      "count": 24
+    },
+    {
+      "word": "ही",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 21
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 16
+    },
+    {
+      "phrase": "रहा है",
+      "count": 15
+    },
+    {
+      "phrase": "जाता है",
+      "count": 14
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 13
+    },
+    {
+      "phrase": "गया है",
+      "count": 10
+    },
+    {
+      "phrase": "चुका है",
+      "count": 10
+    },
+    {
+      "phrase": "होता है",
+      "count": 9
+    }
+  ],
+  "segment_count": 104
+}

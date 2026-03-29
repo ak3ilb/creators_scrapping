@@ -1,0 +1,149 @@
+{
+  "video_id": "drwoxVO20jo",
+  "duration_seconds": 739,
+  "wps": 2.86,
+  "total_words": 2114,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 8123
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आप मानते हैं कि विदेशी बैंकों में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "से",
+      "count": 44
+    },
+    {
+      "word": "में",
+      "count": 42
+    },
+    {
+      "word": "तो",
+      "count": 42
+    },
+    {
+      "word": "को",
+      "count": 38
+    },
+    {
+      "word": "के",
+      "count": 36
+    },
+    {
+      "word": "और",
+      "count": 31
+    },
+    {
+      "word": "एक",
+      "count": 29
+    },
+    {
+      "word": "हैं",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "सिंगापुर",
+      "count": 24
+    },
+    {
+      "word": "की",
+      "count": 23
+    },
+    {
+      "word": "का",
+      "count": 21
+    },
+    {
+      "word": "अगर",
+      "count": 21
+    },
+    {
+      "word": "नहीं",
+      "count": 20
+    },
+    {
+      "word": "आप",
+      "count": 18
+    },
+    {
+      "word": "यह",
+      "count": 18
+    },
+    {
+      "word": "भी",
+      "count": 16
+    },
+    {
+      "word": "पर",
+      "count": 15
+    },
+    {
+      "word": "हो",
+      "count": 14
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हो तो",
+      "count": 8
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 8
+    },
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 6
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 6
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 5
+    },
+    {
+      "phrase": "सिंगापुर में",
+      "count": 5
+    },
+    {
+      "phrase": "लीक वन",
+      "count": 5
+    }
+  ],
+  "segment_count": 278
+}

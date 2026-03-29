@@ -1,0 +1,149 @@
+{
+  "video_id": "o7lczTDDESc",
+  "duration_seconds": 2889,
+  "wps": 2.76,
+  "total_words": 7981,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 37201
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Private companies kept entering the lands of the tribal people by lying, and the government kept sitting idle."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 483
+    },
+    {
+      "word": "and",
+      "count": 260
+    },
+    {
+      "word": "in",
+      "count": 202
+    },
+    {
+      "word": "to",
+      "count": 173
+    },
+    {
+      "word": "of",
+      "count": 141
+    },
+    {
+      "word": "they",
+      "count": 130
+    },
+    {
+      "word": "was",
+      "count": 125
+    },
+    {
+      "word": "this",
+      "count": 120
+    },
+    {
+      "word": "were",
+      "count": 108
+    },
+    {
+      "word": "that",
+      "count": 73
+    },
+    {
+      "word": "on",
+      "count": 71
+    },
+    {
+      "word": "so",
+      "count": 69
+    },
+    {
+      "word": "these",
+      "count": 53
+    },
+    {
+      "word": "india",
+      "count": 52
+    },
+    {
+      "word": "naxalites",
+      "count": 51
+    },
+    {
+      "word": "but",
+      "count": 50
+    },
+    {
+      "word": "their",
+      "count": 50
+    },
+    {
+      "word": "started",
+      "count": 50
+    },
+    {
+      "word": "it",
+      "count": 49
+    },
+    {
+      "word": "for",
+      "count": 46
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 44
+    },
+    {
+      "phrase": "in india",
+      "count": 28
+    },
+    {
+      "phrase": "the same",
+      "count": 26
+    },
+    {
+      "phrase": "of the",
+      "count": 23
+    },
+    {
+      "phrase": "and the",
+      "count": 19
+    },
+    {
+      "phrase": "charu majumdar",
+      "count": 19
+    },
+    {
+      "phrase": "there was",
+      "count": 19
+    },
+    {
+      "phrase": "all the",
+      "count": 18
+    },
+    {
+      "phrase": "to the",
+      "count": 17
+    },
+    {
+      "phrase": "at the",
+      "count": 16
+    }
+  ],
+  "segment_count": 380
+}

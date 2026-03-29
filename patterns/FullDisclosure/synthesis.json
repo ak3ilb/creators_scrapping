@@ -1,0 +1,97 @@
+{
+  "total_videos": 57,
+  "pacing": {
+    "avg_wps": 2.77,
+    "min_wps": 2.25,
+    "max_wps": 3.27
+  },
+  "language": {
+    "avg_hindi_pct": 32.8,
+    "avg_english_pct": 67.2
+  },
+  "hook_types": {
+    "general_statement": 32,
+    "statement": 8,
+    "question": 8,
+    "shock_number": 8,
+    "imagination": 1
+  },
+  "closing_types": {
+    "question_to_audience": 33,
+    "punchline_or_open": 16,
+    "direct_cta": 5,
+    "reflection": 3
+  },
+  "structures": {
+    "detailed_explainer": 30,
+    "standard_short": 20,
+    "long_form_story": 7
+  },
+  "audience_addressing": {
+    "you (English)": 35,
+    "neutral/third_person": 22,
+    "conditional address (if you...)": 10
+  },
+  "vocabulary": {
+    "consistent": {},
+    "variable": {
+      "and": 33,
+      "the": 33,
+      "to": 24,
+      "is": 23,
+      "this": 21,
+      "in": 21,
+      "एंड": 19,
+      "for": 19,
+      "you": 18,
+      "of": 17,
+      "music": 16,
+      "it": 15,
+      "इन": 14,
+      "ai": 13,
+      "यू": 12,
+      "on": 11,
+      "are": 11,
+      "टू": 11,
+      "दिस": 10,
+      "just": 9
+    },
+    "rare": {
+      "can": 8,
+      "with": 8,
+      "india": 8,
+      "ऑन": 7,
+      "or": 7,
+      "एआई": 7,
+      "जस्ट": 7,
+      "google": 7,
+      "विथ": 6,
+      "from": 6,
+      "इट": 6,
+      "नाउ": 5,
+      "now": 5,
+      "2026": 5,
+      "that": 5
+    }
+  },
+  "sample_hooks": [
+    "इंटरेस्टेड इन जिओपॉलिटिक्स एंड फॉरेन",
+    "Now you can earn side income using government apps. And this is the best time to be Gen Z because you have access to opportunities millennials simply didn't have. Today you can earn, learn,",
+    "UPSC just changed the rules for civil services. Subscribe full disclosure and I'll quickly break down what actually changed in this notification. 2026",
+    "2026 is officially the year of the creator, and you can win $1 million just by writing an article. Elon Musk's X,",
+    "An AI just sent its first message from space. Greetings, Earthlings. A fascinating collection of blue and green. That message came from an AI",
+    "NCRT is hiring for roles most people don't even associate with government jobs. Production officers, script",
+    "एंथ्रोपिक जस्ट पब्लिश्ड अ लेबर मार्केट स्टडी एंड इट हैस सम शॉकिंग रिवील। सब्सक्राइब फुल डिस्क्लोज़र एंड आई विल शो यू व्हाट एंथ्रोपिक्स न्यू स्टडी फाउंड।",
+    "This AI tool just made motion design agencies obsolete. [music] Hicksfield launched Vibe Motion, an AI platform that generates professional motion"
+  ],
+  "sample_closings": [
+    "कमेंट बिलो।",
+    "this with someone who needs it. Follow full disclosure for real money and career insights.",
+    "necessary to stop candidates from endlessly reattempting while blocking new aspirants? What are your thoughts on this? Comment below.",
+    "It's becoming leverage. The only question is, are you ready to use it? Let me know in the comments.",
+    "orbit above us. What do you think about AI moving to space?",
+    "written tests, skill tests for technical or media roles and interviews with document verification. Official notification link is in the pinned comment.",
+    "ह्यूमन ओवरसाइट।",
+    "movement with technical accuracy. The output is a controllable asset, not a flat video file. Will [music] this replace motion design agencies?"
+  ]
+}

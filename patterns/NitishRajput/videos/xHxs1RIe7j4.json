@@ -1,0 +1,149 @@
+{
+  "video_id": "xHxs1RIe7j4",
+  "duration_seconds": 2505,
+  "wps": 2.09,
+  "total_words": 5238,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 26077
+  },
+  "hook": {
+    "type": "imagination",
+    "text": "At 13, the homeless Louis Vuitton couldn’t have imagined what the LV brand would become in the future."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Lastly, I’d like to mention that I have provided the link to the Odoo Sign app in the description. Do give it a try. Thank you"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 287
+    },
+    {
+      "word": "to",
+      "count": 165
+    },
+    {
+      "word": "and",
+      "count": 133
+    },
+    {
+      "word": "in",
+      "count": 118
+    },
+    {
+      "word": "of",
+      "count": 99
+    },
+    {
+      "word": "lv",
+      "count": 86
+    },
+    {
+      "word": "this",
+      "count": 72
+    },
+    {
+      "word": "for",
+      "count": 66
+    },
+    {
+      "word": "was",
+      "count": 56
+    },
+    {
+      "word": "louis",
+      "count": 55
+    },
+    {
+      "word": "that",
+      "count": 45
+    },
+    {
+      "word": "his",
+      "count": 43
+    },
+    {
+      "word": "with",
+      "count": 42
+    },
+    {
+      "word": "vuitton",
+      "count": 34
+    },
+    {
+      "word": "their",
+      "count": 33
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "as",
+      "count": 28
+    },
+    {
+      "word": "on",
+      "count": 26
+    },
+    {
+      "word": "he",
+      "count": 25
+    },
+    {
+      "word": "by",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "louis vuitton",
+      "count": 25
+    },
+    {
+      "phrase": "in the",
+      "count": 23
+    },
+    {
+      "phrase": "of the",
+      "count": 19
+    },
+    {
+      "phrase": "to the",
+      "count": 15
+    },
+    {
+      "phrase": "with the",
+      "count": 12
+    },
+    {
+      "phrase": "was a",
+      "count": 11
+    },
+    {
+      "phrase": "at the",
+      "count": 11
+    },
+    {
+      "phrase": "for the",
+      "count": 10
+    },
+    {
+      "phrase": "the company",
+      "count": 10
+    },
+    {
+      "phrase": "it was",
+      "count": 9
+    }
+  ],
+  "segment_count": 294
+}

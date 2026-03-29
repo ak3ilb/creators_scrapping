@@ -1,0 +1,91 @@
+{
+  "total_videos": 16,
+  "pacing": {
+    "avg_wps": 2.76,
+    "min_wps": 2.34,
+    "max_wps": 3.63
+  },
+  "language": {
+    "avg_hindi_pct": 12.4,
+    "avg_english_pct": 87.6
+  },
+  "hook_types": {
+    "general_statement": 14,
+    "statement": 1,
+    "shock_number": 1
+  },
+  "closing_types": {
+    "punchline_or_open": 12,
+    "question_to_audience": 4
+  },
+  "structures": {
+    "long_form_story": 16
+  },
+  "audience_addressing": {
+    "you (English)": 14,
+    "conditional address (if you...)": 14,
+    "आप (formal)": 2,
+    "भाई/भैया (bro-style)": 1
+  },
+  "vocabulary": {
+    "consistent": {
+      "to": 14,
+      "of": 14,
+      "and": 14,
+      "that": 14,
+      "was": 14,
+      "this": 14,
+      "in": 14,
+      "the": 14,
+      "he": 13,
+      "but": 12,
+      "his": 12,
+      "for": 12,
+      "had": 10
+    },
+    "variable": {
+      "with": 9,
+      "on": 6,
+      "it": 5,
+      "started": 3,
+      "by": 3,
+      "at": 3,
+      "from": 3,
+      "is": 3,
+      "were": 3
+    },
+    "rare": {
+      "as": 2,
+      "so": 2,
+      "की": 2,
+      "है": 2,
+      "के": 2,
+      "से": 2,
+      "और": 2,
+      "को": 2,
+      "में": 2,
+      "they": 2,
+      "one": 2
+    }
+  },
+  "sample_hooks": [
+    "On 26 January 2001, at 5:00 am,",
+    "Dhirubhai Ambani was one of India’s greatest businessmen.",
+    "In 2012, a thirteen-year-old boy was unable to speak to others due to his extreme shyness.",
+    "Nike is the world's largest sports wear brand.",
+    "Around 1,200 years ago in India, a temple was constructed that still astonishes people to this day. It is the Kailāśa Temple of Ellora.",
+    "कि आज लांच दुनिया के सबसे अमीर इंसान जितना टेस्ला के कारण है उतना ही Twitter के कारण भी है 2008 में जब ए कंपनसेशन पैन",
+    "Honda company earns almost ₹2 crore",
+    "In the year 1980, a young man named Harshad Mehta, enters Bombay Stock Exchange for the first time."
+  ],
+  "sample_closings": [
+    "Also, the link to Stable Money is below in the description and pinned comment.",
+    "If you liked the video, I would recommend watching this video next.",
+    "This was the story of MrBeast. If you liked this video, I recommend you watch this next video.",
+    "If you liked this video then I recommend you to watch this video next.",
+    "Finally, let me remind you once again that you can register for free for the Odoo Community Days event. The registration link is in the description and pinned comment below.",
+    "चलेगा लेकिन अगर आपको यह वीडियो अच्छा लगा हो तो इसे लाइक जितेंद्र भाई और अपने पॉट मुझे कमेंट सेक्शन में बताइए और ऐसी और वीडियोस के लिए इस चैनल को सब्सक्राइब करे",
+    "on your first month subscription.",
+    "In my opinion, the truth is somewhere between the two views. If you like this video, I would like to recommend up next, watch this video."
+  ]
+}

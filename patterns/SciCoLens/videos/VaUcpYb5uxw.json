@@ -1,0 +1,148 @@
+{
+  "video_id": "VaUcpYb5uxw",
+  "duration_seconds": 798,
+  "wps": 3.25,
+  "total_words": 2596,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10099
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये देखो ये सबसे आखिरी यूनिसेल्यूलर जीव"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नेक्स्ट टाइम। टिल देन टेक केयर।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 115
+    },
+    {
+      "word": "में",
+      "count": 63
+    },
+    {
+      "word": "है",
+      "count": 58
+    },
+    {
+      "word": "एक",
+      "count": 54
+    },
+    {
+      "word": "की",
+      "count": 53
+    },
+    {
+      "word": "को",
+      "count": 49
+    },
+    {
+      "word": "और",
+      "count": 46
+    },
+    {
+      "word": "कि",
+      "count": 43
+    },
+    {
+      "word": "से",
+      "count": 42
+    },
+    {
+      "word": "पृथ्वी",
+      "count": 40
+    },
+    {
+      "word": "पर",
+      "count": 34
+    },
+    {
+      "word": "इस",
+      "count": 32
+    },
+    {
+      "word": "था",
+      "count": 25
+    },
+    {
+      "word": "जो",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 19
+    },
+    {
+      "word": "अब",
+      "count": 18
+    },
+    {
+      "word": "हैं",
+      "count": 18
+    },
+    {
+      "word": "लेयर्स",
+      "count": 18
+    },
+    {
+      "word": "उस",
+      "count": 17
+    },
+    {
+      "word": "हो",
+      "count": 17
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पृथ्वी के",
+      "count": 16
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "वजह से",
+      "count": 12
+    },
+    {
+      "phrase": "कि पृथ्वी",
+      "count": 9
+    },
+    {
+      "phrase": "पृथ्वी पर",
+      "count": 8
+    },
+    {
+      "phrase": "की वजह",
+      "count": 8
+    },
+    {
+      "phrase": "को स्टडी",
+      "count": 8
+    },
+    {
+      "phrase": "यानी कि",
+      "count": 7
+    },
+    {
+      "phrase": "के इतिहास",
+      "count": 7
+    },
+    {
+      "phrase": "उस समय",
+      "count": 7
+    }
+  ],
+  "segment_count": 330
+}

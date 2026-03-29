@@ -1,0 +1,148 @@
+{
+  "video_id": "qh9lf0TmjTA",
+  "duration_seconds": 404,
+  "wps": 2.93,
+  "total_words": 1184,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 5063
+  },
+  "hook": {
+    "type": "statement",
+    "text": "So, in this video, we're going to talk about why we overink and how to finally stop. This is going to be a comprehensive guide where we're going to"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 60
+    },
+    {
+      "word": "of",
+      "count": 42
+    },
+    {
+      "word": "to",
+      "count": 32
+    },
+    {
+      "word": "is",
+      "count": 32
+    },
+    {
+      "word": "and",
+      "count": 26
+    },
+    {
+      "word": "you",
+      "count": 23
+    },
+    {
+      "word": "we",
+      "count": 22
+    },
+    {
+      "word": "that",
+      "count": 22
+    },
+    {
+      "word": "overthinking",
+      "count": 21
+    },
+    {
+      "word": "in",
+      "count": 16
+    },
+    {
+      "word": "this",
+      "count": 16
+    },
+    {
+      "word": "now",
+      "count": 13
+    },
+    {
+      "word": "going",
+      "count": 12
+    },
+    {
+      "word": "your",
+      "count": 12
+    },
+    {
+      "word": "when",
+      "count": 12
+    },
+    {
+      "word": "it",
+      "count": 12
+    },
+    {
+      "word": "why",
+      "count": 11
+    },
+    {
+      "word": "how",
+      "count": 10
+    },
+    {
+      "word": "have",
+      "count": 10
+    },
+    {
+      "word": "from",
+      "count": 10
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 12
+    },
+    {
+      "phrase": "of overthinking",
+      "count": 7
+    },
+    {
+      "phrase": "of the",
+      "count": 6
+    },
+    {
+      "phrase": "is the",
+      "count": 6
+    },
+    {
+      "phrase": "based on",
+      "count": 6
+    },
+    {
+      "phrase": "this is",
+      "count": 5
+    },
+    {
+      "phrase": "types of",
+      "count": 5
+    },
+    {
+      "phrase": "in your",
+      "count": 5
+    },
+    {
+      "phrase": "if i",
+      "count": 5
+    },
+    {
+      "phrase": "this video",
+      "count": 4
+    }
+  ],
+  "segment_count": 51
+}

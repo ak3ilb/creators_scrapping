@@ -1,0 +1,28 @@
+{
+  "creator": "SciCoLens",
+  "last_updated": "2026-03-29T14:31:24.745979",
+  "pacing": {
+    "avg_wps": 3.061330369329098,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 3.061330369329098,
+        "duration": 989.1509433962265
+      }
+    }
+  },
+  "signature_hooks": [
+    "गौरव और",
+    "में एक",
+    "हुआ है।",
+    "फ्रेंड्स मैं",
+    "यह है",
+    "का सबसे",
+    "बहुत ही",
+    "हूं गौरव",
+    "है ना",
+    "है और"
+  ],
+  "uniqueness_traits": [
+    "Storytelling Specialist"
+  ]
+}

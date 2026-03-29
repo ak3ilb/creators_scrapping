@@ -1,0 +1,149 @@
+{
+  "video_id": "lWBrQmYQFHA",
+  "duration_seconds": 1092,
+  "wps": 2.95,
+  "total_words": 3220,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14515
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "And after it, One such thing was executed,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank You!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 122
+    },
+    {
+      "word": "and",
+      "count": 91
+    },
+    {
+      "word": "to",
+      "count": 85
+    },
+    {
+      "word": "dubai",
+      "count": 83
+    },
+    {
+      "word": "in",
+      "count": 79
+    },
+    {
+      "word": "this",
+      "count": 61
+    },
+    {
+      "word": "of",
+      "count": 61
+    },
+    {
+      "word": "was",
+      "count": 42
+    },
+    {
+      "word": "they",
+      "count": 38
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "that",
+      "count": 35
+    },
+    {
+      "word": "there",
+      "count": 31
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "from",
+      "count": 29
+    },
+    {
+      "word": "were",
+      "count": 29
+    },
+    {
+      "word": "you",
+      "count": 28
+    },
+    {
+      "word": "all",
+      "count": 26
+    },
+    {
+      "word": "but",
+      "count": 25
+    },
+    {
+      "word": "for",
+      "count": 25
+    },
+    {
+      "word": "are",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of dubai",
+      "count": 15
+    },
+    {
+      "phrase": "sheikh rashid",
+      "count": 14
+    },
+    {
+      "phrase": "in the",
+      "count": 13
+    },
+    {
+      "phrase": "to dubai",
+      "count": 12
+    },
+    {
+      "phrase": "used to",
+      "count": 11
+    },
+    {
+      "phrase": "in dubai",
+      "count": 11
+    },
+    {
+      "phrase": "all the",
+      "count": 10
+    },
+    {
+      "phrase": "and the",
+      "count": 9
+    },
+    {
+      "phrase": "as well",
+      "count": 9
+    },
+    {
+      "phrase": "there was",
+      "count": 9
+    }
+  ],
+  "segment_count": 374
+}

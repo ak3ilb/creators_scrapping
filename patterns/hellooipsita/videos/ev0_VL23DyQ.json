@@ -1,0 +1,149 @@
+{
+  "video_id": "ev0_VL23DyQ",
+  "duration_seconds": 619,
+  "wps": 2.68,
+  "total_words": 1658,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 7184
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In 1971, Philip Zimardo, an American"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 77
+    },
+    {
+      "word": "to",
+      "count": 60
+    },
+    {
+      "word": "the",
+      "count": 56
+    },
+    {
+      "word": "and",
+      "count": 46
+    },
+    {
+      "word": "that",
+      "count": 44
+    },
+    {
+      "word": "is",
+      "count": 37
+    },
+    {
+      "word": "it",
+      "count": 29
+    },
+    {
+      "word": "of",
+      "count": 25
+    },
+    {
+      "word": "your",
+      "count": 25
+    },
+    {
+      "word": "in",
+      "count": 24
+    },
+    {
+      "word": "what",
+      "count": 23
+    },
+    {
+      "word": "if",
+      "count": 19
+    },
+    {
+      "word": "now",
+      "count": 17
+    },
+    {
+      "word": "was",
+      "count": 16
+    },
+    {
+      "word": "yourself",
+      "count": 16
+    },
+    {
+      "word": "we",
+      "count": 15
+    },
+    {
+      "word": "have",
+      "count": 15
+    },
+    {
+      "word": "with",
+      "count": 13
+    },
+    {
+      "word": "more",
+      "count": 12
+    },
+    {
+      "word": "going",
+      "count": 12
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 11
+    },
+    {
+      "phrase": "i want",
+      "count": 10
+    },
+    {
+      "phrase": "you to",
+      "count": 10
+    },
+    {
+      "phrase": "if you",
+      "count": 9
+    },
+    {
+      "phrase": "that you",
+      "count": 9
+    },
+    {
+      "phrase": "want you",
+      "count": 9
+    },
+    {
+      "phrase": "in the",
+      "count": 8
+    },
+    {
+      "phrase": "your own",
+      "count": 8
+    },
+    {
+      "phrase": "what you",
+      "count": 8
+    },
+    {
+      "phrase": "it is",
+      "count": 7
+    }
+  ],
+  "segment_count": 246
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "LgBGEOqmxYc",
+  "duration_seconds": 1028,
+  "wps": 3.06,
+  "total_words": 3147,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 12062
+  },
+  "hook": {
+    "type": "statement",
+    "text": "HMT, एक ऐसी कंपनी जिसने पूरे इंडिया को घड़ी पहनना सिखाया। एक टाइम तो ऐसा था कि भारत के हर दूसरे घर में एचएमटी की रिस्ट"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "अपने घर पर कहीं देखी है? हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 97
+    },
+    {
+      "word": "में",
+      "count": 93
+    },
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "से",
+      "count": 78
+    },
+    {
+      "word": "की",
+      "count": 74
+    },
+    {
+      "word": "एचएमटी",
+      "count": 63
+    },
+    {
+      "word": "थी",
+      "count": 53
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "को",
+      "count": 49
+    },
+    {
+      "word": "था",
+      "count": 46
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "ही",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "वॉचेस",
+      "count": 30
+    },
+    {
+      "word": "थे",
+      "count": 28
+    },
+    {
+      "word": "का",
+      "count": 27
+    },
+    {
+      "word": "कंपनी",
+      "count": 26
+    },
+    {
+      "word": "लिए",
+      "count": 26
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 25
+    },
+    {
+      "phrase": "एचएमटी की",
+      "count": 16
+    },
+    {
+      "phrase": "तरह से",
+      "count": 13
+    },
+    {
+      "phrase": "था कि",
+      "count": 9
+    },
+    {
+      "phrase": "में एचएमटी",
+      "count": 9
+    },
+    {
+      "phrase": "वजह से",
+      "count": 9
+    },
+    {
+      "phrase": "और फिर",
+      "count": 9
+    },
+    {
+      "phrase": "थी लेकिन",
+      "count": 8
+    },
+    {
+      "phrase": "के साथ",
+      "count": 8
+    },
+    {
+      "phrase": "थे और",
+      "count": 8
+    }
+  ],
+  "segment_count": 133
+}

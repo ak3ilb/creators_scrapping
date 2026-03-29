@@ -1,0 +1,149 @@
+{
+  "video_id": "A42CSU84zHE",
+  "duration_seconds": 850,
+  "wps": 2.62,
+  "total_words": 2228,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 8521
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पीस आई मीन पीस वी सी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ना!"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "को",
+      "count": 55
+    },
+    {
+      "word": "है",
+      "count": 54
+    },
+    {
+      "word": "में",
+      "count": 38
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 29
+    },
+    {
+      "word": "अमेरिका",
+      "count": 27
+    },
+    {
+      "word": "से",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "कि",
+      "count": 24
+    },
+    {
+      "word": "ने",
+      "count": 23
+    },
+    {
+      "word": "की",
+      "count": 21
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "देश",
+      "count": 19
+    },
+    {
+      "word": "था",
+      "count": 19
+    },
+    {
+      "word": "लिए",
+      "count": 18
+    },
+    {
+      "word": "संगीत",
+      "count": 17
+    },
+    {
+      "word": "हैं",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "के पास",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 8
+    },
+    {
+      "phrase": "अमेरिका ने",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "अमेरिका के",
+      "count": 5
+    },
+    {
+      "phrase": "दुनिया का",
+      "count": 5
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 5
+    },
+    {
+      "phrase": "देश को",
+      "count": 5
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 5
+    }
+  ],
+  "segment_count": 294
+}

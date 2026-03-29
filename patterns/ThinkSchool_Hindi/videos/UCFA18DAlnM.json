@@ -1,0 +1,149 @@
+{
+  "video_id": "UCFA18DAlnM",
+  "duration_seconds": 1492,
+  "wps": 2.96,
+  "total_words": 4419,
+  "language_mix": {
+    "hindi": 97.8,
+    "english": 2.2,
+    "total_chars": 16816
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों, 2019 में OYO की हालत इतनी खराब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 139
+    },
+    {
+      "word": "है",
+      "count": 95
+    },
+    {
+      "word": "से",
+      "count": 84
+    },
+    {
+      "word": "को",
+      "count": 83
+    },
+    {
+      "word": "में",
+      "count": 81
+    },
+    {
+      "word": "के",
+      "count": 78
+    },
+    {
+      "word": "तो",
+      "count": 75
+    },
+    {
+      "word": "का",
+      "count": 72
+    },
+    {
+      "word": "oyo",
+      "count": 68
+    },
+    {
+      "word": "होटल",
+      "count": 57
+    },
+    {
+      "word": "कि",
+      "count": 51
+    },
+    {
+      "word": "यह",
+      "count": 45
+    },
+    {
+      "word": "मॉडल",
+      "count": 38
+    },
+    {
+      "word": "एक",
+      "count": 36
+    },
+    {
+      "word": "हो",
+      "count": 33
+    },
+    {
+      "word": "था",
+      "count": 33
+    },
+    {
+      "word": "होटल्स",
+      "count": 33
+    },
+    {
+      "word": "ओयo",
+      "count": 32
+    },
+    {
+      "word": "की",
+      "count": 30
+    },
+    {
+      "word": "भी",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "oyo के",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    },
+    {
+      "phrase": "है और",
+      "count": 12
+    },
+    {
+      "phrase": "होटल्स को",
+      "count": 11
+    },
+    {
+      "phrase": "था तो",
+      "count": 10
+    },
+    {
+      "phrase": "होटल ओनर्स",
+      "count": 10
+    },
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "के पास",
+      "count": 10
+    },
+    {
+      "phrase": "मिनिमम गारंटी",
+      "count": 10
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 9
+    }
+  ],
+  "segment_count": 564
+}

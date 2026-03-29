@@ -1,0 +1,149 @@
+{
+  "video_id": "4_AbovBrI9A",
+  "duration_seconds": 1046,
+  "wps": 3.0,
+  "total_words": 3139,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 11953
+  },
+  "hook": {
+    "type": "statement",
+    "text": "चाइनीज कम्युनिस्ट पार्टी का एक ऐसा लीडर चाइना का पहला डिक्टेटर बना जिसने नर संघार और वायलेंस के मामले में हिटलर और स्टालिन जैसे डिक्टेटर्स को भी बहुत पीछे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "की जनता तक इस वीडियो को पहुंचाना आपका काम है शेयर इट एज मच एज पॉसिबल जय हिंद"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 98
+    },
+    {
+      "word": "में",
+      "count": 97
+    },
+    {
+      "word": "और",
+      "count": 69
+    },
+    {
+      "word": "की",
+      "count": 68
+    },
+    {
+      "word": "को",
+      "count": 65
+    },
+    {
+      "word": "से",
+      "count": 56
+    },
+    {
+      "word": "चाइना",
+      "count": 50
+    },
+    {
+      "word": "ने",
+      "count": 40
+    },
+    {
+      "word": "था",
+      "count": 38
+    },
+    {
+      "word": "कि",
+      "count": 37
+    },
+    {
+      "word": "इंडिया",
+      "count": 33
+    },
+    {
+      "word": "है",
+      "count": 33
+    },
+    {
+      "word": "कर",
+      "count": 32
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "दिया",
+      "count": 27
+    },
+    {
+      "word": "एंड",
+      "count": 27
+    },
+    {
+      "word": "का",
+      "count": 26
+    },
+    {
+      "word": "नहीं",
+      "count": 24
+    },
+    {
+      "word": "पर",
+      "count": 24
+    },
+    {
+      "word": "भी",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के बाद",
+      "count": 15
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "देश में",
+      "count": 11
+    },
+    {
+      "phrase": "चाइना में",
+      "count": 10
+    },
+    {
+      "phrase": "करने के",
+      "count": 9
+    },
+    {
+      "phrase": "चाइना की",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 7
+    },
+    {
+      "phrase": "में चाइना",
+      "count": 7
+    },
+    {
+      "phrase": "इंदिरा जी",
+      "count": 6
+    }
+  ],
+  "segment_count": 130
+}

@@ -1,0 +1,150 @@
+{
+  "video_id": "HwWJU6K6hf4",
+  "duration_seconds": 1024,
+  "wps": 4.68,
+  "total_words": 4796,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 17120
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज की डेट में अगर मैं एक करोड़ के घर के एक करोड़ 10 लाख भी दे दूं ना तब भी मुझे कोई घर नहीं देगा। आज की डेट में आपको हर कोई बोल देगा कि भैया घर बहुत महंगे हैं"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "भूलना। लिंक तुम्हें डिस्क्रिप्शन और पिन कमेंट के अंदर मिल जाएगा। और मैं तुमसे मिलता हूं अगली वीडियो में। तब तक के लिए बाय।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 214
+    },
+    {
+      "word": "के",
+      "count": 165
+    },
+    {
+      "word": "और",
+      "count": 110
+    },
+    {
+      "word": "अंदर",
+      "count": 99
+    },
+    {
+      "word": "भी",
+      "count": 98
+    },
+    {
+      "word": "तो",
+      "count": 88
+    },
+    {
+      "word": "लोग",
+      "count": 73
+    },
+    {
+      "word": "हैं",
+      "count": 70
+    },
+    {
+      "word": "नहीं",
+      "count": 65
+    },
+    {
+      "word": "कि",
+      "count": 62
+    },
+    {
+      "word": "आप",
+      "count": 58
+    },
+    {
+      "word": "आपको",
+      "count": 56
+    },
+    {
+      "word": "से",
+      "count": 56
+    },
+    {
+      "word": "हो",
+      "count": 56
+    },
+    {
+      "word": "की",
+      "count": 51
+    },
+    {
+      "word": "भैया",
+      "count": 51
+    },
+    {
+      "word": "एक",
+      "count": 50
+    },
+    {
+      "word": "को",
+      "count": 50
+    },
+    {
+      "word": "प्रॉपर्टी",
+      "count": 49
+    },
+    {
+      "word": "ना",
+      "count": 47
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 75
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 41
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 39
+    },
+    {
+      "phrase": "है और",
+      "count": 36
+    },
+    {
+      "phrase": "होती है",
+      "count": 30
+    },
+    {
+      "phrase": "है कि",
+      "count": 28
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 22
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 22
+    },
+    {
+      "phrase": "होता है",
+      "count": 20
+    },
+    {
+      "phrase": "है तो",
+      "count": 20
+    }
+  ],
+  "segment_count": 130
+}

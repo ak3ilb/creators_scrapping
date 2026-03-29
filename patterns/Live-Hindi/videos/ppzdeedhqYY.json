@@ -1,0 +1,149 @@
+{
+  "video_id": "ppzdeedhqYY",
+  "duration_seconds": 909,
+  "wps": 2.99,
+  "total_words": 2716,
+  "language_mix": {
+    "hindi": 96.4,
+    "english": 3.6,
+    "total_chars": 10015
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों कुछ साल पहले तक KTM सिर्फ एक बाइक नहीं बल्कि हर यंगस्टर का सपना थी। सड़क पर निकले नहीं कि लोग पलट कर देखते"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "रेस अगेन। वैसे आपका क्या मानना है? क्या KTM दोबारा कमबैक कर पाएगी? हमें कमेंट करके जरूर बताइएगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 73
+    },
+    {
+      "word": "में",
+      "count": 70
+    },
+    {
+      "word": "की",
+      "count": 65
+    },
+    {
+      "word": "ktm",
+      "count": 63
+    },
+    {
+      "word": "के",
+      "count": 63
+    },
+    {
+      "word": "भी",
+      "count": 50
+    },
+    {
+      "word": "से",
+      "count": 47
+    },
+    {
+      "word": "थी",
+      "count": 43
+    },
+    {
+      "word": "को",
+      "count": 41
+    },
+    {
+      "word": "का",
+      "count": 36
+    },
+    {
+      "word": "ही",
+      "count": 35
+    },
+    {
+      "word": "पर",
+      "count": 34
+    },
+    {
+      "word": "है",
+      "count": 34
+    },
+    {
+      "word": "कि",
+      "count": 32
+    },
+    {
+      "word": "ने",
+      "count": 31
+    },
+    {
+      "word": "नहीं",
+      "count": 30
+    },
+    {
+      "word": "था",
+      "count": 30
+    },
+    {
+      "word": "एक",
+      "count": 27
+    },
+    {
+      "word": "तो",
+      "count": 24
+    },
+    {
+      "word": "बाइक",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "ktm के",
+      "count": 14
+    },
+    {
+      "phrase": "ktm ने",
+      "count": 11
+    },
+    {
+      "phrase": "में ktm",
+      "count": 10
+    },
+    {
+      "phrase": "कि ktm",
+      "count": 8
+    },
+    {
+      "phrase": "में भी",
+      "count": 8
+    },
+    {
+      "phrase": "ktm की",
+      "count": 8
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 7
+    },
+    {
+      "phrase": "duke 200",
+      "count": 7
+    },
+    {
+      "phrase": "और फिर",
+      "count": 6
+    }
+  ],
+  "segment_count": 114
+}

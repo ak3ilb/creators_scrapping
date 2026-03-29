@@ -1,0 +1,149 @@
+{
+  "video_id": "eAqdMBLkflc",
+  "duration_seconds": 651,
+  "wps": 3.11,
+  "total_words": 2022,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 8034
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "24 फरवरी 2022 को रशिया यूक्रेन वॉर स्टार्ट होते ही इन सारे कंट्रीज ने मिलकर रशिया पर सेंशंस लगा दिए थे। वो रशियन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्ट्रेंथ्स एंड प्लेइंग ऑन इट। अपने वीकनेसेस पर कम्पीट करने की कोशिश करना हारने वाली स्ट्रैटजी"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 60
+    },
+    {
+      "word": "को",
+      "count": 52
+    },
+    {
+      "word": "में",
+      "count": 52
+    },
+    {
+      "word": "यूक्रेन",
+      "count": 49
+    },
+    {
+      "word": "रशिया",
+      "count": 41
+    },
+    {
+      "word": "और",
+      "count": 40
+    },
+    {
+      "word": "ने",
+      "count": 30
+    },
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "भी",
+      "count": 29
+    },
+    {
+      "word": "ही",
+      "count": 25
+    },
+    {
+      "word": "पर",
+      "count": 25
+    },
+    {
+      "word": "से",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 25
+    },
+    {
+      "word": "था",
+      "count": 23
+    },
+    {
+      "word": "यह",
+      "count": 20
+    },
+    {
+      "word": "तो",
+      "count": 19
+    },
+    {
+      "word": "कि",
+      "count": 19
+    },
+    {
+      "word": "का",
+      "count": 18
+    },
+    {
+      "word": "इस",
+      "count": 17
+    },
+    {
+      "word": "दिया",
+      "count": 15
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यूक्रेन को",
+      "count": 18
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "रशिया ने",
+      "count": 8
+    },
+    {
+      "phrase": "और यूक्रेन",
+      "count": 7
+    },
+    {
+      "phrase": "यूक्रेन के",
+      "count": 7
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    },
+    {
+      "phrase": "रशिया यूक्रेन",
+      "count": 5
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 5
+    },
+    {
+      "phrase": "यूक्रेन में",
+      "count": 5
+    },
+    {
+      "phrase": "रशिया का",
+      "count": 5
+    }
+  ],
+  "segment_count": 84
+}

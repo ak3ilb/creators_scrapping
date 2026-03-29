@@ -1,0 +1,105 @@
+{
+  "total_videos": 43,
+  "pacing": {
+    "avg_wps": 3.7,
+    "min_wps": 3.03,
+    "max_wps": 4.42
+  },
+  "language": {
+    "avg_hindi_pct": 25.5,
+    "avg_english_pct": 74.5
+  },
+  "hook_types": {
+    "general_statement": 23,
+    "question": 13,
+    "statement": 6,
+    "shock_number": 1
+  },
+  "closing_types": {
+    "punchline_or_open": 38,
+    "direct_cta": 5
+  },
+  "structures": {
+    "long_form_story": 43
+  },
+  "audience_addressing": {
+    "you (English)": 32,
+    "conditional address (if you...)": 31,
+    "आप (formal)": 11,
+    "तुम लोग (informal plural)": 2,
+    "भाई/भैया (bro-style)": 2
+  },
+  "vocabulary": {
+    "consistent": {
+      "you": 32,
+      "to": 32,
+      "of": 32,
+      "that": 32,
+      "in": 32,
+      "and": 32,
+      "this": 32,
+      "the": 32,
+      "it": 31,
+      "is": 26
+    },
+    "variable": {
+      "he": 24,
+      "but": 23,
+      "for": 23,
+      "your": 18,
+      "was": 17,
+      "if": 15,
+      "his": 13,
+      "है": 11,
+      "नहीं": 11,
+      "के": 11,
+      "भी": 11,
+      "और": 11,
+      "तो": 11,
+      "कि": 11,
+      "में": 11,
+      "will": 11,
+      "on": 11,
+      "हो": 10,
+      "वो": 10,
+      "को": 10
+    },
+    "rare": {
+      "had": 6,
+      "him": 6,
+      "people": 5,
+      "are": 5,
+      "कर": 5,
+      "की": 4,
+      "यह": 4,
+      "मैं": 4,
+      "ही": 4,
+      "have": 4,
+      "what": 4,
+      "just": 4,
+      "बहुत": 3,
+      "or": 3,
+      "them": 3
+    }
+  },
+  "sample_hooks": [
+    "एक बहुत ही ठंडी रात थी। फार्म हाउस के बाहर जानवर खड़े थे। जिन्हें रोशनी में कुछ परछाइयां दिख रही थी। कुछ अजीब सी हलचल जैसे पहले नहीं हुई थी। इसलिए सारे",
+    "Hey friends, a few days ago, I came across a piece of news that I found quite shocking. You might have heard about it too.",
+    "“Just give me 10 minutes of your time, and I promise you will learn how to get ahead of 99% of people. Hey friends, do you know what you should be doing?",
+    "अराउंड 9 साल पहले की बात है जेम्स जब अपनी स्कूल की छुट्टी होने के बाद अपने बेस्ट फ्रेंड के पास गए तब उन्होंने देखा कि उनके बेस्ट फ्रेंड के हाथ में ना एक",
+    "Hey friends, Gaur Gopal Das ji is one of those few people whose content I really enjoy watching. His words are very simple yet extremely powerful.",
+    "Hey friends, when a tired Vikram once again reached",
+    "Hey friends, 18-year-old Rahul was sitting in his college canteen talking",
+    "Hey friends, it was 1:37 a.m. David was scrolling on his phone as usual. His eyes had become heavy with sleep. His body needed rest."
+  ],
+  "sample_closings": [
+    "मेल भी आते हैं तो आप वो जाके कर सकते",
+    "Okay, that’s all for now. Thanks for watching!",
+    "See you in the next video, bye-bye.”",
+    "बाय।",
+    "That’s it for now—see you in the next summary. Till then, bye-bye!",
+    "We’ll do it every Sunday together. Till then, bye-bye!",
+    "That’s it for today. See you in the next video. Bye-bye.",
+    "The link is provided below — go ahead and subscribe now. See you in that live session. Bye-bye!"
+  ]
+}

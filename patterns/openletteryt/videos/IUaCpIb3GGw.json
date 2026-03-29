@@ -1,0 +1,149 @@
+{
+  "video_id": "IUaCpIb3GGw",
+  "duration_seconds": 1018,
+  "wps": 3.37,
+  "total_words": 3426,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14650
+  },
+  "hook": {
+    "type": "question",
+    "text": "If you want to buy a new car right now, then don't buy it. Let me explain why Nitin Gadkari ji"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Decide What's Working Best for Them"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 174
+    },
+    {
+      "word": "is",
+      "count": 129
+    },
+    {
+      "word": "to",
+      "count": 96
+    },
+    {
+      "word": "in",
+      "count": 95
+    },
+    {
+      "word": "of",
+      "count": 83
+    },
+    {
+      "word": "that",
+      "count": 71
+    },
+    {
+      "word": "it",
+      "count": 66
+    },
+    {
+      "word": "and",
+      "count": 60
+    },
+    {
+      "word": "are",
+      "count": 48
+    },
+    {
+      "word": "be",
+      "count": 45
+    },
+    {
+      "word": "you",
+      "count": 44
+    },
+    {
+      "word": "not",
+      "count": 43
+    },
+    {
+      "word": "will",
+      "count": 35
+    },
+    {
+      "word": "this",
+      "count": 34
+    },
+    {
+      "word": "also",
+      "count": 33
+    },
+    {
+      "word": "has",
+      "count": 31
+    },
+    {
+      "word": "but",
+      "count": 29
+    },
+    {
+      "word": "government",
+      "count": 27
+    },
+    {
+      "word": "have",
+      "count": 27
+    },
+    {
+      "word": "vehicles",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the government",
+      "count": 24
+    },
+    {
+      "phrase": "it is",
+      "count": 20
+    },
+    {
+      "phrase": "of the",
+      "count": 18
+    },
+    {
+      "phrase": "a lot",
+      "count": 18
+    },
+    {
+      "phrase": "to be",
+      "count": 17
+    },
+    {
+      "phrase": "that is",
+      "count": 16
+    },
+    {
+      "phrase": "is a",
+      "count": 13
+    },
+    {
+      "phrase": "in india",
+      "count": 12
+    },
+    {
+      "phrase": "is not",
+      "count": 12
+    },
+    {
+      "phrase": "in the",
+      "count": 12
+    }
+  ],
+  "segment_count": 113
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "zld3J_MDLK0",
+  "duration_seconds": 99,
+  "wps": 2.85,
+  "total_words": 282,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1115
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज हमारे रुपए को अमेरिकन डॉलर का गुलाम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दिया करती"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "तक",
+      "count": 5
+    },
+    {
+      "word": "आज",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "कुछ",
+      "count": 4
+    },
+    {
+      "word": "हमारे",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "करता",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है आज",
+      "count": 2
+    },
+    {
+      "phrase": "आज अमेरिका",
+      "count": 2
+    },
+    {
+      "phrase": "कि अगर",
+      "count": 2
+    },
+    {
+      "phrase": "पूरी दुनिया",
+      "count": 2
+    },
+    {
+      "phrase": "जाती है",
+      "count": 2
+    },
+    {
+      "phrase": "के एक",
+      "count": 2
+    },
+    {
+      "phrase": "इकोनॉमिक सुपर",
+      "count": 2
+    },
+    {
+      "phrase": "सुपर पावर",
+      "count": 2
+    },
+    {
+      "phrase": "पावर बन",
+      "count": 2
+    },
+    {
+      "phrase": "सालों तक",
+      "count": 2
+    }
+  ],
+  "segment_count": 37
+}

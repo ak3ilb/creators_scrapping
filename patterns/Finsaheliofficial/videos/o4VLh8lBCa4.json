@@ -1,0 +1,148 @@
+{
+  "video_id": "o4VLh8lBCa4",
+  "duration_seconds": 83,
+  "wps": 4.07,
+  "total_words": 338,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1146
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "कार हमेशा लोन पर खरीदना। कभी भी कैश में लेने की गलती मत करना वरना आपका लाखों का नुकसान हो सकता है। चलिए समझते हैं। फॉर एग्जांपल आपके पास ₹20 लाख हैं और आप उसकी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "मिलता है। तो आप इस रील को सेव कर लो और अपने गाड़ी खरीदने वाले सारे दोस्तों के साथ शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 19
+    },
+    {
+      "word": "लाख",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "पे",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "आप",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "इंटरेस्ट",
+      "count": 8
+    },
+    {
+      "word": "लोन",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "एफडी",
+      "count": 6
+    },
+    {
+      "word": "ऑप्शन",
+      "count": 5
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "होता",
+      "count": 5
+    },
+    {
+      "word": "कार",
+      "count": 4
+    },
+    {
+      "word": "आपका",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "आपके",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "₹15 लाख",
+      "count": 4
+    },
+    {
+      "phrase": "लाख का",
+      "count": 4
+    },
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 4
+    },
+    {
+      "phrase": "आपके पास",
+      "count": 3
+    },
+    {
+      "phrase": "हो तो",
+      "count": 3
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 3
+    },
+    {
+      "phrase": "एफडी में",
+      "count": 3
+    },
+    {
+      "phrase": "मिलता है",
+      "count": 3
+    },
+    {
+      "phrase": "होता रहता",
+      "count": 3
+    }
+  ],
+  "segment_count": 11
+}

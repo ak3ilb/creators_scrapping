@@ -1,0 +1,148 @@
+{
+  "video_id": "UDWC3U57_iI",
+  "duration_seconds": 58,
+  "wps": 3.16,
+  "total_words": 183,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 663
+  },
+  "hook": {
+    "type": "question",
+    "text": "कौन सा तेल अच्छा है? अब यह तेल को लेके बहुत सारे जार्गन चलते हैं। सैचुरेटेड,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आप कौन सा क्रिमिनल को सपोर्ट करोगे बता दो है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "तीन",
+      "count": 6
+    },
+    {
+      "word": "कौन",
+      "count": 5
+    },
+    {
+      "word": "सा",
+      "count": 5
+    },
+    {
+      "word": "सारे",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "तेल",
+      "count": 4
+    },
+    {
+      "word": "अब",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "सैचुरेटेड",
+      "count": 3
+    },
+    {
+      "word": "मोनो",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "मतलब",
+      "count": 3
+    },
+    {
+      "word": "उसमें",
+      "count": 3
+    },
+    {
+      "word": "चेन",
+      "count": 3
+    },
+    {
+      "word": "अनसैचुरेटेड",
+      "count": 3
+    },
+    {
+      "word": "बोलता",
+      "count": 3
+    },
+    {
+      "word": "केस",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कौन सा",
+      "count": 5
+    },
+    {
+      "phrase": "है एक",
+      "count": 4
+    },
+    {
+      "phrase": "एक बोलता",
+      "count": 3
+    },
+    {
+      "phrase": "बोलता है",
+      "count": 3
+    },
+    {
+      "phrase": "है अब",
+      "count": 2
+    },
+    {
+      "phrase": "मतलब तीन",
+      "count": 2
+    },
+    {
+      "phrase": "उसमें तीन",
+      "count": 2
+    },
+    {
+      "phrase": "फैटी एसिड",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "है उसमें",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

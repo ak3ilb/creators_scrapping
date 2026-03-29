@@ -1,0 +1,148 @@
+{
+  "video_id": "wxlvvAYhgLE",
+  "duration_seconds": 90,
+  "wps": 3.41,
+  "total_words": 307,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1272
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इस लड़के को जरा देखना। डॉक्टर एक-एक करके इसके हाथ और पैरों को हवा में उठा रहे हैं। और यह बिल्कुल एक मूर्ति की तरह वहां से हिल भी नहीं रहा है। यह एक डेडली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है जिसका जवाब आज तक साइंटिस्ट खोज रहे हैं।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "इस",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "बीमारी",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस बीमारी",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "है यह",
+      "count": 2
+    },
+    {
+      "phrase": "ये बीमारी",
+      "count": 2
+    },
+    {
+      "phrase": "में तो",
+      "count": 2
+    },
+    {
+      "phrase": "जैसे सिम्टम्स",
+      "count": 2
+    },
+    {
+      "phrase": "लगता है",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "है जिसका",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "jDf72nzPB_E",
+  "duration_seconds": 1037,
+  "wps": 3.27,
+  "total_words": 3395,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 14586
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The biggest s*x sc*ndal in India's history. Unknown people arrive and throw away pen-drives everywhere in homes, markets, buses, trains...."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you!"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 160
+    },
+    {
+      "word": "and",
+      "count": 111
+    },
+    {
+      "word": "to",
+      "count": 91
+    },
+    {
+      "word": "that",
+      "count": 81
+    },
+    {
+      "word": "in",
+      "count": 77
+    },
+    {
+      "word": "was",
+      "count": 63
+    },
+    {
+      "word": "this",
+      "count": 62
+    },
+    {
+      "word": "he",
+      "count": 59
+    },
+    {
+      "word": "of",
+      "count": 55
+    },
+    {
+      "word": "it",
+      "count": 43
+    },
+    {
+      "word": "were",
+      "count": 39
+    },
+    {
+      "word": "prajwal",
+      "count": 38
+    },
+    {
+      "word": "on",
+      "count": 38
+    },
+    {
+      "word": "all",
+      "count": 32
+    },
+    {
+      "word": "driver",
+      "count": 29
+    },
+    {
+      "word": "revanna",
+      "count": 28
+    },
+    {
+      "word": "then",
+      "count": 27
+    },
+    {
+      "word": "videos",
+      "count": 27
+    },
+    {
+      "word": "pen-drive",
+      "count": 26
+    },
+    {
+      "word": "as",
+      "count": 25
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "prajwal revanna",
+      "count": 23
+    },
+    {
+      "phrase": "all the",
+      "count": 20
+    },
+    {
+      "phrase": "in the",
+      "count": 17
+    },
+    {
+      "phrase": "the driver",
+      "count": 17
+    },
+    {
+      "phrase": "the pen-drive",
+      "count": 15
+    },
+    {
+      "phrase": "he was",
+      "count": 11
+    },
+    {
+      "phrase": "after this",
+      "count": 11
+    },
+    {
+      "phrase": "that -",
+      "count": 11
+    },
+    {
+      "phrase": "used to",
+      "count": 9
+    },
+    {
+      "phrase": "all these",
+      "count": 9
+    }
+  ],
+  "segment_count": 130
+}

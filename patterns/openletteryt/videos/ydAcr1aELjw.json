@@ -1,0 +1,149 @@
+{
+  "video_id": "ydAcr1aELjw",
+  "duration_seconds": 868,
+  "wps": 3.78,
+  "total_words": 3281,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 12100
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन मैन एआई यूज करके लड़कियों के कपड़े उतारने की कोशिश कर रहे हैं। कुछ लोगों ने तो यह अपना पूरे दिन का काम बना लिया है। और यह कोई एक इंसान नहीं कर रहा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 151
+    },
+    {
+      "word": "के",
+      "count": 77
+    },
+    {
+      "word": "हैं",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 69
+    },
+    {
+      "word": "में",
+      "count": 69
+    },
+    {
+      "word": "को",
+      "count": 48
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "से",
+      "count": 43
+    },
+    {
+      "word": "तो",
+      "count": 41
+    },
+    {
+      "word": "नहीं",
+      "count": 40
+    },
+    {
+      "word": "एक",
+      "count": 39
+    },
+    {
+      "word": "हो",
+      "count": 39
+    },
+    {
+      "word": "की",
+      "count": 36
+    },
+    {
+      "word": "कि",
+      "count": 35
+    },
+    {
+      "word": "पर",
+      "count": 34
+    },
+    {
+      "word": "कर",
+      "count": 30
+    },
+    {
+      "word": "यह",
+      "count": 30
+    },
+    {
+      "word": "इस",
+      "count": 30
+    },
+    {
+      "word": "का",
+      "count": 29
+    },
+    {
+      "word": "जो",
+      "count": 23
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 25
+    },
+    {
+      "phrase": "है कि",
+      "count": 17
+    },
+    {
+      "phrase": "रहा है",
+      "count": 14
+    },
+    {
+      "phrase": "के लिए",
+      "count": 14
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 14
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 12
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 11
+    },
+    {
+      "phrase": "हैं और",
+      "count": 9
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 9
+    },
+    {
+      "phrase": "जाता है",
+      "count": 9
+    }
+  ],
+  "segment_count": 109
+}

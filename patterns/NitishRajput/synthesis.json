@@ -1,0 +1,101 @@
+{
+  "total_videos": 43,
+  "pacing": {
+    "avg_wps": 3.11,
+    "min_wps": 2.09,
+    "max_wps": 3.96
+  },
+  "language": {
+    "avg_hindi_pct": 9.3,
+    "avg_english_pct": 90.7
+  },
+  "hook_types": {
+    "general_statement": 35,
+    "question": 5,
+    "statement": 1,
+    "shock_number": 1,
+    "imagination": 1
+  },
+  "closing_types": {
+    "punchline_or_open": 42,
+    "direct_cta": 1
+  },
+  "structures": {
+    "long_form_story": 43
+  },
+  "audience_addressing": {
+    "you (English)": 39,
+    "conditional address (if you...)": 38,
+    "आप (formal)": 4,
+    "भाई/भैया (bro-style)": 2,
+    "तुम लोग (informal plural)": 1
+  },
+  "vocabulary": {
+    "consistent": {
+      "to": 39,
+      "of": 39,
+      "and": 39,
+      "that": 39,
+      "this": 39,
+      "in": 39,
+      "the": 39,
+      "was": 37,
+      "it": 36,
+      "they": 30,
+      "is": 30,
+      "on": 29,
+      "so": 28
+    },
+    "variable": {
+      "were": 24,
+      "then": 18,
+      "but": 18,
+      "for": 16,
+      "he": 16,
+      "from": 16,
+      "as": 14,
+      "with": 10,
+      "india": 8,
+      "all": 8,
+      "you": 7,
+      "at": 7
+    },
+    "rare": {
+      "which": 6,
+      "be": 6,
+      "after": 6,
+      "had": 5,
+      "now": 4,
+      "there": 4,
+      "की": 4,
+      "है": 4,
+      "के": 4,
+      "भी": 4,
+      "से": 4,
+      "ये": 4,
+      "और": 4,
+      "पे": 4,
+      "को": 4
+    }
+  },
+  "sample_hooks": [
+    "That's why the newspapers that were earlier printed before selling",
+    "And he confirmed that he was given the green signal to move forward on that track.",
+    "They also destroyed the statue of Raja Ranjit Singh with a hammer. Lawrence Bishnoi posted on Facebook",
+    "At midnight, PM Modi arrives at the President house in a secret vehicle.",
+    "So one day Manish Sisodia & these people meet at Sanjay Singh's house and they gather-up in the business center area of the hotel and were discussing.",
+    "When a farmer doesn't pay his loan then his field is sold out. For this calendar, Vijay Mallya would select models personally.",
+    "So, Gautam Adani who was moving towards the lobby exactly at that time he stops and moves to have a coffee....",
+    "But when partition was happening, at that time Jinnah made such a mistake"
+  ],
+  "sample_closings": [
+    "Thank you!",
+    "telecom and infotech. He isn't bale to focus that's why he should leave one department.",
+    "Thank you!",
+    "Thank you!",
+    "Thank you!",
+    "Thank You!",
+    "Thank you!",
+    "Thank you!"
+  ]
+}

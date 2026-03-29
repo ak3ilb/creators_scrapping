@@ -1,0 +1,148 @@
+{
+  "video_id": "HZOXTy7Uf8w",
+  "duration_seconds": 1064,
+  "wps": 4.06,
+  "total_words": 4325,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 15683
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हे दोस्तों, अजय की आंखें टीवी पर चिपकी हुई थी। टीवी पर आ रहा था ब्रेकिंग न्यूज़। एंकर चिल्ला-चिल्ला के बोल रहा था कि वर्ल्ड वॉर 3 स्टार्ट हो चुका है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लाइव में। टिल देन, बाय।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 118
+    },
+    {
+      "word": "है",
+      "count": 104
+    },
+    {
+      "word": "था",
+      "count": 90
+    },
+    {
+      "word": "के",
+      "count": 84
+    },
+    {
+      "word": "और",
+      "count": 72
+    },
+    {
+      "word": "भी",
+      "count": 64
+    },
+    {
+      "word": "वो",
+      "count": 53
+    },
+    {
+      "word": "से",
+      "count": 50
+    },
+    {
+      "word": "थे",
+      "count": 48
+    },
+    {
+      "word": "साहिल",
+      "count": 47
+    },
+    {
+      "word": "एक",
+      "count": 46
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "अजय",
+      "count": 43
+    },
+    {
+      "word": "की",
+      "count": 43
+    },
+    {
+      "word": "ने",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 42
+    },
+    {
+      "word": "थी",
+      "count": 41
+    },
+    {
+      "word": "जो",
+      "count": 41
+    },
+    {
+      "word": "हो",
+      "count": 40
+    },
+    {
+      "word": "तो",
+      "count": 40
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "साहिल ने",
+      "count": 23
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 17
+    },
+    {
+      "phrase": "रहा था",
+      "count": 16
+    },
+    {
+      "phrase": "था कि",
+      "count": 14
+    },
+    {
+      "phrase": "के बाद",
+      "count": 12
+    },
+    {
+      "phrase": "सकता है",
+      "count": 12
+    },
+    {
+      "phrase": "अजय को",
+      "count": 11
+    },
+    {
+      "phrase": "कई बार",
+      "count": 11
+    },
+    {
+      "phrase": "बुरे वक्त",
+      "count": 11
+    },
+    {
+      "phrase": "वक्त में",
+      "count": 11
+    }
+  ],
+  "segment_count": 134
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "JL-cECWjgDk",
+  "duration_seconds": 46,
+  "wps": 3.83,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 580
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सलमान खान या बाकी सेलिब्रिटीज की कार किसी भी टोल पे नहीं रुकती। इसलिए नहीं कि वो वीआईपी हैं बल्कि इसलिए क्योंकि उन्हें गवर्नमेंट का नया हैक पता है। बट आप भी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "साथ जरूर शेयर कर दो जो बहुत ज्यादा ट्रैवल करते हैं। एंड हां, मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "पास",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "टोल",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "200",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भी टोल",
+      "count": 2
+    },
+    {
+      "phrase": "टोल पे",
+      "count": 2
+    },
+    {
+      "phrase": "है बट",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रैवल करते",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "100 150",
+      "count": 2
+    },
+    {
+      "phrase": "150 200",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

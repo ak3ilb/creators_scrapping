@@ -1,0 +1,150 @@
+{
+  "video_id": "UkrCP9VXEs8",
+  "duration_seconds": 711,
+  "wps": 4.07,
+  "total_words": 2892,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 10081
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एक्चुअल में आदमी तो मैं इतना खराब हूं कि किस बंदे ने इस कैम को प्रमोट करने के लिए कितने पैसे लिए हैं मेरे पास सबकी एक्सेल शीट है और इनके तेल को प्रमोट करने के लिए"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "तो ये वाली वीडियो देखो तुम लोग घर बैठे ₹1 लाख तक कमा लोगे और अगर तुम लोगों ने दोनों वीडियो देख रखी है और सब्सक्राइब नहीं कर रखा तो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 98
+    },
+    {
+      "word": "और",
+      "count": 77
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "भी",
+      "count": 62
+    },
+    {
+      "word": "कि",
+      "count": 60
+    },
+    {
+      "word": "ये",
+      "count": 57
+    },
+    {
+      "word": "नहीं",
+      "count": 51
+    },
+    {
+      "word": "को",
+      "count": 47
+    },
+    {
+      "word": "था",
+      "count": 42
+    },
+    {
+      "word": "हैं",
+      "count": 41
+    },
+    {
+      "word": "तो",
+      "count": 38
+    },
+    {
+      "word": "कर",
+      "count": 38
+    },
+    {
+      "word": "से",
+      "count": 37
+    },
+    {
+      "word": "हो",
+      "count": 35
+    },
+    {
+      "word": "लोग",
+      "count": 32
+    },
+    {
+      "word": "वो",
+      "count": 32
+    },
+    {
+      "word": "चीज",
+      "count": 31
+    },
+    {
+      "word": "का",
+      "count": 24
+    },
+    {
+      "word": "कोई",
+      "count": 23
+    },
+    {
+      "word": "में",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 16
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 15
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 15
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 14
+    },
+    {
+      "phrase": "ये चीज",
+      "count": 13
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 12
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 12
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 12
+    },
+    {
+      "phrase": "था कि",
+      "count": 12
+    },
+    {
+      "phrase": "है कि",
+      "count": 12
+    }
+  ],
+  "segment_count": 84
+}

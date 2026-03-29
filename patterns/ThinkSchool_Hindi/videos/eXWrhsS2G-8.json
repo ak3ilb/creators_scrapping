@@ -1,0 +1,149 @@
+{
+  "video_id": "eXWrhsS2G-8",
+  "duration_seconds": 802,
+  "wps": 2.92,
+  "total_words": 2343,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 9572
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दोस्तों 1980 में अमिताभ बच्चन इंडिया के सबसे बड़े सुपरस्टार थे। हिंदुस्तान के फिल्मी इतिहास में कोई भी एक्टर पैदा हुआ है तो शायद और 10 साल लग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो नो नो"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 54
+    },
+    {
+      "word": "और",
+      "count": 47
+    },
+    {
+      "word": "में",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 42
+    },
+    {
+      "word": "नेचुरल्स",
+      "count": 37
+    },
+    {
+      "word": "आइसक्रीम",
+      "count": 33
+    },
+    {
+      "word": "से",
+      "count": 30
+    },
+    {
+      "word": "तो",
+      "count": 26
+    },
+    {
+      "word": "की",
+      "count": 26
+    },
+    {
+      "word": "को",
+      "count": 26
+    },
+    {
+      "word": "एंड",
+      "count": 25
+    },
+    {
+      "word": "एक",
+      "count": 24
+    },
+    {
+      "word": "था",
+      "count": 22
+    },
+    {
+      "word": "हो",
+      "count": 21
+    },
+    {
+      "word": "थे",
+      "count": 19
+    },
+    {
+      "word": "भी",
+      "count": 19
+    },
+    {
+      "word": "कि",
+      "count": 19
+    },
+    {
+      "word": "वो",
+      "count": 19
+    },
+    {
+      "word": "लिए",
+      "count": 16
+    },
+    {
+      "word": "ने",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 10
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 8
+    },
+    {
+      "phrase": "नेचुरल्स की",
+      "count": 8
+    },
+    {
+      "phrase": "पाव भाजी",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 6
+    },
+    {
+      "phrase": "जी ने",
+      "count": 6
+    },
+    {
+      "phrase": "अमिताभ बच्चन",
+      "count": 5
+    },
+    {
+      "phrase": "नेचुरल्स आइसक्रीम",
+      "count": 5
+    },
+    {
+      "phrase": "नेचुरल्स के",
+      "count": 5
+    },
+    {
+      "phrase": "वर्ल्ड क्लास",
+      "count": 5
+    }
+  ],
+  "segment_count": 103
+}

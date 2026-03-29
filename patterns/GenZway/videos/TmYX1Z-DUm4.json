@@ -1,0 +1,150 @@
+{
+  "video_id": "TmYX1Z-DUm4",
+  "duration_seconds": 790,
+  "wps": 3.91,
+  "total_words": 3092,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 10910
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इस वीडियो को पूरा देखने के बाद टेक बनर को एक इंस्टेंट रिग्रेट होगा कि भैया इसके ऊपर वीडियो नहीं बनानी थी और इस बात को मैं कोई हवा में या मजाक में नहीं बोल रहा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "समंदर पार लेके जाना हो तो भले ही ले जाओ और अगर कोई गिला शिकवा रह जाए तो मेरे ा के डीएम तो वैसे ही खुले हैं"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 94
+    },
+    {
+      "word": "को",
+      "count": 89
+    },
+    {
+      "word": "के",
+      "count": 85
+    },
+    {
+      "word": "कि",
+      "count": 78
+    },
+    {
+      "word": "और",
+      "count": 71
+    },
+    {
+      "word": "कर",
+      "count": 58
+    },
+    {
+      "word": "भी",
+      "count": 57
+    },
+    {
+      "word": "तो",
+      "count": 51
+    },
+    {
+      "word": "रहे",
+      "count": 45
+    },
+    {
+      "word": "लोग",
+      "count": 44
+    },
+    {
+      "word": "वीडियो",
+      "count": 43
+    },
+    {
+      "word": "नहीं",
+      "count": 43
+    },
+    {
+      "word": "हो",
+      "count": 42
+    },
+    {
+      "word": "अंदर",
+      "count": 39
+    },
+    {
+      "word": "था",
+      "count": 34
+    },
+    {
+      "word": "ये",
+      "count": 32
+    },
+    {
+      "word": "भैया",
+      "count": 31
+    },
+    {
+      "word": "से",
+      "count": 31
+    },
+    {
+      "word": "हैं",
+      "count": 31
+    },
+    {
+      "word": "में",
+      "count": 30
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कि भैया",
+      "count": 31
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 29
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 23
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 19
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 17
+    },
+    {
+      "phrase": "वीडियो के",
+      "count": 16
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 16
+    },
+    {
+      "phrase": "है कि",
+      "count": 15
+    },
+    {
+      "phrase": "है और",
+      "count": 15
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 12
+    }
+  ],
+  "segment_count": 89
+}

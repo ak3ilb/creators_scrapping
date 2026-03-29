@@ -1,0 +1,149 @@
+{
+  "video_id": "bi1jpjdc-R0",
+  "duration_seconds": 945,
+  "wps": 3.71,
+  "total_words": 3508,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 15217
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, one evening in **Baghdad**, a poor fisherman was trying to catch fish"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank you so much!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 182
+    },
+    {
+      "word": "he",
+      "count": 123
+    },
+    {
+      "word": "and",
+      "count": 88
+    },
+    {
+      "word": "that",
+      "count": 84
+    },
+    {
+      "word": "to",
+      "count": 72
+    },
+    {
+      "word": "his",
+      "count": 59
+    },
+    {
+      "word": "had",
+      "count": 51
+    },
+    {
+      "word": "of",
+      "count": 49
+    },
+    {
+      "word": "was",
+      "count": 48
+    },
+    {
+      "word": "this",
+      "count": 45
+    },
+    {
+      "word": "in",
+      "count": 43
+    },
+    {
+      "word": "it",
+      "count": 37
+    },
+    {
+      "word": "but",
+      "count": 30
+    },
+    {
+      "word": "you",
+      "count": 29
+    },
+    {
+      "word": "one",
+      "count": 25
+    },
+    {
+      "word": "as",
+      "count": 23
+    },
+    {
+      "word": "very",
+      "count": 22
+    },
+    {
+      "word": "so",
+      "count": 21
+    },
+    {
+      "word": "him",
+      "count": 21
+    },
+    {
+      "word": "people",
+      "count": 20
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 15
+    },
+    {
+      "phrase": "his wife",
+      "count": 13
+    },
+    {
+      "phrase": "he had",
+      "count": 11
+    },
+    {
+      "phrase": "the king",
+      "count": 10
+    },
+    {
+      "phrase": "the slave",
+      "count": 10
+    },
+    {
+      "phrase": "the young",
+      "count": 9
+    },
+    {
+      "phrase": "he was",
+      "count": 8
+    },
+    {
+      "phrase": "soon as",
+      "count": 8
+    },
+    {
+      "phrase": "that the",
+      "count": 8
+    },
+    {
+      "phrase": "as soon",
+      "count": 7
+    }
+  ],
+  "segment_count": 353
+}

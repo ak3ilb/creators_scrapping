@@ -1,0 +1,102 @@
+{
+  "total_videos": 20,
+  "pacing": {
+    "avg_wps": 2.99,
+    "min_wps": 2.61,
+    "max_wps": 3.27
+  },
+  "language": {
+    "avg_hindi_pct": 19.7,
+    "avg_english_pct": 80.3
+  },
+  "hook_types": {
+    "general_statement": 13,
+    "statement": 5,
+    "question": 2
+  },
+  "closing_types": {
+    "punchline_or_open": 20
+  },
+  "structures": {
+    "long_form_story": 20
+  },
+  "audience_addressing": {
+    "you (English)": 17,
+    "conditional address (if you...)": 15,
+    "neutral/third_person": 2,
+    "आप (formal)": 1
+  },
+  "vocabulary": {
+    "consistent": {
+      "you": 16,
+      "to": 16,
+      "of": 16,
+      "that": 16,
+      "is": 16,
+      "and": 16,
+      "in": 16,
+      "the": 16,
+      "this": 13,
+      "it": 12
+    },
+    "variable": {
+      "now": 11,
+      "what": 11,
+      "your": 10,
+      "my": 9,
+      "so": 7,
+      "we": 7,
+      "have": 7,
+      "going": 6,
+      "with": 5,
+      "or": 5,
+      "for": 5,
+      "at": 5,
+      "was": 5,
+      "are": 5,
+      "you're": 4,
+      "i'm": 4,
+      "when": 4,
+      "on": 4,
+      "टू": 4,
+      "यू": 4
+    },
+    "rare": {
+      "people": 2,
+      "an": 2,
+      "something": 2,
+      "like": 2,
+      "do": 2,
+      "टाइम": 2,
+      "बी": 2,
+      "ऑन": 2,
+      "but": 2,
+      "नॉट": 2,
+      "व्हाट": 2,
+      "सो": 2,
+      "वी": 2,
+      "if": 2,
+      "more": 2
+    }
+  },
+  "sample_hooks": [
+    "This is a guide to socializing for",
+    "Hi, I'm Ipsida Daz. You might know me as",
+    "So, I'm doing this for the first time.",
+    "So, I was about to go to bed one night",
+    "इफट यू सीम लाइक सच अ काम पर्सन हाउ डिड",
+    "So I want to tell you about a story of",
+    "Have you ever been in a situation where",
+    "सो बैक इन सप्टेंबर 2024 आई टूक 15 पीपल"
+  ],
+  "sample_closings": [
+    "video.",
+    "I'll see you in the next video.",
+    "for the rest of your life.",
+    "video.",
+    "यू इन द नेक्स्ट वीडियो",
+    "you in the next video.",
+    "See you in the next video.",
+    "वीडियो।"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "UtKjI0wlHQ4",
+  "duration_seconds": 51,
+  "wps": 3.78,
+  "total_words": 193,
+  "language_mix": {
+    "hindi": 96.8,
+    "english": 3.2,
+    "total_chars": 696
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Amazon, Myntra जैसे ई-कॉमर्स प्लेटफार्म ने कभी भी कोई रिटेल स्टोर नहीं खोला बट पूरी दुनिया में सामान बेच रहे हैं। Uber,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "दो बुक। आपको डीएम में आ जाएगा। बट मेक श्योर आपने मुझे फॉलो किया हो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "बट",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "बुक",
+      "count": 4
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "खुद",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "बिजनेस",
+      "count": 3
+    },
+    {
+      "word": "आईडिया",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "पूरी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "बट फिर",
+      "count": 2
+    },
+    {
+      "phrase": "फिर भी",
+      "count": 2
+    },
+    {
+      "phrase": "बिजनेस आईडिया",
+      "count": 2
+    },
+    {
+      "phrase": "आईडिया काम",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "कि तुम",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "amazon myntra",
+      "count": 1
+    },
+    {
+      "phrase": "myntra जैसे",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

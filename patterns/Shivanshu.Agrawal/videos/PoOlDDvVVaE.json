@@ -1,0 +1,149 @@
+{
+  "video_id": "PoOlDDvVVaE",
+  "duration_seconds": 1061,
+  "wps": 2.66,
+  "total_words": 2826,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 12577
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Honda company earns almost ₹2 crore"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "on your first month subscription."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 145
+    },
+    {
+      "word": "to",
+      "count": 87
+    },
+    {
+      "word": "and",
+      "count": 86
+    },
+    {
+      "word": "in",
+      "count": 83
+    },
+    {
+      "word": "was",
+      "count": 82
+    },
+    {
+      "word": "he",
+      "count": 57
+    },
+    {
+      "word": "of",
+      "count": 56
+    },
+    {
+      "word": "this",
+      "count": 42
+    },
+    {
+      "word": "his",
+      "count": 39
+    },
+    {
+      "word": "but",
+      "count": 36
+    },
+    {
+      "word": "soichiro",
+      "count": 35
+    },
+    {
+      "word": "that",
+      "count": 34
+    },
+    {
+      "word": "it",
+      "count": 30
+    },
+    {
+      "word": "honda",
+      "count": 27
+    },
+    {
+      "word": "car",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 23
+    },
+    {
+      "word": "very",
+      "count": 22
+    },
+    {
+      "word": "had",
+      "count": 18
+    },
+    {
+      "word": "time",
+      "count": 16
+    },
+    {
+      "word": "after",
+      "count": 16
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 29
+    },
+    {
+      "phrase": "it was",
+      "count": 11
+    },
+    {
+      "phrase": "was very",
+      "count": 10
+    },
+    {
+      "phrase": "was a",
+      "count": 9
+    },
+    {
+      "phrase": "he was",
+      "count": 9
+    },
+    {
+      "phrase": "of the",
+      "count": 8
+    },
+    {
+      "phrase": "he had",
+      "count": 8
+    },
+    {
+      "phrase": "in japan",
+      "count": 7
+    },
+    {
+      "phrase": "was not",
+      "count": 7
+    },
+    {
+      "phrase": "after this",
+      "count": 7
+    }
+  ],
+  "segment_count": 523
+}

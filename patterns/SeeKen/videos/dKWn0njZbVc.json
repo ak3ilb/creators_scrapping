@@ -1,0 +1,149 @@
+{
+  "video_id": "dKWn0njZbVc",
+  "duration_seconds": 1127,
+  "wps": 3.78,
+  "total_words": 4263,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 18541
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Hey friends, that night in the village it wasn’t an ordinary rain."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "That’s it for today. See you in the next video. Bye-bye!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 125
+    },
+    {
+      "word": "he",
+      "count": 120
+    },
+    {
+      "word": "and",
+      "count": 113
+    },
+    {
+      "word": "to",
+      "count": 102
+    },
+    {
+      "word": "you",
+      "count": 93
+    },
+    {
+      "word": "that",
+      "count": 74
+    },
+    {
+      "word": "his",
+      "count": 64
+    },
+    {
+      "word": "aditya",
+      "count": 56
+    },
+    {
+      "word": "was",
+      "count": 54
+    },
+    {
+      "word": "of",
+      "count": 50
+    },
+    {
+      "word": "in",
+      "count": 49
+    },
+    {
+      "word": "him",
+      "count": 48
+    },
+    {
+      "word": "it",
+      "count": 46
+    },
+    {
+      "word": "for",
+      "count": 46
+    },
+    {
+      "word": "had",
+      "count": 42
+    },
+    {
+      "word": "this",
+      "count": 42
+    },
+    {
+      "word": "but",
+      "count": 40
+    },
+    {
+      "word": "said",
+      "count": 31
+    },
+    {
+      "word": "vikram",
+      "count": 28
+    },
+    {
+      "word": "so",
+      "count": 27
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 12
+    },
+    {
+      "phrase": "he was",
+      "count": 12
+    },
+    {
+      "phrase": "he had",
+      "count": 12
+    },
+    {
+      "phrase": "he would",
+      "count": 11
+    },
+    {
+      "phrase": "and said",
+      "count": 10
+    },
+    {
+      "phrase": "many times",
+      "count": 10
+    },
+    {
+      "phrase": "you are",
+      "count": 10
+    },
+    {
+      "phrase": "you can",
+      "count": 9
+    },
+    {
+      "phrase": "to the",
+      "count": 9
+    },
+    {
+      "phrase": "to him",
+      "count": 8
+    }
+  ],
+  "segment_count": 432
+}

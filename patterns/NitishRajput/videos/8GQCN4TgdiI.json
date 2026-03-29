@@ -1,0 +1,149 @@
+{
+  "video_id": "8GQCN4TgdiI",
+  "duration_seconds": 2276,
+  "wps": 3.21,
+  "total_words": 7309,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 31896
+  },
+  "hook": {
+    "type": "statement",
+    "text": "When a farmer doesn't pay his loan then his field is sold out. For this calendar, Vijay Mallya would select models personally."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Thank You!"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 293
+    },
+    {
+      "word": "and",
+      "count": 219
+    },
+    {
+      "word": "in",
+      "count": 189
+    },
+    {
+      "word": "of",
+      "count": 185
+    },
+    {
+      "word": "to",
+      "count": 142
+    },
+    {
+      "word": "mallya",
+      "count": 122
+    },
+    {
+      "word": "was",
+      "count": 119
+    },
+    {
+      "word": "he",
+      "count": 114
+    },
+    {
+      "word": "that",
+      "count": 111
+    },
+    {
+      "word": "this",
+      "count": 99
+    },
+    {
+      "word": "it",
+      "count": 95
+    },
+    {
+      "word": "so",
+      "count": 86
+    },
+    {
+      "word": "but",
+      "count": 73
+    },
+    {
+      "word": "vijay",
+      "count": 71
+    },
+    {
+      "word": "kingfisher",
+      "count": 69
+    },
+    {
+      "word": "on",
+      "count": 65
+    },
+    {
+      "word": "they",
+      "count": 60
+    },
+    {
+      "word": "all",
+      "count": 57
+    },
+    {
+      "word": "now",
+      "count": 57
+    },
+    {
+      "word": "were",
+      "count": 56
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "vijay mallya",
+      "count": 66
+    },
+    {
+      "phrase": "ub group",
+      "count": 26
+    },
+    {
+      "phrase": "vittal mallya",
+      "count": 23
+    },
+    {
+      "phrase": "in the",
+      "count": 22
+    },
+    {
+      "phrase": "in this",
+      "count": 19
+    },
+    {
+      "phrase": "in india",
+      "count": 19
+    },
+    {
+      "phrase": "at the",
+      "count": 18
+    },
+    {
+      "phrase": "the same",
+      "count": 18
+    },
+    {
+      "phrase": "all the",
+      "count": 18
+    },
+    {
+      "phrase": "all these",
+      "count": 16
+    }
+  ],
+  "segment_count": 276
+}

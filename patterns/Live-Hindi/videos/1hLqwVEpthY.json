@@ -1,0 +1,148 @@
+{
+  "video_id": "1hLqwVEpthY",
+  "duration_seconds": 1149,
+  "wps": 2.98,
+  "total_words": 3429,
+  "language_mix": {
+    "hindi": 98.7,
+    "english": 1.3,
+    "total_chars": 12700
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन कोला वॉर एक ऐसी वॉर जिसमें कंपटीशन है पॉलिटिक्स है कॉन्फ्लेट है और साजिश भी इस वॉर में बहुत सारे कंपनीज आए"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "है वैसे आपका ओपिनियन क्या है हमें कमेंट जरूर करिएगा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 114
+    },
+    {
+      "word": "के",
+      "count": 103
+    },
+    {
+      "word": "को",
+      "count": 79
+    },
+    {
+      "word": "कोला",
+      "count": 72
+    },
+    {
+      "word": "था",
+      "count": 70
+    },
+    {
+      "word": "और",
+      "count": 64
+    },
+    {
+      "word": "से",
+      "count": 63
+    },
+    {
+      "word": "ही",
+      "count": 52
+    },
+    {
+      "word": "कि",
+      "count": 50
+    },
+    {
+      "word": "की",
+      "count": 50
+    },
+    {
+      "word": "भी",
+      "count": 45
+    },
+    {
+      "word": "कोका",
+      "count": 42
+    },
+    {
+      "word": "ने",
+      "count": 40
+    },
+    {
+      "word": "मार्केट",
+      "count": 39
+    },
+    {
+      "word": "का",
+      "count": 37
+    },
+    {
+      "word": "गया",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 31
+    },
+    {
+      "word": "तो",
+      "count": 29
+    },
+    {
+      "word": "कर",
+      "count": 29
+    },
+    {
+      "word": "इस",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोका कोला",
+      "count": 42
+    },
+    {
+      "phrase": "थम्स अप",
+      "count": 21
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 19
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 14
+    },
+    {
+      "phrase": "सॉफ्ट ड्रिंक",
+      "count": 14
+    },
+    {
+      "phrase": "कोला के",
+      "count": 13
+    },
+    {
+      "phrase": "के लिए",
+      "count": 12
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 11
+    },
+    {
+      "phrase": "बाद से",
+      "count": 11
+    },
+    {
+      "phrase": "रहा था",
+      "count": 10
+    }
+  ],
+  "segment_count": 140
+}

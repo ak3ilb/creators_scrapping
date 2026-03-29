@@ -1,0 +1,148 @@
+{
+  "video_id": "NLfORQ8yTrU",
+  "duration_seconds": 943,
+  "wps": 3.06,
+  "total_words": 2887,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 10615
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक टाइम था जब इंडिया की सड़कों पर आग बरस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रूअबजा हमारे बचपन से जुड़ा हुआ है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 78
+    },
+    {
+      "word": "में",
+      "count": 78
+    },
+    {
+      "word": "के",
+      "count": 74
+    },
+    {
+      "word": "है",
+      "count": 64
+    },
+    {
+      "word": "की",
+      "count": 57
+    },
+    {
+      "word": "से",
+      "count": 51
+    },
+    {
+      "word": "एक",
+      "count": 47
+    },
+    {
+      "word": "को",
+      "count": 45
+    },
+    {
+      "word": "भी",
+      "count": 44
+    },
+    {
+      "word": "कि",
+      "count": 44
+    },
+    {
+      "word": "का",
+      "count": 41
+    },
+    {
+      "word": "ही",
+      "count": 41
+    },
+    {
+      "word": "था",
+      "count": 39
+    },
+    {
+      "word": "ने",
+      "count": 37
+    },
+    {
+      "word": "तो",
+      "count": 33
+    },
+    {
+      "word": "यह",
+      "count": 32
+    },
+    {
+      "word": "लेकिन",
+      "count": 25
+    },
+    {
+      "word": "थे",
+      "count": 23
+    },
+    {
+      "word": "गया",
+      "count": 22
+    },
+    {
+      "word": "इस",
+      "count": 22
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 13
+    },
+    {
+      "phrase": "है कि",
+      "count": 10
+    },
+    {
+      "phrase": "बन गया",
+      "count": 9
+    },
+    {
+      "phrase": "हकीम साहब",
+      "count": 8
+    },
+    {
+      "phrase": "रहा था",
+      "count": 7
+    },
+    {
+      "phrase": "में यह",
+      "count": 7
+    },
+    {
+      "phrase": "है तो",
+      "count": 7
+    },
+    {
+      "phrase": "है और",
+      "count": 7
+    },
+    {
+      "phrase": "ऐसे में",
+      "count": 7
+    },
+    {
+      "phrase": "अब्दुल मजीद",
+      "count": 6
+    }
+  ],
+  "segment_count": 358
+}

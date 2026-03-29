@@ -1,0 +1,148 @@
+{
+  "video_id": "1HeFLVV_9lk",
+  "duration_seconds": 1293,
+  "wps": 4.14,
+  "total_words": 5347,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 19477
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक बहुत ही ठंडी रात थी। फार्म हाउस के बाहर जानवर खड़े थे। जिन्हें रोशनी में कुछ परछाइयां दिख रही थी। कुछ अजीब सी हलचल जैसे पहले नहीं हुई थी। इसलिए सारे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मेल भी आते हैं तो आप वो जाके कर सकते"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 313
+    },
+    {
+      "word": "हैं",
+      "count": 113
+    },
+    {
+      "word": "और",
+      "count": 100
+    },
+    {
+      "word": "के",
+      "count": 94
+    },
+    {
+      "word": "कि",
+      "count": 89
+    },
+    {
+      "word": "वो",
+      "count": 88
+    },
+    {
+      "word": "को",
+      "count": 84
+    },
+    {
+      "word": "से",
+      "count": 83
+    },
+    {
+      "word": "नहीं",
+      "count": 74
+    },
+    {
+      "word": "एक",
+      "count": 64
+    },
+    {
+      "word": "भी",
+      "count": 64
+    },
+    {
+      "word": "हो",
+      "count": 59
+    },
+    {
+      "word": "में",
+      "count": 55
+    },
+    {
+      "word": "बहुत",
+      "count": 54
+    },
+    {
+      "word": "जो",
+      "count": 52
+    },
+    {
+      "word": "तो",
+      "count": 52
+    },
+    {
+      "word": "यह",
+      "count": 49
+    },
+    {
+      "word": "की",
+      "count": 45
+    },
+    {
+      "word": "होता",
+      "count": 40
+    },
+    {
+      "word": "आप",
+      "count": 36
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 46
+    },
+    {
+      "phrase": "होता है",
+      "count": 39
+    },
+    {
+      "phrase": "जाता है",
+      "count": 30
+    },
+    {
+      "phrase": "है और",
+      "count": 28
+    },
+    {
+      "phrase": "है वो",
+      "count": 23
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 19
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 18
+    },
+    {
+      "phrase": "होती है",
+      "count": 18
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 16
+    },
+    {
+      "phrase": "देता है",
+      "count": 16
+    }
+  ],
+  "segment_count": 163
+}
